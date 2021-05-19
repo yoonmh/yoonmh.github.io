@@ -1,7 +1,9 @@
 ---
-layout: page
-title: About Me
+layout: single
+title: "About Me"
 permalink: /about/
+header:
+  overlay_image: /assets/images/butterfly.jpg
 ---
 
 # Myung-Hyun Yoon
