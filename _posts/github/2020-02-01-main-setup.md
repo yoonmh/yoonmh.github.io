@@ -34,3 +34,11 @@ font-weight: bold;
 ```
 text-decoration: none;
 ```
+
+## 폰트 사이즈 변경
+`_sass/minimal-mistakes/_reset.scss`
+
+```
+font-size
+```
+
