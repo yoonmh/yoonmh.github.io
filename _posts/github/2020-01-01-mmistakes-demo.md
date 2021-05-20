@@ -4,7 +4,7 @@ author: Myung-Hyun Yoon
 layout: single
 permalink: /mmistakes/
 header:
-  overlay_image: /assets/images/butterfly.jpg
+  overlay_image: /assets/images/space.jpg
 categories:
   - GitHub
 sidebar:
