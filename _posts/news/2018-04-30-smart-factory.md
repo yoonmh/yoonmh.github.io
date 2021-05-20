@@ -1,12 +1,14 @@
 ---
 title: '가상현실 기술을 통한 제조기반 산업의 혁신'
 author: Myung-Hyun Yoon
-layout: post
-permalink: /smart-factory
-dsq_thread_id:
-  - 
+layout: single
+permalink: /3d-roadmap/
+header:
+  overlay_image: /assets/images/butterfly.jpg
 categories:
-  - News
+  - Newspaper
+sidebar:
+  nav: "posts"
 ---
 
 > 경남일보 
