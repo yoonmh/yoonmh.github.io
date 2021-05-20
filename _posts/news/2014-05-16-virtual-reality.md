@@ -1,11 +1,14 @@
 ---
 title: '가상현실의 선도자가 되자'
 author: Myung-Hyun Yoon
-layout: post
+layout: single
 permalink: /virtual-reality/
-dsq_thread_id:
+header:
+  overlay_image: /assets/images/butterfly.jpg
 categories:
-  - News
+  - Newspaper
+sidebar:
+  nav: "posts"
 ---
 
 지난 2010년 개봉한 영화 '인셉션'에서 주인공 코브는 꿈이라는 무의식 속에서 현실세계를 조작한다. 
