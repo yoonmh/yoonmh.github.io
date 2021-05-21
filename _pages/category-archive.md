@@ -8,3 +8,5 @@ header:
   overlay_image : /assets/images/butterfly.jpg
 author_profile: true
 ---
+
+## Posts by Category
