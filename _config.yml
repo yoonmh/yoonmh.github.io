@@ -279,7 +279,9 @@ defaults:
       read_time: false
       comments: false
       share: true
-      related: true
-      show_date: false
-      read_time: false
+      related: false
+      show_date: true
+      toc: true
+      toc-sticky: true
+      
       
