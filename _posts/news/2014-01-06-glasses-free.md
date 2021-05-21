@@ -2,7 +2,7 @@
 title: '무안경 3D 영상 시대를 열자.'
 author: Myung-Hyun Yoon
 layout: single
-permalink: /3d-roadmap/
+toc: true
 header:
   overlay_image: /assets/images/butterfly.jpg
 categories:
