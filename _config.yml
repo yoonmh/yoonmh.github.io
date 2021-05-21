@@ -20,7 +20,7 @@ title                    : "Myung-Hyun Yoon"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "윤명현"
-description              : "윤명현의 블로그입니다."
+description              : "윤명현의 블로그"
 url                      : "https://yoonmh.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yoonmh/yoonmh.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "윤명현"
+  name             : "Myung-Hyun Yoon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "한양대학교 인공지능융합연구센터"
+  bio              : "한양대 인공지능융합연구센터"
   location         : "Seoul, Korea"
   email            : "mhyoon@outlook.kr"
   links:
