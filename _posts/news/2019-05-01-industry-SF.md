@@ -1,12 +1,11 @@
 ---
 title: '경남 스마트제조혁신센터, 국내 최고의 스마트팩토리 구축 생태계 조성한다'
-author: Myung-Hyun Yoon
-layout: post
-permalink: /industry-SF/
-dsq_thread_id:
-  - 
+layout: single
+header:
+  overlay_image: /assets/images/earth.jpg
+  show_overlay_excerpt: false
 categories:
-  - News
+  - Newspaper
 ---
 
 > [인더스트리뉴스](http://www.industrynews.co.kr/news/articleView.html?idxno=31636) (2019/5/1)
