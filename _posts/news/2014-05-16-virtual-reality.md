@@ -1,16 +1,16 @@
 ---
 title: '가상현실의 선도자가 되자'
-author: Myung-Hyun Yoon
 layout: single
 header:
-  overlay_image: /assets/images/butterfly.jpg
+  overlay_image: /assets/images/earth.jpg
+  show_overlay_excerpt: false
 categories:
   - Newspaper
 sidebar:
   nav: "posts"
 ---
 
-> 전자신문 ET단상
+> [전자신문 ET단상](https://www.etnews.com/201401060425) (2014/5/15) 기고문입니다.
 
 지난 2010년 개봉한 영화 '인셉션'에서 주인공 코브는 꿈이라는 무의식 속에서 현실세계를 조작한다. 
 이 같은 발상은 얼마 전까지만 해도 단순한 상상이었으나 점차 현실이 되고 있다.
@@ -54,7 +54,3 @@ sidebar:
 상상을 현실로 구현하는 산업에서도 그때 만큼의 노력으로 추격자(Fast Follower)를 넘어 시장선도자(First Mover)가 되기를 기대한다.
 
 윤명현 전자부품연구원 정보통신미디어연구본부장 
-
-[전자신문 ET단상][1] (2014/5/15)
-
-[1]: https://www.etnews.com/201401060425
