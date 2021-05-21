@@ -281,7 +281,7 @@ defaults:
       share: false
       related: false
       show_date: false
-      toc: false
-      toc-sticky: false
+      toc: true
+      toc-sticky: true
       
       
