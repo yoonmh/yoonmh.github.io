@@ -3,14 +3,13 @@ title: '무안경 3D 영상 시대를 열자.'
 author: Myung-Hyun Yoon
 layout: single
 header:
-  overlay_image: /assets/images/butterfly.jpg
+  overlay_image: /assets/images/earth.jpg
+  show_overlay_excerpt: false
 categories:
   - Newspaper
-sidebar:
-  nav: "posts"
 ---
 
-> 전자신문 기고입니다.
+> [전자신문 ET단상](https://www.etnews.com/201401060425)(2014/1/6] 기고입니다.
 
 인간의 어느 감각이 우위에 있다고 말하기는 어렵지만 무엇보다도 앞이 보이지 않는 세상은 상상조차 힘들다. 
 그렇기에 미디어 사용자가 보다 실감나고 차별화된 경험을 선사하는 디스플레이에 대한 관심을 멈추지 않는 것은 당연한 일이다.
@@ -54,8 +53,3 @@ NHK는 오는 2017년 초다시점 방식과 유사한 집적영상 방식으로
 국가 차원의 집중적이면서도 장기적인 대형 연구개발 지원이 필요하다.
 
 윤명현 전자부품연구원 정보통신미디어연구본부장
-
-[전자신문 ET단상][1] (2014/1/6]
-
-[1]: https://www.etnews.com/201401060425
-
