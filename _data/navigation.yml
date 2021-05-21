@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://yoonmh.github.io/docs/_docs/quick-start-guide/
   - title: "About"
-    url: https://yoonmh.github.io/about/
+    url: "/about/"
+  - title: "Ctegoriy"
+    url: "/categories/"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
