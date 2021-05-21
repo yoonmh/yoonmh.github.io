@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Myung-Hyun Yoon"
+  name             : "윤명현"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "한양대학교 인공지능융합연구센터"
   location         : "Seoul, Korea"
@@ -280,7 +280,7 @@ defaults:
       comments: false
       share: false
       related: false
-      show_date: true
+      show_date: false
       toc: true
       toc-sticky: true
       
