@@ -1,17 +1,16 @@
 ---
 title: '가상현실 기술을 통한 제조기반 산업의 혁신'
-author: Myung-Hyun Yoon
 layout: single
-permalink: /3d-roadmap/
 header:
-  overlay_image: /assets/images/butterfly.jpg
+  overlay_image: /assets/images/earth.jpg
+  show_overlay_excerpt: false
 categories:
   - Newspaper
 sidebar:
   nav: "posts"
 ---
 
-> 경남일보 
+> [경남일보 경제인칼럼](http://www.knnews.co.kr/news/articleView.php?idxno=1247983) (2018/4/30) 기고문입니다.
 
 지난주에 모처럼 아내와 극장에서 영화를 보았다. SF장르를 좋아하는 아버지의 취향을 잘 아는 아들이 추천해 준 영화가 '레디플레이어원'이다.
 2045년, 가상세계 오아시스에서는 누구든 원하는 캐릭터로 원하는 모든 것을 할 수 있으며, 상상하는 모든 것이 가능하다. 
@@ -40,7 +39,3 @@ sidebar:
 모쪼록 이 사업 기획이 성공해 침체된 지역 제조기업들이 다시 한 번 반등할 수 있는 기회가 될 수 있도록 중앙정부와 지방정부의 큰 관심과 지원을 기대한다.
 
 윤명현 (경남테크노파크 정보산업진흥본부장) 
-
-[경남일보 경제인칼럼][1] (2018/4/30)
-
-[1]: http://www.knnews.co.kr/news/articleView.php?idxno=1247983
