@@ -1,17 +1,16 @@
 ---
 title: '가상현실, 글로벌 선도를 위한 우리의 전략'
-author: Myung-Hyun Yoon
 layout: single
-permalink: /3d-roadmap/
 header:
-  overlay_image: /assets/images/butterfly.jpg
+  overlay_image: /assets/images/earth.jpg
+  show_overlay_excerpt: false
 categories:
   - Newspaper
 sidebar:
   nav: "posts"
 ---
 
-> 전자신문
+> [전자신문 ET단상](https://www.etnews.com/20161025000343) (2016/10/25) 기고문입니다.
 
 올 3월 인공지능(AI)으로 무장한 알파고가 이세돌 9단에게 도전장을 내밀었을 때 우리는 누구도 인간의 승리를 의심치 않았다. 
 그러나 정보기술(IT)의 발전은 특정 분야에서 이미 사람의 지능을 넘어서고 있으며, 나아가 현실과 가상의 구분까지 무너뜨리는 경지까지 이르렀다.
@@ -47,7 +46,3 @@ VR 산업의 글로벌 선도를 위한 치열한 전쟁이 세계 곳곳에서 
 위해서는 VR 산업과 같은 신 성장 분야에 대한 정부의 전략 육성 정책과 지원, 기업들의 과감한 투자가 수반돼야 할 것이다.
 
 윤명현 전자부품연구원 정보통신미디어연구본부 본부장 
-
-[전자신문 ET단상][1] (2016/10/25)
-
-[1]: https://www.etnews.com/20161025000343
