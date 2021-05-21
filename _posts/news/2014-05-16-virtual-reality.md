@@ -2,7 +2,6 @@
 title: '가상현실의 선도자가 되자'
 author: Myung-Hyun Yoon
 layout: single
-permalink: /virtual-reality/
 header:
   overlay_image: /assets/images/butterfly.jpg
 categories:
