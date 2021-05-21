@@ -2,6 +2,7 @@
 layout: single
 title: "About Me"
 permalink: /about/
+author_profile: true
 header:
   overlay_image: /assets/images/butterfly.jpg
 ---
