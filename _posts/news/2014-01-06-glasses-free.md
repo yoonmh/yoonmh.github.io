@@ -1,6 +1,5 @@
 ---
-title: '무안경 3D 영상 시대를 열자.'
-author: Myung-Hyun Yoon
+title: '무안경 3D 영상 시대를 열자'
 layout: single
 header:
   overlay_image: /assets/images/earth.jpg
