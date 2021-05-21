@@ -9,4 +9,4 @@ header:
 author_profile: true
 ---
 
-## Posts by Category
+## Categories
