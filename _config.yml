@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Myung-Hyun Yoon"
+title                    : "Hello World!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "윤명현"
@@ -95,8 +95,8 @@ analytics:
 # Site Author
 author:
   name             : "Myung-Hyun Yoon"
-  avatar           : "/assets/images/blue-butterfly2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "한양대 인공지능융합연구센터"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : ""
   location         : "Seoul, Korea"
   email            : "mhyoon@outlook.kr"
   links:
