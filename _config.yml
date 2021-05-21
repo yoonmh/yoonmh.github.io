@@ -278,7 +278,7 @@ defaults:
       author_profile: true
       read_time: false
       comments: false
-      share: true
+      share: false
       related: false
       show_date: true
       toc: true
