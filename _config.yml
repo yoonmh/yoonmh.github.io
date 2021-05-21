@@ -23,10 +23,10 @@ name                     : "윤명현"
 description              : "윤명현의 블로그입니다."
 url                      : "https://yoonmh.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "yoonmh/yoonmh.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/blue-butterfly2.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Myung-Hyun Yoon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "한양대학교 인공지능융합연구센터"
   location         : "Seoul, Korea"
   email            : "mhyoon@outlook.kr"
   links:
@@ -210,7 +210,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 8 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: KR # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
