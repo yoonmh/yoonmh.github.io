@@ -7,5 +7,3 @@ header:
   overlay_image : /assets/images/earth.jpg
 author_profile: true
 ---
-
-## Categories
