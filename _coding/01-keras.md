@@ -1,7 +1,7 @@
 ---
 title: Keras
 layout: collection
-permalink: /coding/
+permalink: /keras/
 collection: coding
 ---
 
