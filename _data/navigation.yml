@@ -4,8 +4,8 @@ main:
     url: "/about/"
   - title: "Ctegoriy"
     url: "/categories/"
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "MM Guide"
+    url: /https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
