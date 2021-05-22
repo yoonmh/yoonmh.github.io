@@ -8,13 +8,6 @@ main:
     url: /collection-archive/  
   - title: "MM Guide"
     url: "https://mmistakes.github.io/minimal-mistakes/"
-    children:
-      - title: "Quick-Start Guide"
-        url: /docs/_docs/quick-start-guide/
-      - title: "Sample Posts"
-        url: /year-archive/
-      - title: "Sample Collections"
-        url: /collection-archive/
 
 # documentation links
 docs:
