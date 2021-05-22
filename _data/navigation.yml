@@ -5,7 +5,7 @@ main:
   - title: "Ctegoriy"
     url: /categories/
   - title: "Coding"
-    url: /collection-archive/  
+    url: /portfolio/  
   - title: "MM Guide"
     url: "https://mmistakes.github.io/minimal-mistakes/"
 
