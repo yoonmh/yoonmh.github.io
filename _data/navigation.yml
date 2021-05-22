@@ -5,9 +5,10 @@ main:
   - title: "Ctegoriy"
     url: /categories/
   - title: "Coding"
-    url: /portfolio/  
-  - title: "MM Guide"
-    url: "https://mmistakes.github.io/minimal-mistakes/"
+    url: /coding/  
+  - title: "References"
+    url: /reference/
+  #  url: "https://mmistakes.github.io/minimal-mistakes/"
 
 # documentation links
 docs:
