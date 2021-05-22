@@ -3,16 +3,12 @@ title: References
 layout: collection
 permalink: /reference/
 collection: reference
-entries_layout: grid
-classes: wide
-
-title : "윤명현의 블로그"
-excerpt : "(Posts by Category)"
-layout: categories
-permalink: /categories/
 header:
   overlay_image : /assets/images/earth.jpg
+  show_overlay_excerpt: false
 author_profile: true
+entries_layout: grid
+classes: wide
 ---
 
-Sample document listing for the collection `_reference`.
+각종 참조 사이트 모음 입니다.
