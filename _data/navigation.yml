@@ -1,9 +1,11 @@
 # main links
 main:
   - title: "About"
-    url: "/about/"
+    url: /about/
   - title: "Ctegoriy"
-    url: "/categories/"
+    url: /categories/
+  - title: "Coding"
+    url: /collection-archive/  
   - title: "MM Guide"
     url: "https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"
   # - title: "Sample Collections"
