@@ -295,7 +295,7 @@ defaults:
       
   # _reference
   - scope:
-      path: ""
+      path: "/_reference/"
       type: reference
     values:
       layout: single
@@ -305,7 +305,7 @@ defaults:
 
   # _coding
   - scope:
-      path: ""
+      path: "/_coding/"
       type: coding
     values:
       layout: single
