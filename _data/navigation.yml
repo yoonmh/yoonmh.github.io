@@ -68,6 +68,14 @@ docs:
         url: /terms/
 
 # sidebar categories
+about:
+  - title: Publications
+    url: /publication/
+  - title: Patents
+    url: /patent/
+  - title: Talks
+    url: /talk/
+    
 posts:
   - title: CATEGORIES
     children:
