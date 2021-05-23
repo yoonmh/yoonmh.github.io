@@ -29,3 +29,9 @@ posts:
 
 ## 2. 
 
+```
+---
+sidebar:
+  nav: "posts"
+---
+```
