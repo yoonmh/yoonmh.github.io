@@ -2,11 +2,10 @@
 title: "References"
 layout: collection
 permalink: /reference/
-collection: reference
+collection: grid_main
 header:
   overlay_image : /assets/images/earth.jpg
   show_overlay_excerpt: false
-author_profile: true
 entries_layout: grid
 classes: wide
 ---
