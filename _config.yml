@@ -293,7 +293,7 @@ defaults:
       toc: false
       toc-sticky: false
       
-  # _reference, _coding
+  # _reference
   - scope:
       path: ""
       type: reference
@@ -302,4 +302,13 @@ defaults:
       author_profile: true
       read_time: false
       share: true
-            
+
+  # _coding
+  - scope:
+      path: ""
+      type: coding
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      share: true
