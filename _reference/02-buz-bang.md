@@ -3,7 +3,7 @@ title: 'Minimal Mistakes'
 excerpt: "Minimal Mistakes 테마 참조사이트 입니다."
 header:
   overlay_image: /assets/images/earth.jpg
-  teaser: /assets/images/mmistakes.jpg
+  teaser: /assets/images/mmistakes.png
   show_overlay_excerpt: false
 # sidebar:
 #  - title: "Role"
