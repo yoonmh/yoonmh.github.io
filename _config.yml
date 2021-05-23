@@ -99,6 +99,11 @@ author:
   bio              : ""
   location         : "Seoul, Korea"
   email            : "mhyoon@outlook.kr"
+  home             : "#"
+  twitter          : "mhyoon1"
+  facebook         : "mhyoon1"
+  instagram        : "mhyoon1"
+  github           : "yoonmh"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
