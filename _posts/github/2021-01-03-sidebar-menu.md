@@ -1,0 +1,15 @@
+
+
+
+# sidebar categories
+posts:
+  - title: CATEGORIES
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+      - title: "Structure"
+        url: /docs/structure/
+      - title: "Installation"
+        url: /docs/installation/
+      - title: "Upgrading"
+        url: /docs/upgrading/
