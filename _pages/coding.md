@@ -2,7 +2,7 @@
 title: "Coding"
 layout: collection
 permalink: /coding/
-collection: reference
+collection: coding
 header:
   overlay_image : /assets/images/earth.jpg
   show_overlay_excerpt: false
