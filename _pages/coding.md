@@ -1,5 +1,5 @@
 ---
-title: Coding
+title: "Coding"
 layout: collection
 permalink: /coding/
 collection: coding
