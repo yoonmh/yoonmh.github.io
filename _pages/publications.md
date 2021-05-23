@@ -1,7 +1,12 @@
 ---
-layout: page
-title: Publications
+layout: single
+title: "Publications"
 permalink: /publications/
+author_profile: false
+sidebar:
+  nav: "about"
+header:
+  overlay_image: /assets/images/tree.jpg
 ---
 
 # Publications
