@@ -2,7 +2,7 @@
 title: 'Minimal Mistakes 테마 데모 페이지'
 layout: single
 header:
-  overlay_image: /assets/images/space.jpg
+  overlay_image: /assets/images/earth.jpg
   show_overlay_excerpt: false
 categories:
   - GitHub Pages
