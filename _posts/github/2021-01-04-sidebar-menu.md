@@ -1,6 +1,18 @@
+---
+title: 'Sidebar 메뉴 설정'
+layout: single
+header:
+  overlay_image: /assets/images/earth.jpg
+  show_overlay_excerpt: false
+categories:
+  - Github Pages
+---
 
+> Sidebar 메뉴 설정
 
+## 1. 'naviga'
 
+```
 # sidebar categories
 posts:
   - title: CATEGORIES
@@ -13,3 +25,4 @@ posts:
         url: /docs/installation/
       - title: "Upgrading"
         url: /docs/upgrading/
+```
