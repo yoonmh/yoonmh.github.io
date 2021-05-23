@@ -2,7 +2,7 @@
 title: "References"
 layout: collection
 permalink: /reference/
-collection: grid_main
+collection: reference
 header:
   overlay_image : /assets/images/earth.jpg
   show_overlay_excerpt: false
