@@ -70,11 +70,11 @@ docs:
 # sidebar categories
 about:
   - title: Publications
-    url: /publication/
+    url: /publications/
   - title: Patents
-    url: /patent/
+    url: /patents/
   - title: Talks
-    url: /talk/
+    url: /talks/
     
 posts:
   - title: CATEGORIES
