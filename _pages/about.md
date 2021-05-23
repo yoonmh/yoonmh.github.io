@@ -10,9 +10,6 @@ header:
 ---
 
 # Myung-Hyun Yoon
-| [Publications][1] 
-| [Patents][2] 
-| [Talks][3] |
 
 I've been a research scientist as well as research engineer for all my lifetime, and want to remain as a eternal researcher untill the day I die.
 
