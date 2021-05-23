@@ -10,7 +10,7 @@ categories:
 
 > Sidebar 메뉴 설정
 
-## 1. 'naviga'
+## 1. '/_data/navigation.yml'
 
 ```
 # sidebar categories
@@ -26,3 +26,6 @@ posts:
       - title: "Upgrading"
         url: /docs/upgrading/
 ```
+
+## 2. 
+
