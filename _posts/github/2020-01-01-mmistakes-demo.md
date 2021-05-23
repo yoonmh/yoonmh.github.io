@@ -10,17 +10,17 @@ categories:
 #  nav: "posts"
 ---
 
-> Minimal Mistakes 테마 데모 페이지 입니다. :smile:
+> Minimal Mistakes 테마 데모 페이지 입니다.
 
 ## Minimal Mistakes 테마 데모 페이지
 
-* [Post with Header Image][header-image-post] : A post with a large header image.
-* [HTML Tags and Formatting Post][html-tags-post] : A variety of common markup showing how the theme styles them. 
-* [Syntax Highlighting Post][syntax-post] : Post displaying highlighted code.
-* [Post with a Gallery][gallery-post] : A post showing several images wrapped in `<figure>` elements. 
-* [Sample Collection Page][sample-collection] : Single page from a collection. 
-* [Categories Archive][categories-archive] : Posts grouped by category. 
-* [Tags Archive][tags-archive] : Posts grouped by tag. 
+* [Post with Header Image](https://mmistakes.github.io/minimal-mistakes/layout-header-image-text-readability/)
+* [HTML Tags and Formatting Post](https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/)
+* [Syntax Highlighting Post](https://mmistakes.github.io/minimal-mistakes/markup-syntax-highlighting/)
+* [Post with a Gallery](https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/)
+* [Sample Collection Page](https://mmistakes.github.io/minimal-mistakes/recipes/chocolate-chip-cookies/)
+* [Categories Archive](https://mmistakes.github.io/minimal-mistakes/categories/)
+* [Tags Archive](https://mmistakes.github.io/minimal-mistakes/tags/) 
 
 ### Icons + Demo Images:
 
