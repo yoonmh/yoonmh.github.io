@@ -1,6 +1,6 @@
 ---
-layout: single
 title: "About Me"
+layout: single
 permalink: /about/
 author_profile: false
 sidebar:
@@ -44,13 +44,11 @@ Prior to working at KETI, I worked as a research engineer at KEPRI from 1994 to 
 * 2006~2007 Adjunct Professor of Dept. of Electronics Engineering, Korea Polytechnic University
 
 ## Publications/Patents
-I published 123 papers and registered 35 patents. ([Publications][2], [Patents][3])<br>
+I published 123 papers and registered 35 patents. ([Publications][1], [Patents][2])<br>
 See also [Scholar][4] and [ResearchGate][5].
 
-## Certificate
+## Certificate & Awards
 * Technology Transfer Agent, MOTIE, Dec. 6, 2016
-
-## Awards
 * Marquis Who's Who in the World 2016
 * Commendation from Minister of MOTIE, Oct. 8, 2019
 
