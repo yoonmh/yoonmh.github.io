@@ -3,7 +3,7 @@ title: 'Minimal Mistakes'
 excerpt: "Minimal Mistakes 테마 참조사이트 입니다."
 header:
   overlay_image: /assets/images/earth.jpg
-  teaser: /assets/images/mmistakes.png
+  teaser: https://tensorflowkorea.files.wordpress.com/2018/10/keras_dl_b.jpg
   show_overlay_excerpt: false
 # sidebar:
 #  - title: "Role"
