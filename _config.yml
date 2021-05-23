@@ -291,8 +291,7 @@ defaults:
       related: false
       show_date: false
       toc: false
-      toc-sticky: false
-      
+      toc-sticky: false   
   # _reference
   - scope:
       path: "/_reference/"
@@ -302,7 +301,6 @@ defaults:
       author_profile: true
       read_time: false
       share: true
-
   # _coding
   - scope:
       path: "/_coding/"
