@@ -1,6 +1,6 @@
 ---
-layout: single
 title: "Publications"
+layout: single
 permalink: /publications/
 author_profile: false
 sidebar:
@@ -10,9 +10,6 @@ header:
 ---
 
 # Publications
-| [Publications](/publications/) 
-| [Patents](/patents/) 
-| [Talks](/talks) |
 
 ## 2013~2017(KETI)
 1. <b>Implementation of Bistatic Backscatter Wireless Communication System Using Ambient Wi-Fi Signals</b> [(Paper)][17-1] 
