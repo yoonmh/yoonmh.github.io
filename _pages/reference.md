@@ -1,5 +1,5 @@
 ---
-title: References
+title: "References"
 layout: collection
 permalink: /reference/
 collection: reference
