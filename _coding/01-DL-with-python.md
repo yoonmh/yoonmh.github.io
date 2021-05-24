@@ -2,11 +2,14 @@
 title: 'Keras'
 header:
   overlay_image: /assets/images/earth.jpg
-  teaser: https://tensorflowkorea.files.wordpress.com/2018/10/keras_dl_b.jpg
+  teaser: /assets/images/DLwithPython.jpg
+#  teaser: https://tensorflowkorea.files.wordpress.com/2018/10/keras_dl_b.jpg
   show_overlay_excerpt: false
 ---
 
-# <케라스 창시자에게 배우는 딥러닝>의 주피터 노트북
+# Deep Learning with Python (François Chollet, 2017, Manning Publications)
+
+<케라스 창시자에게 배우는 딥러닝>의 주피터 노트북
 
 이 저장소는 [케라스 창시자에게 배우는 딥러닝](https://tensorflow.blog/케라스-창시자에게-배우는-딥러닝/) 책의 코드 예제를 담은 주피터 노트북을 담고 있습니다. 책에는 더 많은 내용과 그림이 있습니다. 이 노트북에는 소스 코드에 관련된 설명만 포함합니다.
 
