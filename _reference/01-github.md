@@ -4,8 +4,8 @@ excerpt: "GitHub Pages를 이용해서 개인 블로그를 만들기 위한 방�
 layout: single
 header:
   overay_image: /assets/images/earth.jpg
-#  teaser: /assets/images/github-cover.jpg
-#  show_overlay_excerpt: false
+  teaser: /assets/images/github-cover.jpg
+  show_overlay_excerpt: false
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
