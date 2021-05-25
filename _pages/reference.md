@@ -6,7 +6,7 @@ collection: reference
 entries_layout: grid
 classes: wide
 # header:
-$  overlay_image : /assets/images/earth.jpg
+#  overlay_image : /assets/images/earth.jpg
 #  show_overlay_excerpt: false
 ---
 
