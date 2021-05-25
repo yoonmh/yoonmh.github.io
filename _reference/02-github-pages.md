@@ -28,3 +28,12 @@ header:
 * http://themes.jekyllrc.org/
 
 ## Hexo
+* [Hexo](https://hexo.io/)
+* [Node.js](https://nodejs.org/en/)
+* https://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/
+* https://hexo.io/themes/
+* https://ppoffice.github.io/hexo-theme-icarus/
+
+Hexo는 Jekyll와 함께 대표적으로 정적 페이지를 쉽게 만들 수 있도록 도와주는 서비스이다. 두 서비스 역시 블로그 지향적인 서비스이며 Hexo의 경우에는 npm을 통해 쉽게 설치가 가능하고 한 줄의 Command Line을 통해 Github에 바로 배포 할 수 있으며, Jekyll과 마찬가지로 다양한 플러그인과 테마를 지원하고 있다.
+지킬은 Ruby기반이며, 헥소는 Node.js기반의 도구이다
+
