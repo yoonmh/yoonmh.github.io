@@ -288,13 +288,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
-      comments: false
-      share: false
-      related: false
-      show_date: false
-      toc: false
-      toc-sticky: false   
+      share: true
+      comments: true  
   # _reference
   - scope:
       path: "/_reference/"
