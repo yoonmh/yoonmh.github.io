@@ -1,6 +1,7 @@
 ---
 title: 'Google Colab'
 excerpt: "Google Colab 소개 및 참조사이트 입니다."
+layout: single
 header:
   overlay_image: /assets/images/earth.jpg
   teaser: /assets/images/colab.jpg
