@@ -4,7 +4,7 @@ excerpt: "GitHub Pages를 이용해서 개인 블로그를 만들기 위한 방�
 layout: single
 author_profile: false
 header:
-  overay_image: /assets/images/earth.jpg
+  image: /assets/images/earth.jpg
   teaser: /assets/images/github-cover.jpg
   show_overlay_excerpt: false
 ---
