@@ -1,5 +1,6 @@
 ---
 title: 'Keras'
+layout: single
 header:
   overlay_image: /assets/images/earth.jpg
   teaser: /assets/images/DLwithPython.jpg
