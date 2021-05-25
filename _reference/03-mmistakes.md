@@ -17,3 +17,4 @@ header:
 #  nav: "posts"
 ---
 
+* https://mmistakes.github.io/minimal-mistakes/
