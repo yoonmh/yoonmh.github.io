@@ -5,7 +5,7 @@ permalink: /reference/
 collection: reference
 author_profile: false
 entries_layout: grid
-classes: wide
+classes: full-wide
 header:
   overlay_image : /assets/images/earth.jpg
   show_overlay_excerpt: false
