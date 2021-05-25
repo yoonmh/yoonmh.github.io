@@ -1,5 +1,5 @@
 ---
-title: 'GitHub Pages'
+title: 'Git, GitHub'
 excerpt: "GitHub Pages를 이용해서 개인 블로그를 만들기 위한 방법을 정리했습니다."
 header:
   image: /assets/images/earth.jpg
