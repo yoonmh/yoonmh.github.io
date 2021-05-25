@@ -22,8 +22,9 @@ header:
 
 테마
 * http://jekyllthemes.org/
-* https://jekyllthemes.io/free
+* https://jekyllthemes.io/
 * https://jamstackthemes.dev/ssg/jekyll/
 * https://jamstackthemes.dev/ssg/jekyll/
+* http://themes.jekyllrc.org/
 
 ## Hexo
