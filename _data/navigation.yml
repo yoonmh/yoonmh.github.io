@@ -2,14 +2,40 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Ctegoriy"
-    url: /categories/
+#  - title: "Ctegoriy"
+#    url: /categories/
   - title: "Coding"
     url: /coding/  
   - title: "References"
     url: /reference/
-  #  url: "https://mmistakes.github.io/minimal-mistakes/"
 
+# sidebar categories
+about:
+  - title: Publications
+    url: /publications/
+  - title: Patents
+    url: /patents/
+  - title: Talks
+    url: /talks/
+
+reference:
+  - title: References
+    url: /reference/
+  - title: Coding
+    url: /coding/
+    
+posts:
+  - title: CATEGORIES
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+      - title: "Structure"
+        url: /docs/structure/
+      - title: "Installation"
+        url: /docs/installation/
+      - title: "Upgrading"
+        url: /docs/upgrading/
+        
 # documentation links
 docs:
   - title: Getting Started
@@ -66,25 +92,3 @@ docs:
         url: /docs/license/
       - title: "Terms &amp; Privacy Policy"
         url: /terms/
-
-# sidebar categories
-about:
-  - title: Publications
-    url: /publications/
-  - title: Patents
-    url: /patents/
-  - title: Talks
-    url: /talks/
-    
-posts:
-  - title: CATEGORIES
-    children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
-        
