@@ -9,6 +9,8 @@ classes: full-wide
 header:
   overlay_image : /assets/images/earth.jpg
   show_overlay_excerpt: false
+sidebar:
+
 ---
 
 각종 참조 사이트 모음 입니다.
