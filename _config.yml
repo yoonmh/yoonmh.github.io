@@ -287,7 +287,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true  
   # _reference
@@ -305,6 +305,6 @@ defaults:
       type: coding
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: false
       share: true
