@@ -4,10 +4,10 @@ main:
     url: /about/
 #  - title: "Ctegoriy"
 #    url: /categories/
-  - title: "Coding"
-    url: /coding/  
-  - title: "References"
-    url: /reference/
+  - title: "Blog"
+    url: "https://yoonmh.github.io/"  
+  - title: "Storage"
+    url: /storage/
 
 # sidebar categories
 about:
@@ -20,11 +20,13 @@ about:
   - title: Talks
     url: /talks/
 
-reference:
-  - title: References
-    url: /reference/
-  - title: Coding
-    url: /coding/
+storage:
+  - title: AI
+    url: /ai/
+  - title: Storage
+    url: /storage/
+#  - title: Coding
+#    url: /coding/
     
 posts:
   - title: CATEGORIES
