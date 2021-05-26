@@ -1,6 +1,6 @@
 ---
 title: 'Google Colab'
-excerpt: "Google Colab 소개 및 참조사이트 입니다."
+# excerpt: "Google Colab 소개 및 참조사이트 입니다."
 layout: single
 header:
   overlay_image: /assets/images/earth.jpg
@@ -9,4 +9,5 @@ header:
 ---
 
 ## Colaboratory
+
 [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
