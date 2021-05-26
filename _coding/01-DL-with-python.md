@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/images/earth.jpg
   teaser: /assets/images/DLwithPython.jpg
 #  teaser: https://tensorflowkorea.files.wordpress.com/2018/10/keras_dl_b.jpg
-  show_overlay_excerpt: false
+#  show_overlay_excerpt: false
 ---
 
 # Deep Learning with Python (François Chollet, 2017, Manning Publications)
