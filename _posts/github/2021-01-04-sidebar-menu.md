@@ -2,6 +2,7 @@
 title: 'Sidebar 메뉴 설정'
 layout: single
 sidebar_main: true
+author_profile: true
 header:
   overlay_image: /assets/images/earth.jpg
   show_overlay_excerpt: false
