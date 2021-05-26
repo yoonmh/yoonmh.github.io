@@ -7,7 +7,7 @@ main:
   - title: "Blog"
     url: "https://yoonmh.github.io/"  
   - title: "Storage"
-    url: /storage/
+    url: /ai/
 
 # sidebar categories
 about:
