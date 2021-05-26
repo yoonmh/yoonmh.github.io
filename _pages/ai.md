@@ -1,5 +1,5 @@
 ---
-title: "AI"
+title: "Artificial Intelligence"
 layout: collection
 permalink: /ai/
 collection: ai
