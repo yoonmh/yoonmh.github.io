@@ -9,6 +9,9 @@ header:
   overlay_image: /assets/images/tree.jpg
 ---
 
+# Patents
+특허등록 46건
+
 ## 국내특허
 1. <b>대역외 간섭신호 제거 장치 및 방법 (Apparatus and Method for Elimination of Outband Interference Signal)</b> [(pdf)][p1],<br> 
 서해문, 이연성, 박우출, 이명수, 윤명현, 
