@@ -14,4 +14,4 @@ sidebar:
 
 # Artificial Intelligence
 
-참조용 사이트 모음 입니다.
+> 참조용 사이트 모음 입니다.
