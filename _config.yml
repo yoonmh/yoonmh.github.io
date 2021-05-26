@@ -272,10 +272,10 @@ compress_html:
     envs: development
 
 collections:
-  reference:
+  ai:
     output: true
     permalink: /:collection/:path/
-  coding:
+  storage:
     output: true
     permalink: /:collection/:path/
 
@@ -290,19 +290,19 @@ defaults:
       author_profile: false
       share: true
       comments: true  
-  # _reference
+  # _ai
   - scope:
-      path: "/_reference/"
-      type: reference
+      path: "/_ai/"
+      type: ai
     values:
       layout: single
       author_profile: false
       read_time: false
       share: true
-  # _coding
+  # _storage
   - scope:
-      path: "/_coding/"
-      type: coding
+      path: "/_storage/"
+      type: storage
     values:
       layout: single
       author_profile: false
