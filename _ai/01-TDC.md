@@ -18,7 +18,7 @@ layout: single
   5. 학습을 콘트롤하기 위한 Callback 사용 ([Video](https://drive.google.com/file/d/1D5anYmJtOjqyv4iYoYr75nwp1_dF5irT/view?usp=sharing))
   6. Callback으로 노트북 실습 ([Video](https://drive.google.com/file/d/1D8ynv5icDFUqMdLKTJhkRBdO6LiQUlJa/view?usp=sharing))
 * W-3. CNN으로 비전 향상
-  1. Convolution과 ooling 이란? ([Video]())
+  1. Convolution과 ooling 이란? ([Video](https://drive.google.com/file/d/1CuKl1wzhruxTi0txKKcfolhc_s8k-_9C/view?usp=sharing))
   2. Convolutional layer 구현 ([Video]())
   3. Pooling layer 구현 ([Video]())
   4. 컨벌루션으로 Fashion classifier 성능향상 ([Video]())
