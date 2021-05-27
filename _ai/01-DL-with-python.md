@@ -2,21 +2,25 @@
 title: 'Keras'
 layout: single
 header:
-  overlay_image: /assets/images/earth.jpg
+#  overlay_image: /assets/images/earth.jpg
   teaser: /assets/images/DLwithPython.jpg
 #  teaser: https://tensorflowkorea.files.wordpress.com/2018/10/keras_dl_b.jpg
 #  show_overlay_excerpt: false
 ---
 
-# Deep Learning with Python (François Chollet, 2017, Manning Publications)
+# 케라스 창시자에게 배우는 딥러닝
 
-<케라스 창시자에게 배우는 딥러닝>의 주피터 노트북
+"케라스 창시자에게 배우는 딥러닝"은 "Deep Learning with Python"의 번역서로 원저자는 Keras를 만든 [François Chollet](https://fchollet.com/)이다.
+번역자는 [박해선](https://tensorflow.blog/)이다.
 
-이 저장소는 [케라스 창시자에게 배우는 딥러닝](https://tensorflow.blog/케라스-창시자에게-배우는-딥러닝/) 책의 코드 예제를 담은 주피터 노트북을 담고 있습니다. 책에는 더 많은 내용과 그림이 있습니다. 이 노트북에는 소스 코드에 관련된 설명만 포함합니다.
+* [원서](http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf)
+* [2nd Ed.](https://www.manning.com/books/deep-learning-with-python-second-edition)
+* [번역서 목차](https://tensorflow.blog/%ec%bc%80%eb%9d%bc%ec%8a%a4-%eb%94%a5%eb%9f%ac%eb%8b%9d/)
+* [원저자의 노트북](https://github.com/fchollet/deep-learning-with-python-notebooks)
+* [번역자의 노트북](https://github.com/rickiepark/deep-learning-with-python-notebooks)
+* [TF2.4 브랜치](https://github.com/rickiepark/deep-learning-with-python-notebooks/tree/tf2)
+* 
 
-이 노트북은 우분투 리눅스, 파이썬 3.6, 케라스 2.2.2, 2.2.4에서 테스트하였습니다.
-
-텐서플로 2.3에 포함된 케라스 API를 사용하는 버전은 [tf2 브랜치](https://github.com/rickiepark/deep-learning-with-python-notebooks/tree/tf2)에 있습니다.
 
 ## 목차
 
