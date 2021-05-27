@@ -9,7 +9,7 @@ Cousera에서 운영하는 <TensorFlow Developer Certificate> 과정의 강좌 �
 
 ### Class 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 * W-1. A New Programming Paradigm
-  1. A primer in machine learning ([Video](https://drive.google.com/drive/u/0/folders/1B7UnpGqGQnL0n_nBYqXw2RwQiWP1U6v8))
+  1. A primer in machine learning ([Video](https://drive.google.com/file/d/1Cf_9DH7KWcLz7YJ-W4DHGngaMrVE15pX/view?usp=sharing))
   2. The ‘Hello World’ of neural networks
   3. Working through ‘Hello World’ in TensorFlow and Python
 * W-2. Introduction to Computer Vision
