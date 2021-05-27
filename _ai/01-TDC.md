@@ -3,7 +3,7 @@ title: "TensorFlow Developer Certificate"
 layout: single
 ---
 
-> Cousera에서 운영하는 "TensorFlow Developer Certificate" 과정의 강좌 및 소스코드 입니다.
+> Cousera에서 운영하는 "TensorFlow Developer Certificate" 과정의 학습강좌 및 텐서플로우 노트북 입니다.
   
 ## 목차
 
