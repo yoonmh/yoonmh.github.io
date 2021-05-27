@@ -10,6 +10,7 @@ layout: single
   1. 머신러닝 기초 ([Video](https://drive.google.com/file/d/1Cf_9DH7KWcLz7YJ-W4DHGngaMrVE15pX/view?usp=sharing))
   2. 신경망의 ‘Hello World’ ([Video](https://drive.google.com/file/d/1CemGe4AnOjuOm7OE4C5AycbLzrP-D565/view?usp=sharing), [Notebook](https://colab.research.google.com/drive/1GCh207-hIdaCcaLqZ4363zOKULNAN1A0))
   3. 텐서플로우 ‘Hello World’ 실습 ([Video](https://drive.google.com/file/d/1CfQYOuy4BD6H_bPzh4eYMph-2dnyBQCC/view?usp=sharing), [Notebook](https://colab.research.google.com/drive/1G1iWlflG_wNNHyLlYX3abYDCQr94UP4U))
+  4. [머신러닝의 Hello World](https://developers.google.com/codelabs/tensorflow-1-helloworld#0)
 * W-2. 컴퓨터 비전 
   1. 컴퓨터 비전 소개 ([Video](https://drive.google.com/file/d/1CjA1cS5tW3S4FeRniPYP_bnluFsgkLPr/view?usp=sharing))
   2. 학습 데이터 로딩 코드 작성 ([Video](https://drive.google.com/file/d/1CjOZJ9_wDl4Cs8LCyUZGjI8_I66LcQTD/view?usp=sharing))
