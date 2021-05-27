@@ -14,7 +14,7 @@ layout: single
   3. 텐서플로우 ‘Hello World’ 작업하기 ([Video](https://drive.google.com/file/d/1CfQYOuy4BD6H_bPzh4eYMph-2dnyBQCC/view?usp=sharing))
 * W-2. 컴퓨터 비전 
   1. 컴퓨터 비전 소개 ([Video](https://drive.google.com/file/d/1CjA1cS5tW3S4FeRniPYP_bnluFsgkLPr/view?usp=sharing))
-  2. Writing code to load training data2m
+  2. 학습 데이터 로딩 코드 작성 ([Video](https://drive.google.com/file/d/1CjOZJ9_wDl4Cs8LCyUZGjI8_I66LcQTD/view?usp=sharing))
   3. 컴퓨터 비전 신경망 코딩 ([Video]())
   4. 컴퓨터 비전 노트북 작업 ([Video]())
   5. 학습을 콘트롤하기 위한 Callback 사용 ([Video]())
