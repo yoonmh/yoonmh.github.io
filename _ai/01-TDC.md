@@ -113,7 +113,7 @@ layout: single
   3. Time series에서 패턴 ([Video](https://drive.google.com/file/d/1H6vVcZlvOKf-rCTg-34r8vxrZ85ryYO5/view?usp=sharing))
   4. Time series 서론 ([Video](https://drive.google.com/file/d/1H11O5P6JPvyTP-XIZ-docZhq5PljGyZC/view?usp=sharing), [Notebook](https://colab.research.google.com/drive/1O2LH56mUmh5U1rJuHTBx5VYUuqbSiJAT))
   5. Train, validation and test sets ([Video](https://drive.google.com/file/d/1HRjc72wdq9DAR5FVQCiHVLi8e8q1JOA0/view?usp=sharing))
-  6. Metrics for evaluating performance
+  6. 성능 평가를 위한 Metrics ([Video](https://drive.google.com/file/d/1Hta2rptk3XPu0fNGWIRLJgrv2SIYXhaT/view?usp=sharing))
   7. Moving average and differencing
   8. Trailing versus centered windows
   9. Forecasting
