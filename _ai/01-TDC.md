@@ -111,16 +111,12 @@ layout: single
   1. Time series의 예 ([Video](https://drive.google.com/file/d/1HC7fU4slqoRZX_ZmoR4Corrm5fiYxg1H/view?usp=sharing))
   2. Time series에 적용한 머신러닝 ([Video](https://drive.google.com/file/d/1HItIETh64XY6AqCcYpn8386ayUEFPeHy/view?usp=sharing))
   3. Time series에서 패턴 ([Video](https://drive.google.com/file/d/1H6vVcZlvOKf-rCTg-34r8vxrZ85ryYO5/view?usp=sharing))
-
-      Introduction to time series
-      Train, validation and test sets
-	trend+seasonality+noise, naive forecasting, fixed partitioning
-
-
-      Metrics for evaluating performance
-      Moving average and differencing
-      Trailing versus centered windows
-      Forecasting
+  4. Time series 서론 ([Video](https://drive.google.com/file/d/1H11O5P6JPvyTP-XIZ-docZhq5PljGyZC/view?usp=sharing))
+  5. Train, validation and test sets ([Video](https://drive.google.com/file/d/1HRjc72wdq9DAR5FVQCiHVLi8e8q1JOA0/view?usp=sharing))
+  6. Metrics for evaluating performance
+  7. Moving average and differencing
+  8. Trailing versus centered windows
+  9. Forecasting
 * W-2. Deep Neural Networks for Time Series
   1. Preparing features and labels
   2. Preparing features and labels
