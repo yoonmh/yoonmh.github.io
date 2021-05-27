@@ -5,7 +5,7 @@ layout: single
 
 > Cousera에서 운영하는 "TensorFlow Developer Certificate" 과정의 학습강좌 및 텐서플로우 노트북 입니다.
 
-### Class 1. AI, 머신러닝, 딥러닝
+## Class 1. AI, 머신러닝, 딥러닝
 * W-1. 프로그래밍 패러다임
   1. 머신러닝 기초 ([Video](https://drive.google.com/file/d/1Cf_9DH7KWcLz7YJ-W4DHGngaMrVE15pX/view?usp=sharing))
   2. 신경망의 ‘Hello World’ ([Video](https://drive.google.com/file/d/1CemGe4AnOjuOm7OE4C5AycbLzrP-D565/view?usp=sharing), [Notebook](https://colab.research.google.com/drive/1GCh207-hIdaCcaLqZ4363zOKULNAN1A0))
@@ -32,7 +32,7 @@ layout: single
   6. 테스트 정확도에 대한 자동 검증 ([Video]())
   7. 이미지 압축 효과 탐색 ([Video]())
 
-### Class 2. 턴서플로우에서 CNN
+## Class 2. 턴서플로우에서 CNN
 * W-1. 대규모 Dataset 사용
   1. 고양이와 개 dataset 학습 ([Video]())
   2. 노트북 작업하기 ([Video]())
@@ -57,7 +57,7 @@ layout: single
   3. Train a classifier with Rock Paper Scissors
   4. Test the Rock Paper Scissors classifier
 
-### Class 3. 텐서플로우에서 자연어 처리 (NLP)
+## Class 3. 텐서플로우에서 자연어 처리 (NLP)
 * W-1. 문장에서 Sentiment
   1. 서론 ([Video]())
   2. 단어의 encoding ([Video]())
@@ -92,7 +92,6 @@ layout: single
   7. Using a convolutional network
       Going back to the IMDB dataset
       Tips from Laurence
-
 * W-4. Sequence 모델과 문학
   1. 서론 ([Video]())
   2. Looking into the code 
@@ -107,7 +106,7 @@ layout: single
       Laurence the poet!
       Your next task
 
-### Class 4. Sequences, Time Series & Prediction
+## Class 4. Sequences, Time Series & Prediction
 * W-1. Sequence와 예측
   1. Time series의 예 ([Video](https://drive.google.com/file/d/1HC7fU4slqoRZX_ZmoR4Corrm5fiYxg1H/view?usp=sharing))
   2. Time series에 적용한 머신러닝 ([Video](https://drive.google.com/file/d/1HItIETh64XY6AqCcYpn8386ayUEFPeHy/view?usp=sharing))
@@ -122,7 +121,6 @@ layout: single
       Moving average and differencing
       Trailing versus centered windows
       Forecasting
-
 * W-2. Deep Neural Networks for Time Series
   1. Preparing features and labels
   2. Preparing features and labels
@@ -133,7 +131,6 @@ layout: single
   7. More on single layer neural network
   8. Deep neural network training, tuning and prediction
   9. Deep neural network
-
 * W-3. Time Series를 위한 RNN
   1. 개념 정리 ([Video]())
   2. Shape of the inputs to the RNN
@@ -144,7 +141,6 @@ layout: single
   7. LSTM
   8. LSTM 코딩 ([Video]())
   9. More on LSTM
-
 * W-4. 실생활의 time series data
   1. Convolutions
   2. 양방향 LSTM ([Video]())
