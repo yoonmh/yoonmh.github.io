@@ -24,7 +24,7 @@ layout: single
   4. 컨벌루션으로 Fashion classifier 성능향상 ([Video]())
   5. 컨벌루션 작업하기 ([Video]())
 * W-4. 실생활 이미지 사용
-  1. ImageGenerator 이해 ([Video]())
+  1. ImageGenerator 이해 ([Video](https://drive.google.com/file/d/1D4eeg2v4tNM6k98-c3vftdxRBMX2uXof/view?usp=sharing))
   2. 복잡한 이미지에 사용하기 위한 ConvNet 정의 ([Video]())
   3. fit_generator와 함께 ConvNet 학습 ([Video]())
   4. ConvNet 작업하기 ([Video]())
