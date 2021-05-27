@@ -22,7 +22,7 @@ layout: single
   2. Convolutional layer 구현 ([Video]())
   3. Pooling layer 구현 ([Video]())
   4. 컨벌루션으로 Fashion classifier 성능향상 ([Video]())
-  5. 컨벌루션 작업하기 ([Video]())
+  5. 컨벌루션 실습 ([Video]())
 * W-4. 실생활 이미지 사용
   1. ImageGenerator 이해 ([Video](https://drive.google.com/file/d/1D4eeg2v4tNM6k98-c3vftdxRBMX2uXof/view?usp=sharing))
   2. 복잡한 이미지에 사용하기 위한 ConvNet 정의 ([Video]())
@@ -34,7 +34,7 @@ layout: single
 
 ## Class 2. 턴서플로우에서 CNN
 * W-1. 대규모 Dataset 사용
-  1. 고양이와 개 dataset 학습 ([Video]())
+  1. 고양이와 개 dataset 학습 ([Video](https://drive.google.com/file/d/1DWVtYgtQXy457gy98QuwfgwG4F4t-ZE5/view?usp=sharing))
   2. 노트북 작업하기 ([Video]())
   3. Fixing through cropping
   4. 컨벌루션 효과 시각화 ([Video]())
