@@ -7,22 +7,22 @@ Cousera에서 운영하는 <TensorFlow Developer Certificate> 과정의 강좌 �
   
 ## 목차
 
-### Class 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
-* W-1. A New Programming Paradigm
-  1. A primer in machine learning ([Video](https://drive.google.com/file/d/1Cf_9DH7KWcLz7YJ-W4DHGngaMrVE15pX/view?usp=sharing))
-  2. The ‘Hello World’ of neural networks
-  3. Working through ‘Hello World’ in TensorFlow and Python
-* W-2. Introduction to Computer Vision
-  1. An Introduction to computer vision
+### Class 1. AI, 머신러닝, 딥러닝
+* W-1. 프로그래밍 패러다임
+  1. 머신러닝 기초 ([Video](https://drive.google.com/file/d/1Cf_9DH7KWcLz7YJ-W4DHGngaMrVE15pX/view?usp=sharing))
+  2. 신경망의 ‘Hello World’ ([Video](https://drive.google.com/file/d/1CemGe4AnOjuOm7OE4C5AycbLzrP-D565/view?usp=sharing))
+  3. 텐서플로우로 ‘Hello World’ 작업하기 ([Video]())
+* W-2. 컴퓨터 비전 
+  1. 컴퓨터 비전 소개 ([Video]())
   2. Writing code to load training data2m
-  3. Coding a Computer Vision Neural Network
-  4. Walk through a Notebook for computer vision
-  5. Using Callbacks to control training
-  6. Walk through a notebook with Callbacks
-* W-3. Enhancing Vision with Convolutional Neural Networks
-  1. What are convolutions and pooling?
-  2. Implementing convolutional layers
-  3. Implementing pooling layers
+  3. 컴퓨터 비전 신경망 코딩 ([Video]())
+  4. 컴퓨터 비전 노트북 작업 ([Video]())
+  5. 학습을 콘트롤하기 위한 Callback 사용 ([Video]())
+  6. Callback으로 노트북 작업하기 ([Video]())
+* W-3. CNN으로 비전 향상
+  1. Convolution과 ooling 이란? ([Video]())
+  2. Convolutional layer 구현 ([Video]())
+  3. Pooling layer 구현 ([Video]())
   4. Improving the Fashion classifier with convolutions
   5. Walking through convolutions
 * W-4. Using Real-world Images
@@ -60,11 +60,11 @@ Cousera에서 운영하는 <TensorFlow Developer Certificate> 과정의 강좌 �
   4.Test the Rock Paper Scissors classifier
 
 ### Class 3. Natural Language Processing in TensorFlow
-* W 1. Sentiment in text
-  1. Introduction
-  2. Word based encodings
-  3. Using APIs
-  4. Notebook for lesson 
+* W-1. 문장에서 Sentiment
+  1. 서론 ([Video]())
+  2. 단어의 encoding ([Video]())
+  3. API 사용 ([Video]())
+  4. 노트북 예제 ([Video]()) 
   5. Text to sequence
   6. Looking more at the Tokenizer
   7. Padding
