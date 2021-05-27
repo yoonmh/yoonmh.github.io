@@ -25,7 +25,7 @@ header:
 ## 목차
 
 * 2장:
-    * [2.1: 신경망과의 첫 만남]
+    * [2.1: 신경망과의 첫 만남](https://colab.research.google.com/drive/1RCjXoNExjMjIaCMtRu35Cwryq-vZJDNN?usp=sharing)
 * 3장:
     * [3.4: 영화 리뷰 분류]
     * [3.5: 뉴스 기사 분류]
