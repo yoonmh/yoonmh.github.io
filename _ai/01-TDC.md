@@ -11,9 +11,9 @@ layout: single
 * W-1. 프로그래밍 패러다임
   1. 머신러닝 기초 ([Video](https://drive.google.com/file/d/1Cf_9DH7KWcLz7YJ-W4DHGngaMrVE15pX/view?usp=sharing))
   2. 신경망의 ‘Hello World’ ([Video](https://drive.google.com/file/d/1CemGe4AnOjuOm7OE4C5AycbLzrP-D565/view?usp=sharing))
-  3. 텐서플로우 ‘Hello World’ 작업하기 ([Video]())
+  3. 텐서플로우 ‘Hello World’ 작업하기 ([Video](https://drive.google.com/file/d/1CfQYOuy4BD6H_bPzh4eYMph-2dnyBQCC/view?usp=sharing))
 * W-2. 컴퓨터 비전 
-  1. 컴퓨터 비전 소개 ([Video]())
+  1. 컴퓨터 비전 소개 ([Video](https://drive.google.com/file/d/1CjA1cS5tW3S4FeRniPYP_bnluFsgkLPr/view?usp=sharing))
   2. Writing code to load training data2m
   3. 컴퓨터 비전 신경망 코딩 ([Video]())
   4. 컴퓨터 비전 노트북 작업 ([Video]())
