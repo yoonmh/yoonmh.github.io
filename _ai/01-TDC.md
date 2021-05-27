@@ -95,7 +95,7 @@ layout: single
 
 * W-4. Sequence 모델과 문학
   1. 서론 ([Video]())
-  2. Looking into the code
+  2. Looking into the code 
   3. Training the data
   4. More on training the data
   5. 노트북 예제 ([Video]())
@@ -110,15 +110,9 @@ layout: single
 ### Class 4. Sequences, Time Series & Prediction
 * W-1. Sequence와 예측
   1. Time series의 예 ([Video](https://drive.google.com/file/d/1HC7fU4slqoRZX_ZmoR4Corrm5fiYxg1H/view?usp=sharing))
-  2. 주식가격, 일기예보, Moor's law(Density vs. year), 컴퓨터공학 박사(tylervigen.com)
-	multivariate time series: birth & death rate in Japan, global temperature, co2 concentration,자동차 운동(longitude, latitude)
-	forecasts, imputed data, imputation, 
-	tend, seasonality, autocorrelation, noise
-	non-stationary time series
+  2. Time series에 적용한 머신러닝 ([Video](https://drive.google.com/file/d/1HItIETh64XY6AqCcYpn8386ayUEFPeHy/view?usp=sharing))
+  3. Time series에서 패턴 ([Video](https://drive.google.com/file/d/1H6vVcZlvOKf-rCTg-34r8vxrZ85ryYO5/view?usp=sharing))
 
-      Machine learning applied to time series
-
-      Common patterns in time series
       Introduction to time series
       Train, validation and test sets
 	trend+seasonality+noise, naive forecasting, fixed partitioning
