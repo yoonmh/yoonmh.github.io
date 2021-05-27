@@ -14,7 +14,7 @@ header:
 번역자는 [박해선](https://tensorflow.blog/)이다.
 
 * [원서](http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf)
-* [2nd Ed.](https://www.manning.com/books/deep-learning-with-python-second-edition)
+* [2nd Ed.](https://livebook.manning.com/book/deep-learning-with-python-second-edition/)
 * [번역서 목차](https://tensorflow.blog/%ec%bc%80%eb%9d%bc%ec%8a%a4-%eb%94%a5%eb%9f%ac%eb%8b%9d/)
 * [원저자의 노트북](https://github.com/fchollet/deep-learning-with-python-notebooks)
 * [번역자의 노트북](https://github.com/rickiepark/deep-learning-with-python-notebooks)
