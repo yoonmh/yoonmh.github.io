@@ -9,9 +9,9 @@ Cousera에서 운영하는 <TensorFlow Developer Certificate> 과정의 강좌 �
 
 ### Class 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 * W-1. A New Programming Paradigm
-1. A primer in machine learning
-2. The ‘Hello World’ of neural networks
-3. Working through ‘Hello World’ in TensorFlow and Python
+  1. A primer in machine learning ([Video](https://drive.google.com/drive/u/0/folders/1B7UnpGqGQnL0n_nBYqXw2RwQiWP1U6v8))
+  2. The ‘Hello World’ of neural networks
+  3. Working through ‘Hello World’ in TensorFlow and Python
 * W-2. Introduction to Computer Vision
   1. An Introduction to computer vision
   2. Writing code to load training data2m
@@ -53,49 +53,45 @@ Cousera에서 운영하는 <TensorFlow Developer Certificate> 과정의 강좌 �
   3.Coding your own model with transferred features
   4.Exploring dropouts
   5.Exploring Transfer Learning with Inception
+* W 4. Multiclass Classifications
+  1.Moving from binary to multi-class classification
+  2.Explore multi-class with Rock Paper Scissors dataset
+  3.Train a classifier with Rock Paper Scissors
+  4.Test the Rock Paper Scissors classifier
 
-   W 4. Multiclass Classifications
-      1.Moving from binary to multi-class classification
-      2.Explore multi-class with Rock Paper Scissors dataset
-      3.Train a classifier with Rock Paper Scissors
-      4.Test the Rock Paper Scissors classifier
-
-Class 3. Natural Language Processing in TensorFlow
-
-   W 1. Sentiment in text
-      Introduction
-      Word based encodings
-      Using APIs
-      Notebook for lesson 
-      Text to sequence
-      Looking more at the Tokenizer
-      Padding
-      Notebook for lesson 
-      Sarcasm, really?
-      Working with the Tokenizer
-      Notebook for lesson
-      News headlines dataset for sarcasm detection
-
-   W 2. Word Embeddings
-      Introduction
-      The IMBD dataset
-      Looking into the details
-      How can we use vectors?
-      More into the details
-      Notebook for lesson 
-      Remember the sarcasm dataset?
-      Building a classifier for the sarcasm dataset
-      Let’s talk about the loss function
-      Pre-tokenized datasets
-
-   W 3. Sequence models
-      Introduction
-      LSTMs
-      Implementing LSTMs in code
-      Accuracy and loss
-      A word from Laurence
-      Looking into the code
-      Using a convolutional network
+### Class 3. Natural Language Processing in TensorFlow
+* W 1. Sentiment in text
+  1. Introduction
+  2. Word based encodings
+  3. Using APIs
+  4. Notebook for lesson 
+  5. Text to sequence
+  6. Looking more at the Tokenizer
+  7. Padding
+  8. Notebook for lesson 
+  9. Sarcasm, really?
+  10. Working with the Tokenizer
+  11. Notebook for lesson
+  12. News headlines dataset for sarcasm detection
+* W-2. Word Embeddings
+  1. Introduction
+  2. The IMBD dataset
+  3. Looking into the details
+  4. How can we use vectors?
+  5. More into the details
+  6. Notebook for lesson 
+  7. Remember the sarcasm dataset?
+  8. Building a classifier for the sarcasm dataset
+  9. Let’s talk about the loss function
+  10. Pre-tokenized datasets
+* W-3. Sequence models
+  1. Introduction
+  2. LSTMs
+  3. Implementing LSTMs in code
+  4. Accuracy and loss
+  5. A word from Laurence
+  6. Looking into the code
+  7. Using a convolutional network
       Going back to the IMDB dataset
       Tips from Laurence
 
