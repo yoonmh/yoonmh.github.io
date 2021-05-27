@@ -14,4 +14,4 @@ sidebar:
 
 # Artificial Intelligence
 
-> 참조용 사이트 모음 입니다.
+머신러닝, 딥러닝, 텐서플로우 등 인공지능 학습자료 입니다.
