@@ -1,5 +1,5 @@
 ---
-title: '케라스 창시자에게 배우는 딥러닝'
+title: "케라스 창시자에게 배우는 딥러닝"
 layout: single
 # header:
 #  overlay_image: /assets/images/earth.jpg
@@ -8,7 +8,7 @@ layout: single
 #  show_overlay_excerpt: false
 ---
 
-"케라스 창시자에게 배우는 딥러닝"은 "Deep Learning with Python"의 번역서로 원저자는 Keras를 만든 [François Chollet](https://fchollet.com/)이고, 번역자는 [박해선](https://tensorflow.blog/)이다.
+> "케라스 창시자에게 배우는 딥러닝"은 "Deep Learning with Python"의 번역서로 원저자는 Keras를 만든 [François Chollet](https://fchollet.com/)이고, 번역자는 [박해선](https://tensorflow.blog/)이다.
 
 * [원서](http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf)
 * [2nd Ed.](https://livebook.manning.com/book/deep-learning-with-python-second-edition/)
@@ -46,5 +46,3 @@ layout: single
     * [8.3: 뉴럴 스타일 트랜스퍼]
     * [8.4: 변이형 오토인코더를 사용한 이미지 생성]
     * [8.5: 적대적 생성 신경망 소개]
-
-
