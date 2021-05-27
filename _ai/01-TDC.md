@@ -108,8 +108,8 @@ layout: single
       Your next task
 
 ### Class 4. Sequences, Time Series & Prediction
-* W-1. Sequences and Prediction
-  1. Time series의 예 ([Video]())
+* W-1. Sequence와 예측
+  1. Time series의 예 ([Video](https://drive.google.com/file/d/1HC7fU4slqoRZX_ZmoR4Corrm5fiYxg1H/view?usp=sharing))
   2. 주식가격, 일기예보, Moor's law(Density vs. year), 컴퓨터공학 박사(tylervigen.com)
 	multivariate time series: birth & death rate in Japan, global temperature, co2 concentration,자동차 운동(longitude, latitude)
 	forecasts, imputed data, imputation, 
