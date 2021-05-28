@@ -12,8 +12,8 @@ header:
   1. 머신러닝 기초 ([Video][c1-w1-v1])
   2. 신경망의 ‘Hello World’ ([Video][c1-w1-v2])
   3. 텐서플로우 ‘Hello World’ 실습 ([Video][c1-w1-v3], [YouTube][c1-w1-y3], [Notebook][c1-w1-n3])
-  4. 머신러닝의 'Hello World' ([Codelab][c1-w1-c4])
-  5. Ex-1: Housing Prices ([Exercise-1][c1-w1-e1])
+  * 머신러닝의 'Hello World' ([Codelab][c1-w1-c4])
+  * Ex-1: Housing Prices ([Exercise-1][c1-w1-e1])
 * W-2. 컴퓨터 비전 
   1. 컴퓨터 비전 소개 ([Video][c1-w2-v1])
   2. 학습 데이터 로딩 코드 작성 ([Video][c1-w2-v2])
