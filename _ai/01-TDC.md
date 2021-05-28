@@ -85,16 +85,16 @@ header:
   4. Adding augmentation to cats vs. dogs ([Video][c2-w2-v4])
   5. Exploring augmentation with horses vs. humans ([Video][c2-w2-v5])
 * W-3. Transfer Learning
-  1. Understanding transfer learning: the concepts
-  2. Coding transfer learning from the inception mode
-  3. Coding your own model with transferred features
-  4. Exploring dropouts
-  5. Exploring Transfer Learning with Inception
+  1. Understanding transfer learning: the concepts ([Video][c2-w3-v1])
+  2. Coding transfer learning from the inception mode ([Video][c2-w3-v2])
+  3. Coding your own model with transferred features ([Video][c2-w3-v3])
+  4. Exploring dropouts ([Video][c2-w3-v4])
+  5. Exploring Transfer Learning with Inception ([Video][c2-w3-v5])
 * W-4. Multiclass Classifications
-  1. Moving from binary to multi-class classification
-  2. Explore multi-class with Rock Paper Scissors dataset
-  3. Train a classifier with Rock Paper Scissors
-  4. Test the Rock Paper Scissors classifier
+  1. Moving from binary to multi-class classification ([Video][c2-w4-v1])
+  2. Explore multi-class with Rock Paper Scissors dataset ([Video][c2-w4-v2])
+  3. Train a classifier with Rock Paper Scissors ([Video][c2-w4-v3])
+  4. Test the Rock Paper Scissors classifier ([Video][c2-w4-v4])
 
 [c2-w1-v1]: https://drive.google.com/file/d/1DWVtYgtQXy457gy98QuwfgwG4F4t-ZE5/view?usp=sharing
 [c2-w1-v2]: https://drive.google.com/file/d/1DQWt955CboyiVBAFbg_6QGwGG5o-wx04/view?usp=sharing
@@ -107,14 +107,23 @@ header:
 [c2-w2-v3]: https://drive.google.com/file/d/1DWeyjIBlXCTpc7I-MO1hcSInWqIC0uHX/view?usp=sharing
 [c2-w2-v4]: https://drive.google.com/file/d/1DWgspoIdW4JRCVIFZoPEs0n9XJCrJrcc/view?usp=sharing
 [c2-w2-v5]: https://drive.google.com/file/d/1D_FdXNNDkH_t3RJQLGtTDyXus4RAYowE/view?usp=sharing
+[c2-w3-v1]: https://drive.google.com/file/d/1Di947KFrYxiYT-YUEy9CZ87UytlqP9P7/view?usp=sharing
+[c2-w3-v2]: https://drive.google.com/file/d/1DhHtl0Ir6jnjEIS6Jk9dGXCmUD_oiSuN/view?usp=sharing
+[c2-w3-v3]: https://drive.google.com/file/d/1DgpXhU2GjLwsKrUIRifFI2_-QSbC7M_Z/view?usp=sharing
+[c2-w3-v4]: https://drive.google.com/file/d/1D_ypCs5orl_i_8qt5V6kmnzOlfvJ3LDr/view?usp=sharing
+[c2-w3-v5]: https://drive.google.com/file/d/1Dcj_81RSUFJI24fiZWvzuMmCDON3o2-L/view?usp=sharing
+[c2-w4-v1]: https://drive.google.com/file/d/1Do5Cn1od15LWT17f9el8GRXyu5-Thgb1/view?usp=sharing
+[c2-w4-v2]: https://drive.google.com/file/d/1Dn7X1ODEj34EMVGwBs9eQsMmbBYI3A-c/view?usp=sharing
+[c2-w4-v3]: https://drive.google.com/file/d/1DkdxDDfrCTQVBW59GyzVMM4-3jJ5z4OW/view?usp=sharing
+[c2-w4-v4]: https://drive.google.com/file/d/1DsmPadngXe71NXFBxVh2FQhXpfstDfKo/view?usp=sharing
 
 
 ## Class 3. 텐서플로우에서 자연어 처리 (NLP)
 * W-1. 문장에서 Sentiment
-  1. 서론 ([Video]())
-  2. 단어의 encoding ([Video]())
-  3. API 사용 ([Video]())
-  4. 노트북 예제 ([Video]()) 
+  1. 서론 ([Video][c3-w1-v1])
+  2. 단어의 encoding ([Video][c3-w1-v2])
+  3. API 사용 ([Video][c3-w1-v3])
+  4. 노트북 예제 ([Video][c3-w1-v4]) 
   5. Text to sequence
   6. Looking more at the Tokenizer
   7. Padding
@@ -157,6 +166,12 @@ header:
       Looking into the code
       Laurence the poet!
       Your next task
+
+[c3-w1-v1]: https://drive.google.com/file/d/1DtjmzeQSGvdonXb_qZAnMn7IKLZPvA7O/view?usp=sharing
+[c3-w1-v2]: https://drive.google.com/file/d/1DtMEqPVrDKXy9inU86zeC3ReyY2lQCD3/view?usp=sharing
+[c3-w1-v3]: https://drive.google.com/file/d/1DuLOXNBxD3Bh5a9U70rpNUzysqylJ-6a/view?usp=sharing
+[c3-w1-v4]: https://drive.google.com/file/d/1DtIeEAVlY0Irrl_yxpS_FvnyiJY5kXHq/view?usp=sharing
+
 
 ## Class 4. Sequences, Time Series & Prediction
 * W-1. Sequence와 예측
