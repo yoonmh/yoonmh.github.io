@@ -9,19 +9,19 @@ header:
 
 ## Class 1. AI, 머신러닝, 딥러닝
 * W-1. 프로그래밍 패러다임
-  1. 머신러닝 기초 ([Video](https://drive.google.com/file/d/1Cf_9DH7KWcLz7YJ-W4DHGngaMrVE15pX/view?usp=sharing))
-  2. 신경망의 ‘Hello World’ ([Video](https://drive.google.com/file/d/1CemGe4AnOjuOm7OE4C5AycbLzrP-D565/view?usp=sharing))
-  3. 텐서플로우 ‘Hello World’ 실습 ([Video](https://drive.google.com/file/d/1CfQYOuy4BD6H_bPzh4eYMph-2dnyBQCC/view?usp=sharing), [Notebook](https://colab.research.google.com/drive/1Ks5xx0a9Pj1cqkOHQdEBCH7Lp19nFUIo))
-  4. 머신러닝의 'Hello World' ([Codelab](https://developers.google.com/codelabs/tensorflow-1-helloworld#0))
-  5. Ex-1: Housing Prices ([Question](https://colab.research.google.com/drive/1bOZcCbQE8OreI_mqY89z6RMpzXEvzkz8), [Answer](https://colab.research.google.com/drive/1bQGMd9Bh1-X7PmAcDbJH0ERlotYVmQGn))
+  1. 머신러닝 기초 ([Video][c1-w1-v1])
+  2. 신경망의 ‘Hello World’ ([Video][c1-w1-v2])
+  3. 텐서플로우 ‘Hello World’ 실습 ([Video][c1-w1-v3], [Notebook][c1-w1-n3])
+  4. 머신러닝의 'Hello World' ([Codelab][c1=w1-c4])
+  5. Ex-1: Housing Prices ([Question][c1-w1-e1], [Answer][c1-w1-e2])
 * W-2. 컴퓨터 비전 
-  1. 컴퓨터 비전 소개 ([Video](https://drive.google.com/file/d/1CjA1cS5tW3S4FeRniPYP_bnluFsgkLPr/view?usp=sharing))
-  2. 학습 데이터 로딩 코드 작성 ([Video](https://drive.google.com/file/d/1CjOZJ9_wDl4Cs8LCyUZGjI8_I66LcQTD/view?usp=sharing))
-  3. 컴퓨터 비전 신경망 코딩 ([Video](https://drive.google.com/file/d/1Ckp6Mi7UYzXPtFHqLGADfjm9boM63Wm6/view?usp=sharing),  [YouTube](https://youtu.be/fXOsFF95ifk))
-  4. 컴퓨터 비전 노트북  ([Video](https://drive.google.com/file/d/1D8kuCDTflhbe3TX06v9IjRvmIILU4UxT/view?usp=sharing), [Notebook](https://colab.research.google.com/drive/1GSianNRgCgUVUOxSYAS1t5dRZUg7E8dn))
-  5. 학습을 콘트롤하기 위한 Callback 사용 ([Video](https://drive.google.com/file/d/1D5anYmJtOjqyv4iYoYr75nwp1_dF5irT/view?usp=sharing))
-  6. Callback으로 노트북 실습 ([Video](https://drive.google.com/file/d/1D8ynv5icDFUqMdLKTJhkRBdO6LiQUlJa/view?usp=sharing))
-  7. [Computer Vision Model](https://developers.google.com/codelabs/tensorflow-lab2-computervision?hl=en#0)
+  1. 컴퓨터 비전 소개 ([Video][c1-w2-v1])
+  2. 학습 데이터 로딩 코드 작성 ([Video][c1-w2-v2])
+  3. 컴퓨터 비전 신경망 코딩 ([Video][c1-w2-v3], [YouTube][c1-w2-y3])
+  4. 컴퓨터 비전 노트북  ([Video][c1-w2-v4], [Notebook][c1-w2-n4])
+  5. 학습을 콘트롤하기 위한 Callback 사용 ([Video][c1-w2-v5])
+  6. Callback으로 노트북 실습 ([Video][c1-w2-v6], [Notebook][c1-w2-n6])
+  7. Computer Vision Model ([Codelab][c1-w2-c7]])
 * W-3. CNN으로 비전 향상
   1. Convolution과 ooling 이란? ([Video](https://drive.google.com/file/d/1CuKl1wzhruxTi0txKKcfolhc_s8k-_9C/view?usp=sharing
   2. Convolutional layer 구현 ([Video]())
@@ -36,6 +36,25 @@ header:
   5. fit_generator와 함께 ConvNet 학습 작업하기 ([Video]())
   6. 테스트 정확도에 대한 자동 검증 ([Video]())
   7. 이미지 압축 효과 탐색 ([Video]())
+
+[c1-w1-v1]: https://drive.google.com/file/d/1Cf_9DH7KWcLz7YJ-W4DHGngaMrVE15pX/view?usp=sharing
+[c1-w1-v2]: https://drive.google.com/file/d/1CemGe4AnOjuOm7OE4C5AycbLzrP-D565/view?usp=sharing
+[c1-w1-v3]: https://drive.google.com/file/d/1CfQYOuy4BD6H_bPzh4eYMph-2dnyBQCC/view?usp=sharing
+[c1-w1-n3]: https://colab.research.google.com/drive/1Ks5xx0a9Pj1cqkOHQdEBCH7Lp19nFUIo
+[c1-w1-c4]: https://developers.google.com/codelabs/tensorflow-1-helloworld#0
+[c1-w1-e1]: https://colab.research.google.com/drive/1bOZcCbQE8OreI_mqY89z6RMpzXEvzkz8
+[c1-w1-e2]: https://colab.research.google.com/drive/1bQGMd9Bh1-X7PmAcDbJH0ERlotYVmQGn
+[c1-w2-v1]: https://drive.google.com/file/d/1CjA1cS5tW3S4FeRniPYP_bnluFsgkLPr/view?usp=sharing
+[c1=w2-v2]: https://drive.google.com/file/d/1CjOZJ9_wDl4Cs8LCyUZGjI8_I66LcQTD/view?usp=sharing
+[c1-w2-v3]: https://drive.google.com/file/d/1Ckp6Mi7UYzXPtFHqLGADfjm9boM63Wm6/view?usp=sharing
+[c1-w2-y3]: https://youtu.be/fXOsFF95ifk
+[c1-w2-v4]: https://drive.google.com/file/d/1D8kuCDTflhbe3TX06v9IjRvmIILU4UxT/view?usp=sharing
+[c1-w2-n4]: https://colab.research.google.com/drive/1GSianNRgCgUVUOxSYAS1t5dRZUg7E8dn
+[c1-w2-v5]: https://drive.google.com/file/d/1D5anYmJtOjqyv4iYoYr75nwp1_dF5irT/view?usp=sharing
+[c1-w2-v6]: https://drive.google.com/file/d/1D8ynv5icDFUqMdLKTJhkRBdO6LiQUlJa/view?usp=sharing
+[c1-w2-n6]: 
+[c1-w2-c7]: https://developers.google.com/codelabs/tensorflow-lab2-computervision?hl=en#0
+
 
 ## Class 2. 턴서플로우에서 CNN
 * W-1. 대규모 Dataset 사용
