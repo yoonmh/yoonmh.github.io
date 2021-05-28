@@ -54,7 +54,7 @@ header:
 [c1-w2-v5]: https://drive.google.com/file/d/1D5anYmJtOjqyv4iYoYr75nwp1_dF5irT/view?usp=sharing
 [c1-w2-v6]: https://drive.google.com/file/d/1D8ynv5icDFUqMdLKTJhkRBdO6LiQUlJa/view?usp=sharing
 [c1-w2-n6]: https://
-[c1-w2-c7]: https://developers.google.com/codelabs/tensorflow-lab2-computervision?hl=en
+[c1-w2-c7]: https://developers.google.com/codelabs/tensorflow-lab2-computervision
 [c1-w3-v1]: https://drive.google.com/file/d/1CuKl1wzhruxTi0txKKcfolhc_s8k-_9C/view?usp=sharing
 [c1-w3-v2]:
 [c1-w3-v3]:
