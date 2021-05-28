@@ -18,6 +18,7 @@ layout: single
   4. 컴퓨터 비전 노트북  ([Video](https://drive.google.com/file/d/1D8kuCDTflhbe3TX06v9IjRvmIILU4UxT/view?usp=sharing))
   5. 학습을 콘트롤하기 위한 Callback 사용 ([Video](https://drive.google.com/file/d/1D5anYmJtOjqyv4iYoYr75nwp1_dF5irT/view?usp=sharing))
   6. Callback으로 노트북 실습 ([Video](https://drive.google.com/file/d/1D8ynv5icDFUqMdLKTJhkRBdO6LiQUlJa/view?usp=sharing))
+  7. [Computer Vision Model](https://developers.google.com/codelabs/tensorflow-lab2-computervision?hl=en#0)
 * W-3. CNN으로 비전 향상
   1. Convolution과 ooling 이란? ([Video](https://drive.google.com/file/d/1CuKl1wzhruxTi0txKKcfolhc_s8k-_9C/view?usp=sharing))
   2. Convolutional layer 구현 ([Video]())
