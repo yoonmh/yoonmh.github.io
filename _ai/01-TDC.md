@@ -21,7 +21,7 @@ header:
   4. 컴퓨터 비전 노트북  ([Video][c1-w2-v4], [Notebook][c1-w2-n4])
   5. 학습을 콘트롤하기 위한 Callback 사용 ([Video][c1-w2-v5])
   6. Callback으로 노트북 실습 ([Video][c1-w2-v6], [Notebook][c1-w2-n6])
-  7. Computer Vision Model ([Codelab][c1-w2-c7])
+  * Computer Vision Model ([Codelab][c1-w2-c7])
 * W-3. CNN으로 비전 향상
   1. Convolution과 pooling 이란? ([Video][c1-w3-v1])
   2. Convolutional layer 구현 ([Video][c1-w3-v2])
