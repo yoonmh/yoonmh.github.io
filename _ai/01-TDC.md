@@ -21,15 +21,15 @@ header:
   4. 컴퓨터 비전 노트북  ([Video][c1-w2-v4], [Notebook][c1-w2-n4])
   5. 학습을 콘트롤하기 위한 Callback 사용 ([Video][c1-w2-v5])
   6. Callback으로 노트북 실습 ([Video][c1-w2-v6], [Notebook][c1-w2-n6])
-  7. Computer Vision Model ([Codelab][c1-w2-c7]])
+  7. Computer Vision Model ([Codelab][c1-w2-c7])
 * W-3. CNN으로 비전 향상
-  1. Convolution과 ooling 이란? ([Video](https://drive.google.com/file/d/1CuKl1wzhruxTi0txKKcfolhc_s8k-_9C/view?usp=sharing
-  2. Convolutional layer 구현 ([Video]())
-  3. Pooling layer 구현 ([Video]())
-  4. 컨벌루션으로 Fashion classifier 성능향상 ([Video]())
-  5. 컨벌루션 실습 ([Video]())
+  1. Convolution과 pooling 이란? ([Video][c1-w3-v1])
+  2. Convolutional layer 구현 ([Video][c1-w3-v2])
+  3. Pooling layer 구현 ([Video][c1-w3-v3])
+  4. 컨벌루션으로 Fashion classifier 성능향상 ([Video][c1-w3-v4])
+  5. 컨벌루션 실습 ([Video][c1-w3-v5])
 * W-4. 실생활 이미지 사용
-  1. ImageGenerator 이해 ([Video](https://drive.google.com/file/d/1D4eeg2v4tNM6k98-c3vftdxRBMX2uXof/view?usp=sharing))
+  1. ImageGenerator 이해 ([Video])
   2. 복잡한 이미지에 사용하기 위한 ConvNet 정의 ([Video]())
   3. fit_generator와 함께 ConvNet 학습 ([Video]())
   4. ConvNet 작업하기 ([Video]())
@@ -46,7 +46,7 @@ header:
 [c1-w1-e1]: https://colab.research.google.com/drive/1bOZcCbQE8OreI_mqY89z6RMpzXEvzkz8
 [c1-w1-e2]: https://colab.research.google.com/drive/1bQGMd9Bh1-X7PmAcDbJH0ERlotYVmQGn
 [c1-w2-v1]: https://drive.google.com/file/d/1CjA1cS5tW3S4FeRniPYP_bnluFsgkLPr/view?usp=sharing
-[c1=w2-v2]: https://drive.google.com/file/d/1CjOZJ9_wDl4Cs8LCyUZGjI8_I66LcQTD/view?usp=sharing
+[c1-w2-v2]: https://drive.google.com/file/d/1CjOZJ9_wDl4Cs8LCyUZGjI8_I66LcQTD/view?usp=sharing
 [c1-w2-v3]: https://drive.google.com/file/d/1Ckp6Mi7UYzXPtFHqLGADfjm9boM63Wm6/view?usp=sharing
 [c1-w2-y3]: https://youtu.be/fXOsFF95ifk
 [c1-w2-v4]: https://drive.google.com/file/d/1D8kuCDTflhbe3TX06v9IjRvmIILU4UxT/view?usp=sharing
@@ -55,6 +55,12 @@ header:
 [c1-w2-v6]: https://drive.google.com/file/d/1D8ynv5icDFUqMdLKTJhkRBdO6LiQUlJa/view?usp=sharing
 [c1-w2-n6]: 
 [c1-w2-c7]: https://developers.google.com/codelabs/tensorflow-lab2-computervision?hl=en#0
+[c1-w3-v1]: https://drive.google.com/file/d/1CuKl1wzhruxTi0txKKcfolhc_s8k-_9C/view?usp=sharing
+[c1-w3-v2]:
+[c1-w3-v3]:
+[c1-w3-v4]:
+[c1-w3-v5]:
+[c1-w4-v1]: https://drive.google.com/file/d/1D4eeg2v4tNM6k98-c3vftdxRBMX2uXof/view?usp=sharing
 
 
 ## Class 2. 턴서플로우에서 CNN
