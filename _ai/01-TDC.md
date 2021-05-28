@@ -1,6 +1,8 @@
 ---
 title: "TensorFlow Developer Certificate"
 layout: single
+header:
+  teaser: /assets/images/TDC.jpg
 ---
 
 > Cousera에서 운영하는 "TensorFlow Developer Certificate" 과정의 학습강좌 및 텐서플로우 노트북 입니다.
