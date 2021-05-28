@@ -53,7 +53,7 @@ header:
 [c1-w2-n4]: https://colab.research.google.com/drive/1GSianNRgCgUVUOxSYAS1t5dRZUg7E8dn
 [c1-w2-v5]: https://drive.google.com/file/d/1D5anYmJtOjqyv4iYoYr75nwp1_dF5irT/view?usp=sharing
 [c1-w2-v6]: https://drive.google.com/file/d/1D8ynv5icDFUqMdLKTJhkRBdO6LiQUlJa/view?usp=sharing
-[c1-w2-n6]: https://
+[c1-w2-n6]: https://colab.research.google.com/drive/1-Aoj3vcaOMxDOJR_1claWLqNq0aUXK6s
 [c1-w2-c7]: https://developers.google.com/codelabs/tensorflow-lab2-computervision
 [c1-w3-v1]: https://drive.google.com/file/d/1CuKl1wzhruxTi0txKKcfolhc_s8k-_9C/view?usp=sharing
 [c1-w3-v2]: https://drive.google.com/file/d/1CuLuZOplS7ymwRL-8FDKSMRW2wRLxjo8/view?usp=sharing
