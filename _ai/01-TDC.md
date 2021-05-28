@@ -42,7 +42,7 @@ header:
 [c1-w1-v3]: https://drive.google.com/file/d/1CfQYOuy4BD6H_bPzh4eYMph-2dnyBQCC/view?usp=sharing
 [c1-w1-y3]: https://youtu.be/inN8seMm7UI
 [c1-w1-n3]: https://colab.research.google.com/drive/1Ks5xx0a9Pj1cqkOHQdEBCH7Lp19nFUIo
-[c1-w1-c4]: https://developers.google.com/codelabs/tensorflow-1-helloworld#0
+[c1-w1-c4]: https://developers.google.com/codelabs/tensorflow-1-helloworld
 [c1-w1-e1]: https://colab.research.google.com/drive/1bOZcCbQE8OreI_mqY89z6RMpzXEvzkz8
 [c1-w1-e2]: https://colab.research.google.com/drive/1bQGMd9Bh1-X7PmAcDbJH0ERlotYVmQGn
 [c1-w2-v1]: https://drive.google.com/file/d/1CjA1cS5tW3S4FeRniPYP_bnluFsgkLPr/view?usp=sharing
