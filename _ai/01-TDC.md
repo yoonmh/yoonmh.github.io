@@ -72,16 +72,16 @@ header:
 ## Class 2. 턴서플로우에서 CNN
 * W-1. 대규모 Dataset 사용
   1. 고양이와 개 dataset 학습 ([Video][c2-w1-v1])
-  2. 노트북 실습 ([Video]())
-  3. Fixing through cropping
-  4. 컨벌루션 효과 시각화 ([Video]())
-  5. Accuracy와 loss 관점에서 바라보가 ([Video]())
+  2. 노트북 실습 ([Video][c2-w1-v2], [Notebook][c2-w1-n2])
+  3. Fixing through cropping ([Video][c2-w1-v3])
+  4. 컨벌루션 효과 시각화 ([Video][c2-w1-v4])
+  5. Accuracy와 loss 관점에서 바라보가 ([Video][c2-w1-v5])
 * W-2. Augmentation: overfitting을 피하는 방법
-  1. Augmentation 소개 ([Video]())
-  2. ImageDataGenerator로 augmentation 코딩 ([Video]())
-  3. 고양이와 개 데이터에서 overfitting 데모 ([Video]())
-  4. Adding augmentation to cats vs. dogs
-  5. Exploring augmentation with horses vs. humans
+  1. Augmentation 소개 ([Video][c2-w2-v1])
+  2. ImageDataGenerator로 augmentation 코딩 ([Video][c2-w2-v2])
+  3. 고양이와 개 데이터에서 overfitting 데모 ([Video][c2-w2-v3])
+  4. Adding augmentation to cats vs. dogs ([Video][c2-w2-v4])
+  5. Exploring augmentation with horses vs. humans ([Video][c2-w2-v5])
 * W-3. Transfer Learning
   1. Understanding transfer learning: the concepts
   2. Coding transfer learning from the inception mode
@@ -95,6 +95,16 @@ header:
   4. Test the Rock Paper Scissors classifier
 
 [c2-w1-v1]: https://drive.google.com/file/d/1DWVtYgtQXy457gy98QuwfgwG4F4t-ZE5/view?usp=sharing
+[c2-w1-v2]: https://drive.google.com/file/d/1DQWt955CboyiVBAFbg_6QGwGG5o-wx04/view?usp=sharing
+[c2-w1-n2]: http://
+[c2-w1-v3]: https://drive.google.com/file/d/1DU6lV10hIDE5ieYneJfPKjZ7TbuQ7dRf/view?usp=sharing
+[c2-w1-v4]: https://drive.google.com/file/d/1DTQl5w2ZSBfm0uCpq5AhbskZMANQYxKC/view?usp=sharing
+[c2-w1-v5]: https://drive.google.com/file/d/1DRc7YxwoQsDy7s9kIROEyGTjDEVwqogs/view?usp=sharing
+[c2-w2-v1]: https://drive.google.com/file/d/1DZdyxQVriDyTN6OPuLSx28Pr1O2W3XjG/view?usp=sharing
+[c2-w2-v2]: https://drive.google.com/file/d/1DYYDrIo5Deaimjz92joXcUT7q-TCRAyK/view?usp=sharing
+[c2-w2-v3]: https://drive.google.com/file/d/1DWeyjIBlXCTpc7I-MO1hcSInWqIC0uHX/view?usp=sharing
+[c2-w2-v4]: https://drive.google.com/file/d/1DWgspoIdW4JRCVIFZoPEs0n9XJCrJrcc/view?usp=sharing
+[c2-w2-v5]: https://drive.google.com/file/d/1D_FdXNNDkH_t3RJQLGtTDyXus4RAYowE/view?usp=sharing
 
 
 ## Class 3. 텐서플로우에서 자연어 처리 (NLP)
