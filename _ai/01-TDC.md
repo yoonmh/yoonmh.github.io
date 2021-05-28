@@ -69,11 +69,10 @@ header:
 [c1-w4-v7]: https://drive.google.com/file/d/1DL9M1xddEn6U5zqphRXrHfPpwA2pvmZI/view?usp=sharing
 
 
-
 ## Class 2. 턴서플로우에서 CNN
 * W-1. 대규모 Dataset 사용
-  1. 고양이와 개 dataset 학습 ([Video](https://drive.google.com/file/d/1DWVtYgtQXy457gy98QuwfgwG4F4t-ZE5/view?usp=sharing))
-  2. 노트북 작업하기 ([Video]())
+  1. 고양이와 개 dataset 학습 ([Video][c2-w1-v1])
+  2. 노트북 실습 ([Video]())
   3. Fixing through cropping
   4. 컨벌루션 효과 시각화 ([Video]())
   5. Accuracy와 loss 관점에서 바라보가 ([Video]())
@@ -94,6 +93,9 @@ header:
   2. Explore multi-class with Rock Paper Scissors dataset
   3. Train a classifier with Rock Paper Scissors
   4. Test the Rock Paper Scissors classifier
+
+[c2-w1-v1]: https://drive.google.com/file/d/1DWVtYgtQXy457gy98QuwfgwG4F4t-ZE5/view?usp=sharing
+
 
 ## Class 3. 텐서플로우에서 자연어 처리 (NLP)
 * W-1. 문장에서 Sentiment
@@ -146,12 +148,12 @@ header:
 
 ## Class 4. Sequences, Time Series & Prediction
 * W-1. Sequence와 예측
-  1. Time series의 예 ([Video](https://drive.google.com/file/d/1HC7fU4slqoRZX_ZmoR4Corrm5fiYxg1H/view?usp=sharing))
-  2. Time series에 적용한 머신러닝 ([Video](https://drive.google.com/file/d/1HItIETh64XY6AqCcYpn8386ayUEFPeHy/view?usp=sharing))
-  3. Time series에서 패턴 ([Video](https://drive.google.com/file/d/1H6vVcZlvOKf-rCTg-34r8vxrZ85ryYO5/view?usp=sharing))
-  4. Time series 서론 ([Video](https://drive.google.com/file/d/1H11O5P6JPvyTP-XIZ-docZhq5PljGyZC/view?usp=sharing), [Notebook](https://colab.research.google.com/drive/1O2LH56mUmh5U1rJuHTBx5VYUuqbSiJAT))
-  5. Train, validation and test sets ([Video](https://drive.google.com/file/d/1HRjc72wdq9DAR5FVQCiHVLi8e8q1JOA0/view?usp=sharing))
-  6. 성능 평가를 위한 Metrics ([Video](https://drive.google.com/file/d/1Hta2rptk3XPu0fNGWIRLJgrv2SIYXhaT/view?usp=sharing))
+  1. Time series의 예 ([Video][c4-w1-v1])
+  2. Time series에 적용한 머신러닝 ([Video][c4-w1-v2])
+  3. Time series에서 패턴 ([Video][c4-w1-v3])
+  4. Time series 서론 ([Video][c4-w1-v4], [Notebook][c4-w1-n4])
+  5. Train, validation and test sets ([Video][c4-w1-v5])
+  6. 성능 평가를 위한 Metrics ([Video][c4-w1-v6])
   7. Moving average and differencing
   8. Trailing versus centered windows
   9. Forecasting
@@ -185,3 +187,11 @@ header:
   7. Sunspots
   8. Combining our tools for analysis
   9. Congratulations!
+
+[c4-w1-v1]: https://drive.google.com/file/d/1HC7fU4slqoRZX_ZmoR4Corrm5fiYxg1H/view?usp=sharing
+[c4-w1-v2]: https://drive.google.com/file/d/1HItIETh64XY6AqCcYpn8386ayUEFPeHy/view?usp=sharing
+[c4-w1-v3]: https://drive.google.com/file/d/1H6vVcZlvOKf-rCTg-34r8vxrZ85ryYO5/view?usp=sharing
+[c4-w1-v4]: https://drive.google.com/file/d/1H11O5P6JPvyTP-XIZ-docZhq5PljGyZC/view?usp=sharing
+[c4-w1-n4]: https://colab.research.google.com/drive/1O2LH56mUmh5U1rJuHTBx5VYUuqbSiJAT
+[c4-w1-v5]: https://drive.google.com/file/d/1HRjc72wdq9DAR5FVQCiHVLi8e8q1JOA0/view?usp=sharing
+[c4-w1-v6]: https://drive.google.com/file/d/1Hta2rptk3XPu0fNGWIRLJgrv2SIYXhaT/view?usp=sharing
