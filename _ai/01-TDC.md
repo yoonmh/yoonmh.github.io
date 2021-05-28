@@ -29,13 +29,13 @@ header:
   4. 컨벌루션으로 Fashion classifier 성능향상 ([Video][c1-w3-v4])
   5. 컨벌루션 실습 ([Video][c1-w3-v5])
 * W-4. 실생활 이미지 사용
-  1. ImageGenerator 이해 ([Video])
-  2. 복잡한 이미지에 사용하기 위한 ConvNet 정의 ([Video]())
-  3. fit_generator와 함께 ConvNet 학습 ([Video]())
-  4. ConvNet 작업하기 ([Video]())
-  5. fit_generator와 함께 ConvNet 학습 작업하기 ([Video]())
-  6. 테스트 정확도에 대한 자동 검증 ([Video]())
-  7. 이미지 압축 효과 탐색 ([Video]())
+  1. ImageGenerator 이해 ([Video][c1-w4-v1])
+  2. 복잡한 이미지에 사용하기 위한 ConvNet 정의 ([Video][c1-w4-v2])
+  3. fit_generator와 함께 ConvNet 학습 ([Video][c1-w4-v3])
+  4. ConvNet 작업하기 ([Video][c1-w4-v4])
+  5. fit_generator와 함께 ConvNet 학습 작업하기 ([Video][c1-w4-v5])
+  6. 테스트 정확도에 대한 자동 검증 ([Video][c1-w4-v6])
+  7. 이미지 압축 효과 탐색 ([Video][c1-w4-v7])
 
 [c1-w1-v1]: https://drive.google.com/file/d/1Cf_9DH7KWcLz7YJ-W4DHGngaMrVE15pX/view?usp=sharing
 [c1-w1-v2]: https://drive.google.com/file/d/1CemGe4AnOjuOm7OE4C5AycbLzrP-D565/view?usp=sharing
@@ -56,11 +56,19 @@ header:
 [c1-w2-n6]: https://
 [c1-w2-c7]: https://developers.google.com/codelabs/tensorflow-lab2-computervision
 [c1-w3-v1]: https://drive.google.com/file/d/1CuKl1wzhruxTi0txKKcfolhc_s8k-_9C/view?usp=sharing
-[c1-w3-v2]:
-[c1-w3-v3]:
-[c1-w3-v4]:
-[c1-w3-v5]:
+[c1-w3-v2]: https://drive.google.com/file/d/1CuLuZOplS7ymwRL-8FDKSMRW2wRLxjo8/view?usp=sharing
+[c1-w3-v3]: https://drive.google.com/file/d/1Cx05IMoAaYrIykTnFGf0mBrV3UmqeJyQ/view?usp=sharing
+[c1-w3-v4]: https://drive.google.com/file/d/1D4AEbvno9QZ-2f8L0Udr_tpuB5drhuRG/view?usp=sharing
+[c1-w3-v5]: https://drive.google.com/file/d/1D4CCpUEyZce86-4Pnp7KCRM4KDKkdfpK/view?usp=sharing
 [c1-w4-v1]: https://drive.google.com/file/d/1D4eeg2v4tNM6k98-c3vftdxRBMX2uXof/view?usp=sharing
+[c1-w4-v2]: https://drive.google.com/file/d/1DN1MiJfYsZZZr_bkzpdmBuXKEjGQw2x8/view?usp=sharing
+[c1-w4-v3]: https://drive.google.com/file/d/1DMWJkNClTxRs9a4K93znl4T-MtS7U9mh/view?usp=sharing
+[c1-w4-v4]: https://drive.google.com/file/d/1DNY8vdkzR0kCOh4g_UpFOw6opUu8lTfI/view?usp=sharing
+[c1-w4-v5]: https://drive.google.com/file/d/1DK4M95npZV1azIU2VLp0jgKm44SG7KZp/view?usp=sharing
+[c1-w4-n5]: https://
+[c1-w4-v6]: https://drive.google.com/file/d/1DLc50ujPjCCLcPAgs83gOiVyRLlguC37/view?usp=sharing
+[c1-w4-v7]: https://drive.google.com/file/d/1DL9M1xddEn6U5zqphRXrHfPpwA2pvmZI/view?usp=sharing
+
 
 
 ## Class 2. 턴서플로우에서 CNN
