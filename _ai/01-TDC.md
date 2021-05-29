@@ -78,6 +78,9 @@ header:
   3. Fixing through cropping ([Video][c2-w1-v3])
   4. 컨벌루션 효과 시각화 ([Video][c2-w1-v4])
   5. Accuracy와 loss 관점에서 바라보가 ([Video][c2-w1-v5])
+  6. 참고
+    * [Kaggle data][c2-w1-kg]
+    * Ex-2: Cats vs. Dogs ([Exercise-2][c2-w1-e2])
 * W-2. Augmentation: overfitting을 피하는 방법
   1. Augmentation 소개 ([Video][c2-w2-v1])
   2. ImageDataGenerator로 augmentation 코딩 ([Video][c2-w2-v2])
@@ -102,6 +105,8 @@ header:
 [c2-w1-v3]: https://drive.google.com/file/d/1DU6lV10hIDE5ieYneJfPKjZ7TbuQ7dRf/view?usp=sharing
 [c2-w1-v4]: https://drive.google.com/file/d/1DTQl5w2ZSBfm0uCpq5AhbskZMANQYxKC/view?usp=sharing
 [c2-w1-v5]: https://drive.google.com/file/d/1DRc7YxwoQsDy7s9kIROEyGTjDEVwqogs/view?usp=sharing
+[c2-w1-kg]: https://www.kaggle.com/c/dogs-vs-cats
+[c2-w1-e2]: https://
 [c2-w2-v1]: https://drive.google.com/file/d/1DZdyxQVriDyTN6OPuLSx28Pr1O2W3XjG/view?usp=sharing
 [c2-w2-v2]: https://drive.google.com/file/d/1DYYDrIo5Deaimjz92joXcUT7q-TCRAyK/view?usp=sharing
 [c2-w2-v3]: https://drive.google.com/file/d/1DWeyjIBlXCTpc7I-MO1hcSInWqIC0uHX/view?usp=sharing
