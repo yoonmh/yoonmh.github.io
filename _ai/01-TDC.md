@@ -1,8 +1,8 @@
 ---
 title: "TensorFlow Developer Certificate"
 layout: single
-header:
-  teaser: /assets/images/TDC.jpg
+# header:
+#  teaser: /assets/images/TDC.jpg
 ---
 
 > Cousera에서 운영하는 "TensorFlow Developer Certificate" 과정의 학습강좌 및 텐서플로우 노트북 입니다.
@@ -204,6 +204,7 @@ header:
 [c3-w2-d1]: http://ai.stanford.edu/~amaas/data/sentiment/
 [c3-w2-v2]: https://drive.google.com/file/d/1D6KW_myjoPyAt88f_1UhasT6sguK45h2/view?usp=sharing
 [c3-w2-v3]: https://drive.google.com/file/d/1DHGVJ4kHeK9S4U2D1vnhm23mTfwf3yGU/view?usp=sharing
+[c3-w2-v4]: https://drive.google.com/file/d/1DVaW77u23xd7fCxUMfzUs3skYj6jirtI/view?usp=sharing
 
 
 ## Class 4. Sequences, Time Series & Prediction
