@@ -90,7 +90,7 @@ header:
   6. 참고
     * [Keras augmentation][c2-w2-ka]
 * W-3. Transfer Learning
-  1. Understanding transfer learning: the concepts ([Video][c2-w3-v1])
+  1. Transfer learning의 개면 ([Video][c2-w3-v1])
   2. Coding transfer learning from the inception mode ([Video][c2-w3-v2])
   3. Coding your own model with transferred features ([Video][c2-w3-v3])
   4. Exploring dropouts ([Video][c2-w3-v4])
