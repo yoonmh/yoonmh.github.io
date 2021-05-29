@@ -85,7 +85,7 @@ header:
   1. Augmentation 서론 ([Video][c2-w2-v1])
   2. ImageDataGenerator로 augmentation 코딩 ([Video][c2-w2-v2])
   3. 고양이와 개 에서 overfitting 데모 ([Video][c2-w2-v3], [Notebook][c2-w2-n3])
-  4. 고양이와 개 분류에 augmentation 적용 ([Video][c2-w2-v4], [Notebook][c2-w2-n4])
+  4. 고양이와 개 분류에 augmentation 적용 ([Video][c2-w2-v4])
   5. Exploring augmentation with horses vs. humans ([Video][c2-w2-v5])
   6. 참고
     * [Keras augmentation][c2-w2-ka]
@@ -114,7 +114,6 @@ header:
 [c2-w2-v3]: https://drive.google.com/file/d/1DWeyjIBlXCTpc7I-MO1hcSInWqIC0uHX/view?usp=sharing
 [c2-w2-n3]: https://colab.research.google.com/drive/1NbwrmerHOCsE3qSWtIyjt8SZIoI08TIG
 [c2-w2-v4]: https://drive.google.com/file/d/1DWgspoIdW4JRCVIFZoPEs0n9XJCrJrcc/view?usp=sharing
-[c2-w2-n4]: https://colab.research.google.com/drive/1cAtK66GnlatkaszsDDC4PhNxN81I5fay
 [c2-w2-v5]: https://drive.google.com/file/d/1D_FdXNNDkH_t3RJQLGtTDyXus4RAYowE/view?usp=sharing
 [c2-w2-ka]: https://github.com/keras-team/keras-preprocessing
 
