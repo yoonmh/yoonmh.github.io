@@ -19,7 +19,7 @@ header:
   1. 컴퓨터 비전 소개 ([Video][c1-w2-v1])
   2. 학습 데이터 로딩 코드 작성 ([Video][c1-w2-v2])
   3. 컴퓨터 비전 신경망 코딩 ([Video][c1-w2-v3], [YouTube][c1-w2-y3])
-  4. 컴퓨터 비전 노트북  ([Video][c1-w2-v4], [Notebook][c1-w2-n4])
+  4. 컴퓨터 비전 노트북 ([Video][c1-w2-v4], [Notebook][c1-w2-n4])
   5. 학습을 콘트롤하기 위한 Callback 사용 ([Video][c1-w2-v5])
   6. Callback으로 노트북 실습 ([Video][c1-w2-v6], [Notebook][c1-w2-n6])
   7. 참고
@@ -84,8 +84,8 @@ header:
 * W-2. Augmentation: overfitting을 피하는 방법
   1. Augmentation 서론 ([Video][c2-w2-v1])
   2. ImageDataGenerator로 augmentation 코딩 ([Video][c2-w2-v2])
-  3. 고양이와 개 에서 overfitting 데모 ([Video][c2-w2-v3], [Notebook][c2-w2-n3])
-  4. 고양이와 개 분류에 augmentation 적용 ([Video][c2-w2-v4])
+  3. 고양이와 개 에서 overfitting 데모 ([Video][c2-w2-v3])
+  4. 고양이와 개 분류에 augmentation 적용 ([Video][c2-w2-v4], [Notebook][c2-w2-n4])
   5. 말과 사람 분류의 augmentation ([Video][c2-w2-v5], [Notebook][c2-w2-n5])
   6. 참고
     * [Keras augmentation][c2-w2-ka]
@@ -112,12 +112,11 @@ header:
 [c2-w2-v1]: https://drive.google.com/file/d/1DZdyxQVriDyTN6OPuLSx28Pr1O2W3XjG/view?usp=sharing
 [c2-w2-v2]: https://drive.google.com/file/d/1DYYDrIo5Deaimjz92joXcUT7q-TCRAyK/view?usp=sharing
 [c2-w2-v3]: https://drive.google.com/file/d/1DWeyjIBlXCTpc7I-MO1hcSInWqIC0uHX/view?usp=sharing
-[c2-w2-n3]: https://colab.research.google.com/drive/1NbwrmerHOCsE3qSWtIyjt8SZIoI08TIG
 [c2-w2-v4]: https://drive.google.com/file/d/1DWgspoIdW4JRCVIFZoPEs0n9XJCrJrcc/view?usp=sharing
+[c2-w2-n4]: https://colab.research.google.com/drive/1NbwrmerHOCsE3qSWtIyjt8SZIoI08TIG
 [c2-w2-v5]: https://drive.google.com/file/d/1D_FdXNNDkH_t3RJQLGtTDyXus4RAYowE/view?usp=sharing
 [c2-w2-n5]: https://colab.research.google.com/drive/1SK_L5kOba9zQmJj0ICcmEILG2uz4Ek9E
 [c2-w2-ka]: https://github.com/keras-team/keras-preprocessing
-
 [c2-w3-v1]: https://drive.google.com/file/d/1Di947KFrYxiYT-YUEy9CZ87UytlqP9P7/view?usp=sharing
 [c2-w3-v2]: https://drive.google.com/file/d/1DhHtl0Ir6jnjEIS6Jk9dGXCmUD_oiSuN/view?usp=sharing
 [c2-w3-v3]: https://drive.google.com/file/d/1DgpXhU2GjLwsKrUIRifFI2_-QSbC7M_Z/view?usp=sharing
