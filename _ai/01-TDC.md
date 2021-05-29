@@ -176,9 +176,9 @@ layout: single
       Going back to the IMDB dataset
       Tips from Laurence
 * W-4. Sequence 모델과 문학
-  1. 서론 ([Video]())
-  2. Looking into the code 
-  3. Training the data
+  1. 서론 ([Video][c3-w4-v1])
+  2. Looking into the code ([Video][c3-w4-v2])
+  3. Training the data ([Video][c3-w4-v3])
   4. More on training the data
   5. 노트북 예제 ([Video]())
   6. Finding what the next word should be
@@ -226,6 +226,9 @@ layout: single
 [c3-w3-v5]: https://drive.google.com/file/d/1F-snzZBGSHj_r2q2ULQ8RDhvLTfsjH4O/view?usp=sharing
 [c3-w3-v6]: https://drive.google.com/file/d/1F4WXPWeF9WZHilenXwvVrWOLd-miKcQf/view?usp=sharing
 [c3-w3-v7]: https://drive.google.com/file/d/1F5mqEBwTOrt1elWN6fRnY0IKflxDxk5t/view?usp=sharing
+[c3-w4-v1]: https://drive.google.com/file/d/1GNMa0DWMKX28UKWY5-V3LA2izY7RRIlZ/view?usp=sharing
+[c3-w4-v2]: https://drive.google.com/file/d/1GGcMbvIL8IsHWgHw4jURvawJ36aCgsiN/view?usp=sharing
+[c3-w4-v3]: https://drive.google.com/file/d/1F8MFFzGUhQ-nT_0Bkjr27v4LbJAZ7EbK/view?usp=sharing
 
 
 ## Class 4. Sequences, Time Series & Prediction
