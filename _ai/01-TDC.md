@@ -154,7 +154,7 @@ header:
 * W-2. Word Embeddings
   1. 서론 ([Video][c3-w2-v1], [Dataset][c3-w2-d1])
   2. IMBD dataset ([Video][c3-w2-v2])
-  3. Looking into the details
+  3. Looking into the details ([Video][c3-w2-v3])
   4. How can we use vectors?
   5. More into the details
   6. Notebook for lesson 
@@ -203,6 +203,7 @@ header:
 [c3-w2-v1]: https://drive.google.com/file/d/1CvlgIdwgb85VfHdc7COqSZfzR7cT75Fy/view?usp=sharing
 [c3-w2-d1]: http://ai.stanford.edu/~amaas/data/sentiment/
 [c3-w2-v2]: https://drive.google.com/file/d/1D6KW_myjoPyAt88f_1UhasT6sguK45h2/view?usp=sharing
+[c3-w2-v3]: https://drive.google.com/file/d/1DHGVJ4kHeK9S4U2D1vnhm23mTfwf3yGU/view?usp=sharing
 
 
 ## Class 4. Sequences, Time Series & Prediction
