@@ -98,9 +98,9 @@ header:
   6. 참고
     * [TensorFlow tutorial][c2-w3-tt]
 * W-4. Multiclass Classifications
-  1. Moving from binary to multi-class classification ([Video][c2-w4-v1])
-  2. Explore multi-class with Rock Paper Scissors dataset ([Video][c2-w4-v2])
-  3. Train a classifier with Rock Paper Scissors ([Video][c2-w4-v3])
+  1. Multi-class classification ([Video][c2-w4-v1])
+  2. 가위-바위-보 dataset ([Video][c2-w4-v2])
+  3. 가위-바위-보 분류기 ([Video][c2-w4-v3])
   4. Test the Rock Paper Scissors classifier ([Video][c2-w4-v4])
 
 [c2-w1-v1]: https://drive.google.com/file/d/1DWVtYgtQXy457gy98QuwfgwG4F4t-ZE5/view?usp=sharing
