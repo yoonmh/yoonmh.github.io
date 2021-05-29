@@ -142,8 +142,7 @@ header:
 * W-1. 문장에서 Sentiment
   1. 서론 ([Video][c3-w1-v1])
   2. 단어의 encoding ([Video][c3-w1-v2])
-  3. API 사용 ([Video][c3-w1-v3])
-     노트북 예제
+  3. API 사용 ([Video][c3-w1-v3], [Notebook][c3-w1-n3])
   4. Text to sequence ([Video][c3-w1-v4]) 
   5. Looking more at the Tokenizer ([Video][c3-w1-v5])
   6. Padding ([Video][c3-w1-v6])
@@ -190,6 +189,7 @@ header:
 [c3-w1-v1]: https://drive.google.com/file/d/1DtjmzeQSGvdonXb_qZAnMn7IKLZPvA7O/view?usp=sharing
 [c3-w1-v2]: https://drive.google.com/file/d/1DtMEqPVrDKXy9inU86zeC3ReyY2lQCD3/view?usp=sharing
 [c3-w1-v3]: https://drive.google.com/file/d/1DuLOXNBxD3Bh5a9U70rpNUzysqylJ-6a/view?usp=sharing
+[c3-w1-n3]: https://colab.research.google.com/drive/1G508DaeCpnCL9Hx_2xmCZ2cZKDRM7HpR
 [c3-w1-v4]: https://drive.google.com/file/d/1DtIeEAVlY0Irrl_yxpS_FvnyiJY5kXHq/view?usp=sharing
 [c3-w1-v5]: https://drive.google.com/file/d/1DxYnYXXXPKRgQ6ecL-l7HNF-Lxo4AGiw/view?usp=sharing
 [c3-w1-v6]: https://drive.google.com/file/d/1DywRr2rVEMqK-OqRfACTo2ca3x2AtXIY/view?usp=sharing
