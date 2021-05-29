@@ -154,8 +154,8 @@ header:
 * W-2. Word Embeddings
   1. 서론 ([Video][c3-w2-v1], [Dataset][c3-w2-d1])
   2. IMBD dataset ([Video][c3-w2-v2])
-  3. Looking into the details ([Video][c3-w2-v3])
-  4. How can we use vectors?
+  3. 단어의 벡터 ([Video][c3-w2-v3])
+  4. 벡터의 사용 ([Video][c3-w2-v4])
   5. More into the details
   6. Notebook for lesson 
   7. Remember the sarcasm dataset?
