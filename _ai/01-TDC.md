@@ -77,7 +77,7 @@ header:
   2. 노트북 실습 ([Video][c2-w1-v2], [Notebook][c2-w1-n2])
   3. Cropping ([Video][c2-w1-v3])
   4. 컨벌루션 효과 시각화 ([Video][c2-w1-v4])
-  5. Accuracy와 loss 관점에서 바라보기 ([Video][c2-w1-v5])
+  5. Accuracy와 loss 관점의 해석 ([Video][c2-w1-v5])
   6. 참고
     * [Kaggle data][c2-w1-kg]
     * Ex-2: Cats vs. Dogs ([Exercise-2][c2-w1-e2])
