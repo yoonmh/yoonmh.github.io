@@ -101,7 +101,7 @@ header:
 
 [c2-w1-v1]: https://drive.google.com/file/d/1DWVtYgtQXy457gy98QuwfgwG4F4t-ZE5/view?usp=sharing
 [c2-w1-v2]: https://drive.google.com/file/d/1DQWt955CboyiVBAFbg_6QGwGG5o-wx04/view?usp=sharing
-[c2-w1-n2]: http://
+[c2-w1-n2]: https://colab.research.google.com/drive/1tEQd1tJbYhu3cK89TBEVNAs3w6za-PDG
 [c2-w1-v3]: https://drive.google.com/file/d/1DU6lV10hIDE5ieYneJfPKjZ7TbuQ7dRf/view?usp=sharing
 [c2-w1-v4]: https://drive.google.com/file/d/1DTQl5w2ZSBfm0uCpq5AhbskZMANQYxKC/view?usp=sharing
 [c2-w1-v5]: https://drive.google.com/file/d/1DRc7YxwoQsDy7s9kIROEyGTjDEVwqogs/view?usp=sharing
