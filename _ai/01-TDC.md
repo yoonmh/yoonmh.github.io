@@ -179,9 +179,9 @@ layout: single
   1. 서론 ([Video][c3-w4-v1])
   2. Looking into the code ([Video][c3-w4-v2])
   3. Training the data ([Video][c3-w4-v3])
-  4. More on training the data
-  5. 노트북 예제 ([Video]())
-  6. Finding what the next word should be
+  4. More on training the data ([Video][c3-w4-v4])
+  5. 노트북 예제 ([Video][c3-w4-v5])
+  6. Finding what the next word should be ([Video][c3-w4-v6])
       Example
       Predicting a word
       Poetry!
@@ -229,6 +229,9 @@ layout: single
 [c3-w4-v1]: https://drive.google.com/file/d/1GNMa0DWMKX28UKWY5-V3LA2izY7RRIlZ/view?usp=sharing
 [c3-w4-v2]: https://drive.google.com/file/d/1GGcMbvIL8IsHWgHw4jURvawJ36aCgsiN/view?usp=sharing
 [c3-w4-v3]: https://drive.google.com/file/d/1F8MFFzGUhQ-nT_0Bkjr27v4LbJAZ7EbK/view?usp=sharing
+[c3-w4-v4]: https://drive.google.com/file/d/1G4YebmT4LfmssDSYUHRm1p8Vk16NlOib/view?usp=sharing
+[c3-w4-v5]: https://drive.google.com/file/d/1G1zgEUmaVUBPnCk1Xhz_ECvK5TNLwjld/view?usp=sharing
+[c3-w4-v6]: https://drive.google.com/file/d/1Fy9SRdK17QF29ZQyVvC3Xbw93t0P2UTe/view?usp=sharing
 
 
 ## Class 4. Sequences, Time Series & Prediction
