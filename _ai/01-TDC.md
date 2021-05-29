@@ -133,8 +133,8 @@ header:
   10. Sarcasm 실습 ([Video][c3-w1-v10])
      News headlines dataset for sarcasm detection
 * W-2. Word Embeddings
-  1. 서론 ([Video]())
-  2. IMBD dataset ([Video]())
+  1. 서론 ([Video][c3-w2-v1])
+  2. IMBD dataset ([Video][c3-w2-v2])
   3. Looking into the details
   4. How can we use vectors?
   5. More into the details
@@ -177,6 +177,8 @@ header:
 [c3-w1-v8]: https://drive.google.com/file/d/1C_sKk0sUMl_cDYa96u2-RQy3Ge2Cz3RN/view?usp=sharing
 [c3-w1-v9]: https://drive.google.com/file/d/1CcHLyT_CLzuOnBxMUcsIN1us3lt-kq5G/view?usp=sharing
 [c3-w1-v10]: https://drive.google.com/file/d/1Co8nSIuYNw7Igw5QBG2WCgalG44c11ZP/view?usp=sharing
+[c3-w2-v1]: https://drive.google.com/file/d/1CvlgIdwgb85VfHdc7COqSZfzR7cT75Fy/view?usp=sharing
+[c3=w2-v2]: https://drive.google.com/file/d/1D6KW_myjoPyAt88f_1UhasT6sguK45h2/view?usp=sharing
 
 
 ## Class 4. Sequences, Time Series & Prediction
