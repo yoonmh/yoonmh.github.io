@@ -93,8 +93,10 @@ header:
   1. Transfer learning의 개념 ([Video][c2-w3-v1])
   2. Inception 모드로 transfer learning 코딩 ([Video][c2-w3-v2])
   3. Transferred feature를 사용한 자신의 모델 구현 ([Video][c2-w3-v3])
-  4. Dropout ([Video][c2-w3-v4])
+  4. Dropout ([Video][c2-w3-v4], [YouTube][c2-w3-y4])
   5. Transfer Learning with Inception ([Video][c2-w3-v5], [Notebook][c2-w3-n5])
+  6. 참고
+    * [TensorFlow tutorial][c2-w3-tt]
 * W-4. Multiclass Classifications
   1. Moving from binary to multi-class classification ([Video][c2-w4-v1])
   2. Explore multi-class with Rock Paper Scissors dataset ([Video][c2-w4-v2])
@@ -121,8 +123,10 @@ header:
 [c2-w3-v2]: https://drive.google.com/file/d/1DhHtl0Ir6jnjEIS6Jk9dGXCmUD_oiSuN/view?usp=sharing
 [c2-w3-v3]: https://drive.google.com/file/d/1DgpXhU2GjLwsKrUIRifFI2_-QSbC7M_Z/view?usp=sharing
 [c2-w3-v4]: https://drive.google.com/file/d/1D_ypCs5orl_i_8qt5V6kmnzOlfvJ3LDr/view?usp=sharing
+[c2-w3-y4]: https://www.youtube.com/watch?v=ARq74QuavAo
 [c2-w3-v5]: https://drive.google.com/file/d/1Dcj_81RSUFJI24fiZWvzuMmCDON3o2-L/view?usp=sharing
 [c2-w3-n5]: https://colab.research.google.com/drive/1S1u9XnslOAa7rQhN8bbGnjRxWfQpYsuR
+[c2-w3-tt]: https://www.tensorflow.org/tutorials/images/transfer_learning
 [c2-w4-v1]: https://drive.google.com/file/d/1Do5Cn1od15LWT17f9el8GRXyu5-Thgb1/view?usp=sharing
 [c2-w4-v2]: https://drive.google.com/file/d/1Dn7X1ODEj34EMVGwBs9eQsMmbBYI3A-c/view?usp=sharing
 [c2-w4-v3]: https://drive.google.com/file/d/1DkdxDDfrCTQVBW59GyzVMM4-3jJ5z4OW/view?usp=sharing
