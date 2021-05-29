@@ -155,7 +155,7 @@ layout: single
   1. 서론 ([Video][c3-w2-v1], [Dataset][c3-w2-d1])
   2. IMBD dataset ([Video][c3-w2-v2])
   3. 단어의 벡터 ([Video][c3-w2-v3])
-  4. 벡터의 사용 ([Video][c3-w2-v4])
+  4. 벡터의 사용 ([Video][c3-w2-v4], [Projector][c3-w2-p4])
   5. More into the details
   6. Notebook for lesson 
   7. Remember the sarcasm dataset?
@@ -205,6 +205,7 @@ layout: single
 [c3-w2-v2]: https://drive.google.com/file/d/1D6KW_myjoPyAt88f_1UhasT6sguK45h2/view?usp=sharing
 [c3-w2-v3]: https://drive.google.com/file/d/1DHGVJ4kHeK9S4U2D1vnhm23mTfwf3yGU/view?usp=sharing
 [c3-w2-v4]: https://drive.google.com/file/d/1DVaW77u23xd7fCxUMfzUs3skYj6jirtI/view?usp=sharing
+[c3-w2-p4]: http://projector.tensorflow.org/
 
 
 ## Class 4. Sequences, Time Series & Prediction
