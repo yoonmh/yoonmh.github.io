@@ -75,7 +75,7 @@ header:
 * W-1. 대규모 Dataset 사용
   1. 고양이와 개 dataset 학습 ([Video][c2-w1-v1])
   2. 노트북 실습 ([Video][c2-w1-v2], [Notebook][c2-w1-n2])
-  3. Fixing through cropping ([Video][c2-w1-v3])
+  3. Cropping ([Video][c2-w1-v3])
   4. 컨벌루션 효과 시각화 ([Video][c2-w1-v4])
   5. Accuracy와 loss 관점에서 바라보가 ([Video][c2-w1-v5])
   6. 참고
