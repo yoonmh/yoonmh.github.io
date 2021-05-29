@@ -157,19 +157,22 @@ layout: single
   3. 단어의 벡터 ([Video][c3-w2-v3])
   4. 벡터의 사용 ([Video][c3-w2-v4], [Projector][c3-w2-p4])
   5. IMDB 실습 ([Video][c3-w2-v5], [Notebook][c3-w2-n5])
-  6. Notebook for lesson 
-  7. Remember the sarcasm dataset?
-  8. Building a classifier for the sarcasm dataset
-  9. Let’s talk about the loss function
-  10. Pre-tokenized datasets
+  6. Notebook for lesson ([Video][c3-w2-v6])
+  7. Remember the sarcasm dataset? ([Video][c3-w2-v7])
+  8. Building a classifier for the sarcasm dataset ([Video][c3-w2-v8])
+  9. Let’s talk about the loss function 
+  10. Pre-tokenized datasets ([Video][c3-w2-v9])
+  11. ([Video][c3-w2-v10])
+  12. ([Video][c3-w2-v11])
+  13. 실습 ([Video][c3-w2-v12], [Notebook][c3-w2-n12])
 * W-3. Sequence 모델
-  1. 서론 ([Video]())
-  2. LSTM ([Video]())
-  3. LSTM 구현 ([Video]())
-  4. Accuracy와 loss ([Video]())
-  5. A word from Laurence
-  6. Looking into the code
-  7. Using a convolutional network
+  1. 서론 ([Video][c3-w3-v1])
+  2. LSTM ([Video][c3-w3-v2])
+  3. LSTM 구현 ([Video][c3-w3-v3])
+  4. Accuracy와 loss ([Video][c3-w3-v4])
+  5. A word from Laurence ([Video][c3-w3-v5])
+  6. Looking into the code ([Video][c3-w3-v6])
+  7. Using a convolutional network ([Video][c3-w3-v7])
       Going back to the IMDB dataset
       Tips from Laurence
 * W-4. Sequence 모델과 문학
@@ -216,6 +219,13 @@ layout: single
 [c3-w2-v11]: https://drive.google.com/file/d/1EHOOxO6p7zNWM2y6AVkU6dEXMzAUk1Ho/view?usp=sharing
 [c3-w2-v12]: https://drive.google.com/file/d/1EZ2UA8DhOezPTFJqO3hOU2NabXwI76oX/view?usp=sharing
 [c3-w2-n12]: https://colab.research.google.com/drive/1KyTi7OmJG61OselBvpcIu3vomjFMQn_P
+[c3-w3-v1]: https://drive.google.com/file/d/1EgfnT7KiWEuS-opJmIWf201E2foxq9de/view?usp=sharing
+[c3-w3-v2]: https://drive.google.com/file/d/1EnKJuTqZi1aMrokftjDK3-px67ubQbMU/view?usp=sharing
+[c3-w3-v3]: https://drive.google.com/file/d/1EqAC7wZObk9h4RYWmGh_YHcatvPzUruB/view?usp=sharing
+[c3-w3-v4]: https://drive.google.com/file/d/1ExSkNUfTrAi7MWjrSmO82aKg3R18vpXH/view?usp=sharing
+[c3-w3-v5]: https://drive.google.com/file/d/1F-snzZBGSHj_r2q2ULQ8RDhvLTfsjH4O/view?usp=sharing
+[c3-w3-v6]: https://drive.google.com/file/d/1F4WXPWeF9WZHilenXwvVrWOLd-miKcQf/view?usp=sharing
+[c3-w3-v7]: https://drive.google.com/file/d/1F5mqEBwTOrt1elWN6fRnY0IKflxDxk5t/view?usp=sharing
 
 
 ## Class 4. Sequences, Time Series & Prediction
