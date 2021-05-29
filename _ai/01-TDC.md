@@ -84,7 +84,7 @@ header:
 * W-2. Augmentation: overfitting을 피하는 방법
   1. Augmentation 서론 ([Video][c2-w2-v1])
   2. ImageDataGenerator로 augmentation 코딩 ([Video][c2-w2-v2])
-  3. 고양이와 개 데이터에서 overfitting 데모 ([Video][c2-w2-v3], [Notebook][c2-w2-n3])
+  3. 고양이와 개 에서 overfitting 데모 ([Video][c2-w2-v3], [Notebook][c2-w2-n3])
   4. 고양이와 개 분류에 augmentation 적용 ([Video][c2-w2-v4], [Notebook][c2-w2-n4])
   5. Exploring augmentation with horses vs. humans ([Video][c2-w2-v5])
   6. 참고
