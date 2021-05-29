@@ -82,7 +82,7 @@ header:
     * [Kaggle data][c2-w1-kg]
     * Ex-2: Cats vs. Dogs ([Exercise-2][c2-w1-e2])
 * W-2. Augmentation: overfitting을 피하는 방법
-  1. Augmentation 소개 ([Video][c2-w2-v1])
+  1. Augmentation 서론 ([Video][c2-w2-v1])
   2. ImageDataGenerator로 augmentation 코딩 ([Video][c2-w2-v2])
   3. 고양이와 개 데이터에서 overfitting 데모 ([Video][c2-w2-v3])
   4. Adding augmentation to cats vs. dogs ([Video][c2-w2-v4])
