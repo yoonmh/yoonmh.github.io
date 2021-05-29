@@ -87,6 +87,8 @@ header:
   3. 고양이와 개 데이터에서 overfitting 데모 ([Video][c2-w2-v3])
   4. Adding augmentation to cats vs. dogs ([Video][c2-w2-v4])
   5. Exploring augmentation with horses vs. humans ([Video][c2-w2-v5])
+  6. 참고
+    * [Keras augmentation][c2-w2-ka]
 * W-3. Transfer Learning
   1. Understanding transfer learning: the concepts ([Video][c2-w3-v1])
   2. Coding transfer learning from the inception mode ([Video][c2-w3-v2])
@@ -112,6 +114,8 @@ header:
 [c2-w2-v3]: https://drive.google.com/file/d/1DWeyjIBlXCTpc7I-MO1hcSInWqIC0uHX/view?usp=sharing
 [c2-w2-v4]: https://drive.google.com/file/d/1DWgspoIdW4JRCVIFZoPEs0n9XJCrJrcc/view?usp=sharing
 [c2-w2-v5]: https://drive.google.com/file/d/1D_FdXNNDkH_t3RJQLGtTDyXus4RAYowE/view?usp=sharing
+[c2-w2-ka]: https://github.com/keras-team/keras-preprocessing
+
 [c2-w3-v1]: https://drive.google.com/file/d/1Di947KFrYxiYT-YUEy9CZ87UytlqP9P7/view?usp=sharing
 [c2-w3-v2]: https://drive.google.com/file/d/1DhHtl0Ir6jnjEIS6Jk9dGXCmUD_oiSuN/view?usp=sharing
 [c2-w3-v3]: https://drive.google.com/file/d/1DgpXhU2GjLwsKrUIRifFI2_-QSbC7M_Z/view?usp=sharing
