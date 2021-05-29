@@ -99,9 +99,11 @@ header:
     * [TensorFlow tutorial][c2-w3-tt]
 * W-4. Multiclass Classifications
   1. Multi-class classification ([Video][c2-w4-v1])
-  2. 가위-바위-보 dataset ([Video][c2-w4-v2])
+  2. 가위-바위-보 dataset ([Video][c2-w4-v2], [Dataset][c2-w4-d2])
   3. 가위-바위-보 분류기 ([Video][c2-w4-v3], [Notebook][c2-w4-n3])
   4. 가위-바위-보 분류기 테스트 ([Video][c2-w4-v4])
+  5. 참고
+    * [Kaggle][c2-w4-kg]
 
 [c2-w1-v1]: https://drive.google.com/file/d/1DWVtYgtQXy457gy98QuwfgwG4F4t-ZE5/view?usp=sharing
 [c2-w1-v2]: https://drive.google.com/file/d/1DQWt955CboyiVBAFbg_6QGwGG5o-wx04/view?usp=sharing
@@ -129,9 +131,11 @@ header:
 [c2-w3-tt]: https://www.tensorflow.org/tutorials/images/transfer_learning
 [c2-w4-v1]: https://drive.google.com/file/d/1Do5Cn1od15LWT17f9el8GRXyu5-Thgb1/view?usp=sharing
 [c2-w4-v2]: https://drive.google.com/file/d/1Dn7X1ODEj34EMVGwBs9eQsMmbBYI3A-c/view?usp=sharing
+[c2-w4-d2]: http://www.laurencemoroney.com/rock-paper-scissors-dataset/
 [c2-w4-v3]: https://drive.google.com/file/d/1DkdxDDfrCTQVBW59GyzVMM4-3jJ5z4OW/view?usp=sharing
 [c2-w4-n3]: https://colab.research.google.com/drive/1w_MW1IyaPUOGZLd4qwQaild7ThVcWSZY
 [c2-w4-v4]: https://drive.google.com/file/d/1DsmPadngXe71NXFBxVh2FQhXpfstDfKo/view?usp=sharing
+[c2-w4-kg]: https://www.kaggle.com/datamunge/sign-language-mnist
 
 
 ## Class 3. 텐서플로우에서 자연어 처리 (NLP)
