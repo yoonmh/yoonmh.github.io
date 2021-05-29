@@ -123,15 +123,15 @@ header:
   1. 서론 ([Video][c3-w1-v1])
   2. 단어의 encoding ([Video][c3-w1-v2])
   3. API 사용 ([Video][c3-w1-v3])
-  4. 노트북 예제 ([Video][c3-w1-v4]) 
-  5. Text to sequence
-  6. Looking more at the Tokenizer
-  7. Padding
-  8. Notebook for lesson 
-  9. Sarcasm, really?
-  10. Working with the Tokenizer
-  11. Notebook for lesson
-  12. News headlines dataset for sarcasm detection
+     노트북 예제
+  4. Text to sequence ([Video][c3-w1-v4]) 
+  5. Looking more at the Tokenizer ([Video][c3-w1-v5])
+  6. Padding ([Video][c3-w1-v6])
+  7. Notebook for lesson ([Video][c3-w1-v7])
+  8. Sarcasm, really? ([Video][c3-w1-v8])
+  9. Working with the Tokenizer ([Video][c3-w1-v9])
+  10. Sarcasm 실습 ([Video][c3-w1-v10])
+     News headlines dataset for sarcasm detection
 * W-2. Word Embeddings
   1. 서론 ([Video]())
   2. IMBD dataset ([Video]())
@@ -171,6 +171,12 @@ header:
 [c3-w1-v2]: https://drive.google.com/file/d/1DtMEqPVrDKXy9inU86zeC3ReyY2lQCD3/view?usp=sharing
 [c3-w1-v3]: https://drive.google.com/file/d/1DuLOXNBxD3Bh5a9U70rpNUzysqylJ-6a/view?usp=sharing
 [c3-w1-v4]: https://drive.google.com/file/d/1DtIeEAVlY0Irrl_yxpS_FvnyiJY5kXHq/view?usp=sharing
+[c3-w1-v5]: https://drive.google.com/file/d/1DxYnYXXXPKRgQ6ecL-l7HNF-Lxo4AGiw/view?usp=sharing
+[c3-w1-v6]: https://drive.google.com/file/d/1DywRr2rVEMqK-OqRfACTo2ca3x2AtXIY/view?usp=sharing
+[c3-w1-v7]: https://drive.google.com/file/d/1CL4Exwel-BYtuT8nnXLVxnQu-o8ljEW8/view?usp=sharing
+[c3-w1-v8]: https://drive.google.com/file/d/1C_sKk0sUMl_cDYa96u2-RQy3Ge2Cz3RN/view?usp=sharing
+[c3-w1-v9]: https://drive.google.com/file/d/1CcHLyT_CLzuOnBxMUcsIN1us3lt-kq5G/view?usp=sharing
+[c3-w1-v10]: https://drive.google.com/file/d/1Co8nSIuYNw7Igw5QBG2WCgalG44c11ZP/view?usp=sharing
 
 
 ## Class 4. Sequences, Time Series & Prediction
