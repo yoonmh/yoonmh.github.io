@@ -208,6 +208,14 @@ layout: single
 [c3-w2-p4]: http://projector.tensorflow.org/
 [c3-w2-v5]: https://drive.google.com/file/d/1DXB0sySda80z1ZQmfpIA1XxVUZDHwXCJ/view?usp=sharing
 [c3-w2-n5]: https://colab.research.google.com/drive/1c806_ftQU2AZjtcjQibSEjlWnSYmWfJx
+[c3-w2-v6]: https://drive.google.com/file/d/1Dk6eHooOhj71hG_cV3ixXiq85i3jO6jd/view?usp=sharing
+[c3-w2-v7]: https://drive.google.com/file/d/1DtCz3N-A93UuuoFiwA6MBdMrLb3NR4zj/view?usp=sharing
+[c3-w2-v8]: https://drive.google.com/file/d/1DyQt9N-t_6JEVOcMhjz4WAuBflXobfcg/view?usp=sharing
+[c3-w2-v9]: https://drive.google.com/file/d/1E1EkMUYlarhbyVGg510tsyb2IHPKc2iu/view?usp=sharing
+[c3-w2-v10]: https://drive.google.com/file/d/1E9qxclJoPI442A1KgF6PGgIXjdT_gj3k/view?usp=sharing
+[c3-w2-v11]: https://drive.google.com/file/d/1EHOOxO6p7zNWM2y6AVkU6dEXMzAUk1Ho/view?usp=sharing
+[c3-w2-v12]: https://drive.google.com/file/d/1EZ2UA8DhOezPTFJqO3hOU2NabXwI76oX/view?usp=sharing
+[c3-w2-n12]: https://colab.research.google.com/drive/1KyTi7OmJG61OselBvpcIu3vomjFMQn_P
 
 
 ## Class 4. Sequences, Time Series & Prediction
