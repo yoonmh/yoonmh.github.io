@@ -143,10 +143,10 @@ header:
   1. 서론 ([Video][c3-w1-v1])
   2. 단어의 encoding ([Video][c3-w1-v2])
   3. API 사용 ([Video][c3-w1-v3], [Notebook][c3-w1-n3])
-  4. Text to sequence ([Video][c3-w1-v4]) 
-  5. Looking more at the Tokenizer ([Video][c3-w1-v5])
+  4. Text를 sequence로 ([Video][c3-w1-v4]) 
+  5. Tokenizer ([Video][c3-w1-v5])
   6. Padding ([Video][c3-w1-v6])
-  7. Notebook for lesson ([Video][c3-w1-v7])
+  7. 노트북 실습 ([Video][c3-w1-v7], [Notebook][c3-w1-n7])
   8. Sarcasm, really? ([Video][c3-w1-v8])
   9. Working with the Tokenizer ([Video][c3-w1-v9])
   10. Sarcasm 실습 ([Video][c3-w1-v10])
@@ -194,6 +194,7 @@ header:
 [c3-w1-v5]: https://drive.google.com/file/d/1DxYnYXXXPKRgQ6ecL-l7HNF-Lxo4AGiw/view?usp=sharing
 [c3-w1-v6]: https://drive.google.com/file/d/1DywRr2rVEMqK-OqRfACTo2ca3x2AtXIY/view?usp=sharing
 [c3-w1-v7]: https://drive.google.com/file/d/1CL4Exwel-BYtuT8nnXLVxnQu-o8ljEW8/view?usp=sharing
+[c3-w1-n7]: https://colab.research.google.com/drive/19QG_PfCsKqYGDsfAkUgFmvq6h84Ycx_d
 [c3-w1-v8]: https://drive.google.com/file/d/1C_sKk0sUMl_cDYa96u2-RQy3Ge2Cz3RN/view?usp=sharing
 [c3-w1-v9]: https://drive.google.com/file/d/1CcHLyT_CLzuOnBxMUcsIN1us3lt-kq5G/view?usp=sharing
 [c3-w1-v10]: https://drive.google.com/file/d/1Co8nSIuYNw7Igw5QBG2WCgalG44c11ZP/view?usp=sharing
