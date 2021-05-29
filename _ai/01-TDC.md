@@ -147,12 +147,12 @@ header:
   5. Tokenizer ([Video][c3-w1-v5])
   6. Padding ([Video][c3-w1-v6])
   7. 노트북 실습 ([Video][c3-w1-v7], [Notebook][c3-w1-n7])
-  8. Sarcasm, really? ([Video][c3-w1-v8], [Dataset][c3-w1-d8])
-  9. Working with the Tokenizer ([Video][c3-w1-v9])
-  10. Sarcasm 실습 ([Video][c3-w1-v10])
+  8. Sarcasm ([Video][c3-w1-v8], [Dataset][c3-w1-d8])
+  9. Sarcasm Tokenizer ([Video][c3-w1-v9])
+  10. Sarcasm 실습 ([Video][c3-w1-v10], [Notebook][c3-w1-n10])
      News headlines dataset for sarcasm detection
 * W-2. Word Embeddings
-  1. 서론 ([Video][c3-w2-v1])
+  1. 서론 ([Video][c3-w2-v1], [Dataset][c3-w2-d1])
   2. IMBD dataset ([Video][c3-w2-v2])
   3. Looking into the details
   4. How can we use vectors?
@@ -199,8 +199,10 @@ header:
 [c3-w1-d8]: https://rishabhmisra.github.io/publications/
 [c3-w1-v9]: https://drive.google.com/file/d/1CcHLyT_CLzuOnBxMUcsIN1us3lt-kq5G/view?usp=sharing
 [c3-w1-v10]: https://drive.google.com/file/d/1Co8nSIuYNw7Igw5QBG2WCgalG44c11ZP/view?usp=sharing
+[c3-w1-n10]: https://colab.research.google.com/drive/14rVc7A3A_1UKHGCI6x1hmt1_RFAR3uA6
 [c3-w2-v1]: https://drive.google.com/file/d/1CvlgIdwgb85VfHdc7COqSZfzR7cT75Fy/view?usp=sharing
-[c3=w2-v2]: https://drive.google.com/file/d/1D6KW_myjoPyAt88f_1UhasT6sguK45h2/view?usp=sharing
+[c3-w2-d1]: http://ai.stanford.edu/~amaas/data/sentiment/
+[c3-w2-v2]: https://drive.google.com/file/d/1D6KW_myjoPyAt88f_1UhasT6sguK45h2/view?usp=sharing
 
 
 ## Class 4. Sequences, Time Series & Prediction
