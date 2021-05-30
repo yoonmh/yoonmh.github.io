@@ -265,13 +265,13 @@ layout: single
 * W-3. Time Series를 위한 RNN
   1. 개념 정리 ([Video][c4-w3-v1])
   2. Shape of the inputs to the RNN ([Video][c4-w3-v2])
-  3. Outputting a sequence
-  4. Lambda layers
-  5. Adjusting the learning rate dynamically
-  6. RNN
-  7. LSTM
-  8. LSTM 코딩 ([Video]())
-  9. More on LSTM
+  3. Outputting a sequence ([Video][c4-w3-v3])
+  4. Lambda layers ([Video][c4-w3-v4])
+  5. Adjusting the learning rate dynamically ([Video][c4-w3-v5])
+  6. RNN ([Video][c4-w3-v6])
+  7. LSTM ([Video][c4-w3-v7])
+  8. LSTM 코딩 ([Video][c4-w3-v8])
+  9. More on LSTM ([Video][c4-w3-v9])
 * W-4. 실생활의 time series data
   1. Convolutions
   2. 양방향 LSTM ([Video]())
@@ -304,5 +304,11 @@ layout: single
 [c4-w2-v9]: https://drive.google.com/file/d/1IFqFwGYFJ4z-yjOV9GQsjZcjjff9oJLx/view?usp=sharing
 [c4-w3-v1]: https://drive.google.com/file/d/1KZntDcyDROKPlxzWMjXDJNvXYPM8H0_5/view?usp=sharing
 [c4-w3-v2]: https://drive.google.com/file/d/1KNejUzOA_YdW5ARthwefkNedz73n4u7A/view?usp=sharing
-
+[c4-w3-v3]: https://drive.google.com/file/d/1KAya9Hap8Lo-rV-yiRO4PP8Km0LItKD4/view?usp=sharing
+[c4-w3-v4]: https://drive.google.com/file/d/1K7fYd9ZF3_glHcXs1t4tomKWkVSDarzs/view?usp=sharing
+[c4-w3-v5]: https://drive.google.com/file/d/1K3btaSqfSQ7b8POJ8ax_5mkuk_Idhl0q/view?usp=sharing
+[c4-w3-v6]: https://drive.google.com/file/d/1JkSQD0l6G4oO_abcjGfT4QlSZa-j1Z9C/view?usp=sharing
+[c4-w3-v7]: https://drive.google.com/file/d/1JXiikeBDhYnjGsmJIik52Ldq8jdxVHlk/view?usp=sharing
+[c4-w3-v8]: https://drive.google.com/file/d/1JLdU4Stj_xlQhtO4ohkYdIUQMUWj_6lK/view?usp=sharing
+[c4-w3-v9]: https://drive.google.com/file/d/1JIfXp77X_So1-7t9y3CYqG4NN6SkmB8k/view?usp=sharing
 
