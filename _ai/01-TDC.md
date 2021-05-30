@@ -173,17 +173,17 @@ layout: single
   7. IMDB 코드 ([Video][c3-w3-v7])
 * W-4. Sequence 모델과 문학
   1. 서론 ([Video][c3-w4-v1])
-  2. Looking into the code ([Video][c3-w4-v2])
-  3. Training the data ([Video][c3-w4-v3])
-  4. More on training the data ([Video][c3-w4-v4])
-  5. 노트북 예제 ([Video][c3-w4-v5])
+  2. 코딩 ([Video][c3-w4-v2])
+  3. 데이터 학습 (1) ([Video][c3-w4-v3])
+  4. 데이터 학습 (2) ([Video][c3-w4-v4])
+  5. 노트북 실습 ([Video][c3-w4-v5], [Notebook][c3-w4-n5])
   6. Finding what the next word should be ([Video][c3-w4-v6])
-      Example
-      Predicting a word
-      Poetry!
-      Looking into the code
-      Laurence the poet!
-      Your next task
+  7. Example ([Video][c3-w4-v7])
+  8. Predicting a word ([Video][c3-w4-v8])
+  9. Poetry! ([Video][c3-w4-v9])
+  10. Looking into the code ([Video][c3-w4-v10])
+  11. Laurence the poet! ([Video][c3-w4-v11])
+  12. Your next task ([Video][c3-w4-v12])
 
 [c3-w1-v1]: https://drive.google.com/file/d/1DtjmzeQSGvdonXb_qZAnMn7IKLZPvA7O/view?usp=sharing
 [c3-w1-v2]: https://drive.google.com/file/d/1DtMEqPVrDKXy9inU86zeC3ReyY2lQCD3/view?usp=sharing
@@ -231,7 +231,14 @@ layout: single
 [c3-w4-v3]: https://drive.google.com/file/d/1F8MFFzGUhQ-nT_0Bkjr27v4LbJAZ7EbK/view?usp=sharing
 [c3-w4-v4]: https://drive.google.com/file/d/1G4YebmT4LfmssDSYUHRm1p8Vk16NlOib/view?usp=sharing
 [c3-w4-v5]: https://drive.google.com/file/d/1G1zgEUmaVUBPnCk1Xhz_ECvK5TNLwjld/view?usp=sharing
+[c3-w4-n5]: https://colab.research.google.com/drive/1wC70ikq5kyouljfiHPW1BxqicI48pEtR
 [c3-w4-v6]: https://drive.google.com/file/d/1Fy9SRdK17QF29ZQyVvC3Xbw93t0P2UTe/view?usp=sharing
+[c3-w4-v7]: https://drive.google.com/file/d/1FtM1MOfffQE55tI7B0-QTKiPpi7ERQJY/view?usp=sharing
+[c3-w4-v8]: https://drive.google.com/file/d/1Fk44DwdF-zU2DnLaZfjdN2dWa4Bk_PvZ/view?usp=sharing
+[c3-w4-v9]: https://drive.google.com/file/d/1FgBhRoXgAk7idlbt5kceK1q7zVkrZvOr/view?usp=sharing
+[c3-w4-v10]: https://drive.google.com/file/d/1FT8kHU-Od3NY4ZwzagLrxS8HEAxo9hlj/view?usp=sharing
+[c3-w4-v11]: https://drive.google.com/file/d/1GbLEfxUvpUo_YPhG6Yi7F4EXqti_H-BW/view?usp=sharing
+[c3-w4-v12]: https://drive.google.com/file/d/1GXKRnBu5bq1ruixp4BirzIg4XkAMRfdC/view?usp=sharing
 
 
 ## Class 4. Sequences, Time Series & Prediction
