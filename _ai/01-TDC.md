@@ -168,7 +168,7 @@ layout: single
   2. LSTM ([Video][c3-w3-v2], [Coursera][c3-w3-c2])
   3. LSTM 구현 ([Video][c3-w3-v3], [1 LSTM][c3-w3-n31], [2 LSTM][c3-w3-n32])
   4. Accuracy와 loss ([Video][c3-w3-v4])
-  5. 코딩 ([Video][c3-w3-v5])
+  5. Sarcasm 코딩 ([Video][c3-w3-v5])
   6. Convolutional network ([Video][c3-w3-v6])
   7. IMDB 코드 ([Video][c3-w3-v7])
 * W-4. Sequence 모델과 문학
