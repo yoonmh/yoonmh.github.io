@@ -150,10 +150,9 @@ layout: single
   8. Sarcasm ([Video][c3-w1-v8], [Dataset][c3-w1-d8])
   9. Sarcasm Tokenizer ([Video][c3-w1-v9])
   10. Sarcasm 실습 ([Video][c3-w1-v10], [Notebook][c3-w1-n10])
-     News headlines dataset for sarcasm detection
 * W-2. Word Embeddings
   1. 서론 ([Video][c3-w2-v1], [Dataset][c3-w2-d1])
-  2. IMBD dataset ([Video][c3-w2-v2])
+  2. IMBD 코딩 ([Video][c3-w2-v2])
   3. 단어의 벡터 ([Video][c3-w2-v3])
   4. 벡터의 사용 ([Video][c3-w2-v4], [Projector][c3-w2-p4])
   5. IMDB 실습 ([Video][c3-w2-v5], [Notebook][c3-w2-n5])
