@@ -166,7 +166,7 @@ layout: single
 * W-3. Sequence 모델
   1. 서론 ([Video][c3-w3-v1], [Coursera][c3-w3-c1])
   2. LSTM ([Video][c3-w3-v2], [Coursera][c3-w3-c2])
-  3. LSTM 구현 ([Video][c3-w3-v3])
+  3. LSTM 구현 ([Video][c3-w3-v3], [1 LSTM][c3-w3-n31], [2 LSTM][c3-w3-n32])
   4. Accuracy와 loss ([Video][c3-w3-v4])
   5. 코딩 ([Video][c3-w3-v5])
   6. Convolutional network ([Video][c3-w3-v6])
@@ -220,6 +220,8 @@ layout: single
 [c3-w3-v2]: https://drive.google.com/file/d/1EnKJuTqZi1aMrokftjDK3-px67ubQbMU/view?usp=sharing
 [c3-w3-c2]: https://www.coursera.org/lecture/nlp-sequence-models/long-short-term-memory-lstm-KXoay
 [c3-w3-v3]: https://drive.google.com/file/d/1EqAC7wZObk9h4RYWmGh_YHcatvPzUruB/view?usp=sharing
+[c3-w3-n31]: https://colab.research.google.com/drive/1c806_ftQU2AZjtcjQibSEjlWnSYmWfJx
+[c3-w3-n32]: https://colab.research.google.com/drive/1ir5lZRC7mRnDePGEw_WQwEMgyP-Y-ZNs
 [c3-w3-v4]: https://drive.google.com/file/d/1ExSkNUfTrAi7MWjrSmO82aKg3R18vpXH/view?usp=sharing
 [c3-w3-v5]: https://drive.google.com/file/d/1F-snzZBGSHj_r2q2ULQ8RDhvLTfsjH4O/view?usp=sharing
 [c3-w3-v6]: https://drive.google.com/file/d/1F4WXPWeF9WZHilenXwvVrWOLd-miKcQf/view?usp=sharing
