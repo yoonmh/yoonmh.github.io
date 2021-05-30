@@ -164,8 +164,8 @@ layout: single
   11. Sunword tokenizer(2) ([Video][c3-w2-v11])
   12. IMDB subword 실습 ([Video][c3-w2-v12], [Notebook][c3-w2-n12])
 * W-3. Sequence 모델
-  1. 서론 ([Video][c3-w3-v1])
-  2. LSTM ([Video][c3-w3-v2])
+  1. 서론 ([Video][c3-w3-v1], [Coursera][c3-w3-c1])
+  2. LSTM ([Video][c3-w3-v2], [Coursera][c3-w3-c2])
   3. LSTM 구현 ([Video][c3-w3-v3])
   4. Accuracy와 loss ([Video][c3-w3-v4])
   5. A word from Laurence ([Video][c3-w3-v5])
@@ -218,7 +218,9 @@ layout: single
 [c3-w2-v12]: https://drive.google.com/file/d/1EZ2UA8DhOezPTFJqO3hOU2NabXwI76oX/view?usp=sharing
 [c3-w2-n12]: https://colab.research.google.com/drive/1KyTi7OmJG61OselBvpcIu3vomjFMQn_P
 [c3-w3-v1]: https://drive.google.com/file/d/1EgfnT7KiWEuS-opJmIWf201E2foxq9de/view?usp=sharing
+[c3-w3-c1]: https://www.coursera.org/lecture/nlp-sequence-models/deep-mns-ehs0S
 [c3-w3-v2]: https://drive.google.com/file/d/1EnKJuTqZi1aMrokftjDK3-px67ubQbMU/view?usp=sharing
+[c3-w3-c2]: https://www.coursera.org/lecture/nlp-sequence-models/long-short-term-memory-lstm-KXoay
 [c3-w3-v3]: https://drive.google.com/file/d/1EqAC7wZObk9h4RYWmGh_YHcatvPzUruB/view?usp=sharing
 [c3-w3-v4]: https://drive.google.com/file/d/1ExSkNUfTrAi7MWjrSmO82aKg3R18vpXH/view?usp=sharing
 [c3-w3-v5]: https://drive.google.com/file/d/1F-snzZBGSHj_r2q2ULQ8RDhvLTfsjH4O/view?usp=sharing
