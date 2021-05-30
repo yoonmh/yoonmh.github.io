@@ -157,7 +157,7 @@ layout: single
   4. 벡터의 사용 ([Video][c3-w2-v4], [Projector][c3-w2-p4])
   5. IMDB 실습 ([Video][c3-w2-v5], [Notebook][c3-w2-n5])
   6. Sarcasm ([Video][c3-w2-v6])
-  7. Remember the sarcasm dataset? ([Video][c3-w2-v7])
+  7. Sarcasm dataset ([Video][c3-w2-v7])
   8. Building a classifier for the sarcasm dataset ([Video][c3-w2-v8])
   9. Let’s talk about the loss function 
   10. Pre-tokenized datasets ([Video][c3-w2-v9])
