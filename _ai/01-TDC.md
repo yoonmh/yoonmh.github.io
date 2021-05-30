@@ -168,11 +168,9 @@ layout: single
   2. LSTM ([Video][c3-w3-v2], [Coursera][c3-w3-c2])
   3. LSTM 구현 ([Video][c3-w3-v3])
   4. Accuracy와 loss ([Video][c3-w3-v4])
-  5. A word from Laurence ([Video][c3-w3-v5])
-  6. Looking into the code ([Video][c3-w3-v6])
-  7. Using a convolutional network ([Video][c3-w3-v7])
-      Going back to the IMDB dataset
-      Tips from Laurence
+  5. 코딩 ([Video][c3-w3-v5])
+  6. Convolutional network ([Video][c3-w3-v6])
+  7. IMDB 코드 ([Video][c3-w3-v7])
 * W-4. Sequence 모델과 문학
   1. 서론 ([Video][c3-w4-v1])
   2. Looking into the code ([Video][c3-w4-v2])
