@@ -13,10 +13,10 @@ layout: single
 2. 신경망의 ‘Hello World’ ([Video][c1-w1-v2])
 3. 텐서플로우 ‘Hello World’ 실습 ([Video][c1-w1-v3], [YouTube][c1-w1-y3], [Notebook][c1-w1-n3])
 
-* Ex-1: Housing Prices ([Exercise-1][c1-w1-e1])
 * 머신러닝의 Hello World ([Codelab][c1-w1-c5])
 * L. Moroney의 딥러닝 GitHub ([GitHub][c1-w1-g5])
 * [Neural Network Playground][c1-w1-p5]
+* Ex-1: Housing Prices ([Exercise-1][c1-w1-e1])
 
 ### W-2. 컴퓨터 비전 
 1. 컴퓨터 비전 소개 ([Video][c1-w2-v1])
@@ -26,8 +26,8 @@ layout: single
 5. 학습을 콘트롤하기 위한 Callback 사용 ([Video][c1-w2-v5])
 6. Callback 노트북 실습 ([Video][c1-w2-v6], [Notebook][c1-w2-n6])
 
-* Ex-2: HandWriting Recognition ([Exercise-2][c1-w2-e2])
 * Computer Vision Model ([Codelab][c1-w2-c7])
+* Ex-2: HandWriting Recognition ([Exercise-2][c1-w2-e2])
 
 ### W-3. CNN으로 비전 향상
 1. Convolution과 pooling 이란? ([Video][c1-w3-v1])
@@ -36,8 +36,8 @@ layout: single
 4. 컨벌루션으로 Fashion classifier 성능 향상 ([Video][c1-w3-v4], [Notebook][c1-w3-n4])
 5. 컨벌루션 실습 ([Video][c1-w3-v5], [Notebook][c1-w3-n5])
 
-* Ex-3: Fashion MNIST with CNN ([Exercise-3][c1-w3-e3])
 * [Image Filtering][c1-w3-i6]
+* Ex-3: Fashion MNIST with CNN ([Exercise-3][c1-w3-e3])
 
 ### W-4. 실생활 이미지 사용
 1. ImageGenerator 이해 ([Video][c1-w4-v1])
@@ -48,9 +48,9 @@ layout: single
 6. 테스트 정확도에 대한 자동 검증 ([Video][c1-w4-v6], [Notebook][c1-w4-n6])
 7. 이미지 압축 효과 탐색 ([Video][c1-w4-v7])
 
-* Ex-4: Complex Images ([Exercise-4][c1-w4-e4])
 * [Binary Classification][c1-w4-b8]
 * [Pixabay][c1-w4-p8]
+* Ex-4: Complex Images ([Exercise-4][c1-w4-e4])
 
 [c1-w1-v1]: https://drive.google.com/file/d/1Cf_9DH7KWcLz7YJ-W4DHGngaMrVE15pX/view?usp=sharing
 [c1-w1-v2]: https://drive.google.com/file/d/1CemGe4AnOjuOm7OE4C5AycbLzrP-D565/view?usp=sharing
