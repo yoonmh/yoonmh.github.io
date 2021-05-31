@@ -42,7 +42,7 @@ layout: single
 ### W-4. 실생활 이미지 사용
 1. ImageGenerator 이해 ([Video][c1-w4-v1])
 2. 복잡한 이미지에 사용하기 위한 ConvNet 정의 ([Video][c1-w4-v2])
-3. fit_generator와 함께 ConvNet 학습 ([Video][c1-w4-v3])
+3. fit_generator와 함께 ConvNet 학습 ([Video][c1-w4-v3], [YouTube][c1-w4-y3])
 4. ConvNet 작업하기 ([Video][c1-w4-v4])
 5. fit_generator와 함께 ConvNet 학습 작업하기 ([Video][c1-w4-v5])
 6. 테스트 정확도에 대한 자동 검증 ([Video][c1-w4-v6])
@@ -84,6 +84,7 @@ layout: single
 [c1-w4-v1]: https://drive.google.com/file/d/1D4eeg2v4tNM6k98-c3vftdxRBMX2uXof/view?usp=sharing
 [c1-w4-v2]: https://drive.google.com/file/d/1DN1MiJfYsZZZr_bkzpdmBuXKEjGQw2x8/view?usp=sharing
 [c1-w4-v3]: https://drive.google.com/file/d/1DMWJkNClTxRs9a4K93znl4T-MtS7U9mh/view?usp=sharing
+[c1-w4-y3]: https://youtu.be/zLRB4oupj6g
 [c1-w4-v4]: https://drive.google.com/file/d/1DNY8vdkzR0kCOh4g_UpFOw6opUu8lTfI/view?usp=sharing
 [c1-w4-v5]: https://drive.google.com/file/d/1DK4M95npZV1azIU2VLp0jgKm44SG7KZp/view?usp=sharing
 [c1-w4-n5]: https://
