@@ -17,6 +17,7 @@ layout: single
     * 머신러닝의 Hello World ([Codelab][c1-w1-c5])
     * L. Moroney의 딥러닝 강의 GitHub ([GitHub][c1-w1-g5])
     * Neural Network Playground ([Playground][c1-w1-p5])
+
 ### W-2. 컴퓨터 비전 
   1. 컴퓨터 비전 소개 ([Video][c1-w2-v1])
   2. 학습 데이터 로딩 ([Video][c1-w2-v2])
@@ -27,7 +28,8 @@ layout: single
   7. 참고
     * Ex-2: HandWriting Recognition ([Exercise-2][c1-w2-e2])
     * Computer Vision Model ([Codelab][c1-w2-c7])
-* W-3. CNN으로 비전 향상
+
+### W-3. CNN으로 비전 향상
   1. Convolution과 pooling 이란? ([Video][c1-w3-v1])
   2. Convolutional layer 구현 ([Video][c1-w3-v2], [YouTube][c1-w3-y2])
   3. Pooling layer 구현 ([Video][c1-w3-v3])
