@@ -43,13 +43,14 @@ layout: single
 1. ImageGenerator 이해 ([Video][c1-w4-v1])
 2. 복잡한 이미지에 사용하기 위한 ConvNet 정의 ([Video][c1-w4-v2])
 3. fit_generator와 함께 ConvNet 학습 ([Video][c1-w4-v3], [YouTube][c1-w4-y3])
-4. ConvNet 작업하기 ([Video][c1-w4-v4])
-5. fit_generator와 함께 ConvNet 학습 작업하기 ([Video][c1-w4-v5])
+4. ConvNet 실습 ([Video][c1-w4-v4], [Notebook][c1-w4-n4])
+5. fit_generator를 이용한 ConvNet 실습 ([Video][c1-w4-v5])
 6. 테스트 정확도에 대한 자동 검증 ([Video][c1-w4-v6])
 7. 이미지 압축 효과 탐색 ([Video][c1-w4-v7])
 
 * Ex-4: Complex Images ([Exercise-4][c1-w4-e4])
 * [Binary Classification][c1-w4-b8]
+* [Pixabay][c1-w4-p8]
 
 [c1-w1-v1]: https://drive.google.com/file/d/1Cf_9DH7KWcLz7YJ-W4DHGngaMrVE15pX/view?usp=sharing
 [c1-w1-v2]: https://drive.google.com/file/d/1CemGe4AnOjuOm7OE4C5AycbLzrP-D565/view?usp=sharing
@@ -86,12 +87,14 @@ layout: single
 [c1-w4-v3]: https://drive.google.com/file/d/1DMWJkNClTxRs9a4K93znl4T-MtS7U9mh/view?usp=sharing
 [c1-w4-y3]: https://youtu.be/zLRB4oupj6g
 [c1-w4-v4]: https://drive.google.com/file/d/1DNY8vdkzR0kCOh4g_UpFOw6opUu8lTfI/view?usp=sharing
+[c1-w4-n4]: https://colab.research.google.com/drive/1-Mg1eyyhsijhi7OjGd4mPOXEn-s4peU4
 [c1-w4-v5]: https://drive.google.com/file/d/1DK4M95npZV1azIU2VLp0jgKm44SG7KZp/view?usp=sharing
 [c1-w4-n5]: https://
 [c1-w4-v6]: https://drive.google.com/file/d/1DLc50ujPjCCLcPAgs83gOiVyRLlguC37/view?usp=sharing
 [c1-w4-v7]: https://drive.google.com/file/d/1DL9M1xddEn6U5zqphRXrHfPpwA2pvmZI/view?usp=sharing
 [c1-w4-e4]: https://colab.research.google.com/drive/1FvAhYpjvuohIiqJmOi2KE_9rOhiuM9k9
 [c1-w4-b8]: https://gombru.github.io/2018/05/23/cross_entropy_loss/
+[c1-w4-p8]: https://pixabay.com/
 
 ## Class 2. 턴서플로우에서 CNN
 ### W-1. 대규모 Dataset 사용
