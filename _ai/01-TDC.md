@@ -39,7 +39,7 @@ layout: single
   * Ex-3: Fashion MNIST with CNN ([Exercise-3][c1-w3-e3])
   * [Image Filtering][c1-w3-i6]
 
-###W-4. 실생활 이미지 사용
+### W-4. 실생활 이미지 사용
 1. ImageGenerator 이해 ([Video][c1-w4-v1])
 2. 복잡한 이미지에 사용하기 위한 ConvNet 정의 ([Video][c1-w4-v2])
 3. fit_generator와 함께 ConvNet 학습 ([Video][c1-w4-v3])
@@ -93,38 +93,41 @@ layout: single
 [c1-w4-b8]: https://gombru.github.io/2018/05/23/cross_entropy_loss/
 
 ## Class 2. 턴서플로우에서 CNN
-* W-1. 대규모 Dataset 사용
-  1. 고양이와 개 dataset 학습 ([Video][c2-w1-v1])
-  2. 노트북 실습 ([Video][c2-w1-v2], [Notebook][c2-w1-n2])
-  3. Cropping ([Video][c2-w1-v3])
-  4. 컨벌루션 효과 시각화 ([Video][c2-w1-v4])
-  5. Accuracy와 loss 관점의 해석 ([Video][c2-w1-v5])
-  6. 참고
-    * [Kaggle data][c2-w1-kg]
-    * Ex-2: Cats vs. Dogs ([Exercise-2][c2-w1-e2])
-* W-2. Augmentation: overfitting을 피하는 방법
-  1. Augmentation 서론 ([Video][c2-w2-v1])
-  2. ImageDataGenerator로 augmentation 코딩 ([Video][c2-w2-v2])
-  3. 고양이와 개 에서 overfitting 데모 ([Video][c2-w2-v3])
-  4. 고양이와 개 분류에 augmentation 적용 ([Video][c2-w2-v4], [Notebook][c2-w2-n4])
-  5. 말과 사람 분류의 augmentation ([Video][c2-w2-v5], [Notebook][c2-w2-n5])
-  6. 참고
-    * [Keras augmentation][c2-w2-ka]
-* W-3. Transfer Learning
-  1. Transfer learning의 개념 ([Video][c2-w3-v1])
-  2. Inception 모드로 transfer learning 코딩 ([Video][c2-w3-v2])
-  3. Transferred feature를 사용한 자신의 모델 구현 ([Video][c2-w3-v3])
-  4. Dropout ([Video][c2-w3-v4], [YouTube][c2-w3-y4])
-  5. Transfer Learning with Inception ([Video][c2-w3-v5], [Notebook][c2-w3-n5])
-  6. 참고
-    * [TensorFlow tutorial][c2-w3-tt]
-* W-4. Multiclass Classifications
-  1. Multi-class classification ([Video][c2-w4-v1])
-  2. 가위-바위-보 dataset ([Video][c2-w4-v2], [Dataset][c2-w4-d2])
-  3. 가위-바위-보 분류기 ([Video][c2-w4-v3], [Notebook][c2-w4-n3])
-  4. 가위-바위-보 분류기 테스트 ([Video][c2-w4-v4])
-  5. 참고
-    * [Kaggle][c2-w4-kg]
+### W-1. 대규모 Dataset 사용
+1. 고양이와 개 dataset 학습 ([Video][c2-w1-v1])
+2. 노트북 실습 ([Video][c2-w1-v2], [Notebook][c2-w1-n2])
+3. Cropping ([Video][c2-w1-v3])
+4. 컨벌루션 효과 시각화 ([Video][c2-w1-v4])
+5. Accuracy와 loss 관점의 해석 ([Video][c2-w1-v5])
+6. 참고
+  * [Kaggle data][c2-w1-kg]
+  * Ex-2: Cats vs. Dogs ([Exercise-2][c2-w1-e2])
+
+### W-2. Augmentation: overfitting을 피하는 방법
+1. Augmentation 서론 ([Video][c2-w2-v1])
+2. ImageDataGenerator로 augmentation 코딩 ([Video][c2-w2-v2])
+3. 고양이와 개 에서 overfitting 데모 ([Video][c2-w2-v3])
+4. 고양이와 개 분류에 augmentation 적용 ([Video][c2-w2-v4], [Notebook][c2-w2-n4])
+5. 말과 사람 분류의 augmentation ([Video][c2-w2-v5], [Notebook][c2-w2-n5])
+6. 참고
+  * [Keras augmentation][c2-w2-ka]
+
+### W-3. Transfer Learning
+1. Transfer learning의 개념 ([Video][c2-w3-v1])
+2. Inception 모드로 transfer learning 코딩 ([Video][c2-w3-v2])
+3. Transferred feature를 사용한 자신의 모델 구현 ([Video][c2-w3-v3])
+4. Dropout ([Video][c2-w3-v4], [YouTube][c2-w3-y4])
+5. Transfer Learning with Inception ([Video][c2-w3-v5], [Notebook][c2-w3-n5])
+6. 참고
+  * [TensorFlow tutorial][c2-w3-tt]
+
+### W-4. Multiclass Classifications
+1. Multi-class classification ([Video][c2-w4-v1])
+2. 가위-바위-보 dataset ([Video][c2-w4-v2], [Dataset][c2-w4-d2])
+3. 가위-바위-보 분류기 ([Video][c2-w4-v3], [Notebook][c2-w4-n3])
+4. 가위-바위-보 분류기 테스트 ([Video][c2-w4-v4])
+5. 참고
+  * [Kaggle][c2-w4-kg]
 
 [c2-w1-v1]: https://drive.google.com/file/d/1DWVtYgtQXy457gy98QuwfgwG4F4t-ZE5/view?usp=sharing
 [c2-w1-v2]: https://drive.google.com/file/d/1DQWt955CboyiVBAFbg_6QGwGG5o-wx04/view?usp=sharing
@@ -160,51 +163,54 @@ layout: single
 
 
 ## Class 3. 텐서플로우에서 자연어 처리 (NLP)
-* W-1. 문장에서 Sentiment
-  1. 서론 ([Video][c3-w1-v1])
-  2. 단어의 encoding ([Video][c3-w1-v2])
-  3. API 사용 ([Video][c3-w1-v3], [Notebook][c3-w1-n3])
-  4. Text를 sequence로 ([Video][c3-w1-v4]) 
-  5. Tokenizer ([Video][c3-w1-v5])
-  6. Padding ([Video][c3-w1-v6])
-  7. 노트북 실습 ([Video][c3-w1-v7], [Notebook][c3-w1-n7])
-  8. Sarcasm ([Video][c3-w1-v8], [Dataset][c3-w1-d8])
-  9. Sarcasm Tokenizer ([Video][c3-w1-v9])
-  10. Sarcasm 실습 ([Video][c3-w1-v10], [Notebook][c3-w1-n10])
-* W-2. Word Embeddings
-  1. 서론 ([Video][c3-w2-v1], [Dataset][c3-w2-d1])
-  2. IMBD 코딩 ([Video][c3-w2-v2])
-  3. 단어의 벡터 ([Video][c3-w2-v3])
-  4. 벡터의 사용 ([Video][c3-w2-v4], [Projector][c3-w2-p4])
-  5. IMDB 실습 ([Video][c3-w2-v5], [Notebook][c3-w2-n5])
-  6. Sarcasm ([Video][c3-w2-v6])
-  7. Sarcasm 분류기 ([Video][c3-w2-v7])
-  8. Loss function ([Video][c3-w2-v8])
-  9. Pre-tokenized datasets ([Video][c3-w2-v9])
-  10. Sunword tokenizer(1) ([Video][c3-w2-v10])
-  11. Sunword tokenizer(2) ([Video][c3-w2-v11])
-  12. IMDB subword 실습 ([Video][c3-w2-v12], [Notebook][c3-w2-n12])
-* W-3. Sequence 모델
-  1. 서론 ([Video][c3-w3-v1], [Coursera][c3-w3-c1])
-  2. LSTM ([Video][c3-w3-v2], [Coursera][c3-w3-c2])
-  3. LSTM 구현 ([Video][c3-w3-v3], [1 LSTM][c3-w3-n31], [2 LSTM][c3-w3-n32])
-  4. Accuracy와 loss ([Video][c3-w3-v4])
-  5. Sarcasm 코딩 ([Video][c3-w3-v5])
-  6. Convolutional network ([Video][c3-w3-v6])
-  7. IMDB 코드 ([Video][c3-w3-v7])
-* W-4. Sequence 모델과 문학
-  1. 서론 ([Video][c3-w4-v1])
-  2. 코딩 ([Video][c3-w4-v2])
-  3. 데이터 학습 (1) ([Video][c3-w4-v3])
-  4. 데이터 학습 (2) ([Video][c3-w4-v4])
-  5. 노트북 실습 ([Video][c3-w4-v5], [Notebook][c3-w4-n5])
-  6. Finding what the next word should be ([Video][c3-w4-v6])
-  7. Example ([Video][c3-w4-v7])
-  8. Predicting a word ([Video][c3-w4-v8])
-  9. Poetry! ([Video][c3-w4-v9])
-  10. Looking into the code ([Video][c3-w4-v10])
-  11. Laurence the poet! ([Video][c3-w4-v11])
-  12. Your next task ([Video][c3-w4-v12])
+### W-1. 문장에서 Sentiment
+1. 서론 ([Video][c3-w1-v1])
+2. 단어의 encoding ([Video][c3-w1-v2])
+3. API 사용 ([Video][c3-w1-v3], [Notebook][c3-w1-n3])
+4. Text를 sequence로 ([Video][c3-w1-v4]) 
+5. Tokenizer ([Video][c3-w1-v5])
+6. Padding ([Video][c3-w1-v6])
+7. 노트북 실습 ([Video][c3-w1-v7], [Notebook][c3-w1-n7])
+8. Sarcasm ([Video][c3-w1-v8], [Dataset][c3-w1-d8])
+9. Sarcasm Tokenizer ([Video][c3-w1-v9])
+10. Sarcasm 실습 ([Video][c3-w1-v10], [Notebook][c3-w1-n10])
+
+### W-2. Word Embeddings
+1. 서론 ([Video][c3-w2-v1], [Dataset][c3-w2-d1])
+2. IMBD 코딩 ([Video][c3-w2-v2])
+3. 단어의 벡터 ([Video][c3-w2-v3])
+4. 벡터의 사용 ([Video][c3-w2-v4], [Projector][c3-w2-p4])
+5. IMDB 실습 ([Video][c3-w2-v5], [Notebook][c3-w2-n5])
+6. Sarcasm ([Video][c3-w2-v6])
+7. Sarcasm 분류기 ([Video][c3-w2-v7])
+8. Loss function ([Video][c3-w2-v8])
+9. Pre-tokenized datasets ([Video][c3-w2-v9])
+10. Sunword tokenizer(1) ([Video][c3-w2-v10])
+11. Sunword tokenizer(2) ([Video][c3-w2-v11])
+12. IMDB subword 실습 ([Video][c3-w2-v12], [Notebook][c3-w2-n12])
+
+### W-3. Sequence 모델
+1. 서론 ([Video][c3-w3-v1], [Coursera][c3-w3-c1])
+2. LSTM ([Video][c3-w3-v2], [Coursera][c3-w3-c2])
+3. LSTM 구현 ([Video][c3-w3-v3], [1 LSTM][c3-w3-n31], [2 LSTM][c3-w3-n32])
+4. Accuracy와 loss ([Video][c3-w3-v4])
+5. Sarcasm 코딩 ([Video][c3-w3-v5])
+6. Convolutional network ([Video][c3-w3-v6])
+7. IMDB 코드 ([Video][c3-w3-v7])
+
+### W-4. Sequence 모델과 문학
+1. 서론 ([Video][c3-w4-v1])
+2. 코딩 ([Video][c3-w4-v2])
+3. 데이터 학습 (1) ([Video][c3-w4-v3])
+4. 데이터 학습 (2) ([Video][c3-w4-v4])
+5. 노트북 실습 ([Video][c3-w4-v5], [Notebook][c3-w4-n5])
+6. Finding what the next word should be ([Video][c3-w4-v6])
+7. Example ([Video][c3-w4-v7])
+8. Predicting a word ([Video][c3-w4-v8])
+9. Poetry! ([Video][c3-w4-v9])
+10. Looking into the code ([Video][c3-w4-v10])
+11. Laurence the poet! ([Video][c3-w4-v11])
+12. Your next task ([Video][c3-w4-v12])
 
 [c3-w1-v1]: https://drive.google.com/file/d/1DtjmzeQSGvdonXb_qZAnMn7IKLZPvA7O/view?usp=sharing
 [c3-w1-v2]: https://drive.google.com/file/d/1DtMEqPVrDKXy9inU86zeC3ReyY2lQCD3/view?usp=sharing
@@ -263,46 +269,49 @@ layout: single
 
 
 ## Class 4. Sequences, Time Series & Prediction
-* W-1. Sequence와 예측
-  1. Time series의 예 ([Video][c4-w1-v1])
-  2. Time series에 적용한 머신러닝 ([Video][c4-w1-v2])
-  3. Time series에서 패턴 ([Video][c4-w1-v3])
-  4. Time series 서론 ([Video][c4-w1-v4], [Notebook][c4-w1-n4])
-  5. Train, validation and test sets ([Video][c4-w1-v5])
-  6. 성능 평가를 위한 Metrics ([Video][c4-w1-v6])
-  7. Moving average and differencing ([Video][c4-w1-v7])
-  8. Trailing versus centered windows ([Video][c4-w1-v8])
-  9. Forecasting ([Video][c4-w1-v9])
-* W-2. Deep Neural Networks for Time Series 
-  1. Preparing features and labels ([Video][c4-w2-v1])
-  2. Preparing features and labels ([Video][c4-w2-v2])
-  3. Feeding windowed dataset into neural network ([Video][c4-w2-v3])
-  4. Single layer neural network ([Video][c4-w2-v4])
-  5. Machine learning on time windows ([Video][c4-w2-v5])
-  6. Prediction ([Video][c4-w2-v6])
-  7. More on single layer neural network ([Video][c4-w2-v7])
-  8. Deep neural network training, tuning and prediction ([Video][c4-w2-v8])
-  9. Deep neural network ([Video][c4-w2-v9])
-* W-3. Time Series를 위한 RNN
-  1. 개념 정리 ([Video][c4-w3-v1])
-  2. Shape of the inputs to the RNN ([Video][c4-w3-v2])
-  3. Outputting a sequence ([Video][c4-w3-v3])
-  4. Lambda layers ([Video][c4-w3-v4])
-  5. Adjusting the learning rate dynamically ([Video][c4-w3-v5])
-  6. RNN ([Video][c4-w3-v6])
-  7. LSTM ([Video][c4-w3-v7])
-  8. LSTM 코딩 ([Video][c4-w3-v8])
-  9. More on LSTM ([Video][c4-w3-v9])
-* W-4. 실생활의 time series data
-  1. Convolutions ([Video][c4-w4-v1])
-  2. 양방향 LSTM ([Video][c4-w4-v2])
-  3. LSTM ([Video][c4-w4-v3])
-  4. Real data - sunspots ([Video][c4-w4-v4])
-  5. Train and tune the model ([Video][c4-w4-v5])
-  6. Prediction ([Video][c4-w4-v6])
-  7. Sunspots ([Video][c4-w4-v7])
-  8. Combining our tools for analysis ([Video][c4-w4-v8])
-  9. Congratulations! 
+### W-1. Sequence와 예측
+1. Time series의 예 ([Video][c4-w1-v1])
+2. Time series에 적용한 머신러닝 ([Video][c4-w1-v2])
+3. Time series에서 패턴 ([Video][c4-w1-v3])
+4. Time series 서론 ([Video][c4-w1-v4], [Notebook][c4-w1-n4])
+5. Train, validation and test sets ([Video][c4-w1-v5])
+6. 성능 평가를 위한 Metrics ([Video][c4-w1-v6])
+7. Moving average and differencing ([Video][c4-w1-v7])
+8. Trailing versus centered windows ([Video][c4-w1-v8])
+9. Forecasting ([Video][c4-w1-v9])
+
+### W-2. Deep Neural Networks for Time Series 
+1. Preparing features and labels ([Video][c4-w2-v1])
+2. Preparing features and labels ([Video][c4-w2-v2])
+3. Feeding windowed dataset into neural network ([Video][c4-w2-v3])
+4. Single layer neural network ([Video][c4-w2-v4])
+5. Machine learning on time windows ([Video][c4-w2-v5])
+6. Prediction ([Video][c4-w2-v6])
+7. More on single layer neural network ([Video][c4-w2-v7])
+8. Deep neural network training, tuning and prediction ([Video][c4-w2-v8])
+9. Deep neural network ([Video][c4-w2-v9])
+
+### W-3. Time Series를 위한 RNN
+1. 개념 정리 ([Video][c4-w3-v1])
+2. Shape of the inputs to the RNN ([Video][c4-w3-v2])
+3. Outputting a sequence ([Video][c4-w3-v3])
+4. Lambda layers ([Video][c4-w3-v4])
+5. Adjusting the learning rate dynamically ([Video][c4-w3-v5])
+6. RNN ([Video][c4-w3-v6])
+7. LSTM ([Video][c4-w3-v7])
+8. LSTM 코딩 ([Video][c4-w3-v8])
+9. More on LSTM ([Video][c4-w3-v9])
+
+### W-4. 실생활의 time series data
+1. Convolutions ([Video][c4-w4-v1])
+2. 양방향 LSTM ([Video][c4-w4-v2])
+3. LSTM ([Video][c4-w4-v3])
+4. Real data - sunspots ([Video][c4-w4-v4])
+5. Train and tune the model ([Video][c4-w4-v5])
+6. Prediction ([Video][c4-w4-v6])
+7. Sunspots ([Video][c4-w4-v7])
+8. Combining our tools for analysis ([Video][c4-w4-v8])
+9. Congratulations! 
 
 [c4-w1-v1]: https://drive.google.com/file/d/1HC7fU4slqoRZX_ZmoR4Corrm5fiYxg1H/view?usp=sharing
 [c4-w1-v2]: https://drive.google.com/file/d/1HItIETh64XY6AqCcYpn8386ayUEFPeHy/view?usp=sharing
