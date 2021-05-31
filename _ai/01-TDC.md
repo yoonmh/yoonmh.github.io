@@ -281,7 +281,7 @@ layout: single
   6. Prediction ([Video][c4-w4-v6])
   7. Sunspots ([Video][c4-w4-v7])
   8. Combining our tools for analysis ([Video][c4-w4-v8])
-  9. Congratulations! ([Video][c4-w4-v9])
+  9. Congratulations! 
 
 [c4-w1-v1]: https://drive.google.com/file/d/1HC7fU4slqoRZX_ZmoR4Corrm5fiYxg1H/view?usp=sharing
 [c4-w1-v2]: https://drive.google.com/file/d/1HItIETh64XY6AqCcYpn8386ayUEFPeHy/view?usp=sharing
