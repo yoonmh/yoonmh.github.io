@@ -12,8 +12,8 @@ layout: single
   1. 머신러닝 기초 ([Video][c1-w1-v1])
   2. 신경망의 ‘Hello World’ ([Video][c1-w1-v2])
   3. 텐서플로우 ‘Hello World’ 실습 ([Video][c1-w1-v3], [YouTube][c1-w1-y3], [Notebook][c1-w1-n3])
-  4. Ex-1: Housing Prices ([Exercise-1][c1-w1-e1])
-  5. 참고
+  4. 참고
+    * Ex-1: Housing Prices ([Exercise-1][c1-w1-e1])
     * 머신러닝의 Hello World ([Codelab][c1-w1-c5])
     * L. Moroney의 딥러닝 강의 GitHub ([GitHub][c1-w1-g5])
     * Neural Network Playground ([Playground][c1-w1-p5])
@@ -24,8 +24,8 @@ layout: single
   4. 컴퓨터 비전 노트북 실습 ([Video][c1-w2-v4], [Notebook][c1-w2-n4])
   5. 학습을 콘트롤하기 위한 Callback 사용 ([Video][c1-w2-v5])
   6. Callback 노트북 실습 ([Video][c1-w2-v6], [Notebook][c1-w2-n6])
-  7. Ex-2: HandWriting Recognition ([Exercise-2][c1-w2-e2])
-  8. 참고
+  7. 참고
+    * Ex-2: HandWriting Recognition ([Exercise-2][c1-w2-e2])
     * Computer Vision Model ([Codelab][c1-w2-c7])
 * W-3. CNN으로 비전 향상
   1. Convolution과 pooling 이란? ([Video][c1-w3-v1])
