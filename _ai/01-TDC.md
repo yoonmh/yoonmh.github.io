@@ -29,10 +29,10 @@ layout: single
     * Computer Vision Model ([Codelab][c1-w2-c7])
 * W-3. CNN으로 비전 향상
   1. Convolution과 pooling 이란? ([Video][c1-w3-v1])
-  2. Convolutional layer 구현 ([Video][c1-w3-v2])
+  2. Convolutional layer 구현 ([Video][c1-w3-v2], [YouTube][c1-w3-y2])
   3. Pooling layer 구현 ([Video][c1-w3-v3])
-  4. 컨벌루션으로 Fashion classifier 성능향상 ([Video][c1-w3-v4])
-  5. 컨벌루션 실습 ([Video][c1-w3-v5])
+  4. 컨벌루션으로 Fashion classifier 성능향상 ([Video][c1-w3-v4], [Notebook][c1-w3-n4])
+  5. 컨벌루션 실습 ([Video][c1-w3-v5], [Notebook][c1-w3-n5])
   6. 참고
     * Ex-3: Fashion MNIST with CNN ([Exercise-3][c1-w3-e3]
     * [Image Filtering][c1-w3-i6]
@@ -67,9 +67,12 @@ layout: single
 [c1-w2-c7]: https://developers.google.com/codelabs/tensorflow-lab2-computervision
 [c1-w3-v1]: https://drive.google.com/file/d/1CuKl1wzhruxTi0txKKcfolhc_s8k-_9C/view?usp=sharing
 [c1-w3-v2]: https://drive.google.com/file/d/1CuLuZOplS7ymwRL-8FDKSMRW2wRLxjo8/view?usp=sharing
+[c1-w3-y2]: https://bit.y/2UGa7uH
 [c1-w3-v3]: https://drive.google.com/file/d/1Cx05IMoAaYrIykTnFGf0mBrV3UmqeJyQ/view?usp=sharing
 [c1-w3-v4]: https://drive.google.com/file/d/1D4AEbvno9QZ-2f8L0Udr_tpuB5drhuRG/view?usp=sharing
+[c1-w3-n4]: https://colab.research.google.com/drive/1P9k_oxGfRqIqI7AUuvty6Cn7AROw2Kld
 [c1-w3-v5]: https://drive.google.com/file/d/1D4CCpUEyZce86-4Pnp7KCRM4KDKkdfpK/view?usp=sharing
+[c1-w3-n5]: https://colab.research.google.com/drive/1j2qy3VfZtMBTunXxpTTmRk_XUmt7EuM_
 [c1-w3-e3]: https://colab.research.google.com/drive/1Ft2ubdItIdMvDrUcFZN0qolIUQSfatkj
 [c1-w3-i6]: https://lodev.org/cgtutor/filtering.html
 [c1-w4-v1]: https://drive.google.com/file/d/1D4eeg2v4tNM6k98-c3vftdxRBMX2uXof/view?usp=sharing
