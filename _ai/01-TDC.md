@@ -25,9 +25,9 @@ layout: single
 4. 컴퓨터 비전 노트북 실습 ([Video][c1-w2-v4], [Notebook][c1-w2-n4])
 5. 학습을 콘트롤하기 위한 Callback 사용 ([Video][c1-w2-v5])
 6. Callback 노트북 실습 ([Video][c1-w2-v6], [Notebook][c1-w2-n6])
-7. 참고
-  * Ex-2: HandWriting Recognition ([Exercise-2][c1-w2-e2])
-  * Computer Vision Model ([Codelab][c1-w2-c7])
+
+* Ex-2: HandWriting Recognition ([Exercise-2][c1-w2-e2])
+* Computer Vision Model ([Codelab][c1-w2-c7])
 
 ### W-3. CNN으로 비전 향상
 1. Convolution과 pooling 이란? ([Video][c1-w3-v1])
@@ -35,9 +35,9 @@ layout: single
 3. Pooling layer 구현 ([Video][c1-w3-v3])
 4. 컨벌루션으로 Fashion classifier 성능 향상 ([Video][c1-w3-v4], [Notebook][c1-w3-n4])
 5. 컨벌루션 실습 ([Video][c1-w3-v5], [Notebook][c1-w3-n5])
-6. 참고
-  * Ex-3: Fashion MNIST with CNN ([Exercise-3][c1-w3-e3])
-  * [Image Filtering][c1-w3-i6]
+
+* Ex-3: Fashion MNIST with CNN ([Exercise-3][c1-w3-e3])
+* [Image Filtering][c1-w3-i6]
 
 ### W-4. 실생활 이미지 사용
 1. ImageGenerator 이해 ([Video][c1-w4-v1])
@@ -47,9 +47,9 @@ layout: single
 5. fit_generator와 함께 ConvNet 학습 작업하기 ([Video][c1-w4-v5])
 6. 테스트 정확도에 대한 자동 검증 ([Video][c1-w4-v6])
 7. 이미지 압축 효과 탐색 ([Video][c1-w4-v7])
-8. 참고
-  * Ex-4: Complex Images ([Exercise-4][c1-w4-e4])
-  * [Binary Classification][c1-w4-b8]
+
+* Ex-4: Complex Images ([Exercise-4][c1-w4-e4])
+* [Binary Classification][c1-w4-b8]
 
 [c1-w1-v1]: https://drive.google.com/file/d/1Cf_9DH7KWcLz7YJ-W4DHGngaMrVE15pX/view?usp=sharing
 [c1-w1-v2]: https://drive.google.com/file/d/1CemGe4AnOjuOm7OE4C5AycbLzrP-D565/view?usp=sharing
@@ -99,9 +99,9 @@ layout: single
 3. Cropping ([Video][c2-w1-v3])
 4. 컨벌루션 효과 시각화 ([Video][c2-w1-v4])
 5. Accuracy와 loss 관점의 해석 ([Video][c2-w1-v5])
-6. 참고
-  * [Kaggle data][c2-w1-kg]
-  * Ex-2: Cats vs. Dogs ([Exercise-2][c2-w1-e2])
+
+* [Kaggle data][c2-w1-kg]
+* Ex-2: Cats vs. Dogs ([Exercise-2][c2-w1-e2])
 
 ### W-2. Augmentation: overfitting을 피하는 방법
 1. Augmentation 서론 ([Video][c2-w2-v1])
@@ -118,16 +118,16 @@ layout: single
 3. Transferred feature를 사용한 자신의 모델 구현 ([Video][c2-w3-v3])
 4. Dropout ([Video][c2-w3-v4], [YouTube][c2-w3-y4])
 5. Transfer Learning with Inception ([Video][c2-w3-v5], [Notebook][c2-w3-n5])
-6. 참고
-  * [TensorFlow tutorial][c2-w3-tt]
+
+* [TensorFlow tutorial][c2-w3-tt]
 
 ### W-4. Multiclass Classifications
 1. Multi-class classification ([Video][c2-w4-v1])
 2. 가위-바위-보 dataset ([Video][c2-w4-v2], [Dataset][c2-w4-d2])
 3. 가위-바위-보 분류기 ([Video][c2-w4-v3], [Notebook][c2-w4-n3])
 4. 가위-바위-보 분류기 테스트 ([Video][c2-w4-v4])
-5. 참고
-  * [Kaggle][c2-w4-kg]
+
+* [Kaggle][c2-w4-kg]
 
 [c2-w1-v1]: https://drive.google.com/file/d/1DWVtYgtQXy457gy98QuwfgwG4F4t-ZE5/view?usp=sharing
 [c2-w1-v2]: https://drive.google.com/file/d/1DQWt955CboyiVBAFbg_6QGwGG5o-wx04/view?usp=sharing
