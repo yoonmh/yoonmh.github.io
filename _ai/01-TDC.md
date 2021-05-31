@@ -105,7 +105,7 @@ layout: single
 5. Accuracy와 loss 관점의 해석 ([Video][c2-w1-v5])
 
 * [Kaggle data][c2-w1-kg]
-* Ex-2: Cats vs. Dogs ([Exercise-2][c2-w1-e2])
+* Ex-2: Full Cats vs. Dogs ([Exercise-2][c2-w1-e5])
 
 ### W-2. Augmentation: overfitting을 피하는 방법
 1. Augmentation 서론 ([Video][c2-w2-v1])
@@ -140,7 +140,7 @@ layout: single
 [c2-w1-v4]: https://drive.google.com/file/d/1DTQl5w2ZSBfm0uCpq5AhbskZMANQYxKC/view?usp=sharing
 [c2-w1-v5]: https://drive.google.com/file/d/1DRc7YxwoQsDy7s9kIROEyGTjDEVwqogs/view?usp=sharing
 [c2-w1-kg]: https://www.kaggle.com/c/dogs-vs-cats
-[c2-w1-e2]: https://
+[c2-w1-e5]: https://colab.research.google.com/drive/1cMl5lAUDVC91kmUIM7aWBWONgn4n6Tbx
 [c2-w2-v1]: https://drive.google.com/file/d/1DZdyxQVriDyTN6OPuLSx28Pr1O2W3XjG/view?usp=sharing
 [c2-w2-v2]: https://drive.google.com/file/d/1DYYDrIo5Deaimjz92joXcUT7q-TCRAyK/view?usp=sharing
 [c2-w2-v3]: https://drive.google.com/file/d/1DWeyjIBlXCTpc7I-MO1hcSInWqIC0uHX/view?usp=sharing
