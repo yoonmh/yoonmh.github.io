@@ -73,7 +73,7 @@ layout: single
 [c1-w2-c7]: https://developers.google.com/codelabs/tensorflow-lab2-computervision
 [c1-w3-v1]: https://drive.google.com/file/d/1CuKl1wzhruxTi0txKKcfolhc_s8k-_9C/view?usp=sharing
 [c1-w3-v2]: https://drive.google.com/file/d/1CuLuZOplS7ymwRL-8FDKSMRW2wRLxjo8/view?usp=sharing
-[c1-w3-y2]: https://bit.y/2UGa7uH
+[c1-w3-y2]: https://bit.ly/2UGa7uH
 [c1-w3-v3]: https://drive.google.com/file/d/1Cx05IMoAaYrIykTnFGf0mBrV3UmqeJyQ/view?usp=sharing
 [c1-w3-v4]: https://drive.google.com/file/d/1D4AEbvno9QZ-2f8L0Udr_tpuB5drhuRG/view?usp=sharing
 [c1-w3-n4]: https://colab.research.google.com/drive/1P9k_oxGfRqIqI7AUuvty6Cn7AROw2Kld
