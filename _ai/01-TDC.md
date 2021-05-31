@@ -15,7 +15,7 @@ layout: single
 4. 참고
   * Ex-1: Housing Prices ([Exercise-1][c1-w1-e1])
   * 머신러닝의 Hello World ([Codelab][c1-w1-c5])
-  * L. Moroney의 딥러닝 강의 GitHub ([GitHub][c1-w1-g5])
+  * L. Moroney의 딥러닝 GitHub ([GitHub][c1-w1-g5])
   * [Neural Network Playground][c1-w1-p5]
 
 ### W-2. 컴퓨터 비전 
@@ -32,8 +32,8 @@ layout: single
 ### W-3. CNN으로 비전 향상
 1. Convolution과 pooling 이란? ([Video][c1-w3-v1])
 2. Convolutional layer 구현 ([Video][c1-w3-v2], [YouTube][c1-w3-y2])
-3. Pooling l ayer 구현 ([Video][c1-w3-v3])
-4. 컨벌루션으로 Fashion classifier 성능향상 ([Video][c1-w3-v4], [Notebook][c1-w3-n4])
+3. Pooling layer 구현 ([Video][c1-w3-v3])
+4. 컨벌루션으로 Fashion classifier 성능 향상 ([Video][c1-w3-v4], [Notebook][c1-w3-n4])
 5. 컨벌루션 실습 ([Video][c1-w3-v5], [Notebook][c1-w3-n5])
 6. 참고
   * Ex-3: Fashion MNIST with CNN ([Exercise-3][c1-w3-e3])
