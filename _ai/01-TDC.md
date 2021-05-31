@@ -20,8 +20,8 @@ layout: single
 * W-2. 컴퓨터 비전 
   1. 컴퓨터 비전 소개 ([Video][c1-w2-v1])
   2. 학습 데이터 로딩 ([Video][c1-w2-v2])
-  3. 컴퓨터 비전 신경망 코딩 ([Video][c1-w2-v3], [YouTube][c1-w2-y3])
-  4. 컴퓨터 비전 노트북 ([Video][c1-w2-v4], [Notebook][c1-w2-n4])
+  3. 컴퓨터 비전 신경망 ([Video][c1-w2-v3], [YouTube][c1-w2-y3])
+  4. 컴퓨터 비전 노트북  ([Video][c1-w2-v4], [Notebook][c1-w2-n4])
   5. 학습을 콘트롤하기 위한 Callback 사용 ([Video][c1-w2-v5])
   6. Callback으로 노트북 실습 ([Video][c1-w2-v6], [Notebook][c1-w2-n6])
   7. Ex-2: HandWriting Recognition ([Exercise-2][c1-w2-e2])
