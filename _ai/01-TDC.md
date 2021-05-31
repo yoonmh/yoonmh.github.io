@@ -12,7 +12,6 @@ layout: single
 1. 머신러닝 기초 ([Video][c1-w1-v1])
 2. 신경망의 ‘Hello World’ ([Video][c1-w1-v2])
 3. 텐서플로우 ‘Hello World’ 실습 ([Video][c1-w1-v3], [YouTube][c1-w1-y3], [Notebook][c1-w1-n3])
-4. 참고
 
 * Ex-1: Housing Prices ([Exercise-1][c1-w1-e1])
 * 머신러닝의 Hello World ([Codelab][c1-w1-c5])
