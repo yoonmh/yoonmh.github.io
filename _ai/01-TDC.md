@@ -24,7 +24,7 @@ layout: single
   4. 컴퓨터 비전 노트북 ([Video][c1-w2-v4], [Notebook][c1-w2-n4])
   5. 학습을 콘트롤하기 위한 Callback 사용 ([Video][c1-w2-v5])
   6. Callback으로 노트북 실습 ([Video][c1-w2-v6], [Notebook][c1-w2-n6])
-  7. Ex-2: HandWriting Recognition (Exercise-2][c1-w2-e2])
+  7. Ex-2: HandWriting Recognition ([Exercise-2][c1-w2-e2])
   8. 참고
     * Computer Vision Model ([Codelab][c1-w2-c7])
 * W-3. CNN으로 비전 향상
