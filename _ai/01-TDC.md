@@ -8,7 +8,7 @@ layout: single
 > Cousera에서 운영하는 "TensorFlow Developer Certificate" 과정의 학습강좌 및 텐서플로우 노트북 입니다.
 
 ## Class 1. AI, 머신러닝, 딥러닝
-* W-1. 프로그래밍 패러다임
+### W-1. 프로그래밍 패러다임
   1. 머신러닝 기초 ([Video][c1-w1-v1])
   2. 신경망의 ‘Hello World’ ([Video][c1-w1-v2])
   3. 텐서플로우 ‘Hello World’ 실습 ([Video][c1-w1-v3], [YouTube][c1-w1-y3], [Notebook][c1-w1-n3])
@@ -17,7 +17,7 @@ layout: single
     * 머신러닝의 Hello World ([Codelab][c1-w1-c5])
     * L. Moroney의 딥러닝 강의 GitHub ([GitHub][c1-w1-g5])
     * Neural Network Playground ([Playground][c1-w1-p5])
-* W-2. 컴퓨터 비전 
+### W-2. 컴퓨터 비전 
   1. 컴퓨터 비전 소개 ([Video][c1-w2-v1])
   2. 학습 데이터 로딩 ([Video][c1-w2-v2])
   3. 컴퓨터 비전 신경망 ([Video][c1-w2-v3], [YouTube][c1-w2-y3])
