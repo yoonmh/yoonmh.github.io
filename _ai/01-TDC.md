@@ -34,7 +34,7 @@ layout: single
   4. 컨벌루션으로 Fashion classifier 성능향상 ([Video][c1-w3-v4], [Notebook][c1-w3-n4])
   5. 컨벌루션 실습 ([Video][c1-w3-v5], [Notebook][c1-w3-n5])
   6. 참고
-    * Ex-3: Fashion MNIST with CNN ([Exercise-3][c1-w3-e3]
+    * Ex-3: Fashion MNIST with CNN ([Exercise-3][c1-w3-e3])
     * [Image Filtering][c1-w3-i6]
 * W-4. 실생활 이미지 사용
   1. ImageGenerator 이해 ([Video][c1-w4-v1])
@@ -44,6 +44,9 @@ layout: single
   5. fit_generator와 함께 ConvNet 학습 작업하기 ([Video][c1-w4-v5])
   6. 테스트 정확도에 대한 자동 검증 ([Video][c1-w4-v6])
   7. 이미지 압축 효과 탐색 ([Video][c1-w4-v7])
+  8. 참고
+    * Ex-4: Complex Images ([Exercise-4][c1-w4-e4])
+    * [Binary Classification][c1-w4-b8]
 
 [c1-w1-v1]: https://drive.google.com/file/d/1Cf_9DH7KWcLz7YJ-W4DHGngaMrVE15pX/view?usp=sharing
 [c1-w1-v2]: https://drive.google.com/file/d/1CemGe4AnOjuOm7OE4C5AycbLzrP-D565/view?usp=sharing
@@ -83,7 +86,8 @@ layout: single
 [c1-w4-n5]: https://
 [c1-w4-v6]: https://drive.google.com/file/d/1DLc50ujPjCCLcPAgs83gOiVyRLlguC37/view?usp=sharing
 [c1-w4-v7]: https://drive.google.com/file/d/1DL9M1xddEn6U5zqphRXrHfPpwA2pvmZI/view?usp=sharing
-
+[c1-w4-e4]: https://colab.research.google.com/drive/1FvAhYpjvuohIiqJmOi2KE_9rOhiuM9k9
+[c1-w4-b8]: https://gombru.github.io/2018/05/23/cross_entropy_loss/
 
 ## Class 2. 턴서플로우에서 CNN
 * W-1. 대규모 Dataset 사용
