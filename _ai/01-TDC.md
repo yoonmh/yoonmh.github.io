@@ -33,6 +33,9 @@ layout: single
   3. Pooling layer 구현 ([Video][c1-w3-v3])
   4. 컨벌루션으로 Fashion classifier 성능향상 ([Video][c1-w3-v4])
   5. 컨벌루션 실습 ([Video][c1-w3-v5])
+  6. 참고
+    * Ex-3: Fashion MNIST with CNN ([Exercise-3][c1-w3-e3]
+    * [Image Filtering][c1-w3-i6]
 * W-4. 실생활 이미지 사용
   1. ImageGenerator 이해 ([Video][c1-w4-v1])
   2. 복잡한 이미지에 사용하기 위한 ConvNet 정의 ([Video][c1-w4-v2])
@@ -67,6 +70,8 @@ layout: single
 [c1-w3-v3]: https://drive.google.com/file/d/1Cx05IMoAaYrIykTnFGf0mBrV3UmqeJyQ/view?usp=sharing
 [c1-w3-v4]: https://drive.google.com/file/d/1D4AEbvno9QZ-2f8L0Udr_tpuB5drhuRG/view?usp=sharing
 [c1-w3-v5]: https://drive.google.com/file/d/1D4CCpUEyZce86-4Pnp7KCRM4KDKkdfpK/view?usp=sharing
+[c1-w3-e3]: https://colab.research.google.com/drive/1Ft2ubdItIdMvDrUcFZN0qolIUQSfatkj
+[c1-w3-i6]: https://lodev.org/cgtutor/filtering.html
 [c1-w4-v1]: https://drive.google.com/file/d/1D4eeg2v4tNM6k98-c3vftdxRBMX2uXof/view?usp=sharing
 [c1-w4-v2]: https://drive.google.com/file/d/1DN1MiJfYsZZZr_bkzpdmBuXKEjGQw2x8/view?usp=sharing
 [c1-w4-v3]: https://drive.google.com/file/d/1DMWJkNClTxRs9a4K93znl4T-MtS7U9mh/view?usp=sharing
