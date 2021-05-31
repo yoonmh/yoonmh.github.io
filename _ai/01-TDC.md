@@ -9,13 +9,17 @@ layout: single
 
 ## Class 1. AI, 머신러닝, 딥러닝
 * W-1. 프로그래밍 패러다임
-  1. 머신러닝 기초 ([Video][c1-w1-v1], [Codelab][c1-w1-c1])
+  1. 머신러닝 기초 ([Video][c1-w1-v1])
   2. 신경망의 ‘Hello World’ ([Video][c1-w1-v2])
   3. 텐서플로우 ‘Hello World’ 실습 ([Video][c1-w1-v3], [YouTube][c1-w1-y3], [Notebook][c1-w1-n3])
   4. Ex-1: Housing Prices ([Exercise-1][c1-w1-e1])
+  5. 참고
+    * 머신러닝의 Hello World ([Codelab][c1-w1-c5])
+    * L. Moroney의 딥러닝 강의 GitHub ([GitHub][c1-w1-g5])
+    * Neural Network Playground ([Playground][c1-w1-p5])
 * W-2. 컴퓨터 비전 
   1. 컴퓨터 비전 소개 ([Video][c1-w2-v1])
-  2. 학습 데이터 로딩 코드 작성 ([Video][c1-w2-v2])
+  2. 학습 데이터 로딩 ([Video][c1-w2-v2])
   3. 컴퓨터 비전 신경망 코딩 ([Video][c1-w2-v3], [YouTube][c1-w2-y3])
   4. 컴퓨터 비전 노트북 ([Video][c1-w2-v4], [Notebook][c1-w2-n4])
   5. 학습을 콘트롤하기 위한 Callback 사용 ([Video][c1-w2-v5])
@@ -38,12 +42,14 @@ layout: single
   7. 이미지 압축 효과 탐색 ([Video][c1-w4-v7])
 
 [c1-w1-v1]: https://drive.google.com/file/d/1Cf_9DH7KWcLz7YJ-W4DHGngaMrVE15pX/view?usp=sharing
-[c1-w1-c1]: https://developers.google.com/codelabs/tensorflow-1-helloworld
 [c1-w1-v2]: https://drive.google.com/file/d/1CemGe4AnOjuOm7OE4C5AycbLzrP-D565/view?usp=sharing
 [c1-w1-v3]: https://drive.google.com/file/d/1CfQYOuy4BD6H_bPzh4eYMph-2dnyBQCC/view?usp=sharing
 [c1-w1-y3]: https://youtu.be/inN8seMm7UI
 [c1-w1-n3]: https://colab.research.google.com/drive/1Ks5xx0a9Pj1cqkOHQdEBCH7Lp19nFUIo
 [c1-w1-e1]: https://colab.research.google.com/drive/1bOZcCbQE8OreI_mqY89z6RMpzXEvzkz8
+[c1-w1-c5]: https://developers.google.com/codelabs/tensorflow-1-helloworld
+[c1-w1-g5]: https://github.com/lmoroney/dlaicourse
+[c1-w1-p5]: http://playground.tensorflow.org/
 [c1-w2-v1]: https://drive.google.com/file/d/1CjA1cS5tW3S4FeRniPYP_bnluFsgkLPr/view?usp=sharing
 [c1-w2-v2]: https://drive.google.com/file/d/1CjOZJ9_wDl4Cs8LCyUZGjI8_I66LcQTD/view?usp=sharing
 [c1-w2-v3]: https://drive.google.com/file/d/1Ckp6Mi7UYzXPtFHqLGADfjm9boM63Wm6/view?usp=sharing
