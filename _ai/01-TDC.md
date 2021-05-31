@@ -24,7 +24,8 @@ layout: single
   4. 컴퓨터 비전 노트북 ([Video][c1-w2-v4], [Notebook][c1-w2-n4])
   5. 학습을 콘트롤하기 위한 Callback 사용 ([Video][c1-w2-v5])
   6. Callback으로 노트북 실습 ([Video][c1-w2-v6], [Notebook][c1-w2-n6])
-  7. 참고
+  7. Ex-2: HandWriting Recognition (Exercise-2][c1-w2-e2])
+  8. 참고
     * Computer Vision Model ([Codelab][c1-w2-c7])
 * W-3. CNN으로 비전 향상
   1. Convolution과 pooling 이란? ([Video][c1-w3-v1])
@@ -59,6 +60,7 @@ layout: single
 [c1-w2-v5]: https://drive.google.com/file/d/1D5anYmJtOjqyv4iYoYr75nwp1_dF5irT/view?usp=sharing
 [c1-w2-v6]: https://drive.google.com/file/d/1D8ynv5icDFUqMdLKTJhkRBdO6LiQUlJa/view?usp=sharing
 [c1-w2-n6]: https://colab.research.google.com/drive/1-Aoj3vcaOMxDOJR_1claWLqNq0aUXK6s
+[c1-w2-e2]: https://colab.research.google.com/drive/1FpU5hhPit_nTn6mJKZuReXVtXgn8sFTb
 [c1-w2-c7]: https://developers.google.com/codelabs/tensorflow-lab2-computervision
 [c1-w3-v1]: https://drive.google.com/file/d/1CuKl1wzhruxTi0txKKcfolhc_s8k-_9C/view?usp=sharing
 [c1-w3-v2]: https://drive.google.com/file/d/1CuLuZOplS7ymwRL-8FDKSMRW2wRLxjo8/view?usp=sharing
