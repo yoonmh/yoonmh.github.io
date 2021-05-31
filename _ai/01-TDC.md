@@ -105,7 +105,7 @@ layout: single
 5. Accuracy와 loss 관점의 해석 ([Video][c2-w1-v5])
 
 * [Kaggle data][c2-w1-kg]
-* Ex-2: Full Cats vs. Dogs ([Exercise-2][c2-w1-e5])
+* Ex-5: Full Cats vs. Dogs ([Exercise-5][c2-w1-e5])
 
 ### W-2. Augmentation: overfitting을 피하는 방법
 1. Augmentation 서론 ([Video][c2-w2-v1])
@@ -113,8 +113,9 @@ layout: single
 3. 고양이와 개 에서 overfitting 데모 ([Video][c2-w2-v3])
 4. 고양이와 개 분류에 augmentation 적용 ([Video][c2-w2-v4], [Notebook][c2-w2-n4])
 5. 말과 사람 분류의 augmentation ([Video][c2-w2-v5], [Notebook][c2-w2-n5])
-6. 참고
-  * [Keras augmentation][c2-w2-ka]
+
+* [Keras augmentation][c2-w2-ka]
+* Ex-6: Cats vs. Dogs with Augmentation ([Exercise-6][c2-w2-e6])
 
 ### W-3. Transfer Learning
 1. Transfer learning의 개념 ([Video][c2-w3-v1])
@@ -149,6 +150,7 @@ layout: single
 [c2-w2-v5]: https://drive.google.com/file/d/1D_FdXNNDkH_t3RJQLGtTDyXus4RAYowE/view?usp=sharing
 [c2-w2-n5]: https://colab.research.google.com/drive/1SK_L5kOba9zQmJj0ICcmEILG2uz4Ek9E
 [c2-w2-ka]: https://github.com/keras-team/keras-preprocessing
+[c2-w2-e6]: https://colab.research.google.com/drive/1cQ8OzXSqbVHhKTlgTTVaTgaPkD3YG2W8
 [c2-w3-v1]: https://drive.google.com/file/d/1Di947KFrYxiYT-YUEy9CZ87UytlqP9P7/view?usp=sharing
 [c2-w3-v2]: https://drive.google.com/file/d/1DhHtl0Ir6jnjEIS6Jk9dGXCmUD_oiSuN/view?usp=sharing
 [c2-w3-v3]: https://drive.google.com/file/d/1DgpXhU2GjLwsKrUIRifFI2_-QSbC7M_Z/view?usp=sharing
