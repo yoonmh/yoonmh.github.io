@@ -12,7 +12,7 @@ header:
 
 ## Git
 
-Git은 컴퓨터 파일의 변경사항을 추적하고 여러 명의 사용자들 간에 해당 파일들의 작업을 조율허ㅏ기 위한 분산버전관리시스템(Version Control System) 입니다.
+Git은 컴퓨터 파일의 변경사항을 추적하고 여러 명의 사용자들 간에 해당 파일들의 작업을 조율하기 위한 분산버전관리시스템(Version Control System) 입니다.
 * [Git](http://git-scm.com/)
 * [Sourcetree](https://www.sourcetreeapp.com/): Git GUI 툴
 
@@ -24,12 +24,12 @@ Git의 동작
 
 ## GitHub
 GitHub는 분산버전관리툴인 Git을 사용하는 프로젝트를 지원하는 웹호스팅 서비스 입니다.
-* [GitHub](https://github.com/)
-* [Github Desktop](https://desktop.github.com/): 
+* [GitHub Guides](https://guides.github.com/activities/hello-world/)
+* [Github Desktop](https://desktop.github.com/)
 
-Git을 사용하려면 master가 아닌 branches를 사용하는편이 좋습니다.
-로컬에서 Branches를 생성하여 활용하는 방법과 서버에서 Branches를 활용하는 법을 포스팅합니다.
-로컬 Branches : 생성과 사용만으로 서버에 영향을 미치지 않고 로컬에만 관리된다.
-서버 Branches : 서버에서 생성하여 모든 개발자들이 접근하여 개발 가능하다.
+Git을 사용하려면 master가 아닌 branches를 사용하는 편이 좋습니다.
+로컬에서 branches를 생성하여 활용하는 방법과 서버에서 branches를 활용하는 법을 포스팅합니다.
+* 로컬 branches : 생성과 사용만으로 서버에 영향을 미치지 않고 로컬에만 관리된다.
+* 서버 branches : 서버에서 생성하여 모든 개발자들이 접근하여 개발 가능하다.
 
 
