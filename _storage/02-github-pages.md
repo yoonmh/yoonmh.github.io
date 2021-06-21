@@ -14,12 +14,12 @@ header:
 * [GitHub Docs](https://docs.github.com/en/pages/getting-started-with-github-pages)
 
 ## Jekyll
-지킬은 ruby 언어로 작성된 정적 사이트 생성기
+지킬은 Ruby 언어로 작성된 정적 사이트 생성기
 
 루비 설치 -> 지킬 설치 -> 블로그 제작 -> 깃허브 연동 -> 블로그 제작
 
 * [Jekyll](https://jekyllrb.com/)
-* [Ryby](https://rubyinstaller.org/)
+* [Ruby](https://rubyinstaller.org/)
 
 테마
 * http://jekyllthemes.org/
