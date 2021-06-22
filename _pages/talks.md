@@ -9,6 +9,8 @@ header:
   overlay_image: /assets/images/tree.jpg
 ---
 
+# Talks
+
 ## 2020년
 1. <b>Deep Learning(1): Artificial Intelligence</b> [(Slide)][20-1]<br> NIDS, KICTech 세미나, 2020.7.
 2. <b>Deep Learning(2): Linear Regression/Logistic Regression</b> [(Slide)][20-2]<br> NIDS, KICTech 세미나, 2020.7.
