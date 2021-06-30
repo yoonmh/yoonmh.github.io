@@ -32,8 +32,8 @@ layout: single
 * 5장:
     * [5.1: 합성곱 신경망 소개](https://colab.research.google.com/drive/1uFC_sKzCBe6xJUfDoKrSI2DG4TVChkyj)
     * [5.2: 소규모 데이터셋에서 컨브넷 사용하기](https://colab.research.google.com/drive/1dJEdJCjxTn9jkXk4oTWIF72V769vIlwp)
-    * [5.3: 사전 훈련된 컨브넷 사용하기]
-    * [5.4: 컨브넷 학습 시각화]
+    * [5.3: 사전 훈련된 컨브넷 사용하기](https://colab.research.google.com/drive/1Ry2rB6IzCR8XWDms2yd60pO1aagEHXlP)
+    * [5.4: 컨브넷 학습 시각화](https://colab.research.google.com/drive/16rgwHtdI47rQ-6zRiet_ovUy8VjdsKec)
 * 6장:
     * [6.1: 단어와 문자의 원-핫 인코딩]
     * [6.1: 단어 임베딩 사용하기]
