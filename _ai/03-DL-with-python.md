@@ -28,7 +28,7 @@ layout: single
     * [3.5. 뉴스 기사 분류](https://colab.research.google.com/drive/1Z8O3TvXtzN0PpsCJsP_sQOTHRxBR8LMh)
     * [3.6. 주택 가격 예측](https://colab.research.google.com/drive/1j4-7LyVfZBBZEJqEoXds-OLl214XlBtz)
 * 4장:
-    * [4.4: 과대적합과 과소적합]
+    * [4.4: 과대적합과 과소적합](https://colab.research.google.com/drive/1xcWJKZxEA5tVpUonaKQpfht5Ny_3MCQ-)
 * 5장:
     * [5.1: 합성곱 신경망 소개]
     * [5.2: 소규모 데이터셋에서 컨브넷 사용하기]
