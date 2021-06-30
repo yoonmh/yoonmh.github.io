@@ -41,10 +41,10 @@ layout: single
     * [6.3: 순환 신경망의 고급 사용법](https://colab.research.google.com/drive/1PLUAdFmgI105anO3JgnMpzPA2_lByQKB)
     * [6.4: 컨브넷을 사용한 시퀀스 처리](https://colab.research.google.com/drive/1MGcJRk2Inv1U2elYXYirFrgVGQnktsht)
 * 8장:
-    * [8.1: LSTM으로 텍스트 생성하기]
-    * [8.2: 딥드림]
-    * [8.3: 뉴럴 스타일 트랜스퍼]
-    * [8.4: 변이형 오토인코더를 사용한 이미지 생성]
-    * [8.5: 적대적 생성 신경망 소개]
+    * [8.1: LSTM으로 텍스트 생성하기](https://colab.research.google.com/drive/1YZ3DnETX18st4OmzREIxcillk3gwerI5)
+    * [8.2: 딥드림](https://colab.research.google.com/drive/1qhgojzfVGF5eyJJqIQRzIxW2HcY12RB7)
+    * [8.3: 뉴럴 스타일 트랜스퍼](https://colab.research.google.com/drive/15j3dFV8N1s_r8K8mzYSlcBDXTGZAW85L)
+    * [8.4: 변이형 오토인코더를 사용한 이미지 생성](https://colab.research.google.com/drive/18Z3TDDve1RW38_b8-4_NcFt6C87kXn7n)
+    * [8.5: 적대적 생성 신경망 소개](https://colab.research.google.com/drive/1bSP3SsdgKjWW0TxcuLw3ddR8Mktce4g9)
 
 [1]: http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf
