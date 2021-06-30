@@ -39,7 +39,7 @@ layout: single
     * [6.1: 단어 임베딩 사용하기](https://colab.research.google.com/drive/1-dYI5QEM4sjDeb_PY5DD0DfFrnaPLLM6)
     * [6.2: 순환 신경망 이해하기](https://colab.research.google.com/drive/1-dYI5QEM4sjDeb_PY5DD0DfFrnaPLLM6)
     * [6.3: 순환 신경망의 고급 사용법](https://colab.research.google.com/drive/1PLUAdFmgI105anO3JgnMpzPA2_lByQKB)
-    * [6.4: 컨브넷을 사용한 시퀀스 처리]
+    * [6.4: 컨브넷을 사용한 시퀀스 처리](https://colab.research.google.com/drive/1MGcJRk2Inv1U2elYXYirFrgVGQnktsht)
 * 8장:
     * [8.1: LSTM으로 텍스트 생성하기]
     * [8.2: 딥드림]
