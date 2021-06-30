@@ -26,7 +26,7 @@ layout: single
 * 3장:
     * [3.4. 영화 리뷰 분류](https://colab.research.google.com/drive/1aPavnONxM04DsEvPi1abBDstCKEuOUQd)
     * [3.5. 뉴스 기사 분류](https://colab.research.google.com/drive/1Z8O3TvXtzN0PpsCJsP_sQOTHRxBR8LMh)
-    * [3.6. 주택 가격 예측](https://drive.google.com/file/d/1Ivu-DcHx-mYnsx1CP4jsABumo2WWI9Xf/view?usp=sharing)
+    * [3.6. 주택 가격 예측](https://colab.research.google.com/drive/1j4-7LyVfZBBZEJqEoXds-OLl214XlBtz)
 * 4장:
     * [4.4: 과대적합과 과소적합]
 * 5장:
