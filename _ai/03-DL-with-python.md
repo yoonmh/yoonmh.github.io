@@ -37,8 +37,8 @@ layout: single
 * 6장:
     * [6.1: 단어와 문자의 원-핫 인코딩](https://colab.research.google.com/drive/1IzTGN5WGuE_VnlW1I6L2S32nqi8ExMcs)
     * [6.1: 단어 임베딩 사용하기](https://colab.research.google.com/drive/1-dYI5QEM4sjDeb_PY5DD0DfFrnaPLLM6)
-    * [6.2: 순환 신경망 이해하기]
-    * [6.3: 순환 신경망의 고급 사용법]
+    * [6.2: 순환 신경망 이해하기](https://colab.research.google.com/drive/1-dYI5QEM4sjDeb_PY5DD0DfFrnaPLLM6)
+    * [6.3: 순환 신경망의 고급 사용법](https://colab.research.google.com/drive/1PLUAdFmgI105anO3JgnMpzPA2_lByQKB)
     * [6.4: 컨브넷을 사용한 시퀀스 처리]
 * 8장:
     * [8.1: LSTM으로 텍스트 생성하기]
