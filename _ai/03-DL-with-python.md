@@ -10,7 +10,7 @@ layout: single
 
 > "케라스 창시자에게 배우는 딥러닝"은 "Deep Learning with Python"의 번역서로 원저자는 Keras를 만든 [François Chollet](https://fchollet.com/)이고, 번역자는 [박해선](https://tensorflow.blog/)이다.
 
-* [원서](file:///G:/%EB%82%B4%20%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/9.Study/DL%20with%20Python/Deep%20Learning%20with%20Python.pdf)
+* [원서](https://drive.google.com/file/d/1IpNAhiNouifgKQrUpw5QXFYUIboFrSdx/view?usp=sharing)
 * [2nd Ed.](https://livebook.manning.com/book/deep-learning-with-python-second-edition/)
 * [번역서 목차](https://tensorflow.blog/%ec%bc%80%eb%9d%bc%ec%8a%a4-%eb%94%a5%eb%9f%ac%eb%8b%9d/)
 * [원저자의 노트북](https://github.com/fchollet/deep-learning-with-python-notebooks)
