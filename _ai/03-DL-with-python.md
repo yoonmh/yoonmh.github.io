@@ -30,7 +30,7 @@ layout: single
 * 4장:
     * [4.4: 과대적합과 과소적합](https://colab.research.google.com/drive/1xcWJKZxEA5tVpUonaKQpfht5Ny_3MCQ-)
 * 5장:
-    * [5.1: 합성곱 신경망 소개]
+    * [5.1: 합성곱 신경망 소개](https://colab.research.google.com/drive/1uFC_sKzCBe6xJUfDoKrSI2DG4TVChkyj)
     * [5.2: 소규모 데이터셋에서 컨브넷 사용하기]
     * [5.3: 사전 훈련된 컨브넷 사용하기]
     * [5.4: 컨브넷 학습 시각화]
