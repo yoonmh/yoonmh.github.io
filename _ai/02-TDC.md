@@ -90,7 +90,7 @@ layout: single
 [c1-w4-n4]: https://colab.research.google.com/drive/1-Mg1eyyhsijhi7OjGd4mPOXEn-s4peU4
 [c1-w4-v5]: https://drive.google.com/file/d/1DK4M95npZV1azIU2VLp0jgKm44SG7KZp/view?usp=sharing
 [c1-w4-v6]: https://drive.google.com/file/d/1DLc50ujPjCCLcPAgs83gOiVyRLlguC37/view?usp=sharing
-[c1-w4-n6]: https://colab.research.google.com/drive/1-XIF9c5NIjwzk9z_XRqm68uiyd8C7r9M
+[c1-w4-n6]: https://colab.research.google.com/drive/1GVC9YU0m5qtJQsY9Qippj5XNfNDJ2qIh#scrollTo=PixZ2s5QbYQ3
 [c1-w4-v7]: https://drive.google.com/file/d/1DL9M1xddEn6U5zqphRXrHfPpwA2pvmZI/view?usp=sharing
 [c1-w4-e4]: https://colab.research.google.com/drive/1FvAhYpjvuohIiqJmOi2KE_9rOhiuM9k9
 [c1-w4-b8]: https://gombru.github.io/2018/05/23/cross_entropy_loss/
