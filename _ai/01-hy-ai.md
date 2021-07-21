@@ -21,7 +21,7 @@ layout: single
 ## 4. Neural Network
 * 4-1 [손글씨 인식][4-1]
 * 4-2 [의류 인식][4-2]
-* 4-3 [Conlution][4-3]
+* 4-3 [Convolution][4-3]
 
 ## 5. Convolutional Neural Network
 * 5-1 [손글씨 인식 - CNN][5-1]
