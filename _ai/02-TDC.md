@@ -328,7 +328,6 @@ layout: single
 [c4-w1-v5]: https://drive.google.com/file/d/1HRjc72wdq9DAR5FVQCiHVLi8e8q1JOA0/view?usp=sharing
 [c4-w1-v6]: https://drive.google.com/file/d/1Hta2rptk3XPu0fNGWIRLJgrv2SIYXhaT/view?usp=sharing
 [c4-w1-v7]: https://drive.google.com/file/d/1HkO6JwaPDuFfc1gFJkVty4pvEpoH7twV/view?usp=sharing
-
 [c4-w1-v8]: https://drive.google.com/file/d/1HTlKLwKzwD1n0NKxysYtHM4iofIELn1h/view?usp=sharing
 [c4-w1-v9]: https://drive.google.com/file/d/1I-G-sm3cqY90o6HwFq6lo3P5nDEsbwUK/view?usp=sharing
 [c4-w2-v1]: https://drive.google.com/file/d/1J-anQPVNfUI7R1xGG8DcT9CMXB-1Dz45/view?usp=sharing
