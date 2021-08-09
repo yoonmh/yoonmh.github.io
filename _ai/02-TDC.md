@@ -296,7 +296,7 @@ layout: single
 6. Prediction ([Video][c4-w2-v6])
 7. More on single layer neural network ([Video][c4-w2-v7], [Notebook][c4-w2-n7])
 8. Deep neural network training, tuning and prediction ([Video][c4-w2-v8])
-9. Deep neural network ([Video][c4-w2-v9])
+9. Deep neural network ([Video][c4-w2-v9], [Notebook][c4-w2-n9])
 
 ### W-3. Time Series를 위한 RNN
 1. 개념 정리 ([Video][c4-w3-v1])
@@ -341,6 +341,7 @@ layout: single
 [c4-w2-n7]: https://colab.research.google.com/drive/1lGu3Tzmvw_dcxy3-eLM2q0HHy60CmxQn
 [c4-w2-v8]: https://drive.google.com/file/d/1ILynaiBQ99h1y00tfL44T1P73HuCxF3O/view?usp=sharing
 [c4-w2-v9]: https://drive.google.com/file/d/1IFqFwGYFJ4z-yjOV9GQsjZcjjff9oJLx/view?usp=sharing
+[c4-w2-n9]: https://colab.research.google.com/drive/15urkV4JEJ5mI8g5PsDRbtawSIAyuUyCJ
 [c4-w3-v1]: https://drive.google.com/file/d/1KZntDcyDROKPlxzWMjXDJNvXYPM8H0_5/view?usp=sharing
 [c4-w3-v2]: https://drive.google.com/file/d/1KNejUzOA_YdW5ARthwefkNedz73n4u7A/view?usp=sharing
 [c4-w3-v3]: https://drive.google.com/file/d/1KAya9Hap8Lo-rV-yiRO4PP8Km0LItKD4/view?usp=sharing
