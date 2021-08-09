@@ -332,7 +332,7 @@ layout: single
 [c4-w1-v9]: https://drive.google.com/file/d/1I-G-sm3cqY90o6HwFq6lo3P5nDEsbwUK/view?usp=sharing
 [c4-w2-v1]: https://drive.google.com/file/d/1J-anQPVNfUI7R1xGG8DcT9CMXB-1Dz45/view?usp=sharing
 [c4-w2-v2]: https://drive.google.com/file/d/1IvpNkvZYBV7-RRhZHWssKTuFFKSfeFbu/view?usp=sharing
-[c4-w2-n2]: https://colab.research.google.com/drive/1MrhFiCThExjNpM5rj6k6JD0fZWyielrN
+[c4-w2-n2]: https://colab.research.google.com/drive/1fAGP-g7y-su7mZdVDWXy_5_93w-R4nRb
 [c4-w2-v3]: https://drive.google.com/file/d/1Inkyl_oFvq4TOnyZVMtb_SLbCZvk01be/view?usp=sharing
 [c4-w2-v4]: https://drive.google.com/file/d/1IkVBnaOrPMmHsYJGIFV4CTg7UU3o3gHR/view?usp=sharing
 [c4-w2-v5]: https://drive.google.com/file/d/1I_ufuZKnXNLh4hOfb9MrN7IeQpgbzQ8n/view?usp=sharing
