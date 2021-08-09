@@ -289,7 +289,7 @@ layout: single
 
 ### W-2. Deep Neural Networks for Time Series 
 1. Preparing features and labels ([Video][c4-w2-v1])
-2. Preparing features and labels ([Video][c4-w2-v2])
+2. Preparing features and labels ([Video][c4-w2-v2], [Notebook][c4-w2-n2])
 3. Feeding windowed dataset into neural network ([Video][c4-w2-v3])
 4. Single layer neural network ([Video][c4-w2-v4])
 5. Machine learning on time windows ([Video][c4-w2-v5])
@@ -332,6 +332,7 @@ layout: single
 [c4-w1-v9]: https://drive.google.com/file/d/1I-G-sm3cqY90o6HwFq6lo3P5nDEsbwUK/view?usp=sharing
 [c4-w2-v1]: https://drive.google.com/file/d/1J-anQPVNfUI7R1xGG8DcT9CMXB-1Dz45/view?usp=sharing
 [c4-w2-v2]: https://drive.google.com/file/d/1IvpNkvZYBV7-RRhZHWssKTuFFKSfeFbu/view?usp=sharing
+[c4-w2-n2]: https://colab.research.google.com/drive/1MrhFiCThExjNpM5rj6k6JD0fZWyielrN
 [c4-w2-v3]: https://drive.google.com/file/d/1Inkyl_oFvq4TOnyZVMtb_SLbCZvk01be/view?usp=sharing
 [c4-w2-v4]: https://drive.google.com/file/d/1IkVBnaOrPMmHsYJGIFV4CTg7UU3o3gHR/view?usp=sharing
 [c4-w2-v5]: https://drive.google.com/file/d/1I_ufuZKnXNLh4hOfb9MrN7IeQpgbzQ8n/view?usp=sharing
