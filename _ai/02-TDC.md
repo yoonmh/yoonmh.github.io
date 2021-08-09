@@ -306,8 +306,8 @@ layout: single
 5. Adjusting the learning rate dynamically ([Video][c4-w3-v5])
 6. RNN ([Video][c4-w3-v6], [Notebook][c4-w3-n6])
 7. LSTM ([Video][c4-w3-v7], [A.NG][c4-w3-a7])
-8. LSTM 코딩 ([Video][c4-w3-v8], [Notebook][c4-w3-n8])
-9. More on LSTM ([Video][c4-w3-v9])
+8. LSTM 코딩 ([Video][c4-w3-v8])
+9. More on LSTM ([Video][c4-w3-v9], [Notebook][c4-w3-n9])
 
 ### W-4. 실생활의 time series data
 1. Convolutions ([Video][c4-w4-v1])
@@ -352,8 +352,8 @@ layout: single
 [c4-w3-v7]: https://drive.google.com/file/d/1JXiikeBDhYnjGsmJIik52Ldq8jdxVHlk/view?usp=sharing
 [c4-w3-a7]: https://www.coursera.org/lecture/nlp-sequence-models/long-short-term-memory-lstm-KXoay
 [c4-w3-v8]: https://drive.google.com/file/d/1JLdU4Stj_xlQhtO4ohkYdIUQMUWj_6lK/view?usp=sharing
-[c4-w3-n8]: https://colab.research.google.com/drive/1n5dL5QXEeNKnwBYEOb9R5bZvf3hGGfkc
 [c4-w3-v9]: https://drive.google.com/file/d/1JIfXp77X_So1-7t9y3CYqG4NN6SkmB8k/view?usp=sharing
+[c4-w3-n9]: https://colab.research.google.com/drive/1n5dL5QXEeNKnwBYEOb9R5bZvf3hGGfkc
 [c4-w4-v1]: https://drive.google.com/file/d/1Le7vDBecHGOCNWP_DgHfBGatJqheXO_p/view?usp=sharing
 [c4-w4-v2]: https://drive.google.com/file/d/1LQ5EyDkAmlLhFVN0GnCtFvhWwZprh-hf/view?usp=sharing
 [c4-w4-v3]: https://drive.google.com/file/d/1LI2Qw3Grd8dez-bVr_z61okxYRYffRbD/view?usp=sharing
