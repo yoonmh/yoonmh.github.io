@@ -283,7 +283,7 @@ layout: single
 4. Time series 서론 ([Video][c4-w1-v4], [Notebook][c4-w1-n4])
 5. Train, validation and test sets ([Video][c4-w1-v5])
 6. 성능 평가를 위한 Metrics ([Video][c4-w1-v6])
-7. Moving average and differencing ([Video][c4-w1-v7])
+7. Moving average and differencing ([Video][c4-w1-v6])
 8. Trailing versus centered windows ([Video][c4-w1-v8])
 9. Forecasting ([Video][c4-w1-v9])
 
