@@ -294,7 +294,7 @@ layout: single
 4. Single layer neural network ([Video][c4-w2-v4])
 5. Machine learning on time windows ([Video][c4-w2-v5])
 6. Prediction ([Video][c4-w2-v6])
-7. More on single layer neural network ([Video][c4-w2-v7])
+7. More on single layer neural network ([Video][c4-w2-v7], [Notebook][c4-w2-n7])
 8. Deep neural network training, tuning and prediction ([Video][c4-w2-v8])
 9. Deep neural network ([Video][c4-w2-v9])
 
@@ -338,6 +338,7 @@ layout: single
 [c4-w2-v5]: https://drive.google.com/file/d/1I_ufuZKnXNLh4hOfb9MrN7IeQpgbzQ8n/view?usp=sharing
 [c4-w2-v6]: https://drive.google.com/file/d/1IYGBXNp1w0yB50MQl_LJimQkjU8oAzPz/view?usp=sharing
 [c4-w2-v7]: https://drive.google.com/file/d/1IOV0R71Cluf8hODd1AOLVC21DVxqAmhw/view?usp=sharing
+[c4-w2-n7]: https://colab.research.google.com/drive/1lGu3Tzmvw_dcxy3-eLM2q0HHy60CmxQn
 [c4-w2-v8]: https://drive.google.com/file/d/1ILynaiBQ99h1y00tfL44T1P73HuCxF3O/view?usp=sharing
 [c4-w2-v9]: https://drive.google.com/file/d/1IFqFwGYFJ4z-yjOV9GQsjZcjjff9oJLx/view?usp=sharing
 [c4-w3-v1]: https://drive.google.com/file/d/1KZntDcyDROKPlxzWMjXDJNvXYPM8H0_5/view?usp=sharing
