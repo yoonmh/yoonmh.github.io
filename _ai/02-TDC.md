@@ -316,7 +316,7 @@ layout: single
 4. Real data - sunspots ([Video][c4-w4-v4])
 5. Train and tune the model ([Video][c4-w4-v5])
 6. Prediction ([Video][c4-w4-v6])
-7. Sunspots ([Video][c4-w4-v7])
+7. Sunspots ([Video][c4-w4-v7], [Notebook][c4-w4-n7])
 8. Combining our tools for analysis ([Video][c4-w4-v8])
 9. Congratulations! 
 
@@ -362,4 +362,5 @@ layout: single
 [c4-w4-v5]: https://drive.google.com/file/d/1L0c9D6daZDb8jW6OLbUsSAPhdQTxrllB/view?usp=sharing
 [c4-w4-v6]: https://drive.google.com/file/d/1KwtM4N3_JA6BgrKIrhkVWmVRZmtlyYrn/view?usp=sharing
 [c4-w4-v7]: https://drive.google.com/file/d/1KodkHfplcyOONgejR5J1MDcypqL6aL4g/view?usp=sharing
+[c4-w4-n7]: https://colab.research.google.com/drive/1LdX9hYDGlv_vLr0X7zA09gbotr_khMp9
 [c4-w4-v8]: https://drive.google.com/file/d/1Ki2Zjw-YiT0OEzM7gNRi4JhQFVVT61k0/view?usp=sharing
