@@ -312,7 +312,7 @@ layout: single
 ### W-4. 실생활의 time series data
 1. Convolutions ([Video][c4-w4-v1])
 2. 양방향 LSTM ([Video][c4-w4-v2])
-3. LSTM ([Video][c4-w4-v3])
+3. LSTM ([Video][c4-w4-v3], [Notebook][c4-w4-n3])
 4. Real data - sunspots ([Video][c4-w4-v4])
 5. Train and tune the model ([Video][c4-w4-v5])
 6. Prediction ([Video][c4-w4-v6])
@@ -357,6 +357,7 @@ layout: single
 [c4-w4-v1]: https://drive.google.com/file/d/1Le7vDBecHGOCNWP_DgHfBGatJqheXO_p/view?usp=sharing
 [c4-w4-v2]: https://drive.google.com/file/d/1LQ5EyDkAmlLhFVN0GnCtFvhWwZprh-hf/view?usp=sharing
 [c4-w4-v3]: https://drive.google.com/file/d/1LI2Qw3Grd8dez-bVr_z61okxYRYffRbD/view?usp=sharing
+[c4-w4-n3]: https://colab.research.google.com/drive/1DWkbUwWjv5WWlPo2mmJ99gTrcs3PWMtN
 [c4-w4-v4]: https://drive.google.com/file/d/1LC-YHCFLbHBIGyW-WRB5SjI3lad5K9-V/view?usp=sharing
 [c4-w4-v5]: https://drive.google.com/file/d/1L0c9D6daZDb8jW6OLbUsSAPhdQTxrllB/view?usp=sharing
 [c4-w4-v6]: https://drive.google.com/file/d/1KwtM4N3_JA6BgrKIrhkVWmVRZmtlyYrn/view?usp=sharing
