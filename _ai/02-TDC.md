@@ -304,10 +304,13 @@ layout: single
 3. Outputting a sequence ([Video][c4-w3-v3])
 4. Lambda layers ([Video][c4-w3-v4])
 5. Adjusting the learning rate dynamically ([Video][c4-w3-v5])
+* Huber
 6. RNN ([Video][c4-w3-v6], [Notebook][c4-w3-n6])
 7. LSTM ([Video][c4-w3-v7], [A.NG][c4-w3-a7])
 8. LSTM 코딩 ([Video][c4-w3-v8])
 9. More on LSTM ([Video][c4-w3-v9], [Notebook][c4-w3-n9])
+
+* Huber loss ([Wiki][c4-w3-c5])
 
 ### W-4. 실생활의 time series data
 1. Convolutions ([Video][c4-w4-v1])
