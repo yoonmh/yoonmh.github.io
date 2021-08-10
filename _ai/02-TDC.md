@@ -304,13 +304,11 @@ layout: single
 3. Outputting a sequence ([Video][c4-w3-v3])
 4. Lambda layers ([Video][c4-w3-v4])
 5. Adjusting the learning rate dynamically ([Video][c4-w3-v5])
-* Huber
+* Huber loss ([Wiki][c4-w3-w5])
 6. RNN ([Video][c4-w3-v6], [Notebook][c4-w3-n6])
 7. LSTM ([Video][c4-w3-v7], [A.NG][c4-w3-a7])
 8. LSTM 코딩 ([Video][c4-w3-v8])
 9. More on LSTM ([Video][c4-w3-v9], [Notebook][c4-w3-n9])
-
-* Huber loss ([Wiki][c4-w3-c5])
 
 ### W-4. 실생활의 time series data
 1. Convolutions ([Video][c4-w4-v1])
@@ -350,6 +348,7 @@ layout: single
 [c4-w3-v3]: https://drive.google.com/file/d/1KAya9Hap8Lo-rV-yiRO4PP8Km0LItKD4/view?usp=sharing
 [c4-w3-v4]: https://drive.google.com/file/d/1K7fYd9ZF3_glHcXs1t4tomKWkVSDarzs/view?usp=sharing
 [c4-w3-v5]: https://drive.google.com/file/d/1K3btaSqfSQ7b8POJ8ax_5mkuk_Idhl0q/view?usp=sharing
+[c4-w3-w5]: https://en.wikipedia.org/wiki/Huber_loss
 [c4-w3-v6]: https://drive.google.com/file/d/1JkSQD0l6G4oO_abcjGfT4QlSZa-j1Z9C/view?usp=sharing
 [c4-w3-n6]: https://colab.research.google.com/drive/1EdphUpz_pxMgBXMMJBK5tMsP5OSvDLTA
 [c4-w3-v7]: https://drive.google.com/file/d/1JXiikeBDhYnjGsmJIik52Ldq8jdxVHlk/view?usp=sharing
