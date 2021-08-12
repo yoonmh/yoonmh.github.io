@@ -33,6 +33,13 @@ layout: single
 * 5-8 [Transfer Learning][5-8]
 * 5-9 [가위-바위-보][5-9]
 
+## 6. Time Series
+* 6-1 [Windowed Dataset][6-1]
+* 6-2 [Time Series - Linear Regression][6-2]
+* 6-3 [Time Series - NN][6-3]
+* 6-4 [Time Series - RNN][6-4]
+* 6-5 [Time Series - LSTM][6-5]
+
 [1-1]: https://colab.research.google.com/drive/1KQimvQusjg_bHG2U86w4OyIysgRMDLbL
 [2-1]: https://colab.research.google.com/drive/1KOzIYsnLLWymCTycAr4KrEbfcV7ulfOW
 [2-2]: https://colab.research.google.com/drive/1KOINBbzMuO4i9vUAflXjlZ_rK7duUUBI
@@ -51,3 +58,8 @@ layout: single
 [5-7]: https://colab.research.google.com/drive/1K_NFQQCfIT_u1ngChpjt-mGBdA5DD34u
 [5-8]: https://colab.research.google.com/drive/1MbIoThePsrNifKCh4DifI-h5fQK4nAiA
 [5-9]: https://colab.research.google.com/drive/1KRNwkgGKI9t7Wwo_EyC8gL7nL_j8rm86
+[6-1]: https://colab.research.google.com/drive/1xlbSC_XeLSSZDuSq_YawI6G_kmFFxuA2
+[6-2]: https://colab.research.google.com/drive/1ncG9ROhzb7r9ZfOwgL8swW_7P4fJMuX2
+[6-3]: https://colab.research.google.com/drive/1D9WrhACYnQhr9G19ZTOZ9FyT0peVAKnd
+[6-4]: https://colab.research.google.com/drive/1C0EdM9kcQn5D_zCGN_MZ_KUt2TXbkBtB
+[6-5]: https://colab.research.google.com/drive/1F4TM1ctFJKK0DxjsQC7qs2NHh0NLndXA
