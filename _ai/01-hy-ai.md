@@ -40,6 +40,10 @@ layout: single
 * 6-4 [Time Series - RNN][6-4]
 * 6-5 [Time Series - LSTM][6-5]
 
+## 7. Natural Language Processing
+* 7-1 [Tokenizer][7-1]
+* 7-2 [Padding][7-2]
+
 [1-1]: https://colab.research.google.com/drive/1KQimvQusjg_bHG2U86w4OyIysgRMDLbL
 [2-1]: https://colab.research.google.com/drive/1KOzIYsnLLWymCTycAr4KrEbfcV7ulfOW
 [2-2]: https://colab.research.google.com/drive/1KOINBbzMuO4i9vUAflXjlZ_rK7duUUBI
@@ -63,3 +67,6 @@ layout: single
 [6-3]: https://colab.research.google.com/drive/1D9WrhACYnQhr9G19ZTOZ9FyT0peVAKnd
 [6-4]: https://colab.research.google.com/drive/1C0EdM9kcQn5D_zCGN_MZ_KUt2TXbkBtB
 [6-5]: https://colab.research.google.com/drive/1F4TM1ctFJKK0DxjsQC7qs2NHh0NLndXA
+
+[7-1]: https://colab.research.google.com/drive/1BgYWLX2YismXuEjeeiY1503cjurfTOdt
+[7-2]: https://colab.research.google.com/drive/1YYT0z53WyOJIOV6OccZARgeaJVhoy2cf
