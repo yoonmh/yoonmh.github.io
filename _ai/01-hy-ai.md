@@ -30,7 +30,8 @@ layout: single
 * 5-5 [고양이와 개][5-5]
 * 5-6 [고양이와 개 - Augmentation][5-6]
 * 5-7 [말과 사람 - Augmentation][5-7]
-* 5-8 [가위-바위-보][5-8]
+* 5-8 [Transfer Learning][5-8]
+* 5-9 [가위-바위-보][5-9]
 
 [1-1]: https://colab.research.google.com/drive/1KQimvQusjg_bHG2U86w4OyIysgRMDLbL
 [2-1]: https://colab.research.google.com/drive/1KOzIYsnLLWymCTycAr4KrEbfcV7ulfOW
@@ -48,4 +49,5 @@ layout: single
 [5-5]: https://colab.research.google.com/drive/1KuDg7mCRcrT_wL9VOJungDlAKXaKXz_N
 [5-6]: https://colab.research.google.com/drive/1KrHAi7UJO_VpGfNzzi5REnYWOzvULg7i
 [5-7]: https://colab.research.google.com/drive/1K_NFQQCfIT_u1ngChpjt-mGBdA5DD34u
-[5-8]: https://colab.research.google.com/drive/1KRNwkgGKI9t7Wwo_EyC8gL7nL_j8rm86
+[5-8]: https://colab.research.google.com/drive/1MbIoThePsrNifKCh4DifI-h5fQK4nAiA
+[5-9]: https://colab.research.google.com/drive/1KRNwkgGKI9t7Wwo_EyC8gL7nL_j8rm86
