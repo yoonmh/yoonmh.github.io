@@ -41,7 +41,7 @@ layout: single
 * 6-5 [Time Series - LSTM][6-5]
 
 ## 7. Natural Language Processing
-* 7-1 [Tokenizer][7-1]
+* 7-1 [Word Encoding][7-1]
 * 7-2 [Padding][7-2]
 
 [1-1]: https://colab.research.google.com/drive/1KQimvQusjg_bHG2U86w4OyIysgRMDLbL
