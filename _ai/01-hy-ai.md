@@ -42,7 +42,7 @@ layout: single
 
 ## 7. Natural Language Processing
 * 7-1 [Word Encoding][7-1]
-* 7-2 [Padding][7-2]
+* 7-2 [Sarcasm][7-2]
 
 [1-1]: https://colab.research.google.com/drive/1KQimvQusjg_bHG2U86w4OyIysgRMDLbL
 [2-1]: https://colab.research.google.com/drive/1KOzIYsnLLWymCTycAr4KrEbfcV7ulfOW
@@ -69,4 +69,4 @@ layout: single
 [6-5]: https://colab.research.google.com/drive/1F4TM1ctFJKK0DxjsQC7qs2NHh0NLndXA
 
 [7-1]: https://colab.research.google.com/drive/1BgYWLX2YismXuEjeeiY1503cjurfTOdt
-[7-2]: https://colab.research.google.com/drive/1YYT0z53WyOJIOV6OccZARgeaJVhoy2cf
+[7-2]: https://colab.research.google.com/drive/1bkOqb33522VCRBJMfJ1Gmzt1OFB8n_eM
