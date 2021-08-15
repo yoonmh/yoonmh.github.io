@@ -189,8 +189,8 @@ layout: single
 4. 벡터의 사용 ([Video][c3-w2-v4], [Projector][c3-w2-p4])
 5. IMDB 실습 ([Video][c3-w2-v5], [Notebook][c3-w2-n5])
 6. Sarcasm ([Video][c3-w2-v6])
-7. Sarcasm 분류기 ([Video][c3-w2-v7])
-8. Loss function ([Video][c3-w2-v8])
+7. Sarcasm 분류기 ([Video][c3-w2-v7], [Notebook][c3-w2-n7])
+8. Loss function ([Video][c3-w2-v8], [Notebook][c3-w2-n8])
 9. Pre-tokenized datasets ([Video][c3-w2-v9])
 10. Sunword tokenizer(1) ([Video][c3-w2-v10])
 11. Sunword tokenizer(2) ([Video][c3-w2-v11])
@@ -243,7 +243,9 @@ layout: single
 [c3-w2-n5]: https://colab.research.google.com/drive/1c806_ftQU2AZjtcjQibSEjlWnSYmWfJx
 [c3-w2-v6]: https://drive.google.com/file/d/1Dk6eHooOhj71hG_cV3ixXiq85i3jO6jd/view?usp=sharing
 [c3-w2-v7]: https://drive.google.com/file/d/1DtCz3N-A93UuuoFiwA6MBdMrLb3NR4zj/view?usp=sharing
+[c3-w2-n7]: https://colab.research.google.com/drive/1JNcLAMY4aVEBSqDa4mtT3c6rFFltmgic
 [c3-w2-v8]: https://drive.google.com/file/d/1DyQt9N-t_6JEVOcMhjz4WAuBflXobfcg/view?usp=sharing
+[c3-w2-n8]: https://colab.research.google.com/drive/1RiU8tQpsTwcCn3LUKM3lsX_edHrE0i-m
 [c3-w2-v9]: https://drive.google.com/file/d/1E1EkMUYlarhbyVGg510tsyb2IHPKc2iu/view?usp=sharing
 [c3-w2-v10]: https://drive.google.com/file/d/1E9qxclJoPI442A1KgF6PGgIXjdT_gj3k/view?usp=sharing
 [c3-w2-v11]: https://drive.google.com/file/d/1EHOOxO6p7zNWM2y6AVkU6dEXMzAUk1Ho/view?usp=sharing
