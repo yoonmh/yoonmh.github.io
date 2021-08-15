@@ -45,6 +45,7 @@ layout: single
 * 7-2 [Sarcasm Word Encoding][7-2]
 * 7-3 [IMDB Reviews][7-3]
 * 7-4 [Sarcasm][7-4]
+* 7-5 [Sarcasm(2)][7-5]
 
 [1-1]: https://colab.research.google.com/drive/1KQimvQusjg_bHG2U86w4OyIysgRMDLbL
 [2-1]: https://colab.research.google.com/drive/1KOzIYsnLLWymCTycAr4KrEbfcV7ulfOW
@@ -74,3 +75,4 @@ layout: single
 [7-2]: https://colab.research.google.com/drive/1bkOqb33522VCRBJMfJ1Gmzt1OFB8n_eM
 [7-3]: https://colab.research.google.com/drive/1QX0G3sAuVUToEVDi64EXwjAhcj1TOcyI
 [7-4]: https://colab.research.google.com/drive/1FFDFLXVCEIKvzxrVjvjQeU7bGmeGRaKb
+[7-5]: https://colab.research.google.com/drive/1vsav8EgLWks2leS3-PtNNcnhXQCC6EM2
