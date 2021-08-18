@@ -42,8 +42,8 @@ layout: single
 
 ## 7. Natural Language Processing
 * 7-1 [Word Encoding][7-1]
-* 7-2 [Sarcasm Word Encoding][7-2]
-* 7-3 [IMDB Reviews][7-3]
+* 7-2 [IMDB (1) - One-hot encoding][7-2]
+* 7-3 [IMDB (2) - Word embedding][7-3]
 * 7-4 [Sarcasm][7-4]
 * 7-5 [Sarcasm(2)][7-5]
 * 7-6 [IMDB(2)][7-6]
@@ -73,7 +73,7 @@ layout: single
 [6-5]: https://colab.research.google.com/drive/1F4TM1ctFJKK0DxjsQC7qs2NHh0NLndXA
 
 [7-1]: https://colab.research.google.com/drive/1BgYWLX2YismXuEjeeiY1503cjurfTOdt
-[7-2]: https://colab.research.google.com/drive/1bkOqb33522VCRBJMfJ1Gmzt1OFB8n_eM
+[7-2]: https://colab.research.google.com/drive/1ME1NDmGDTpteQNy0PfRn18IEjRRToZuL
 [7-3]: https://colab.research.google.com/drive/1QX0G3sAuVUToEVDi64EXwjAhcj1TOcyI
 [7-4]: https://colab.research.google.com/drive/1FFDFLXVCEIKvzxrVjvjQeU7bGmeGRaKb
 [7-5]: https://colab.research.google.com/drive/1vsav8EgLWks2leS3-PtNNcnhXQCC6EM2
