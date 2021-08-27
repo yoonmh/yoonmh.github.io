@@ -29,5 +29,5 @@ NumPy는 데이터 구조 외에도 수치 계산을 위해 효율적으로 구�
 
 ## Matplotlib
 
-* [Matplotlib](https://wikidocs.net/92071)
+* [Matplotlib](https://wikidocs.net/book/5011)
 
