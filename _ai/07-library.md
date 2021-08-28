@@ -1,10 +1,10 @@
 ---
 title: 'Python Libraries'
 layout: single
-header:
-  overlay_image: /assets/images/earth.jpg
-  teaser: /assets/images/python.png
-  show_overlay_excerpt: false
+#header:
+#  overlay_image: /assets/images/earth.jpg
+#  teaser: /assets/images/python.png
+#  show_overlay_excerpt: false
 ---
 
 ## Python
@@ -15,7 +15,7 @@ Python이라는 이름은 그가 좋아하는 코미디 "Monty Python's Flying C
 Python은 Python Software Foundation(PSF)이 관리하는 개방형, 공동체 기반 개발 모델을 가지고 있다. 
 C언어로 구현된 Cython이 사실상의 표준이다.
 
-* [Python](https://www.python.org/)
+* [Python](https://www.python.org/ target="_blank")
 * [PEF2.0-The Zen of Python](https://www.python.org/dev/peps/pep-0020/): (Python의 핵심 철학)
 * [Document](https://docs.python.org/3/)
 
