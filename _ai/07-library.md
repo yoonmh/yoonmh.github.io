@@ -19,6 +19,7 @@ C언어로 구현된 Cython이 사실상의 표준이다.
 * [PEF2.0-The Zen of Python](https://www.python.org/dev/peps/pep-0020/): (Python의 핵심 철학)
 * [Document](https://docs.python.org/3/)
 * [점프 투 파이썬](https://wikidocs.net/book/1)
+* [공학자를 위한 파이썬](https://wikidocs.net/book/1704)
 * [파이썬 라이브러리](https://wikidocs.net/book/5445)
 
 ## Numpy
