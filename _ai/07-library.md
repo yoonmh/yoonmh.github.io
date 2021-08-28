@@ -30,6 +30,10 @@ NumPy는 데이터 구조 외에도 수치 계산을 위해 효율적으로 구�
 * [Numpy](https://numpy.org/)
 * [Document](https://numpy.org/doc/stable/user/index.html)
 
+## Pandas
+
+* [Pandas](https://pandas.pydata.org/)
+
 ## Matplotlib
 
 * [Matplotlib-파이썬 데이터 시각화](https://wikidocs.net/book/5011)
