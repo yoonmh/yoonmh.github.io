@@ -9,12 +9,19 @@ layout: single
 * 1-1 [구글 드라이브 연결][1-1]
 
 ## Part 2. 텐서플로 (TensorFlow)
-* 2-1 [2-1][2-1]
-* 2-2 [2-2][2-2]
-* 2-3 [2-3][2-3]
-* [2-4][2-4]
+* 2-1 [Eager Execution][2-1]
+* 2-2 [Scalar][2-2]
+* 2-3 [Vector][2-3]
+* 2-4 [Matrix][2-4]
+* 2-5 [Tensor][2-5]
+* 2-6 {Indexing][2-6]
+* 2-7 [Reshape][2-7]
+* 2-8 [Variable][2-8]
+* 2-9 [Autodiff][2-9]
 
 ## Part 3. 케라스(Keras)
+* 3-1 [경사하강법][3-1]
+* 3-2 [Linear Regression][3-2]
 
 ## Part 4. 합성곱 신경망 (CNN)
 
@@ -27,3 +34,10 @@ layout: single
 [2-2]: https://colab.research.google.com/drive/1gGeBChWLnZN4An8RPIv3ScgHHUjd4iFg
 [2-3]: https://colab.research.google.com/drive/1z2nCnMePcm2TwrVF_I_uyzn2z3hQLWmj
 [2-4]: https://colab.research.google.com/drive/1jXGGJNVgyCFwCBOssrCCT4I7nBfkKLqA
+[2-5]: https://colab.research.google.com/drive/1Lpy_5ZjUNzkEbwOmGZPqFb6c31X317gO
+[2-6]: https://colab.research.google.com/drive/1EnrVYWYug0OjlO4qHN_zb67hSNyHImRq
+[2-7]: https://colab.research.google.com/drive/1VKKMJrkxj4GfXZhQaeDMMnkfJxSSBlAt
+[2-8]: https://colab.research.google.com/drive/1Z0CzELNNGptX0TfCzK2XCiBSGc5WKG62
+[2-9]: https://colab.research.google.com/drive/1owGgVFsJXh-nu000BDI86xvpaw8MnJ9O
+[3-1]: https://colab.research.google.com/drive/13OvUiruCWcHAVpgnCb3YWrxdsm1PYC_p
+[3-2]: https://colab.research.google.com/drive/15TAcvtyG1rUQHnQzPocWrbsp6-E0zR3L
