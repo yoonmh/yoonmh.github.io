@@ -22,6 +22,18 @@ layout: single
 ## Part 3. 케라스(Keras)
 * 3-1 [경사하강법][3-1]
 * 3-2 [Linear Regression][3-2]
+* 3-3 [MNIST 분류][3-3]
+* 3-4 [Model Configuration][3-4]
+* 3-5 [Callback][3-5]
+* 3-6 [Model][3-6]
+* 3-7 [Functional API][3-7]
+* 3-8 [Custom][3-8]
+* 3-9 [Custom][3-9]
+* 3-10 [Custom][3-10]
+* 3-11 [Gradient][3-11]
+* 3-12 [Gradient][3-12]
+* 3-13 [Dataset][3-13]
+* 3-14 [Dataset][3-14]
 
 ## Part 4. 합성곱 신경망 (CNN)
 
@@ -41,3 +53,16 @@ layout: single
 [2-9]: https://colab.research.google.com/drive/1owGgVFsJXh-nu000BDI86xvpaw8MnJ9O
 [3-1]: https://colab.research.google.com/drive/13OvUiruCWcHAVpgnCb3YWrxdsm1PYC_p
 [3-2]: https://colab.research.google.com/drive/15TAcvtyG1rUQHnQzPocWrbsp6-E0zR3L
+[3-3]: https://colab.research.google.com/drive/1twxoLhmfY5v3e5vWHM_msyuDtSckDEDi
+[3-4]: https://colab.research.google.com/drive/1H83VPhGZr_l-00EmJUSaH4EtyqRLKweK
+[3-5]: https://colab.research.google.com/drive/119IGVx3WKsLINmL6I_HLSb3bdrdvUnSo
+[3-6]: https://colab.research.google.com/drive/10_SerABo4B55xJf2_F_9GTgeMaXuRclk
+[3-7]: https://colab.research.google.com/drive/134TV0qly6b_uC_hOuq02jEm27_wwq-lx
+[3-8]: https://colab.research.google.com/drive/1Kq3nFuuALc6fJgodojL6X_EHcV7CWpon
+[3-9]: https://colab.research.google.com/drive/1JU2L9RSkdSqoMx_XY8-S3AP4DgEK8tzU
+[3-10]: https://colab.research.google.com/drive/1UtaWTGfGZYccBA8JZGjbm8xgkzZoX0x-
+[3-11]: https://colab.research.google.com/drive/1UoU42-sWCFj4Fuiw_ifApVOy_u3QgSlS
+[3-12]: https://colab.research.google.com/drive/1poiD2aOXzXlCgg1pyDYCbijqDXEeIJA-
+[3-13]: https://colab.research.google.com/drive/1aY58NyrJ5qpZ88bM0svnpEO6PyRBnyJ3
+[3-14]: https://colab.research.google.com/drive/1jSvAkEMfO9_qzbmipooIocFwxixY8Eyf
+
