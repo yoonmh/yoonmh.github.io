@@ -14,7 +14,7 @@ layout: single
 * 2-3 [Vector][2-3]
 * 2-4 [Matrix][2-4]
 * 2-5 [Tensor][2-5]
-* 2-6 {Indexing][2-6]
+* 2-6 [Indexing][2-6]
 * 2-7 [Reshape][2-7]
 * 2-8 [Variable][2-8]
 * 2-9 [Autodiff][2-9]
