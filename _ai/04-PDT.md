@@ -45,6 +45,7 @@ layout: single
 * 4-7 [Distillation][4-7]
 * 4-8 [GAN MNIST][4-8]
 * 4-9 [Style Transfer][4-9]
+* 4-10 [Grad CAM][4-10]
 
 ## Part 5. 순환 신경망 (RNN)
 
@@ -83,3 +84,4 @@ layout: single
 [4-7]: https://colab.research.google.com/drive/1_P5BdWJ4dRVneqjVHaGhZolspJJr_WKO
 [4-8]: https://colab.research.google.com/drive/1GzElmeI0y5mi1cqNZeAuIzYHhVWCKUTU
 [4-9]: https://colab.research.google.com/drive/1Db5sl7RVhLaYR5bJQzwUjtIrvksIuAUs
+[4-10]: https://colab.research.google.com/drive/1lM__ZVojNvjE5BQl4UFyi7Dsc0Y9VK7X
