@@ -32,7 +32,7 @@ layout: single
 * 3-10 [Custom Train][3-10]
 * 3-11 [Gradient Tape][3-11]
 * 3-12 [Gradient Tape Model][3-12]
-* 3-13 [Dataset][3-13]
+* 3-13 [Tensorflow Dataset][3-13]
 * 3-14 [Dataset][3-14]
 
 ## Part 4. 합성곱 신경망 (CNN)
