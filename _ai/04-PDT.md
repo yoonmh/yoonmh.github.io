@@ -27,7 +27,7 @@ layout: single
 * 3-5 [Callback][3-5]
 * 3-6 [Mode Save][3-6]
 * 3-7 [Functional API][3-7]
-* 3-8 [Custom][3-8]
+* 3-8 [Custom Loss][3-8]
 * 3-9 [Custom][3-9]
 * 3-10 [Custom][3-10]
 * 3-11 [Gradient][3-11]
