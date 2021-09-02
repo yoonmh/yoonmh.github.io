@@ -36,6 +36,15 @@ layout: single
 * 3-14 [Tensorflow Dataset][3-14]
 
 ## Part 4. 합성곱 신경망 (CNN)
+* 4-1 [MNIST CNN][4-1]
+* 4-2 [MNIST Functional][4-2]
+* 4-3 [Eurosat Augmentation][4-3]
+* 4-4 [Cats and Dogs][4-4]
+* 4-5 [Object Detection][4-5]
+* 4-6 [Segmentation][4-6]
+* 4-7 [Distillation][4-7]
+* 4-8 [GAN MNIST][4-8]
+* 4-9 [Style Transfer][4-9]
 
 ## Part 5. 순환 신경망 (RNN)
 
@@ -65,4 +74,12 @@ layout: single
 [3-12]: https://colab.research.google.com/drive/1poiD2aOXzXlCgg1pyDYCbijqDXEeIJA-
 [3-13]: https://colab.research.google.com/drive/1aY58NyrJ5qpZ88bM0svnpEO6PyRBnyJ3
 [3-14]: https://colab.research.google.com/drive/1jSvAkEMfO9_qzbmipooIocFwxixY8Eyf
-
+[4-1]: https://colab.research.google.com/drive/1BxO5rRdjBeXZALMiHGr8jhRJU_Kq7edc
+[4-2]: https://colab.research.google.com/drive/11ceejlaIdwYF9WFAT7Uum7pXXMLbuOqm
+[4-3]: https://colab.research.google.com/drive/1jkcdPoPJXBCP9RCSJS4oAX5154d41Rdk
+[4-4]: https://colab.research.google.com/drive/1Ai6mDP4ZtTqUuA2yipxMwEojEBGOr-wL
+[4-5]: https://colab.research.google.com/drive/1bfIshBmudoqiAAL5tgZA_E5ymuS9nhnV
+[4-6]: https://colab.research.google.com/drive/1kSVTUuKNGYHfZc2mJpLRiLPcKOxbw9tI
+[4-7]: https://colab.research.google.com/drive/1_P5BdWJ4dRVneqjVHaGhZolspJJr_WKO
+[4-8]: https://colab.research.google.com/drive/1GzElmeI0y5mi1cqNZeAuIzYHhVWCKUTU
+[4-9]: https://colab.research.google.com/drive/1Db5sl7RVhLaYR5bJQzwUjtIrvksIuAUs
