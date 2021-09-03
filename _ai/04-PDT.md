@@ -41,6 +41,8 @@ layout: single
 * 4-3 [EuroSAT Augmentation][4-3]
 * 4-4 [Cats and Dogs][4-4]
 * 4-5 [Object Detection][4-5]
+* 4-5-1 [Darknet Yolo v4][4-5-1]
+* 4-5-2 [Simple Yolo][4-5-2]
 * 4-6 [Segmentation][4-6]
 * 4-7 [Distillation][4-7]
 * 4-8 [GAN MNIST][4-8]
@@ -48,6 +50,13 @@ layout: single
 * 4-10 [Grad CAM][4-10]
 
 ## Part 5. 순환 신경망 (RNN)
+* 5-1 [MN][5-1]
+* 5-2 [NLP Basic][5-2]
+* 5-3 [Movie Review][5-3]
+* 5-4 [Sentence Creation][5-4]
+* 5-5 [Sequence to Sequence][5-5]
+* 5-6 [Transformer][5-6]
+* 5-7 [VIT][5-7]
 
 ## Part 6. 강화학습 (Reinforcement Learning)
 
@@ -80,8 +89,17 @@ layout: single
 [4-3]: https://colab.research.google.com/drive/1jkcdPoPJXBCP9RCSJS4oAX5154d41Rdk
 [4-4]: https://colab.research.google.com/drive/1Ai6mDP4ZtTqUuA2yipxMwEojEBGOr-wL
 [4-5]: https://colab.research.google.com/drive/1bfIshBmudoqiAAL5tgZA_E5ymuS9nhnV
+[4-5-1]: https://colab.research.google.com/drive/1NfpYcuGd-BNZGXnOzOiLacAySRjKoyQp
+[4-5-2]: https://colab.research.google.com/drive/1hBzleYbXYp9bRkAiyIIuAll4L1VXS1Kc
 [4-6]: https://colab.research.google.com/drive/1kSVTUuKNGYHfZc2mJpLRiLPcKOxbw9tI
 [4-7]: https://colab.research.google.com/drive/1_P5BdWJ4dRVneqjVHaGhZolspJJr_WKO
 [4-8]: https://colab.research.google.com/drive/1GzElmeI0y5mi1cqNZeAuIzYHhVWCKUTU
 [4-9]: https://colab.research.google.com/drive/1Db5sl7RVhLaYR5bJQzwUjtIrvksIuAUs
 [4-10]: https://colab.research.google.com/drive/1lM__ZVojNvjE5BQl4UFyi7Dsc0Y9VK7X
+[5-1]: https://colab.research.google.com/drive/15qPA384YDLU_f_C1VYzhqbDWt6cRiDqX
+[5-2]: https://colab.research.google.com/drive/15gmJ8-CfeK1jUUbas4Yiof4DStjHw21q
+[5-3]: https://colab.research.google.com/drive/15fAFFQzzSh1ct7mHb8lQOYhpF0W-Rk30
+[5-4]: https://colab.research.google.com/drive/15WZIqBbuCKPlSNIrO0qjsELWF4YeG6Uw
+[5-5]: https://colab.research.google.com/drive/15SOWP2UctEMscc1bY3zr2DZ-nYF-6PB_
+[5-6]: https://colab.research.google.com/drive/15R68w1FDP0D3FxKDDdp6neudYs6MAdOa
+[5-7]: https://colab.research.google.com/drive/15OebLJKe-d2TCqJFuUHzhGBIeajRaYEm
