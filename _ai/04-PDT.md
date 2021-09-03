@@ -59,6 +59,11 @@ layout: single
 * 5-7 [VIT][5-7]
 
 ## Part 6. 강화학습 (Reinforcement Learning)
+* 6-1 [Gym Frozen Lake][6-1]
+* 6-2 [][6-2]
+* 6-3 [][6-3]
+* 6-4 [Gym CartPole][6-4]
+* 6-5 [QP CartPole][6-5]
 
 [1-1]: https://colab.research.google.com/drive/1r6_PNScbaNrMn_CVwJCuqZv2CeSIUNwO
 [2-1]: https://colab.research.google.com/drive/1t-ySP8vfF0kpSn0HF15qU5v5Ux27-9wr
@@ -103,3 +108,8 @@ layout: single
 [5-5]: https://colab.research.google.com/drive/15SOWP2UctEMscc1bY3zr2DZ-nYF-6PB_
 [5-6]: https://colab.research.google.com/drive/15R68w1FDP0D3FxKDDdp6neudYs6MAdOa
 [5-7]: https://colab.research.google.com/drive/15OebLJKe-d2TCqJFuUHzhGBIeajRaYEm
+[6-1]: https://colab.research.google.com/drive/15E188y95grmtnUjv1KZenrgQfubwEd9B
+[6-2]: https://colab.research.google.com/drive/15AtO6tRSGPHgWCEAzqtD_UPUTI6ukLu2
+[6-3]: https://colab.research.google.com/drive/15BCZq-9kGoESu0q0ZdpitxZP5viJMM_R
+[6-4]: https://colab.research.google.com/drive/14znXn-pFcAnLjTFTiycZSRI_wwZKNqF2
+[6-5]: https://colab.research.google.com/drive/14uZx-dMUMPAyFeshZaEwZePdaFZAyjh5
