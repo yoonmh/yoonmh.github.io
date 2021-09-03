@@ -38,7 +38,7 @@ layout: single
 ## Part 4. 합성곱 신경망 (CNN)
 * 4-1 [MNIST CNN][4-1]
 * 4-2 [MNIST Functional][4-2]
-* 4-3 [Eurosat Augmentation][4-3]
+* 4-3 [EuroSAT Augmentation][4-3]
 * 4-4 [Cats and Dogs][4-4]
 * 4-5 [Object Detection][4-5]
 * 4-6 [Segmentation][4-6]
