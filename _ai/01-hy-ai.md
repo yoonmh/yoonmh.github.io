@@ -7,6 +7,7 @@ layout: single
 
 ## 1. Introduction
 * 1-1 [TensorFlow와의 첫 만남][1-1]
+* 1-2 [Tensor][1-2]
 
 ## 2. Linear Regression
 * 2-1 [성적 예측][2-1]
@@ -49,6 +50,7 @@ layout: single
 * 7-6 [IMDB(2)][7-6]
 
 [1-1]: https://colab.research.google.com/drive/1KQimvQusjg_bHG2U86w4OyIysgRMDLbL
+[1-2]: https://colab.research.google.com/drive/1PVbBsYAgs6_JSKZTHRIw3BVIt6oY2pn6
 [2-1]: https://colab.research.google.com/drive/1KOzIYsnLLWymCTycAr4KrEbfcV7ulfOW
 [2-2]: https://colab.research.google.com/drive/1KOINBbzMuO4i9vUAflXjlZ_rK7duUUBI
 [2-3]: https://colab.research.google.com/drive/1L1v2KVZJNgfe88mR59-ybpntCI5abPKq
