@@ -6,11 +6,11 @@ layout: single
 > 한양대학교 ERICA융합원과 인공지능융합연구센터가 공동으로 수행하는 대학원 인공지능 수업 예제 입니다.
 
 ## 1. Introduction
-* 1-1 [TensorFlow와의 첫 만남][1-1]
-* 1-2 [Tensor][1-2]
+* 1-1 [TensorFlow][1-1]
+* 1-2 [Tensor 연산 및 처리][1-2]
 
 ## 2. Linear Regression
-* 2-1 [Gradient Descent][2-1]
+* 2-1 [경사하강법][2-1]
 * 2-2 [성적 예측][2-2]
 * 2-3 [광고와 매출효과 예측][2-3]
 * 2-4 [자동차 연비 예측][2-4]
