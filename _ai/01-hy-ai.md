@@ -25,6 +25,7 @@ layout: single
 * 4-2 [의류 인식][4-2]
 * 4-3 [Batch Normalization][4-3]
 * 4-4 [Callbaks][4-4]
+* 4-5 [TF Dataset][4-5]
 
 ## 5. Convolutional Neural Network
 * 5-1 [손글씨 인식 - CNN][5-1]
@@ -65,6 +66,7 @@ layout: single
 [4-2]: https://colab.research.google.com/drive/1Kx9ATSRZDKzdO790tKKI54ckp3bfBJlB
 [4-3]: https://colab.research.google.com/drive/1MLUmPaaKUZhHag6vTJA873SWSYqHxVDZ
 [4-4]: https://colab.research.google.com/drive/1Em0NmVd8W7lfYbpsvsx10ga6jTkGbPtH
+[4-5]: https://colab.research.google.com/drive/1eQ5xf55aXQxNrlSYL_pdu5TJKBXESqeW
 [5-1]: https://colab.research.google.com/drive/1KwFMpvgT0b4oWGFYxtuAatam3DE1y2gE
 [5-2]: https://colab.research.google.com/drive/1KvgO1mKI0MvxU85JW7JwqePNR1TaNUKi
 [5-3]: https://colab.research.google.com/drive/1DkgGgq2pvUtsteBguX97ffnozhqWxOAx
