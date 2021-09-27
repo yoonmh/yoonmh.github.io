@@ -15,7 +15,7 @@ layout: single
 * 2-3 [광고와 매출효과 예측][2-3]
 * 2-4 [자동차 연비 예측][2-4]
 
-## 3. Logistic Regression:
+## 3. Logistic/Softmax Regression:
 * 3-1 [바이너리 성적 예측][3-1]
 * 3-2 [SUV 구매 예측][3-2]
 * 3-3 [붓꽃 분류][3-3]
@@ -38,20 +38,27 @@ layout: single
 * 5-8 [Transfer Learning][5-8]
 * 5-9 [가위-바위-보][5-9]
 
-## 6. Time Series
-* 6-1 [Windowed Dataset][6-1]
-* 6-2 [Time Series - Linear Regression][6-2]
-* 6-3 [Time Series - NN][6-3]
-* 6-4 [Time Series - RNN][6-4]
-* 6-5 [Time Series - LSTM][6-5]
+## 6. Object Detection
+* 6-1 [Object][6-1]
+* 6-2 [Yolo][6-2]
 
-## 7. Natural Language Processing
-* 7-1 [Word Encoding][7-1]
-* 7-2 [IMDB (1) - One-hot encoding][7-2]
-* 7-3 [IMDB (2) - Word embedding][7-3]
-* 7-4 [Sarcasm][7-4]
-* 7-5 [Sarcasm(2)][7-5]
-* 7-6 [IMDB(2)][7-6]
+## 7. RNN
+
+
+## 8. Time Series
+* 8-1 [Windowed Dataset][8-1]
+* 8-2 [Time Series - Linear Regression][8-2]
+* 8-3 [Time Series - NN][8-3]
+* 8-4 [Time Series - RNN][8-4]
+* 8-5 [Time Series - LSTM][8-5]
+
+## 9. Natural Language Processing
+* 9-1 [Word Encoding][9-1]
+* 9-2 [IMDB (1) - One-hot encoding][9-2]
+* 9-3 [IMDB (2) - Word embedding][9-3]
+* 9-4 [Sarcasm][9-4]
+* 9-5 [Sarcasm(2)][9-5]
+* 9-6 [IMDB(2)][9-6]
 
 [1-1]: https://colab.research.google.com/drive/1KQimvQusjg_bHG2U86w4OyIysgRMDLbL
 [1-2]: https://colab.research.google.com/drive/1PVbBsYAgs6_JSKZTHRIw3BVIt6oY2pn6
@@ -76,15 +83,18 @@ layout: single
 [5-7]: https://colab.research.google.com/drive/1K_NFQQCfIT_u1ngChpjt-mGBdA5DD34u
 [5-8]: https://colab.research.google.com/drive/1MbIoThePsrNifKCh4DifI-h5fQK4nAiA
 [5-9]: https://colab.research.google.com/drive/1KRNwkgGKI9t7Wwo_EyC8gL7nL_j8rm86
-[6-1]: https://colab.research.google.com/drive/1xlbSC_XeLSSZDuSq_YawI6G_kmFFxuA2
-[6-2]: https://colab.research.google.com/drive/1ncG9ROhzb7r9ZfOwgL8swW_7P4fJMuX2
-[6-3]: https://colab.research.google.com/drive/1D9WrhACYnQhr9G19ZTOZ9FyT0peVAKnd
-[6-4]: https://colab.research.google.com/drive/1C0EdM9kcQn5D_zCGN_MZ_KUt2TXbkBtB
-[6-5]: https://colab.research.google.com/drive/1F4TM1ctFJKK0DxjsQC7qs2NHh0NLndXA
+[6-1]: https://colab.research.google.com/drive/1xty0A6TcZxGpbePDOBJUETbProqoewxo
+[6-2]: https://colab.research.google.com/drive/1XL1Sq7GOG2_Qsc4e15qyV4AWAfYoy42F
 
-[7-1]: https://colab.research.google.com/drive/1BgYWLX2YismXuEjeeiY1503cjurfTOdt
-[7-2]: https://colab.research.google.com/drive/1ME1NDmGDTpteQNy0PfRn18IEjRRToZuL
-[7-3]: https://colab.research.google.com/drive/1QX0G3sAuVUToEVDi64EXwjAhcj1TOcyI
-[7-4]: https://colab.research.google.com/drive/1FFDFLXVCEIKvzxrVjvjQeU7bGmeGRaKb
-[7-5]: https://colab.research.google.com/drive/1vsav8EgLWks2leS3-PtNNcnhXQCC6EM2
-[7-6]: https://colab.research.google.com/drive/1P0xQ7Qs2muwDL_FC-kb4k680FRMvsykC
+[8-1]: https://colab.research.google.com/drive/1xlbSC_XeLSSZDuSq_YawI6G_kmFFxuA2
+[8-2]: https://colab.research.google.com/drive/1ncG9ROhzb7r9ZfOwgL8swW_7P4fJMuX2
+[8-3]: https://colab.research.google.com/drive/1D9WrhACYnQhr9G19ZTOZ9FyT0peVAKnd
+[8-4]: https://colab.research.google.com/drive/1C0EdM9kcQn5D_zCGN_MZ_KUt2TXbkBtB
+[8-5]: https://colab.research.google.com/drive/1F4TM1ctFJKK0DxjsQC7qs2NHh0NLndXA
+
+[9-1]: https://colab.research.google.com/drive/1BgYWLX2YismXuEjeeiY1503cjurfTOdt
+[9-2]: https://colab.research.google.com/drive/1ME1NDmGDTpteQNy0PfRn18IEjRRToZuL
+[9-3]: https://colab.research.google.com/drive/1QX0G3sAuVUToEVDi64EXwjAhcj1TOcyI
+[9-4]: https://colab.research.google.com/drive/1FFDFLXVCEIKvzxrVjvjQeU7bGmeGRaKb
+[9-5]: https://colab.research.google.com/drive/1vsav8EgLWks2leS3-PtNNcnhXQCC6EM2
+[9-6]: https://colab.research.google.com/drive/1P0xQ7Qs2muwDL_FC-kb4k680FRMvsykC
