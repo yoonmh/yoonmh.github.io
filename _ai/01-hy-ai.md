@@ -42,6 +42,7 @@ layout: single
 * 6-1 [Object Detection][6-1]
 * 6-2 [Yolo][6-2]
 * 6-3 [GAN][6-3]
+* 6-4 [Style Transfer][6-4]
 
 ## 7. RNN
 
@@ -87,6 +88,7 @@ layout: single
 [6-1]: https://colab.research.google.com/drive/1xty0A6TcZxGpbePDOBJUETbProqoewxo
 [6-2]: https://colab.research.google.com/drive/1XL1Sq7GOG2_Qsc4e15qyV4AWAfYoy42F
 [6-3]: https://colab.research.google.com/drive/1t0FmaF2hbFDRSbp1yJkFmG2jdDemdRTT
+[6-4]: https://colab.research.google.com/drive/1yP95JqlwVtkrSQb66n3KOceR80jjRMgy
 
 [8-1]: https://colab.research.google.com/drive/1xlbSC_XeLSSZDuSq_YawI6G_kmFFxuA2
 [8-2]: https://colab.research.google.com/drive/1ncG9ROhzb7r9ZfOwgL8swW_7P4fJMuX2
