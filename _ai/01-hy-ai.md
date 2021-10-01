@@ -41,6 +41,7 @@ layout: single
 ## 6. Object Detection
 * 6-1 [Object Detection][6-1]
 * 6-2 [Yolo][6-2]
+* 6-3 [GAN][6-3]
 
 ## 7. RNN
 
@@ -85,6 +86,7 @@ layout: single
 [5-9]: https://colab.research.google.com/drive/1KRNwkgGKI9t7Wwo_EyC8gL7nL_j8rm86
 [6-1]: https://colab.research.google.com/drive/1xty0A6TcZxGpbePDOBJUETbProqoewxo
 [6-2]: https://colab.research.google.com/drive/1XL1Sq7GOG2_Qsc4e15qyV4AWAfYoy42F
+[6-3]: https://colab.research.google.com/drive/1t0FmaF2hbFDRSbp1yJkFmG2jdDemdRTT
 
 [8-1]: https://colab.research.google.com/drive/1xlbSC_XeLSSZDuSq_YawI6G_kmFFxuA2
 [8-2]: https://colab.research.google.com/drive/1ncG9ROhzb7r9ZfOwgL8swW_7P4fJMuX2
