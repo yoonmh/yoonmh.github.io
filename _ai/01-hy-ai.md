@@ -39,7 +39,7 @@ layout: single
 * 5-9 [가위-바위-보][5-9]
 
 ## 6. Object Detection
-* 6-1 [Object][6-1]
+* 6-1 [Object Detection][6-1]
 * 6-2 [Yolo][6-2]
 
 ## 7. RNN
