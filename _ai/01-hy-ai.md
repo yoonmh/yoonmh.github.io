@@ -15,7 +15,7 @@ layout: single
 * 2-3 [광고와 매출효과 예측][2-3]
 * 2-4 [자동차 연비 예측][2-4]
 
-## 3. Logistic/Softmax Regression:
+## 3. Logistic Regression:
 * 3-1 [바이너리 성적 예측][3-1]
 * 3-2 [SUV 구매 예측][3-2]
 * 3-3 [붓꽃 분류][3-3]
