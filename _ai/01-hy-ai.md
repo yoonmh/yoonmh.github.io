@@ -38,13 +38,16 @@ layout: single
 * 5-8 [Transfer Learning][5-8]
 * 5-9 [가위-바위-보][5-9]
 
+<!--
 ## 6. Object Detection
 * 6-1 [Object Detection][6-1]
 * 6-2 [Yolo][6-2]
 * 6-3 [GAN][6-3]
 * 6-4 [Style Transfer][6-4]
+-->
 
 ## 6. RNN
+* 6-1
 
 ## 7. Natural Language Processing
 * 7-1 [Word Encoding][7-1]
