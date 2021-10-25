@@ -25,7 +25,7 @@ layout: single
 * 4-2 [의류 인식][4-2]
 * 4-3 [Batch Normalization][4-3]
 * 4-4 [Callbaks][4-4]
-* 4-5 [TF Dataset][4-5]
+#* 4-5 [TF Dataset][4-5]
 
 ## 5. Convolutional Neural Network
 * 5-1 [손글씨 인식 - CNN][5-1]
