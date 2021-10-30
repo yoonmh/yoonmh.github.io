@@ -39,7 +39,8 @@ layout: single
 * 5-9 [가위-바위-보][5-9]
 
 ## 6. Convolutional Neural Network (2)
-* 6-1 [Object Detection][6-1]
+* 6-1 [Functional Model][6-1] 
+* [Object Detection][6-1-1]
 * 6-2 [Yolo][6-2]
 * 6-3 [GAN][6-3]
 * 6-4 [Style Transfer][6-4]
@@ -87,7 +88,8 @@ layout: single
 [5-7]: https://colab.research.google.com/drive/1K_NFQQCfIT_u1ngChpjt-mGBdA5DD34u
 [5-8]: https://colab.research.google.com/drive/1MbIoThePsrNifKCh4DifI-h5fQK4nAiA
 [5-9]: https://colab.research.google.com/drive/1KRNwkgGKI9t7Wwo_EyC8gL7nL_j8rm86
-[6-1]: https://colab.research.google.com/drive/1xty0A6TcZxGpbePDOBJUETbProqoewxo
+[6-1]: https://colab.research.google.com/drive/1mKrAS3nv-LtcwrFFMBC9X1EtT8DI9zMM
+[6-1-1]: https://colab.research.google.com/drive/1xty0A6TcZxGpbePDOBJUETbProqoewxo
 [6-2]: https://colab.research.google.com/drive/1XL1Sq7GOG2_Qsc4e15qyV4AWAfYoy42F
 [6-3]: https://colab.research.google.com/drive/1t0FmaF2hbFDRSbp1yJkFmG2jdDemdRTT
 [6-4]: https://colab.research.google.com/drive/1yP95JqlwVtkrSQb66n3KOceR80jjRMgy
