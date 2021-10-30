@@ -27,7 +27,7 @@ layout: single
 * 4-4 [Callbaks][4-4]
 <!--* 4-5 [TF Dataset][4-5]-->
 
-## 5. Convolutional Neural Network
+## 5. CNN (1)
 * 5-1 [손글씨 인식 - CNN][5-1]
 * 5-2 [의류 인식 - CNN][5-2]
 * 5-3 [Convolution 시각화][5-3]
@@ -38,7 +38,7 @@ layout: single
 * 5-8 [Transfer Learning][5-8]
 * 5-9 [가위-바위-보][5-9]
 
-## 6. Convolutional Neural Network (2)
+## 6. CNN (2)
 * 6-1 [Functional Model][6-1] 
 * [Object Detection][6-1-1]
 * 6-2 [Yolo][6-2]
