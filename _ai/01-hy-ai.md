@@ -30,7 +30,7 @@ layout: single
 ## 5. Convolutional Neural Network
 * 5-1 [손글씨 인식 - CNN][5-1]
 * 5-2 [의류 인식 - CNN][5-2]
-* 5-3 [Convolution layer 시각화][5-3]
+* 5-3 [Convolution 시각화][5-3]
 * 5-4 [말과 사람][5-4]
 * 5-5 [고양이와 개][5-5]
 * 5-6 [고양이와 개 - Augmentation][5-6]
@@ -38,13 +38,12 @@ layout: single
 * 5-8 [Transfer Learning][5-8]
 * 5-9 [가위-바위-보][5-9]
 
-<!--
-## 6. Object Detection
+## 6. Convolutional Neural Network (2)
 * 6-1 [Object Detection][6-1]
 * 6-2 [Yolo][6-2]
 * 6-3 [GAN][6-3]
 * 6-4 [Style Transfer][6-4]
--->
+
 
 ## 6. RNN
 * 6-1
