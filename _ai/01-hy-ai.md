@@ -30,7 +30,7 @@ layout: single
 ## 5. Convolutional Neural Network
 * 5-1 [손글씨 인식 - CNN][5-1]
 * 5-2 [의류 인식 - CNN][5-2]
-* 5-3 [Convolution][5-3]
+* 5-3 [Convolution layer 시각화][5-3]
 * 5-4 [말과 사람][5-4]
 * 5-5 [고양이와 개][5-5]
 * 5-6 [고양이와 개 - Augmentation][5-6]
@@ -80,7 +80,8 @@ layout: single
 [4-5]: https://colab.research.google.com/drive/1eQ5xf55aXQxNrlSYL_pdu5TJKBXESqeW
 [5-1]: https://colab.research.google.com/drive/1KwFMpvgT0b4oWGFYxtuAatam3DE1y2gE
 [5-2]: https://colab.research.google.com/drive/1KvgO1mKI0MvxU85JW7JwqePNR1TaNUKi
-[5-3]: https://colab.research.google.com/drive/1DkgGgq2pvUtsteBguX97ffnozhqWxOAx
+[5-3]: https://colab.research.google.com/drive/1gf4caG9E-3aVQ7sNgYiOBCIG6occIgjU
+[5-3-1]: https://colab.research.google.com/drive/1DkgGgq2pvUtsteBguX97ffnozhqWxOAx
 [5-4]: https://colab.research.google.com/drive/1Kay3VNe6qOUJfrRkecnYliu7Uz2npztY
 [5-5]: https://colab.research.google.com/drive/1KuDg7mCRcrT_wL9VOJungDlAKXaKXz_N
 [5-6]: https://colab.research.google.com/drive/1KrHAi7UJO_VpGfNzzi5REnYWOzvULg7i
