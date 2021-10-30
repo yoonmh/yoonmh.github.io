@@ -35,16 +35,17 @@ layout: single
 * 5-5 [고양이와 개][5-5]
 * 5-6 [고양이와 개 - Augmentation][5-6]
 * 5-7 [말과 사람 - Augmentation][5-7]
-* 5-8 [Transfer Learning][5-8]
-* 5-9 [가위-바위-보][5-9]
+* 5-8 [가위-바위-보][5-8]
 
 ## 6. CNN (2)
 * 6-1 [Functional Model][6-1] 
-* [Object Detection][6-1-1]
-* 6-2 [Yolo][6-2]
-* 6-3 [GAN][6-3]
-* 6-4 [Style Transfer][6-4]
-
+* 6-2 [Transfer Learning][6-2]
+* 6-3 [Object Detection][6-3]
+<--
+* 6-2 [Yolo][6-2-1]
+* 6-3 [GAN][6-3-1]
+* 6-4 [Style Transfer][6-4-1]
+-->
 
 ## 6. RNN
 * 6-1
@@ -86,13 +87,13 @@ layout: single
 [5-5]: https://colab.research.google.com/drive/1KuDg7mCRcrT_wL9VOJungDlAKXaKXz_N
 [5-6]: https://colab.research.google.com/drive/1KrHAi7UJO_VpGfNzzi5REnYWOzvULg7i
 [5-7]: https://colab.research.google.com/drive/1K_NFQQCfIT_u1ngChpjt-mGBdA5DD34u
-[5-8]: https://colab.research.google.com/drive/1MbIoThePsrNifKCh4DifI-h5fQK4nAiA
-[5-9]: https://colab.research.google.com/drive/1KRNwkgGKI9t7Wwo_EyC8gL7nL_j8rm86
+[5-8]: https://colab.research.google.com/drive/1KRNwkgGKI9t7Wwo_EyC8gL7nL_j8rm86
 [6-1]: https://colab.research.google.com/drive/1mKrAS3nv-LtcwrFFMBC9X1EtT8DI9zMM
-[6-1-1]: https://colab.research.google.com/drive/1xty0A6TcZxGpbePDOBJUETbProqoewxo
-[6-2]: https://colab.research.google.com/drive/1XL1Sq7GOG2_Qsc4e15qyV4AWAfYoy42F
-[6-3]: https://colab.research.google.com/drive/1t0FmaF2hbFDRSbp1yJkFmG2jdDemdRTT
-[6-4]: https://colab.research.google.com/drive/1yP95JqlwVtkrSQb66n3KOceR80jjRMgy
+[6-2]: https://colab.research.google.com/drive/1MbIoThePsrNifKCh4DifI-h5fQK4nAiA
+[6-3]: https://colab.research.google.com/drive/1xty0A6TcZxGpbePDOBJUETbProqoewxo
+[6-2-1]: https://colab.research.google.com/drive/1XL1Sq7GOG2_Qsc4e15qyV4AWAfYoy42F
+[6-3-1]: https://colab.research.google.com/drive/1t0FmaF2hbFDRSbp1yJkFmG2jdDemdRTT
+[6-4-1]: https://colab.research.google.com/drive/1yP95JqlwVtkrSQb66n3KOceR80jjRMgy
 [7-1]: https://colab.research.google.com/drive/1BgYWLX2YismXuEjeeiY1503cjurfTOdt
 [7-2]: https://colab.research.google.com/drive/1ME1NDmGDTpteQNy0PfRn18IEjRRToZuL
 [7-3]: https://colab.research.google.com/drive/1QX0G3sAuVUToEVDi64EXwjAhcj1TOcyI
