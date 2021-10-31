@@ -41,9 +41,9 @@ layout: single
 * 6-1 [Functional Model][6-1] 
 * 6-2 [Transfer Learning][6-2]
 * 6-3 [Object Detection][6-3]
-<!--* 6-2 [Yolo][6-2-1]
-* 6-3 [GAN][6-3-1]
-* 6-4 [Style Transfer][6-4-1]-->
+<!--* 6-2 [Yolo][6-2-1]-->
+<!--* 6-3 [GAN][6-3-1]-->
+<!--* 6-4 [Style Transfer][6-4-1]-->
 
 ## 6. RNN
 * 6-1
