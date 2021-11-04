@@ -46,8 +46,7 @@ layout: single
 <!--* 6-3 [GAN][6-3-1]-->
 <!--* 6-4 [Style Transfer][6-4-1]-->
 
-## 6. RNN
-* 6-1
+<!--## 7. RNN-->
 
 ## 7. Natural Language Processing
 * 7-1 [Word Encoding][7-1]
