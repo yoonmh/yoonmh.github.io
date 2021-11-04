@@ -48,20 +48,20 @@ layout: single
 
 <!--## 7. RNN-->
 
-## 7. Natural Language Processing
-* 7-1 [Word Encoding][7-1]
-* 7-2 [IMDB (1) - One-hot encoding][7-2]
-* 7-3 [IMDB (2) - Word embedding][7-3]
-* 7-4 [Sarcasm][7-4]
-* 7-5 [Sarcasm(2)][7-5]
-* 7-6 [IMDB(2)][7-6]
+## 7. Time Series
+* 7-1 [Windowed Dataset][7-1]
+* 7-2 [Time Series - Linear Regression][7-2]
+* 7-3 [Time Series - NN][7-3]
+* 7-4 [Time Series - RNN][7-4]
+* 7-5 [Time Series - LSTM][7-5]
 
-## 8. Time Series
-* 8-1 [Windowed Dataset][8-1]
-* 8-2 [Time Series - Linear Regression][8-2]
-* 8-3 [Time Series - NN][8-3]
-* 8-4 [Time Series - RNN][8-4]
-* 8-5 [Time Series - LSTM][8-5]
+## 8. Natural Language Processing
+* 8-1 [Word Encoding][8-1]
+* 8-2 [IMDB (1) - One-hot encoding][8-2]
+* 8-3 [IMDB (2) - Word embedding][8-3]
+* 8-4 [Sarcasm][8-4]
+* 8-5 [Sarcasm(2)][8-5]
+* 8-6 [IMDB(2)][8-6]
 
 [1-1]: https://colab.research.google.com/drive/1KQimvQusjg_bHG2U86w4OyIysgRMDLbL
 [1-2]: https://colab.research.google.com/drive/1PVbBsYAgs6_JSKZTHRIw3BVIt6oY2pn6
@@ -93,15 +93,15 @@ layout: single
 [6-2-1]: https://colab.research.google.com/drive/1XL1Sq7GOG2_Qsc4e15qyV4AWAfYoy42F
 [6-3-1]: https://colab.research.google.com/drive/1t0FmaF2hbFDRSbp1yJkFmG2jdDemdRTT
 [6-4-1]: https://colab.research.google.com/drive/1yP95JqlwVtkrSQb66n3KOceR80jjRMgy
-[7-1]: https://colab.research.google.com/drive/1BgYWLX2YismXuEjeeiY1503cjurfTOdt
-[7-2]: https://colab.research.google.com/drive/1ME1NDmGDTpteQNy0PfRn18IEjRRToZuL
-[7-3]: https://colab.research.google.com/drive/1QX0G3sAuVUToEVDi64EXwjAhcj1TOcyI
-[7-4]: https://colab.research.google.com/drive/1FFDFLXVCEIKvzxrVjvjQeU7bGmeGRaKb
-[7-5]: https://colab.research.google.com/drive/1vsav8EgLWks2leS3-PtNNcnhXQCC6EM2
-[7-6]: https://colab.research.google.com/drive/1P0xQ7Qs2muwDL_FC-kb4k680FRMvsykC
+[7-1]: https://colab.research.google.com/drive/1xlbSC_XeLSSZDuSq_YawI6G_kmFFxuA2
+[7-2]: https://colab.research.google.com/drive/1ncG9ROhzb7r9ZfOwgL8swW_7P4fJMuX2
+[7-3]: https://colab.research.google.com/drive/1D9WrhACYnQhr9G19ZTOZ9FyT0peVAKnd
+[7-4]: https://colab.research.google.com/drive/1C0EdM9kcQn5D_zCGN_MZ_KUt2TXbkBtB
+[7-5]: https://colab.research.google.com/drive/1F4TM1ctFJKK0DxjsQC7qs2NHh0NLndXA
 
-[8-1]: https://colab.research.google.com/drive/1xlbSC_XeLSSZDuSq_YawI6G_kmFFxuA2
-[8-2]: https://colab.research.google.com/drive/1ncG9ROhzb7r9ZfOwgL8swW_7P4fJMuX2
-[8-3]: https://colab.research.google.com/drive/1D9WrhACYnQhr9G19ZTOZ9FyT0peVAKnd
-[8-4]: https://colab.research.google.com/drive/1C0EdM9kcQn5D_zCGN_MZ_KUt2TXbkBtB
-[8-5]: https://colab.research.google.com/drive/1F4TM1ctFJKK0DxjsQC7qs2NHh0NLndXA
+[8-1]: https://colab.research.google.com/drive/1BgYWLX2YismXuEjeeiY1503cjurfTOdt
+[8-2]: https://colab.research.google.com/drive/1ME1NDmGDTpteQNy0PfRn18IEjRRToZuL
+[8-3]: https://colab.research.google.com/drive/1QX0G3sAuVUToEVDi64EXwjAhcj1TOcyI
+[8-4]: https://colab.research.google.com/drive/1FFDFLXVCEIKvzxrVjvjQeU7bGmeGRaKb
+[8-5]: https://colab.research.google.com/drive/1vsav8EgLWks2leS3-PtNNcnhXQCC6EM2
+[8-6]: https://colab.research.google.com/drive/1P0xQ7Qs2muwDL_FC-kb4k680FRMvsykC
