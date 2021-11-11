@@ -46,16 +46,17 @@ layout: single
 <!--* 6-3 [GAN][6-3-1]-->
 <!--* 6-4 [Style Transfer][6-4-1]-->
 
-<!--## 7. RNN-->
-
-## 7. Time Series
+## 7. Time Series Analysis
 * 7-1 [Windowed Dataset][7-1]
-* 7-2 [Time Series - Linear Regression][7-2]
-* 7-3 [Time Series - NN][7-3]
-* 7-4 [Time Series - RNN][7-4]
-* 7-5 [Time Series - LSTM][7-5]
+* 7-2 [TSA - Linear Regression][7-2]
+* 7-3 [TSA - NN][7-3]
 
-## 8. Natural Language Processing
+
+## 8. RNN
+* 8-1 [TSA - RNN][7-4]
+* 8-2 [TSA - LSTM][7-5]
+
+## 9. Natural Language Processing
 * 8-1 [Word Encoding][8-1]
 * 8-2 [IMDB (1) - One-hot encoding][8-2]
 * 8-3 [IMDB (2) - Word embedding][8-3]
