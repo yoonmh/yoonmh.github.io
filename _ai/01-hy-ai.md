@@ -48,15 +48,15 @@ layout: single
 
 ## 7. Time Series Analysis
 * 7-1 [Windowed Dataset][7-1]
-* 7-2 [TSA - Linear Regression][7-2]
-* 7-3 [TSA - NN][7-3]
+* 7-2 [Linear Regression][7-2]
+* 7-3 [Neural Network][7-3]
 
 
 ## 8. RNN
 * 8-1 [Simple RNN][8-1]
 * 8-2 [LSTM][8-2]
 * 8-3 [Convolution][8-3]
-* 8-4
+* 8-4 [Sunspot][8-4]
 
 ## 9. Natural Language Processing
 * 9-1 [Word Encoding][9-1]
@@ -102,7 +102,7 @@ layout: single
 [8-1]: https://colab.research.google.com/drive/1C0EdM9kcQn5D_zCGN_MZ_KUt2TXbkBtB
 [8-2]: https://colab.research.google.com/drive/1F4TM1ctFJKK0DxjsQC7qs2NHh0NLndXA
 [8-3]: https://colab.research.google.com/drive/1UCrIHn6Zz0HRxVHFahRLzuSGwgVkFN02
-
+[8-4]: https://colab.research.google.com/drive/1UC5aoVKZR_iB9wnEjv5zku8NB9rMLFgg
 [9-1]: https://colab.research.google.com/drive/1BgYWLX2YismXuEjeeiY1503cjurfTOdt
 [9-2]: https://colab.research.google.com/drive/1ME1NDmGDTpteQNy0PfRn18IEjRRToZuL
 [9-3]: https://colab.research.google.com/drive/1QX0G3sAuVUToEVDi64EXwjAhcj1TOcyI
