@@ -53,16 +53,18 @@ layout: single
 
 
 ## 8. RNN
-* 8-1 [TSA - RNN][7-4]
-* 8-2 [TSA - LSTM][7-5]
+* 8-1 [Simple RNN][8-1]
+* 8-2 [LSTM][8-2]
+* 8-3 [Convolution][8-3]
+* 8-4
 
 ## 9. Natural Language Processing
-* 8-1 [Word Encoding][8-1]
-* 8-2 [IMDB (1) - One-hot encoding][8-2]
-* 8-3 [IMDB (2) - Word embedding][8-3]
-* 8-4 [Sarcasm][8-4]
-* 8-5 [Sarcasm(2)][8-5]
-* 8-6 [IMDB(2)][8-6]
+* 9-1 [Word Encoding][9-1]
+* 9-2 [IMDB (1) - One-hot encoding][9-2]
+* 9-3 [IMDB (2) - Word embedding][9-3]
+* 9-4 [Sarcasm][9-4]
+* 9-5 [Sarcasm(2)][9-5]
+* 9-6 [IMDB(2)][9-6]
 
 [1-1]: https://colab.research.google.com/drive/1KQimvQusjg_bHG2U86w4OyIysgRMDLbL
 [1-2]: https://colab.research.google.com/drive/1PVbBsYAgs6_JSKZTHRIw3BVIt6oY2pn6
@@ -97,12 +99,13 @@ layout: single
 [7-1]: https://colab.research.google.com/drive/1xlbSC_XeLSSZDuSq_YawI6G_kmFFxuA2
 [7-2]: https://colab.research.google.com/drive/1ncG9ROhzb7r9ZfOwgL8swW_7P4fJMuX2
 [7-3]: https://colab.research.google.com/drive/1D9WrhACYnQhr9G19ZTOZ9FyT0peVAKnd
-[7-4]: https://colab.research.google.com/drive/1C0EdM9kcQn5D_zCGN_MZ_KUt2TXbkBtB
-[7-5]: https://colab.research.google.com/drive/1F4TM1ctFJKK0DxjsQC7qs2NHh0NLndXA
+[8-1]: https://colab.research.google.com/drive/1C0EdM9kcQn5D_zCGN_MZ_KUt2TXbkBtB
+[8-2]: https://colab.research.google.com/drive/1F4TM1ctFJKK0DxjsQC7qs2NHh0NLndXA
+[8-3]: https://colab.research.google.com/drive/1UCrIHn6Zz0HRxVHFahRLzuSGwgVkFN02
 
-[8-1]: https://colab.research.google.com/drive/1BgYWLX2YismXuEjeeiY1503cjurfTOdt
-[8-2]: https://colab.research.google.com/drive/1ME1NDmGDTpteQNy0PfRn18IEjRRToZuL
-[8-3]: https://colab.research.google.com/drive/1QX0G3sAuVUToEVDi64EXwjAhcj1TOcyI
-[8-4]: https://colab.research.google.com/drive/1FFDFLXVCEIKvzxrVjvjQeU7bGmeGRaKb
-[8-5]: https://colab.research.google.com/drive/1vsav8EgLWks2leS3-PtNNcnhXQCC6EM2
-[8-6]: https://colab.research.google.com/drive/1P0xQ7Qs2muwDL_FC-kb4k680FRMvsykC
+[9-1]: https://colab.research.google.com/drive/1BgYWLX2YismXuEjeeiY1503cjurfTOdt
+[9-2]: https://colab.research.google.com/drive/1ME1NDmGDTpteQNy0PfRn18IEjRRToZuL
+[9-3]: https://colab.research.google.com/drive/1QX0G3sAuVUToEVDi64EXwjAhcj1TOcyI
+[9-4]: https://colab.research.google.com/drive/1FFDFLXVCEIKvzxrVjvjQeU7bGmeGRaKb
+[9-5]: https://colab.research.google.com/drive/1vsav8EgLWks2leS3-PtNNcnhXQCC6EM2
+[9-6]: https://colab.research.google.com/drive/1P0xQ7Qs2muwDL_FC-kb4k680FRMvsykC
