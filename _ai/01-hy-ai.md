@@ -55,7 +55,7 @@ layout: single
 ## 8. RNN
 * 8-1 [Simple RNN][8-1]
 * 8-2 [LSTM][8-2]
-* 8-3 [Convolution][8-3]
+* 8-3 [Convolution with LSTM][8-3]
 * 8-4 [Sunspot][8-4]
 * 8-5 [Weather][8-5]
 
