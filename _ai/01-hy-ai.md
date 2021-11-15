@@ -27,7 +27,7 @@ layout: single
 * 4-4 [Callbaks][4-4]
 <!--* 4-5 [TF Dataset][4-5]-->
 
-## 5. CNN (1)
+## 5. Convolutional Neural Network (1)
 * 5-1 [손글씨 인식 - CNN][5-1]
 * 5-2 [의류 인식 - CNN][5-2]
 * 5-3 [Convolution 시각화][5-3]
@@ -52,7 +52,7 @@ layout: single
 * 7-3 [Neural Network][7-3]
 
 
-## 8. RNN
+## 8. TSA Using RNN
 * 8-1 [Simple RNN][8-1]
 * 8-2 [LSTM][8-2]
 * 8-3 [Convolution with LSTM][8-3]
