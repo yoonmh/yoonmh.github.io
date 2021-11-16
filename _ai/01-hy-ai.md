@@ -61,8 +61,8 @@ layout: single
 
 ## 9. Natural Language Processing
 * 9-1 [Word Encoding][9-1]
-* 9-2 [IMDB (1) - One-hot encoding][9-2]
-* 9-3 [IMDB (2) - Word embedding][9-3]
+* 9-2 [IMDB - One-hot encoding][9-2]
+* 9-3 [IMDB - Word embedding][9-3]
 * 9-4 [Sarcasm][9-4]
 * 9-5 [Sarcasm(2)][9-5]
 * 9-6 [IMDB(2)][9-6]
