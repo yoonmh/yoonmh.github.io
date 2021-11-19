@@ -21,45 +21,64 @@ Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; Y
 KSII Transactions on Internet and Information Systems(TIIS) Vol.11 No.2, pp.1250~1264, Feb. 2017 (ISSN 1976-7277)
 2. <b>자율주행을 위한 다중센서 기반 인공지능 기술</b> [(Paper)][17-2]<br>
 황영배, 윤명현, OSIA S&TR Journal Vol.30 No.1, pp.23~29, Mar. 2017 (ISSN 1738-9887)
-1. <b>Dynamic Screen Object Detection Scheme for Non-Planar Interactive Digital Signage System</b> [(Paper)][16-1]<br>
+3. <b>Dynamic Screen Object Detection Scheme for Non-Planar Interactive Digital Signage System</b> [(Paper)][16-1]<br>
 Jongbin Park, Jungeol Chun, Jae-Won Moon, Tae-Beom Lim, Myung-Hyun Yoon, 
 KSII The 8th International Conference on Internet(ICONI 2016), Hong Kong, Dec. 2016
-2. <b>Layered Architecture of Device Virtualization and Functional Collaboration for Efficient Cyber Services Configurability</b> ([Paper][16-2], [Slide][16-2-1])<br>
+4. <b>Layered Architecture of Device Virtualization and Functional Collaboration for Efficient Cyber Services Configurability</b> ([Paper][16-2], [Slide][16-2-1])<br>
 Kyou Ho Lee, Chae Min Park, Myung Hyun Yoon, 
 The 8th International Conference on Ubiquitous and Future Networks(ICUFN 2016), pp.635~640, Vienna Austria, July 5~8, 2016  (ISSN 2288-0712)
-3. <b>Backscatter Wireless Communication System Using Ambient Wi-Fi Signal in Indoor Propagation Environments</b> [(Paper)][16-3]<br>
+5. <b>Backscatter Wireless Communication System Using Ambient Wi-Fi Signal in Indoor Propagation Environments</b> [(Paper)][16-3]<br>
 Young-Han Kim, Hyun-Seok Ahn, Yongseok Lim, Changseok Yoon, Seung-ok Lim, Myung-Hyun Yoon, 
 The 11th Asia Pacific International Conference on Information Science and Technology(APIC-IST 2016), pp.159~161, Hokkaido Japan, June 26~29, 2016
-1. <b>A Study on the Development of Realistic Testbed for the UX(User eXperience) Profiling in a Service Design</b><br>
+6. <b>A Study on the Development of Realistic Testbed for the UX(User eXperience) Profiling in a Service Design</b><br>
 Songyi Kim, Youngchoong Park, Byoungha Park, Seong-Dong Kim, Kwang-Mo Jung, Myung-Hyun Yoon, 
 International Conference on Computing and Precision Engineering(ICCPE 2015) & International Conference on Inventions(ICI 2015), NanTou Taiwan, Nov. 27~30, 2015
-2. <b>홈 정보가전 연동 서비스를 위한 IoT 기술</b> [(Paper)][15-2]<br>
+7. <b>홈 정보가전 연동 서비스를 위한 IoT 기술</b> [(Paper)][15-2]<br>
 금성우, 육근웅, 문재원, 임태범, 윤명현, 
 한국통신학회지 정보와 통신(Information and Communications Magazine) 32권 4호, pp.36~43, 2015.4.15.
-3. <b>DLNA Protocol Analysis Tool for Smart Device Interoperability Test</b> [(Paper)][15-3]<br>
+8. <b>DLNA Protocol Analysis Tool for Smart Device Interoperability Test</b> [(Paper)][15-3]<br>
 Yong-Suk Park, Se-Ho Park, Kyung-Taek Lee, Myung-Hyun Yoon, 
 The 29th International Conference on Information Networking(ICOIN 2015), pp.464~465, Siam Reap, Cambodia, Jan. 12~14, 2015
-1. <b>Seamless Video Streaming Algorithm Using Variable Media Chunk</b> [(Paper,][14-1] [Slide)][14-1-2]<br>
+9. <b>Seamless Video Streaming Algorithm Using Variable Media Chunk</b> [(Paper,][14-1] [Slide)][14-1-2]<br>
 Myung-Hyun Yoon, Kue Back Lee, Chae Min Park, 
 6th International Conference on Ubiquitous and Future Networks(ICUFN 2014), pp.222~223, Shanghai China, July 8~11, 2014 (ISSN 2288-0712)
-2. <b>Digital Backend Design of Implantable RFID Tag</b> [(Paper)][14-2]<br>
+10. <b>Digital Backend Design of Implantable RFID Tag</b> [(Paper)][14-2]<br>
 Yong-Ju Park, Hyun-Suk Ahn, Young-Han Kim, Yong-Suk Lim, Seung-Ok Lim and Myung-Hyun Yoon, 
 6th International Conference on Ubiquitous and Future Networks(ICUFN 2014), pp.224~225, Shanghai China, July 8~11, 2014 (ISSN 2288-0712)
-3. <b>Private Image Region Protection and Reconstruction Scheme for Cloud-based Video Monitoring System Using Transform Domain Wyner-Ziv Video Coding</b> [(Paper)][14-3]<br>
+11. <b>Private Image Region Protection and Reconstruction Scheme for Cloud-based Video Monitoring System Using Transform Domain Wyner-Ziv Video Coding</b> [(Paper)][14-3]<br>
 Jongbin Park, Kyung-Won Kim, Jae-Won Moon, Seung-Woo Kum, Jong-Jin Jung, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo Jeon, 
 2014 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2014), pp.1~4, Beijing China, Jun. 25~27, 2014
-4. <b>A Framework for Providing Dynamic Context-Aware User Interface of the Secondary Devices Using the SmartTV in Home Network Environment</b> [(Paper)][14-4]<br>
+12. <b>A Framework for Providing Dynamic Context-Aware User Interface of the Secondary Devices Using the SmartTV in Home Network Environment</b> [(Paper)][14-4]<br>
 Jaewon Moon, Tae-Beom Lim, Sungju Park, Seungwoo Kum, Kyungwon Kim, Jongbin Park, Myunghyun Yoon, Dong-Hee Shin, 
 2014 International Conference on Computer Science and Service System(CSSS 2014), pp.579~582, Bangkok Thailand, Jun. 13~15, 2014
-1. <b>스마트홈 상에서의 RGB-Depth 카메라 기반 Non-intrusive 상황인지모듈 개발</b> [(Paper)][13-1]<br>
+13. <b>스마트홈 상에서의 RGB-Depth 카메라 기반 Non-intrusive 상황인지모듈 개발</b> [(Paper)][13-1]<br>
 박종빈, 금성우, 김경원, 정종진, 임태범, 윤명현, 
 2013년 대한전자공학회 추계학술대회 논문집, pp.2557~2559, 고려대학교, 2013.11.23
-2. <b>A Framework for Dynamic Context-awarable User Interfaces of the Second Screen Devices in a Home Network Environment</b><br>
+14. <b>A Framework for Dynamic Context-awarable User Interfaces of the Second Screen Devices in a Home Network Environment</b> [(Paper)][13-2]<br>
 Jae-Won Moon, Myung-Hyun Yoon, Tae-Boem Lim, Kyung-Won Kim, Seung-Woo Kum, 
 37th Annual International Computer Software & Applications Conference(IEEE COMPSAC 2013), pp.284~285, Kyoto Japan, July 22~26, 2013
-3. <b>Channel Reliability Dependent Wyner-Ziv Video Coding Using Rate Adaptive LDPC Code with Degree-1 Syndrome</b> [(Paper)][13-3]<br>
+15. <b>Channel Reliability Dependent Wyner-Ziv Video Coding Using Rate Adaptive LDPC Code with Degree-1 Syndrome</b> [(Paper)][13-3]<br>
 Jongbin Park, Min Jang, Sang-Hyo Kim, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo Jeon, 
 2013 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2013), pp.1~4, London, United Kingdom, Jun. 5~7, 2013
+
+[17-1]: https://drive.google.com/drive/folders/1vYpVLpszJshoMzz_0RqvvjS-yZ1in9rj
+[17-2]: https://drive.google.com/drive/folders/1vYpVLpszJshoMzz_0RqvvjS-yZ1in9rj
+[16-1]: https://drive.google.com/drive/folders/1vYpVLpszJshoMzz_0RqvvjS-yZ1in9rj
+[16-2]: https://drive.google.com/drive/folders/1vYpVLpszJshoMzz_0RqvvjS-yZ1in9rj
+[16-2-1]: https://drive.google.com/file/d/1sk6XuN0lOsRp-K-9aH7vpLv1hHVQbHLd/view?usp=sharing
+[16-3]: https://drive.google.com/file/d/1IbaNLBbCxFB37hEvt2IvEFYDeglpHR2z/view?usp=sharing
+[15-2]: https://drive.google.com/file/d/1r713l7FASnCJ7j087wNwE4843Pux1Hzf/view?usp=sharing
+[15-3]: https://drive.google.com/file/d/1ZQhpura4XWzUMluyLR_v_MyYaOVxxowp/view?usp=sharing
+[14-1]: https://drive.google.com/file/d/1TS8HVZRartwQgX8jgGhdetDT7Ws6MeK7/view?usp=sharing
+[14-1-2]: https://drive.google.com/file/d/1RUCV1TZuQZOQLHj1r2q3p3QKF3y65WzE/view?usp=sharing
+[14-2]: https://drive.google.com/file/d/1FpNxPllz3glsYbnR4wsFREYB1XOYoCmc/view?usp=sharing
+[14-3]: https://drive.google.com/file/d/1jtyNUW7YIu7B8twoS0GYcTO8G7EGvhA9/view?usp=sharing
+[14-4]: https://drive.google.com/file/d/1CMwEUUD8AynB2-uU2prw-PgWlb7_P1ln/view?usp=sharing
+[13-1]: https://drive.google.com/file/d/17KfpwMYb-hDIQ53gr0Hw0HQFm9ynrArh/view?usp=sharing
+[13-2]: https://drive.google.com/drive/folders/1vYpVLpszJshoMzz_0RqvvjS-yZ1in9rj
+[13-3]: https://drive.google.com/file/d/1QJ-vHX9vuIsHemZxCXQ_oa4eQcidSVnn/view?usp=sharing
+[12-1]: https://drive.google.com/file/d/1qw6sZ65FKh0QLVlrOIceSufQ7qUvq563/view?usp=sharing
+[12-2]: https://drive.google.com/file/d/1tVupNAFBwwOYzITwT7OkIrzk5PDV2lXB/view?usp=sharing
 
 ## 2009~2012(KEIT PD)
 1. <b>스마트TV 산업 활성화 정책</b> [(Paper)][12-1]<br>
@@ -406,24 +425,6 @@ Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 Myung-Hyun Yoon, Department of Electrical Engineering and Computer Engineering, Iowa State University, Ames, Iowa, U.S.A., Aug. 1994
 2. <b>Optimal Control of Xenon Spatial Oscillations in Load Following Operation</b> [(M.S. Thesis)][ms]<br> 
 Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of Science and Technology(KAIST), Seoul, Korea, Feb. 1984
-
-[17-1]: https://drive.google.com/file/d/1hGgh6ZDUh4TVXJ0uQM0ZE2dFZE4QGHlG/view?usp=sharing
-[17-2]: https://drive.google.com/file/d/1DXcWS0yMEn_Ldl5OEWExeyajhPXsv0DR/view?usp=sharing
-[16-1]: https://drive.google.com/file/d/12WxOimMGcspSkN7Slf-tqjCOIBJdb1rz/view?usp=sharing
-[16-2]: https://drive.google.com/file/d/1HnfudC4H4fnIo02SnYqHv6VgNQjfNxeT/view?usp=sharing
-[16-2-1]: https://drive.google.com/file/d/1sk6XuN0lOsRp-K-9aH7vpLv1hHVQbHLd/view?usp=sharing
-[16-3]: https://drive.google.com/file/d/1IbaNLBbCxFB37hEvt2IvEFYDeglpHR2z/view?usp=sharing
-[15-2]: https://drive.google.com/file/d/1r713l7FASnCJ7j087wNwE4843Pux1Hzf/view?usp=sharing
-[15-3]: https://drive.google.com/file/d/1ZQhpura4XWzUMluyLR_v_MyYaOVxxowp/view?usp=sharing
-[14-1]: https://drive.google.com/file/d/1TS8HVZRartwQgX8jgGhdetDT7Ws6MeK7/view?usp=sharing
-[14-1-2]: https://drive.google.com/file/d/1RUCV1TZuQZOQLHj1r2q3p3QKF3y65WzE/view?usp=sharing
-[14-2]: https://drive.google.com/file/d/1FpNxPllz3glsYbnR4wsFREYB1XOYoCmc/view?usp=sharing
-[14-3]: https://drive.google.com/file/d/1jtyNUW7YIu7B8twoS0GYcTO8G7EGvhA9/view?usp=sharing
-[14-4]: https://drive.google.com/file/d/1CMwEUUD8AynB2-uU2prw-PgWlb7_P1ln/view?usp=sharing
-[13-1]: https://drive.google.com/file/d/17KfpwMYb-hDIQ53gr0Hw0HQFm9ynrArh/view?usp=sharing
-[13-3]: https://drive.google.com/file/d/1QJ-vHX9vuIsHemZxCXQ_oa4eQcidSVnn/view?usp=sharing
-[12-1]: https://drive.google.com/file/d/1qw6sZ65FKh0QLVlrOIceSufQ7qUvq563/view?usp=sharing
-[12-2]: https://drive.google.com/file/d/1tVupNAFBwwOYzITwT7OkIrzk5PDV2lXB/view?usp=sharing
 
 [08-4]: https://drive.google.com/file/d/145onU8ZQrRxmsVyf6hHGjPq9E3hnMc2w/view?usp=sharing
 [98-4-1]: https://drive.google.com/file/d/15kJeTHNFpAe0bISf59rtbtHA19TxBEAC/view?usp=sharing
