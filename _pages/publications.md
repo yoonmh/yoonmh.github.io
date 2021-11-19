@@ -77,8 +77,7 @@ Jongbin Park, Min Jang, Sang-Hyo Kim, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo J
 [13-1]: https://drive.google.com/file/d/17KfpwMYb-hDIQ53gr0Hw0HQFm9ynrArh/view?usp=sharing
 [13-2]: https://drive.google.com/drive/folders/1vYpVLpszJshoMzz_0RqvvjS-yZ1in9rj
 [13-3]: https://drive.google.com/file/d/1QJ-vHX9vuIsHemZxCXQ_oa4eQcidSVnn/view?usp=sharing
-[12-1]: https://drive.google.com/file/d/1qw6sZ65FKh0QLVlrOIceSufQ7qUvq563/view?usp=sharing
-[12-2]: https://drive.google.com/file/d/1tVupNAFBwwOYzITwT7OkIrzk5PDV2lXB/view?usp=sharing
+
 
 ## 2009~2012(KEIT PD)
 1. <b>스마트TV 산업 활성화 정책</b> [(Paper)][12-1]<br>
@@ -87,6 +86,9 @@ KT경제경영연구소 DIGIECO Focus, 2012.5.8.
 2. <b>스마트TV 산업 활성화를 위한 정책적 이슈</b> [(Paper)][12-2]<br>
 윤명현, 김대진, 
 Telecommunications Review 22권 2호, pp.154~167, 2012 (ISSN 1226-5586)
+
+[12-1]: https://drive.google.com/drive/folders/1vYpVLpszJshoMzz_0RqvvjS-yZ1in9rj
+[12-2]: https://drive.google.com/drive/folders/1vYpVLpszJshoMzz_0RqvvjS-yZ1in9rj
 
 ## 2001~2009(KETI)
 1. <b>Wireless Multi-mode Security Solutions for Ubiquitous Home Network</b><br>
@@ -318,6 +320,50 @@ International Technical Conference on Circuits, Systems, Computers and Communica
 Kwang-Soon Choi, Kwang-Mo Jung, Myung-Hyun Yoon, 
 2nd WSEAS International Conference on Multimedia, Internet and Video Technologies (ICOMIV 2002), Skiathos Island, Greece, Sep. 25~28, 2002
 
+[08-4]: https://drive.google.com/file/d/145onU8ZQrRxmsVyf6hHGjPq9E3hnMc2w/view?usp=sharing
+[98-4-1]: https://drive.google.com/file/d/15kJeTHNFpAe0bISf59rtbtHA19TxBEAC/view?usp=sharing
+[08-5]: https://drive.google.com/file/d/1hhxHmeWJH1Wz3_jdtpd9t2mWyOvcvqBw/view?usp=sharing
+[08-6]: https://drive.google.com/file/d/1_uICYCaqP2_3wd62BwgFqGP84wdbf37V/view?usp=sharing
+[08-7]: https://drive.google.com/file/d/1ack5Dn-7W7cystbNm3MUOv8dpQEiHZBz/view?usp=sharing
+[08-8]: https://drive.google.com/file/d/13vm7f9A0EBfHi1P0uQsSV9JPQjEkpWd9/view?usp=sharing
+[08-9]: https://drive.google.com/file/d/1DmXjOymIv83Ll-vdGj7enpN3XZITs5Oj/view?usp=sharing
+[08-10]: https://drive.google.com/file/d/1LLHRbeJrp_gpFWQqiT_mQIeR4BsV4S4P/view?usp=sharing
+[08-11]: https://drive.google.com/file/d/1HSxXibsRnC9FJ1AmvSn9Mt0HGj75DiEW/view?usp=sharing
+[08-13]: https://drive.google.com/file/d/1CTR9YhkZ7GmrXFRSRgJ_p_CaFlW8B8V8/view?usp=sharing
+[08-14]: https://drive.google.com/file/d/16veirjUut0Rb3ZMC5nl8hxJFq9HTsK8h/view?usp=sharing
+[08-15]: https://drive.google.com/file/d/1AdIIbVgU-qDRD9VO1ZHU9_hThgR0RoV7/view?usp=sharing
+[08-16]: https://drive.google.com/file/d/1HDzmY4A5hJnB-546NLEUbgF8wFl9sAYR/view?usp=sharing
+[08-17]: https://drive.google.com/file/d/1cwjp9BMmraJAkNOuOWeLYl7dIaRLuyeY/view?usp=sharing
+[07-1]: https://drive.google.com/file/d/1dN8reqaykPqvM-SnIiHyFT6iEATbEQ-q/view?usp=sharing
+[07-2]: https://drive.google.com/file/d/1JiTVBRC3xpDXlajMeCB3AtC2R8aYc8Rk/view?usp=sharing
+[07-3]: https://drive.google.com/file/d/1MzcnN30XyDGw0sl2pH3Ms6s1pNPhkbAs/view?usp=sharing
+[07-5]: https://drive.google.com/file/d/1xKOXCZWNaqAQpXCgjnVstOm3nAWq-dDE/view?usp=sharing
+[07-6]: https://drive.google.com/file/d/1N08k6JMaTZh3pXC3uZsoqCsOIpXxMP-N/view?usp=sharing
+[07-7]: https://drive.google.com/file/d/1l5YArF5nfKKCJznh1mWr8Vq4NdGVYNUY/view?usp=sharing
+[07-8]: https://drive.google.com/file/d/16rqRO_UmGhWb-6quUSC00HEzMSJfaKLt/view?usp=sharing
+[07-9]: https://drive.google.com/file/d/1YR6_69j-yUZGak-8nte5kaUqXVfbHCYQ/view?usp=sharing
+[07-10]: https://drive.google.com/file/d/1QfGQWEoWSyMWiEXqHeZVgIQsFr9w0z6U/view?usp=sharing
+[07-11]: https://drive.google.com/file/d/1gjQPi-7hBQ9s76uclFg86iAAsQi1-8Jj/view?usp=sharing
+[07-12]: https://drive.google.com/file/d/1euB1tv2BBV-VlQ5LOMJAIaamkwzPb1pK/view?usp=sharing
+[06-1]: https://drive.google.com/file/d/1JViPkdz41uloUqLK99Cj-MwAqHHxBnk2/view?usp=sharing
+[06-2]: https://drive.google.com/file/d/1xUFnT-R3v2mTCWEiq19ZCYrqCqVFaX5j/view?usp=sharing
+[06-3]: https://drive.google.com/file/d/1ZDTvd6Rqng4sAlQZyAhQSbgGHwIOgfuU/view?usp=sharing
+[06-4]: https://drive.google.com/file/d/13BMKBVRCUPXrODQ3lVAjgdNWyjItdQGG/view?usp=sharing
+[06-5]: https://drive.google.com/file/d/1VhbLMC8EUtpeVYP-BMckZPSGqUE3f41I/view?usp=sharing
+[06-7]: https://drive.google.com/file/d/1IVJUcz1MIB0JFfXx8BpSOGXHv89RxIIH/view?usp=sharing
+[06-8]: https://drive.google.com/file/d/1NfgZ3r21w3qfnV-aeDasitBkE7UoPf1N/view?usp=sharing
+[06-9]: https://drive.google.com/file/d/1toku95asua-GXstSu8PyRKIWEFyHX1uG/view?usp=sharing
+[06-10]: https://drive.google.com/file/d/1A-eGkLifKrvNezAOrYfhUFX4AUnDVbgM/view?usp=sharing
+[06-11]: https://drive.google.com/file/d/1yB7zYIT1Isqz9cX0QQbyiFrFW7XMzze6/view?usp=sharing
+[06-12]: https://drive.google.com/file/d/1lygnlFPom2nZq_bmX2ypl24zzPcSiJka/view?usp=sharing
+[06-13]: https://drive.google.com/file/d/1bZwXx4fd47yNFuL1tG8Bbr4e5KeOvkA3/view?usp=sharing
+[06-14]: https://drive.google.com/file/d/13BWRHgD9RMncFtDEZ3J5NKj9j5l8qHNu/view?usp=sharing
+[06-15]: https://drive.google.com/file/d/1dT1kpP5-MldIWaTmalYtoyGIGIqzr2dJ/view?usp=sharing
+[06-16]: https://drive.google.com/file/d/1NOVEFwTF1r3FyOV3gtbtq90djmxDAZzA/view?usp=sharing
+[06-17]: https://drive.google.com/file/d/1weowV8O8oWh5Ps8bSAQlE45vPTvzAufK/view?usp=sharing
+[06-18]: https://drive.google.com/file/d/12ztINrAQrEOTa__1nvXKt8j0sBWlRFhn/view?usp=sharing
+[06-19]: https://drive.google.com/file/d/1cgPr8aUThjyormZl2-dvI4igJ81u2pP-/view?usp=sharing
+
 ## 1994~2000(KEPRI)
 1. <b>Auto-Tuning of Control Parameters for Nuclear Plant Process Control</b> [(Paper)][00-1]<br>
 Chang-Hoon Shin, Myung-Hyun Yoon and Byungyun Lee, 
@@ -426,49 +472,7 @@ Myung-Hyun Yoon, Department of Electrical Engineering and Computer Engineering, 
 2. <b>Optimal Control of Xenon Spatial Oscillations in Load Following Operation</b> [(M.S. Thesis)][ms]<br> 
 Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of Science and Technology(KAIST), Seoul, Korea, Feb. 1984
 
-[08-4]: https://drive.google.com/file/d/145onU8ZQrRxmsVyf6hHGjPq9E3hnMc2w/view?usp=sharing
-[98-4-1]: https://drive.google.com/file/d/15kJeTHNFpAe0bISf59rtbtHA19TxBEAC/view?usp=sharing
-[08-5]: https://drive.google.com/file/d/1hhxHmeWJH1Wz3_jdtpd9t2mWyOvcvqBw/view?usp=sharing
-[08-6]: https://drive.google.com/file/d/1_uICYCaqP2_3wd62BwgFqGP84wdbf37V/view?usp=sharing
-[08-7]: https://drive.google.com/file/d/1ack5Dn-7W7cystbNm3MUOv8dpQEiHZBz/view?usp=sharing
-[08-8]: https://drive.google.com/file/d/13vm7f9A0EBfHi1P0uQsSV9JPQjEkpWd9/view?usp=sharing
-[08-9]: https://drive.google.com/file/d/1DmXjOymIv83Ll-vdGj7enpN3XZITs5Oj/view?usp=sharing
-[08-10]: https://drive.google.com/file/d/1LLHRbeJrp_gpFWQqiT_mQIeR4BsV4S4P/view?usp=sharing
-[08-11]: https://drive.google.com/file/d/1HSxXibsRnC9FJ1AmvSn9Mt0HGj75DiEW/view?usp=sharing
-[08-13]: https://drive.google.com/file/d/1CTR9YhkZ7GmrXFRSRgJ_p_CaFlW8B8V8/view?usp=sharing
-[08-14]: https://drive.google.com/file/d/16veirjUut0Rb3ZMC5nl8hxJFq9HTsK8h/view?usp=sharing
-[08-15]: https://drive.google.com/file/d/1AdIIbVgU-qDRD9VO1ZHU9_hThgR0RoV7/view?usp=sharing
-[08-16]: https://drive.google.com/file/d/1HDzmY4A5hJnB-546NLEUbgF8wFl9sAYR/view?usp=sharing
-[08-17]: https://drive.google.com/file/d/1cwjp9BMmraJAkNOuOWeLYl7dIaRLuyeY/view?usp=sharing
-[07-1]: https://drive.google.com/file/d/1dN8reqaykPqvM-SnIiHyFT6iEATbEQ-q/view?usp=sharing
-[07-2]: https://drive.google.com/file/d/1JiTVBRC3xpDXlajMeCB3AtC2R8aYc8Rk/view?usp=sharing
-[07-3]: https://drive.google.com/file/d/1MzcnN30XyDGw0sl2pH3Ms6s1pNPhkbAs/view?usp=sharing
-[07-5]: https://drive.google.com/file/d/1xKOXCZWNaqAQpXCgjnVstOm3nAWq-dDE/view?usp=sharing
-[07-6]: https://drive.google.com/file/d/1N08k6JMaTZh3pXC3uZsoqCsOIpXxMP-N/view?usp=sharing
-[07-7]: https://drive.google.com/file/d/1l5YArF5nfKKCJznh1mWr8Vq4NdGVYNUY/view?usp=sharing
-[07-8]: https://drive.google.com/file/d/16rqRO_UmGhWb-6quUSC00HEzMSJfaKLt/view?usp=sharing
-[07-9]: https://drive.google.com/file/d/1YR6_69j-yUZGak-8nte5kaUqXVfbHCYQ/view?usp=sharing
-[07-10]: https://drive.google.com/file/d/1QfGQWEoWSyMWiEXqHeZVgIQsFr9w0z6U/view?usp=sharing
-[07-11]: https://drive.google.com/file/d/1gjQPi-7hBQ9s76uclFg86iAAsQi1-8Jj/view?usp=sharing
-[07-12]: https://drive.google.com/file/d/1euB1tv2BBV-VlQ5LOMJAIaamkwzPb1pK/view?usp=sharing
-[06-1]: https://drive.google.com/file/d/1JViPkdz41uloUqLK99Cj-MwAqHHxBnk2/view?usp=sharing
-[06-2]: https://drive.google.com/file/d/1xUFnT-R3v2mTCWEiq19ZCYrqCqVFaX5j/view?usp=sharing
-[06-3]: https://drive.google.com/file/d/1ZDTvd6Rqng4sAlQZyAhQSbgGHwIOgfuU/view?usp=sharing
-[06-4]: https://drive.google.com/file/d/13BMKBVRCUPXrODQ3lVAjgdNWyjItdQGG/view?usp=sharing
-[06-5]: https://drive.google.com/file/d/1VhbLMC8EUtpeVYP-BMckZPSGqUE3f41I/view?usp=sharing
-[06-7]: https://drive.google.com/file/d/1IVJUcz1MIB0JFfXx8BpSOGXHv89RxIIH/view?usp=sharing
-[06-8]: https://drive.google.com/file/d/1NfgZ3r21w3qfnV-aeDasitBkE7UoPf1N/view?usp=sharing
-[06-9]: https://drive.google.com/file/d/1toku95asua-GXstSu8PyRKIWEFyHX1uG/view?usp=sharing
-[06-10]: https://drive.google.com/file/d/1A-eGkLifKrvNezAOrYfhUFX4AUnDVbgM/view?usp=sharing
-[06-11]: https://drive.google.com/file/d/1yB7zYIT1Isqz9cX0QQbyiFrFW7XMzze6/view?usp=sharing
-[06-12]: https://drive.google.com/file/d/1lygnlFPom2nZq_bmX2ypl24zzPcSiJka/view?usp=sharing
-[06-13]: https://drive.google.com/file/d/1bZwXx4fd47yNFuL1tG8Bbr4e5KeOvkA3/view?usp=sharing
-[06-14]: https://drive.google.com/file/d/13BWRHgD9RMncFtDEZ3J5NKj9j5l8qHNu/view?usp=sharing
-[06-15]: https://drive.google.com/file/d/1dT1kpP5-MldIWaTmalYtoyGIGIqzr2dJ/view?usp=sharing
-[06-16]: https://drive.google.com/file/d/1NOVEFwTF1r3FyOV3gtbtq90djmxDAZzA/view?usp=sharing
-[06-17]: https://drive.google.com/file/d/1weowV8O8oWh5Ps8bSAQlE45vPTvzAufK/view?usp=sharing
-[06-18]: https://drive.google.com/file/d/12ztINrAQrEOTa__1nvXKt8j0sBWlRFhn/view?usp=sharing
-[06-19]: https://drive.google.com/file/d/1cgPr8aUThjyormZl2-dvI4igJ81u2pP-/view?usp=sharing
+
 
 [05-1]: https://drive.google.com/file/d/1-ITw3qU-yK4MN6ZL2FlC3EuHQ-xUnwWO/view?usp=sharing
 [05-2]: https://drive.google.com/file/d/1O2fw5IlQDBE2COQShhWE3rksLVlLCh9u/view?usp=sharing
