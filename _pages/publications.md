@@ -75,7 +75,7 @@ Jongbin Park, Min Jang, Sang-Hyo Kim, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo J
 [14-3]: https://drive.google.com/file/d/1jtyNUW7YIu7B8twoS0GYcTO8G7EGvhA9/view?usp=sharing
 [14-4]: https://drive.google.com/file/d/1CMwEUUD8AynB2-uU2prw-PgWlb7_P1ln/view?usp=sharing
 [13-1]: https://drive.google.com/file/d/17KfpwMYb-hDIQ53gr0Hw0HQFm9ynrArh/view?usp=sharing
-[13-2]: https://drive.google.com/drive/folders/1vYpVLpszJshoMzz_0RqvvjS-yZ1in9rj
+[13-2]: https://drive.google.com/file/d/1a1lrBupBrQQdAFTgUY2qIVNN9S2YNwVA/view
 [13-3]: https://drive.google.com/file/d/1QJ-vHX9vuIsHemZxCXQ_oa4eQcidSVnn/view?usp=sharing
 
 
