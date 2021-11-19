@@ -27,7 +27,7 @@ layout: single
 * 4-4 [Callbaks][4-4]
 <!--* 4-5 [TF Dataset][4-5]-->
 
-## 5. Convolutional Neural Network (1)
+## 5. Convolutional Neural Network
 * 5-1 [손글씨 인식 - CNN][5-1]
 * 5-2 [의류 인식 - CNN][5-2]
 * 5-3 [Convolution 시각화][5-3]
@@ -37,7 +37,7 @@ layout: single
 * 5-7 [말과 사람 - Augmentation][5-7]
 * 5-8 [가위-바위-보][5-8]
 
-## 6. CNN (2)
+## 6. Transfer Learning
 * 6-1 [복잡한 모델][6-1]
 * 6-2 [다중 출력][6-2] 
 * 6-3 [Transfer Learning][6-3]
@@ -51,8 +51,7 @@ layout: single
 * 7-2 [Linear Regression][7-2]
 * 7-3 [Neural Network][7-3]
 
-
-## 8. TSA Using RNN
+## 8. Recurrent Neural Network
 * 8-1 [Simple RNN][8-1]
 * 8-2 [LSTM][8-2]
 * 8-3 [Convolution with LSTM][8-3]
