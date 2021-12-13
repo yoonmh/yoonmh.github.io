@@ -126,6 +126,7 @@ layout: single
 5. Transfer Learning with Inception ([Video][c2-w3-v5], [Notebook][c2-w3-n5])
 
 * [TensorFlow tutorial][c2-w3-tt]
+* Ex-3 : [Horses vs. humans using Transfer Learning][c2-w2-hw]
 
 ### W-4. Multiclass Classifications
 1. Multi-class classification ([Video][c2-w4-v1])
@@ -152,6 +153,7 @@ layout: single
 [c2-w2-n5]: https://colab.research.google.com/drive/1SK_L5kOba9zQmJj0ICcmEILG2uz4Ek9E
 [c2-w2-ka]: https://github.com/keras-team/keras-preprocessing
 [c2-w2-e6]: https://colab.research.google.com/drive/1cQ8OzXSqbVHhKTlgTTVaTgaPkD3YG2W8
+[c2-w2-hw]: https://colab.research.google.com/drive/1cKJlgizwEBMzKEsF8fRfFa6bKDKlSPiS
 [c2-w3-v1]: https://drive.google.com/file/d/1Di947KFrYxiYT-YUEy9CZ87UytlqP9P7/view?usp=sharing
 [c2-w3-v2]: https://drive.google.com/file/d/1DhHtl0Ir6jnjEIS6Jk9dGXCmUD_oiSuN/view?usp=sharing
 [c2-w3-v3]: https://drive.google.com/file/d/1DgpXhU2GjLwsKrUIRifFI2_-QSbC7M_Z/view?usp=sharing
