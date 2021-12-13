@@ -250,7 +250,7 @@ layout: single
 [c3-w1-n10]: https://colab.research.google.com/drive/14rVc7A3A_1UKHGCI6x1hmt1_RFAR3uA6
 [c3-w1-h1]: http://mlg.ucd.ie/datasets/bbc.html
 [c3-w1-h2]: https://github.com/Yoast/YoastSEO.js/blob/develop/src/config/stopwords.js
-[c3-w1-hw]: https://colab.research.google.com/drive/1_EREEgHUYa5a0ESDqg17g_KacZNQ3-V1
+[c3-w1-hw]: https://colab.research.google.com/drive/1LH0dT1LYb-Z1cgQClyt6lgfA8j36aZwe
 [c3-w2-v1]: https://drive.google.com/file/d/1CvlgIdwgb85VfHdc7COqSZfzR7cT75Fy/view?usp=sharing
 [c3-w2-d1]: http://ai.stanford.edu/~amaas/data/sentiment/
 [c3-w2-v2]: https://drive.google.com/file/d/1D6KW_myjoPyAt88f_1UhasT6sguK45h2/view?usp=sharing
@@ -269,7 +269,7 @@ layout: single
 [c3-w2-v11]: https://drive.google.com/file/d/1EHOOxO6p7zNWM2y6AVkU6dEXMzAUk1Ho/view?usp=sharing
 [c3-w2-v12]: https://drive.google.com/file/d/1EZ2UA8DhOezPTFJqO3hOU2NabXwI76oX/view?usp=sharing
 [c3-w2-n12]: https://colab.research.google.com/drive/1KyTi7OmJG61OselBvpcIu3vomjFMQn_P
-[c3-w2-hw]: https://colab.research.google.com/drive/1LbLeMq4JJo-QvXoyeX2hjiKzAi1OW-6M
+[c3-w2-hw]: https://colab.research.google.com/drive/1mwO6y02pU8KOb-1kNQvQmQYBOz9f5_C5
 [c3-w3-v1]: https://drive.google.com/file/d/1EgfnT7KiWEuS-opJmIWf201E2foxq9de/view?usp=sharing
 [c3-w3-c1]: https://www.coursera.org/lecture/nlp-sequence-models/deep-mns-ehs0S
 [c3-w3-v2]: https://drive.google.com/file/d/1EnKJuTqZi1aMrokftjDK3-px67ubQbMU/view?usp=sharing
@@ -283,7 +283,7 @@ layout: single
 [c3-w3-v7]: https://drive.google.com/file/d/1F5mqEBwTOrt1elWN6fRnY0IKflxDxk5t/view?usp=sharing
 [c3-w3-h1]: https://www.kaggle.com/kazanova/sentiment140
 [c3-w3-h2]: https://nlp.stanford.edu/projects/glove/
-[c3-w3-hw]: https://colab.research.google.com/drive/1_Kr85pxg91XpW-ldJg5QVJBRR2Ix0DLP
+[c3-w3-hw]: https://colab.research.google.com/drive/1sji2AqVQWLxAqW0V-DK7eucF9mUBiyk5
 [c3-w4-v1]: https://drive.google.com/file/d/1GNMa0DWMKX28UKWY5-V3LA2izY7RRIlZ/view?usp=sharing
 [c3-w4-v2]: https://drive.google.com/file/d/1GGcMbvIL8IsHWgHw4jURvawJ36aCgsiN/view?usp=sharing
 [c3-w4-v3]: https://drive.google.com/file/d/1F8MFFzGUhQ-nT_0Bkjr27v4LbJAZ7EbK/view?usp=sharing
@@ -297,7 +297,7 @@ layout: single
 [c3-w4-v10]: https://drive.google.com/file/d/1FT8kHU-Od3NY4ZwzagLrxS8HEAxo9hlj/view?usp=sharing
 [c3-w4-v11]: https://drive.google.com/file/d/1GbLEfxUvpUo_YPhG6Yi7F4EXqti_H-BW/view?usp=sharing
 [c3-w4-v12]: https://drive.google.com/file/d/1GXKRnBu5bq1ruixp4BirzIg4XkAMRfdC/view?usp=sharing
-[c3-w4-hw]: https://colab.research.google.com/drive/1F8HMn2elMtr4MsgRGXMr2g3O9DBkDERz
+[c3-w4-hw]: https://colab.research.google.com/drive/1d_lnHtSSgaez8m8W7o9ukEXNwEtI80uN
 
 ## Class 4. Sequences, Time Series & Prediction
 ### W-1. Sequence와 예측
