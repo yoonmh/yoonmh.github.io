@@ -162,7 +162,7 @@ layout: single
 [c2-w3-v5]: https://drive.google.com/file/d/1Dcj_81RSUFJI24fiZWvzuMmCDON3o2-L/view?usp=sharing
 [c2-w3-n5]: https://colab.research.google.com/drive/1S1u9XnslOAa7rQhN8bbGnjRxWfQpYsuR
 [c2-w3-tt]: https://www.tensorflow.org/tutorials/images/transfer_learning
-[c2-w2-hw]: https://colab.research.google.com/drive/1cKJlgizwEBMzKEsF8fRfFa6bKDKlSPiS
+[c2-w3-hw]: https://colab.research.google.com/drive/1cKJlgizwEBMzKEsF8fRfFa6bKDKlSPiS
 [c2-w4-v1]: https://drive.google.com/file/d/1Do5Cn1od15LWT17f9el8GRXyu5-Thgb1/view?usp=sharing
 [c2-w4-v2]: https://drive.google.com/file/d/1Dn7X1ODEj34EMVGwBs9eQsMmbBYI3A-c/view?usp=sharing
 [c2-w4-d2]: http://www.laurencemoroney.com/rock-paper-scissors-dataset/
