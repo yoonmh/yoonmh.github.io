@@ -185,6 +185,8 @@ layout: single
 9. Sarcasm Tokenizer ([Video][c3-w1-v9])
 10. Sarcasm 실습 ([Video][c3-w1-v10], [Notebook][c3-w1-n10])
 
+* Ex-1 : [Explore the BBC news archive][c3-w1-hw], [Stopwords[c3-w1-hw2]
+
 ### W-2. Word Embeddings
 1. 서론 ([Video][c3-w2-v1], [Dataset][c3-w2-d1])
 2. IMBD 코딩 ([Video][c3-w2-v2])
@@ -198,6 +200,8 @@ layout: single
 10. Sunword tokenizer(1) ([Video][c3-w2-v10])
 11. Sunword tokenizer(2) ([Video][c3-w2-v11])
 12. IMDB subword 실습 ([Video][c3-w2-v12], [Notebook][c3-w2-n12])
+
+* [BBC news archive][c3-w2-hw]
 
 ### W-3. Sequence 모델
 1. 서론 ([Video][c3-w3-v1], [Coursera][c3-w3-c1])
@@ -236,6 +240,8 @@ layout: single
 [c3-w1-v9]: https://drive.google.com/file/d/1CcHLyT_CLzuOnBxMUcsIN1us3lt-kq5G/view?usp=sharing
 [c3-w1-v10]: https://drive.google.com/file/d/1Co8nSIuYNw7Igw5QBG2WCgalG44c11ZP/view?usp=sharing
 [c3-w1-n10]: https://colab.research.google.com/drive/14rVc7A3A_1UKHGCI6x1hmt1_RFAR3uA6
+[c3-w1-hw]: http://mlg.ucd.ie/datasets/bbc.html
+[c3-w1-hw2]: https://github.com/Yoast/YoastSEO.js/blob/develop/src/config/stopwords.js
 [c3-w2-v1]: https://drive.google.com/file/d/1CvlgIdwgb85VfHdc7COqSZfzR7cT75Fy/view?usp=sharing
 [c3-w2-d1]: http://ai.stanford.edu/~amaas/data/sentiment/
 [c3-w2-v2]: https://drive.google.com/file/d/1D6KW_myjoPyAt88f_1UhasT6sguK45h2/view?usp=sharing
@@ -254,6 +260,7 @@ layout: single
 [c3-w2-v11]: https://drive.google.com/file/d/1EHOOxO6p7zNWM2y6AVkU6dEXMzAUk1Ho/view?usp=sharing
 [c3-w2-v12]: https://drive.google.com/file/d/1EZ2UA8DhOezPTFJqO3hOU2NabXwI76oX/view?usp=sharing
 [c3-w2-n12]: https://colab.research.google.com/drive/1KyTi7OmJG61OselBvpcIu3vomjFMQn_P
+[c3-w2-hw]: https://colab.research.google.com/drive/1LbLeMq4JJo-QvXoyeX2hjiKzAi1OW-6M
 [c3-w3-v1]: https://drive.google.com/file/d/1EgfnT7KiWEuS-opJmIWf201E2foxq9de/view?usp=sharing
 [c3-w3-c1]: https://www.coursera.org/lecture/nlp-sequence-models/deep-mns-ehs0S
 [c3-w3-v2]: https://drive.google.com/file/d/1EnKJuTqZi1aMrokftjDK3-px67ubQbMU/view?usp=sharing
