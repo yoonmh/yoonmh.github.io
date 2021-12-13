@@ -185,7 +185,9 @@ layout: single
 9. Sarcasm Tokenizer ([Video][c3-w1-v9])
 10. Sarcasm 실습 ([Video][c3-w1-v10], [Notebook][c3-w1-n10])
 
-* Ex-1 : [Explore the BBC news archive][c3-w1-hw], [Stopwords[c3-w1-hw2]
+* [BBC news archive][c3-w1-h1]
+* [Stopwords][c3-w1-h2]
+* Ex-1 : [Explore the BBC news][c3-w1-hw]
 
 ### W-2. Word Embeddings
 1. 서론 ([Video][c3-w2-v1], [Dataset][c3-w2-d1])
@@ -212,6 +214,10 @@ layout: single
 6. Convolutional network ([Video][c3-w3-v6])
 7. IMDB 코드 ([Video][c3-w3-v7])
 
+* [Dataset][c3-w3-h1]
+* [Global Vectors for Word Representation][c3-w3-h2]
+* [Overfitting in NLP][c3-w3-hw]
+
 ### W-4. Sequence 모델과 문학
 1. 서론 ([Video][c3-w4-v1])
 2. 코딩 ([Video][c3-w4-v2])
@@ -225,6 +231,8 @@ layout: single
 10. Looking into the code ([Video][c3-w4-v10])
 11. Laurence the poet! ([Video][c3-w4-v11])
 12. Your next task ([Video][c3-w4-v12])
+
+* [Using LSTMs, see if you can write Shakespeare!][c3-w4-hw]
 
 [c3-w1-v1]: https://drive.google.com/file/d/1DtjmzeQSGvdonXb_qZAnMn7IKLZPvA7O/view?usp=sharing
 [c3-w1-v2]: https://drive.google.com/file/d/1DtMEqPVrDKXy9inU86zeC3ReyY2lQCD3/view?usp=sharing
@@ -240,8 +248,9 @@ layout: single
 [c3-w1-v9]: https://drive.google.com/file/d/1CcHLyT_CLzuOnBxMUcsIN1us3lt-kq5G/view?usp=sharing
 [c3-w1-v10]: https://drive.google.com/file/d/1Co8nSIuYNw7Igw5QBG2WCgalG44c11ZP/view?usp=sharing
 [c3-w1-n10]: https://colab.research.google.com/drive/14rVc7A3A_1UKHGCI6x1hmt1_RFAR3uA6
-[c3-w1-hw]: http://mlg.ucd.ie/datasets/bbc.html
-[c3-w1-hw2]: https://github.com/Yoast/YoastSEO.js/blob/develop/src/config/stopwords.js
+[c3-w1-h1]: http://mlg.ucd.ie/datasets/bbc.html
+[c3-w1-h2]: https://github.com/Yoast/YoastSEO.js/blob/develop/src/config/stopwords.js
+[c3-w1-hw]: https://colab.research.google.com/drive/1_EREEgHUYa5a0ESDqg17g_KacZNQ3-V1
 [c3-w2-v1]: https://drive.google.com/file/d/1CvlgIdwgb85VfHdc7COqSZfzR7cT75Fy/view?usp=sharing
 [c3-w2-d1]: http://ai.stanford.edu/~amaas/data/sentiment/
 [c3-w2-v2]: https://drive.google.com/file/d/1D6KW_myjoPyAt88f_1UhasT6sguK45h2/view?usp=sharing
@@ -272,6 +281,9 @@ layout: single
 [c3-w3-v5]: https://drive.google.com/file/d/1F-snzZBGSHj_r2q2ULQ8RDhvLTfsjH4O/view?usp=sharing
 [c3-w3-v6]: https://drive.google.com/file/d/1F4WXPWeF9WZHilenXwvVrWOLd-miKcQf/view?usp=sharing
 [c3-w3-v7]: https://drive.google.com/file/d/1F5mqEBwTOrt1elWN6fRnY0IKflxDxk5t/view?usp=sharing
+[c3-w3-h1]: https://www.kaggle.com/kazanova/sentiment140
+[c3-w3-h2]: https://nlp.stanford.edu/projects/glove/
+[c3-w3-hw]: https://colab.research.google.com/drive/1_Kr85pxg91XpW-ldJg5QVJBRR2Ix0DLP
 [c3-w4-v1]: https://drive.google.com/file/d/1GNMa0DWMKX28UKWY5-V3LA2izY7RRIlZ/view?usp=sharing
 [c3-w4-v2]: https://drive.google.com/file/d/1GGcMbvIL8IsHWgHw4jURvawJ36aCgsiN/view?usp=sharing
 [c3-w4-v3]: https://drive.google.com/file/d/1F8MFFzGUhQ-nT_0Bkjr27v4LbJAZ7EbK/view?usp=sharing
@@ -285,7 +297,7 @@ layout: single
 [c3-w4-v10]: https://drive.google.com/file/d/1FT8kHU-Od3NY4ZwzagLrxS8HEAxo9hlj/view?usp=sharing
 [c3-w4-v11]: https://drive.google.com/file/d/1GbLEfxUvpUo_YPhG6Yi7F4EXqti_H-BW/view?usp=sharing
 [c3-w4-v12]: https://drive.google.com/file/d/1GXKRnBu5bq1ruixp4BirzIg4XkAMRfdC/view?usp=sharing
-
+[c3-w4-hw]: https://colab.research.google.com/drive/1F8HMn2elMtr4MsgRGXMr2g3O9DBkDERz
 
 ## Class 4. Sequences, Time Series & Prediction
 ### W-1. Sequence와 예측
