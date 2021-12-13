@@ -311,6 +311,8 @@ layout: single
 8. Trailing versus centered windows ([Video][c4-w1-v8])
 9. Forecasting ([Video][c4-w1-v9])
 
+* [Create and predict synthetic data][c4-w1-hw]
+
 ### W-2. Deep Neural Networks for Time Series 
 1. Preparing features and labels ([Video][c4-w2-v1])
 2. Preparing features and labels ([Video][c4-w2-v2], [Notebook][c4-w2-n2])
@@ -321,6 +323,8 @@ layout: single
 7. More on single layer neural network ([Video][c4-w2-v7], [Notebook][c4-w2-n7])
 8. Deep neural network training, tuning and prediction ([Video][c4-w2-v8])
 9. Deep neural network ([Video][c4-w2-v9], [Notebook][c4-w2-n9])
+
+* [Predict with a DNN][c4-w2-hw]
 
 ### W-3. Time Series를 위한 RNN
 1. 개념 정리 ([Video][c4-w3-v1])
@@ -334,6 +338,8 @@ layout: single
 8. LSTM 코딩 ([Video][c4-w3-v8])
 9. More on LSTM ([Video][c4-w3-v9], [Notebook][c4-w3-n9])
 
+* [Mean Absolute Error][c4-w3-hw]
+
 ### W-4. 실생활의 time series data
 1. Convolutions ([Video][c4-w4-v1])
 2. 양방향 LSTM ([Video][c4-w4-v2])
@@ -345,6 +351,8 @@ layout: single
 8. Combining our tools for analysis ([Video][c4-w4-v8])
 9. Congratulations! 
 
+* [Sunspots][c4-w4-hw]
+
 [c4-w1-v1]: https://drive.google.com/file/d/1HC7fU4slqoRZX_ZmoR4Corrm5fiYxg1H/view?usp=sharing
 [c4-w1-v2]: https://drive.google.com/file/d/1HItIETh64XY6AqCcYpn8386ayUEFPeHy/view?usp=sharing
 [c4-w1-v3]: https://drive.google.com/file/d/1H6vVcZlvOKf-rCTg-34r8vxrZ85ryYO5/view?usp=sharing
@@ -355,6 +363,7 @@ layout: single
 [c4-w1-v7]: https://drive.google.com/file/d/1HkO6JwaPDuFfc1gFJkVty4pvEpoH7twV/view?usp=sharing
 [c4-w1-v8]: https://drive.google.com/file/d/1HTlKLwKzwD1n0NKxysYtHM4iofIELn1h/view?usp=sharing
 [c4-w1-v9]: https://drive.google.com/file/d/1I-G-sm3cqY90o6HwFq6lo3P5nDEsbwUK/view?usp=sharing
+[c4-w1-hw]: https://colab.research.google.com/drive/12FH70VHPfSbc_GDRlnaqMwu_hRkDRpiO
 [c4-w2-v1]: https://drive.google.com/file/d/1J-anQPVNfUI7R1xGG8DcT9CMXB-1Dz45/view?usp=sharing
 [c4-w2-v2]: https://drive.google.com/file/d/1IvpNkvZYBV7-RRhZHWssKTuFFKSfeFbu/view?usp=sharing
 [c4-w2-n2]: https://colab.research.google.com/drive/1fAGP-g7y-su7mZdVDWXy_5_93w-R4nRb
@@ -367,6 +376,7 @@ layout: single
 [c4-w2-v8]: https://drive.google.com/file/d/1ILynaiBQ99h1y00tfL44T1P73HuCxF3O/view?usp=sharing
 [c4-w2-v9]: https://drive.google.com/file/d/1IFqFwGYFJ4z-yjOV9GQsjZcjjff9oJLx/view?usp=sharing
 [c4-w2-n9]: https://colab.research.google.com/drive/15urkV4JEJ5mI8g5PsDRbtawSIAyuUyCJ
+[c4-w2-hw]: https://colab.research.google.com/drive/1iXfq58M3jJBi2k62YbDrqriFOEIPlImc
 [c4-w3-v1]: https://drive.google.com/file/d/1KZntDcyDROKPlxzWMjXDJNvXYPM8H0_5/view?usp=sharing
 [c4-w3-v2]: https://drive.google.com/file/d/1KNejUzOA_YdW5ARthwefkNedz73n4u7A/view?usp=sharing
 [c4-w3-v3]: https://drive.google.com/file/d/1KAya9Hap8Lo-rV-yiRO4PP8Km0LItKD4/view?usp=sharing
@@ -380,6 +390,7 @@ layout: single
 [c4-w3-v8]: https://drive.google.com/file/d/1JLdU4Stj_xlQhtO4ohkYdIUQMUWj_6lK/view?usp=sharing
 [c4-w3-v9]: https://drive.google.com/file/d/1JIfXp77X_So1-7t9y3CYqG4NN6SkmB8k/view?usp=sharing
 [c4-w3-n9]: https://colab.research.google.com/drive/1n5dL5QXEeNKnwBYEOb9R5bZvf3hGGfkc
+[c4-w3-hw]: https://colab.research.google.com/drive/1iARkmQ67DySIy_BWOeUr9LMJ2NyHi4u9
 [c4-w4-v1]: https://drive.google.com/file/d/1Le7vDBecHGOCNWP_DgHfBGatJqheXO_p/view?usp=sharing
 [c4-w4-v2]: https://drive.google.com/file/d/1LQ5EyDkAmlLhFVN0GnCtFvhWwZprh-hf/view?usp=sharing
 [c4-w4-v3]: https://drive.google.com/file/d/1LI2Qw3Grd8dez-bVr_z61okxYRYffRbD/view?usp=sharing
@@ -390,3 +401,4 @@ layout: single
 [c4-w4-v7]: https://drive.google.com/file/d/1KodkHfplcyOONgejR5J1MDcypqL6aL4g/view?usp=sharing
 [c4-w4-n7]: https://colab.research.google.com/drive/1LdX9hYDGlv_vLr0X7zA09gbotr_khMp9
 [c4-w4-v8]: https://drive.google.com/file/d/1Ki2Zjw-YiT0OEzM7gNRi4JhQFVVT61k0/view?usp=sharing
+[c4-w4-hw]: https://colab.research.google.com/drive/1eBqD6tV9jVBEPpPXtFFHeBzwjW7JNsED
