@@ -126,7 +126,7 @@ layout: single
 5. Transfer Learning with Inception ([Video][c2-w3-v5], [Notebook][c2-w3-n5])
 
 * [TensorFlow tutorial][c2-w3-tt]
-* Ex-3 : [Horses vs. humans using Transfer Learning][c2-w2-hw]
+* Ex-3 : [Horses vs. humans using Transfer Learning][c2-w3-hw]
 
 ### W-4. Multiclass Classifications
 1. Multi-class classification ([Video][c2-w4-v1])
@@ -135,6 +135,7 @@ layout: single
 4. 가위-바위-보 분류기 테스트 ([Video][c2-w4-v4])
 
 * [Kaggle][c2-w4-kg]
+* Ex-4: [Multi-class classifier][c2-w4-hw]
 
 [c2-w1-v1]: https://drive.google.com/file/d/1DWVtYgtQXy457gy98QuwfgwG4F4t-ZE5/view?usp=sharing
 [c2-w1-v2]: https://drive.google.com/file/d/1DQWt955CboyiVBAFbg_6QGwGG5o-wx04/view?usp=sharing
@@ -153,7 +154,6 @@ layout: single
 [c2-w2-n5]: https://colab.research.google.com/drive/1SK_L5kOba9zQmJj0ICcmEILG2uz4Ek9E
 [c2-w2-ka]: https://github.com/keras-team/keras-preprocessing
 [c2-w2-e6]: https://colab.research.google.com/drive/1cQ8OzXSqbVHhKTlgTTVaTgaPkD3YG2W8
-[c2-w2-hw]: https://colab.research.google.com/drive/1cKJlgizwEBMzKEsF8fRfFa6bKDKlSPiS
 [c2-w3-v1]: https://drive.google.com/file/d/1Di947KFrYxiYT-YUEy9CZ87UytlqP9P7/view?usp=sharing
 [c2-w3-v2]: https://drive.google.com/file/d/1DhHtl0Ir6jnjEIS6Jk9dGXCmUD_oiSuN/view?usp=sharing
 [c2-w3-v3]: https://drive.google.com/file/d/1DgpXhU2GjLwsKrUIRifFI2_-QSbC7M_Z/view?usp=sharing
@@ -162,6 +162,7 @@ layout: single
 [c2-w3-v5]: https://drive.google.com/file/d/1Dcj_81RSUFJI24fiZWvzuMmCDON3o2-L/view?usp=sharing
 [c2-w3-n5]: https://colab.research.google.com/drive/1S1u9XnslOAa7rQhN8bbGnjRxWfQpYsuR
 [c2-w3-tt]: https://www.tensorflow.org/tutorials/images/transfer_learning
+[c2-w2-hw]: https://colab.research.google.com/drive/1cKJlgizwEBMzKEsF8fRfFa6bKDKlSPiS
 [c2-w4-v1]: https://drive.google.com/file/d/1Do5Cn1od15LWT17f9el8GRXyu5-Thgb1/view?usp=sharing
 [c2-w4-v2]: https://drive.google.com/file/d/1Dn7X1ODEj34EMVGwBs9eQsMmbBYI3A-c/view?usp=sharing
 [c2-w4-d2]: http://www.laurencemoroney.com/rock-paper-scissors-dataset/
@@ -169,7 +170,7 @@ layout: single
 [c2-w4-n3]: https://colab.research.google.com/drive/1w_MW1IyaPUOGZLd4qwQaild7ThVcWSZY
 [c2-w4-v4]: https://drive.google.com/file/d/1DsmPadngXe71NXFBxVh2FQhXpfstDfKo/view?usp=sharing
 [c2-w4-kg]: https://www.kaggle.com/datamunge/sign-language-mnist
-
+[c2-w4-hw]: https://colab.research.google.com/drive/1cNlm9Z_7F32k2vysHKQ082UO_R1tYMis
 
 ## Class 3. 텐서플로우에서 자연어 처리 (NLP)
 ### W-1. 문장에서 Sentiment
