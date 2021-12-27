@@ -57,7 +57,7 @@ layout: single
 * 8-3 [Convolution with LSTM][8-3]
 * 8-4 [Sunspot][8-4]
 * 8-5 [Weather][8-5]
-* 8-6 {Power][8-6]
+* 8-6 [Power][8-6]
 * 8-7 [Diesel][8-7]
 
 ## 9. Natural Language Processing
