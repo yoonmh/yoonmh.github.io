@@ -57,6 +57,8 @@ layout: single
 * 8-3 [Convolution with LSTM][8-3]
 * 8-4 [Sunspot][8-4]
 * 8-5 [Weather][8-5]
+* 8-6 {Power][8-6]
+* 8-7 [Diesel][8-7]
 
 ## 9. Natural Language Processing
 * 9-1 [Word Encoding][9-1]
@@ -104,6 +106,8 @@ layout: single
 [8-3]: https://colab.research.google.com/drive/1UCrIHn6Zz0HRxVHFahRLzuSGwgVkFN02
 [8-4]: https://colab.research.google.com/drive/1UC5aoVKZR_iB9wnEjv5zku8NB9rMLFgg
 [8-5]: https://colab.research.google.com/drive/1RQo8Jn_Mzc2I71o9Dh5vuKydkyJ6mv4j
+[8-6]: https://colab.research.google.com/drive/1fRMg62WYAHhh3zr05w_hmAu3CxN5ZLee
+[8-7]: https://colab.research.google.com/drive/1fSD5ZRJnPmdDox1NFcR9K0nnkf39oJJ1
 [9-1]: https://colab.research.google.com/drive/1BgYWLX2YismXuEjeeiY1503cjurfTOdt
 [9-2]: https://colab.research.google.com/drive/1ME1NDmGDTpteQNy0PfRn18IEjRRToZuL
 [9-3]: https://colab.research.google.com/drive/1QX0G3sAuVUToEVDi64EXwjAhcj1TOcyI
