@@ -56,9 +56,9 @@ layout: single
 
 ## 8. Recurrent Neural Network
 * 8-1 [Sunspot][8-1]
-* 8-2 [Weather][8-2]
+* 8-2 [Diesel][8-2]
 * 8-3 [Power][8-3]
-* 8-4 [Diesel][8-4]
+* 8-4 [Weather][8-4]
 
 ## 9. Natural Language Processing
 * 9-1 [Word Encoding][9-1]
@@ -105,9 +105,9 @@ layout: single
 [7-5]: https://colab.research.google.com/drive/1F4TM1ctFJKK0DxjsQC7qs2NHh0NLndXA
 [7-6]: https://colab.research.google.com/drive/1UCrIHn6Zz0HRxVHFahRLzuSGwgVkFN02
 [8-1]: https://colab.research.google.com/drive/1UC5aoVKZR_iB9wnEjv5zku8NB9rMLFgg
-[8-2]: https://colab.research.google.com/drive/1RQo8Jn_Mzc2I71o9Dh5vuKydkyJ6mv4j
+[8-2]: https://colab.research.google.com/drive/1fSD5ZRJnPmdDox1NFcR9K0nnkf39oJJ1 
 [8-3]: https://colab.research.google.com/drive/1fRMg62WYAHhh3zr05w_hmAu3CxN5ZLee
-[8-4]: https://colab.research.google.com/drive/1fSD5ZRJnPmdDox1NFcR9K0nnkf39oJJ1
+[8-4]: https://colab.research.google.com/drive/1RQo8Jn_Mzc2I71o9Dh5vuKydkyJ6mv4j
 [9-1]: https://colab.research.google.com/drive/1BgYWLX2YismXuEjeeiY1503cjurfTOdt
 [9-2]: https://colab.research.google.com/drive/1ME1NDmGDTpteQNy0PfRn18IEjRRToZuL
 [9-3]: https://colab.research.google.com/drive/1QX0G3sAuVUToEVDi64EXwjAhcj1TOcyI
