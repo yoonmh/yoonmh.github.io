@@ -7,7 +7,7 @@ layout: single
 
 ## 1. Custom Model
 * 1-1 [Functional API][1-1]
-* 1-2 [Multi output][1-2]
+* 1-2 [Energy][1-2]
 * 1-3 [Siamese network][1-3]
 * 1-4 [Wine quality][1-4]
 * 1-5 [1-5][1-5]
