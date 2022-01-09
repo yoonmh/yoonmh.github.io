@@ -14,6 +14,7 @@ layout: single
 * 2-2 [성적 예측][2-2]
 * 2-3 [광고와 매출효과 예측][2-3]
 * 2-4 [자동차 연비 예측][2-4]
+* 2-5 [주택 가격][2-5]
 
 ## 3. Logistic Regression:
 * 3-1 [바이너리 성적 예측][3-1]
@@ -74,6 +75,7 @@ layout: single
 [2-2]: https://colab.research.google.com/drive/1KOzIYsnLLWymCTycAr4KrEbfcV7ulfOW
 [2-3]: https://colab.research.google.com/drive/1KOINBbzMuO4i9vUAflXjlZ_rK7duUUBI
 [2-4]: https://colab.research.google.com/drive/1L1v2KVZJNgfe88mR59-ybpntCI5abPKq
+[2-5]: https://colab.research.google.com/drive/1HGwabb7FAXrg0veVTy1yRc1Qgdj3ryqu
 [3-1]: https://colab.research.google.com/drive/1Kys3njBLE5JS2V1-RX8It1ykW0f6w-n3
 [3-2]: https://colab.research.google.com/drive/1KGC5jV_CniQQynGC4KxZTBM-fcn9g7SJ
 [3-3]: https://colab.research.google.com/drive/1KNtnmheqfc6B7hB5_rEcU4m7NA781ojV
