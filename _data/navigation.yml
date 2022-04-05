@@ -21,8 +21,10 @@ about:
     url: /talks/
 
 storage:
-  - title: AI
-    url: /ai/
+  - title: AI-1
+    url: /ai-1/
+  - title: AI-2
+    url: /ai-2/
   - title: Storage
     url: /storage/
 #  - title: Coding
