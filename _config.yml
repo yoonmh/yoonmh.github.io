@@ -290,9 +290,18 @@ defaults:
       author_profile: false
       share: true
       comments: true  
-  # _ai
+  # _ai-1
   - scope:
-      path: "/_ai/"
+      path: "/_ai-1/"
+      type: ai
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      share: true
+  # _ai-2
+  - scope:
+      path: "/_ai-2/"
       type: ai
     values:
       layout: single
