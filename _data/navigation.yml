@@ -27,8 +27,6 @@ storage:
     url: /ai-2/
   - title: Storage
     url: /storage/
-#  - title: Coding
-#    url: /coding/
     
 posts:
   - title: CATEGORIES
