@@ -2,8 +2,6 @@
 main:
   - title: "About"
     url: /about/
-#  - title: "Ctegoriy"
-#    url: /categories/
   - title: "Blog"
     url: "https://yoonmh.github.io/"  
   - title: "Storage"
