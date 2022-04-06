@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence"
 layout: collection
-permalink: /ai-1/
+permalink: /ai/
 collection: ai
 header:
   overlay_image : /assets/images/earth.jpg
