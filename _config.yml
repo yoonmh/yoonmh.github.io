@@ -293,7 +293,7 @@ defaults:
   # _ai-1
   - scope:
       path: "/_ai-1/"
-      type: ai
+      type: ai-1
     values:
       layout: single
       author_profile: false
@@ -302,7 +302,7 @@ defaults:
   # _ai-2
   - scope:
       path: "/_ai-2/"
-      type: ai
+      type: ai-2
     values:
       layout: single
       author_profile: false
