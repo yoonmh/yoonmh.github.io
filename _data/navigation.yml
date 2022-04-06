@@ -5,7 +5,7 @@ main:
   - title: "Blog"
     url: "https://yoonmh.github.io/"  
   - title: "Storage"
-    url: /ai-1/
+    url: /ai/
 
 # sidebar categories
 about:
@@ -19,10 +19,8 @@ about:
     url: /talks/
 
 storage:
-  - title: AI-1
-    url: /ai-1/
-  - title: AI-2
-    url: /ai-2/
+  - title: AI
+    url: /ai/
   - title: Storage
     url: /storage/
     
