@@ -252,10 +252,7 @@ compress_html:
     envs: development
 
 collections:
-  ai-1:
-    output: true
-    permalink: /:collection/:path/
-  ai-2:
+  ai:
     output: true
     permalink: /:collection/:path/    
   storage:
@@ -274,18 +271,9 @@ defaults:
       share: true
       comments: true  
  # _ai-1
-  - scope:
-      path: "/_ai-1/"
-      type: ai-1
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      share: true
- # _ai-2
  # - scope:
- #     path: "/_ai-2/"
- #     type: ai-2
+ #     path: "/_ai/"
+ #     type: ai
  #   values:
  #     layout: single
  #     author_profile: false
