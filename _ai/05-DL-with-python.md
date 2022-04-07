@@ -17,8 +17,6 @@ layout: single
 * [번역자의 노트북](https://github.com/rickiepark/deep-learning-with-python-notebooks)
 * [TF2.4 브랜치](https://github.com/rickiepark/deep-learning-with-python-notebooks/tree/tf2)
 
-위의 노트북들을 참고하여 하나씩 공부하면서 정리한다.
-
 ## 목차
 
 * 2장:
