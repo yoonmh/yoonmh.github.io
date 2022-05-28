@@ -314,8 +314,8 @@ Hae-Moon Seo, Yong-Kuk Park, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoon,
 박성대, 유찬세, 유명재, 이우성, 원광호, 윤명현, 
 한국전기전자재료학회 2004년도 하계학술대회 논문집 Vol.5 No.2, pp.644~647, 2004.7.8
 1. <b>Design of a Simple Home Device  Protocol</b> [(Paper)][03-1])<br>
-Seung-Ok Lim, Kwang-Mo Jung, Myung-Hyun Yoon, 
-International Technical Conference on Circuits, Systems, Computers and Communications (ITC-CSCC 2003), Phoenix Park, Korea, July 7~9, 2003
+Seung-Ok Lim, Kwang-Mo Jung, Myung-Hyun Yoon, In-Kap Park,
+International Technical Conference on Circuits, Systems, Computers and Communications (ITC-CSCC 2003) pp.797~800, Phoenix Park, Korea, July 7~9, 2003
 1. <b>Design of a New Chip Architecture for a Home Gateway</b> [(Paper)][02-1]<br>
 Kwang-Soon Choi, Kwang-Mo Jung, Myung-Hyun Yoon, 
 2nd WSEAS International Conference on Multimedia, Internet and Video Technologies (ICOMIV 2002), Skiathos Island, Greece, Sep. 25~28, 2002
@@ -471,8 +471,6 @@ Myung-Hyun Yoon, Department of Electrical Engineering and Computer Engineering, 
 2. <b>Optimal Control of Xenon Spatial Oscillations in Load Following Operation</b> [(M.S. Thesis)][ms]<br> 
 Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of Science and Technology(KAIST), Seoul, Korea, Feb. 1984
 
-
-
 [05-1]: https://drive.google.com/file/d/1-ITw3qU-yK4MN6ZL2FlC3EuHQ-xUnwWO/view?usp=sharing
 [05-2]: https://drive.google.com/file/d/1O2fw5IlQDBE2COQShhWE3rksLVlLCh9u/view?usp=sharing
 [05-3]: https://drive.google.com/file/d/1JwG99qyfpmQXDdC0EF_1-mZSfhwp0hKC/view?usp=sharing
@@ -497,6 +495,7 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [04-1]: https://drive.google.com/file/d/1jL0nscl5ga6Oi5l6_554R8HBZ1pdfFUN/view?usp=sharing
 [04-2]: https://drive.google.com/file/d/1rZXB0rTtetaZrz_IjG5NkB86uVtTdbRW/view?usp=sharing
 [04-2-1]: https://drive.google.com/file/d/1taTuZWUq_Q06awrYArgKSUS-M4GlWbD7/view?usp=sharing
+[03-1]: https://drive.google.com/file/d/1CEulm0Gxo89gYex6rN6pg9qZSMJVQoBp/view?usp=sharing
 [02-1]: https://drive.google.com/file/d/1xcomSPHE02p0pwGllSJjvgeQULmcYg4c/view?usp=sharing
 
 [00-1]: https://drive.google.com/file/d/1ygbb0uS3d3ABnJ57WcLWJZYtfm0gZ-63/view?usp=sharing
