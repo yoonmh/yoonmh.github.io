@@ -22,7 +22,7 @@ I received a Ph.D. degree in Electrical Engineering from Iowa State University i
 at the Korea Advanced Institute of Science and Enegineering (KAIST) in 1984.
 
 ## Working Experience
-* 2020.10~        Hanyang University
+* 2020.10~Present Professor, AI Convergence Research Center, Hanyang University ERICA
 * 2020.4.~2020.9. Research Fellow, KICTech
 * 2017.4.~2020.4. Director of IT Industry Promotion Department, Gyungnam Technopark
 * 2013.1.~2017.3. Vice President of Communications & Media R&D Division, KETI
