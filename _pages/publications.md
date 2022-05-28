@@ -313,7 +313,7 @@ Hae-Moon Seo, Yong-Kuk Park, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoon,
 2. <b>내장형 저온소성세라믹 발룬용 측정지그의 설계 및 평가</b> [(Paper,][04-2] [Slide)][04-2-1]<br>
 박성대, 유찬세, 유명재, 이우성, 원광호, 윤명현, 
 한국전기전자재료학회 2004년도 하계학술대회 논문집 Vol.5 No.2, pp.644~647, 2004.7.8
-1. <b>Design of a Simple Home Device  Protocol</b><br>
+1. <b>Design of a Simple Home Device  Protocol</b> [(Paper)][03-1])<br>
 Seung-Ok Lim, Kwang-Mo Jung, Myung-Hyun Yoon, 
 International Technical Conference on Circuits, Systems, Computers and Communications (ITC-CSCC 2003), Phoenix Park, Korea, July 7~9, 2003
 1. <b>Design of a New Chip Architecture for a Home Gateway</b> [(Paper)][02-1]<br>
