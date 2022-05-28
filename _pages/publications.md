@@ -61,10 +61,10 @@ Jae-Won Moon, Myung-Hyun Yoon, Tae-Boem Lim, Kyung-Won Kim, Seung-Woo Kum,
 Jongbin Park, Min Jang, Sang-Hyo Kim, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo Jeon, 
 2013 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2013), pp.1~4, London, United Kingdom, Jun. 5~7, 2013
 
-[17-1]: https://drive.google.com/drive/folders/1vYpVLpszJshoMzz_0RqvvjS-yZ1in9rj
-[17-2]: https://drive.google.com/drive/folders/1vYpVLpszJshoMzz_0RqvvjS-yZ1in9rj
-[16-1]: https://drive.google.com/drive/folders/1vYpVLpszJshoMzz_0RqvvjS-yZ1in9rj
-[16-2]: https://drive.google.com/drive/folders/1vYpVLpszJshoMzz_0RqvvjS-yZ1in9rj
+[17-1]: https://drive.google.com/file/d/1hGgh6ZDUh4TVXJ0uQM0ZE2dFZE4QGHlG/view?usp=sharing
+[17-2]: https://drive.google.com/file/d/1DXcWS0yMEn_Ldl5OEWExeyajhPXsv0DR/view?usp=sharing
+[16-1]: https://drive.google.com/file/d/12WxOimMGcspSkN7Slf-tqjCOIBJdb1rz/view?usp=sharing
+[16-2]: https://drive.google.com/file/d/1HnfudC4H4fnIo02SnYqHv6VgNQjfNxeT/view?usp=sharing
 [16-2-1]: https://drive.google.com/file/d/1sk6XuN0lOsRp-K-9aH7vpLv1hHVQbHLd/view?usp=sharing
 [16-3]: https://drive.google.com/file/d/1IbaNLBbCxFB37hEvt2IvEFYDeglpHR2z/view?usp=sharing
 [15-2]: https://drive.google.com/file/d/1r713l7FASnCJ7j087wNwE4843Pux1Hzf/view?usp=sharing
