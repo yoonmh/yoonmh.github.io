@@ -62,7 +62,7 @@ Jongbin Park, Min Jang, Sang-Hyo Kim, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo J
 2013 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2013), pp.1~4, London, United Kingdom, Jun. 5~7, 2013
 
 [17-1]: https://drive.google.com/drive/folders/1vYpVLpszJshoMzz_0RqvvjS-yZ1in9rj
-[17-2]: ../Docs/paper/2017/2017OSIA_자율주행.pdf
+[17-2]: https://drive.google.com/drive/folders/1vYpVLpszJshoMzz_0RqvvjS-yZ1in9rj
 [16-1]: https://drive.google.com/drive/folders/1vYpVLpszJshoMzz_0RqvvjS-yZ1in9rj
 [16-2]: https://drive.google.com/drive/folders/1vYpVLpszJshoMzz_0RqvvjS-yZ1in9rj
 [16-2-1]: https://drive.google.com/file/d/1sk6XuN0lOsRp-K-9aH7vpLv1hHVQbHLd/view?usp=sharing
