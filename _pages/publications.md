@@ -106,7 +106,7 @@ The 8th International Conference on Applications and Principles of Information S
 3. <b>유비쿼터스 센서 네트워크를 위한 웹 기법</b><br>
 임호정, 강정훈, 이민구, 유준재, 윤명현, 
 한국정보과학회 학술심포지엄, 2008.11.28
-4. <b>다중 센서값의 효율적인 전송을 위한 Periodic 데이터 전송 방법 구현</b> [(Paper)][08-4]<br>
+4. <b>다중 센서값의 효율적인 전송을 위한 Periodic 데이터 전송 방법 구현</b> [(Paper)][08-4], [Slide][08-4-1]<br>
 이민구, 강정훈, 임호정, 윤명현, 
 2008년도 정보 및 제어 학술대회(CICS 2008) 논문집 pp.548~549, 현대성우리조트, 2008.10.31~11.1
 5. <b>Interrupt 기반의 반응 속도가 향상된 센서 네트워크 전송 방법 구현</b> [(Paper)][08-5]<br>
@@ -321,7 +321,7 @@ Kwang-Soon Choi, Kwang-Mo Jung, Myung-Hyun Yoon,
 2nd WSEAS International Conference on Multimedia, Internet and Video Technologies (ICOMIV 2002), Skiathos Island, Greece, Sep. 25~28, 2002
 
 [08-4]: https://drive.google.com/file/d/145onU8ZQrRxmsVyf6hHGjPq9E3hnMc2w/view?usp=sharing
-[98-4-1]: https://drive.google.com/file/d/15kJeTHNFpAe0bISf59rtbtHA19TxBEAC/view?usp=sharing
+[08-4-1]: https://drive.google.com/file/d/15kJeTHNFpAe0bISf59rtbtHA19TxBEAC/view?usp=sharing
 [08-5]: https://drive.google.com/file/d/1hhxHmeWJH1Wz3_jdtpd9t2mWyOvcvqBw/view?usp=sharing
 [08-6]: https://drive.google.com/file/d/1_uICYCaqP2_3wd62BwgFqGP84wdbf37V/view?usp=sharing
 [08-7]: https://drive.google.com/file/d/1ack5Dn-7W7cystbNm3MUOv8dpQEiHZBz/view?usp=sharing
