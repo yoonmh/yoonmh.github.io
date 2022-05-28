@@ -50,7 +50,7 @@ See also [Scholar][4] and [ResearchGate][5].
 * Commendation from Minister of MOTIE, Oct. 8, 2019
 
 ## Interests
-I like traveling the historical and natural scenery places domastic and foreign and taking pictures. 
+I like traveling the historical and natural scenery places and taking pictures of them. 
 * [Photo Blog](http://myoon.tistory.com)
 * [Naver Blog](http://blog.naver.com/mhyoon4)
 
