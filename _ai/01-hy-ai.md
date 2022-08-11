@@ -63,11 +63,12 @@ layout: single
 
 ## 9. Natural Language Processing
 * 9-1 [Word Encoding][9-1]
-* 9-2 [IMDB - One-hot encoding][9-2]
-* 9-3 [IMDB - Word embedding][9-3]
-* 9-4 [Sarcasm][9-4]
-* 9-5 [Sarcasm(2)][9-5]
-* 9-6 [IMDB(2)][9-6]
+* 9-2 [IMDB - Word embedding][9-2] ([IMDB - One-hot encoding][9-2-1])
+* 9-3 [Sarcasm][9-3]
+* 9-4 [IMDB-Subword][9-4]
+* 9-5 [IMDB-LSTM][9-5]
+* 9-6 [Sarcasm-LSTM][9-6]
+* 9-7 
 
 [1-1]: https://colab.research.google.com/drive/1KQimvQusjg_bHG2U86w4OyIysgRMDLbL
 [1-2]: https://colab.research.google.com/drive/1PVbBsYAgs6_JSKZTHRIw3BVIt6oY2pn6
@@ -111,8 +112,10 @@ layout: single
 [8-3]: https://colab.research.google.com/drive/1fRMg62WYAHhh3zr05w_hmAu3CxN5ZLee
 [8-4]: https://colab.research.google.com/drive/1RQo8Jn_Mzc2I71o9Dh5vuKydkyJ6mv4j
 [9-1]: https://colab.research.google.com/drive/1BgYWLX2YismXuEjeeiY1503cjurfTOdt
-[9-2]: https://colab.research.google.com/drive/1ME1NDmGDTpteQNy0PfRn18IEjRRToZuL
-[9-3]: https://colab.research.google.com/drive/1QX0G3sAuVUToEVDi64EXwjAhcj1TOcyI
-[9-4]: https://colab.research.google.com/drive/1FFDFLXVCEIKvzxrVjvjQeU7bGmeGRaKb
-[9-5]: https://colab.research.google.com/drive/1vsav8EgLWks2leS3-PtNNcnhXQCC6EM2
-[9-6]: https://colab.research.google.com/drive/1P0xQ7Qs2muwDL_FC-kb4k680FRMvsykC
+[9-2-1]: https://colab.research.google.com/drive/1ME1NDmGDTpteQNy0PfRn18IEjRRToZuL
+[9-2]: https://colab.research.google.com/drive/1QX0G3sAuVUToEVDi64EXwjAhcj1TOcyI
+[9-3]: https://colab.research.google.com/drive/1FFDFLXVCEIKvzxrVjvjQeU7bGmeGRaKb
+[9-4]: https://colab.research.google.com/drive/1P0xQ7Qs2muwDL_FC-kb4k680FRMvsykC
+[9-5]: https://colab.research.google.com/drive/1DlggPvh1rjcIFeplVFXq4jYQWDuVf2U7
+[9-6]: https://colab.research.google.com/drive/1vsav8EgLWks2leS3-PtNNcnhXQCC6EM2
+
