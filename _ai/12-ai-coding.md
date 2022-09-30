@@ -1,12 +1,12 @@
 ---
-title: "실전형 AI 프로젝트-머신비전"
+title: "코딩없는 인공지능"
 layout: single
 ---
 
-> 경남TP에서 운영하는 "스마트 제조AI 플랫폼 기반 실전형 인동지능 프로젝트" 과정중에서 (검사자동화) 머신비전 강의 내용입니다.
+> Udemy의 코딩없는 인공지능 부트캠프 입니다.
 
-## 1. Introduction
-* 1-1 [TensorFlow와의 첫 만남][1-1]
+## 1. Fashion class 예측
+* 1-1 [Teachable Machine][1-1]
 
 ## 2. Linear Regression
 * 2-1 [성적 예측][2-1]
