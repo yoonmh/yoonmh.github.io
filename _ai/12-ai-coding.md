@@ -64,8 +64,11 @@ layout: single
 ## 9.
 * [ppt][9-1]
 
-## 10.
+## 10. Higher Education
 * [ppt][10-1]
+* [Vision][10-2]
+* [AI in Higher Education][10-3]
+* [Vertex AI][10-4]
 
 [0-1]: https://docs.google.com/presentation/d/1nyCIq0Piq1pYI_OjfeSydP2TnCLNHB9m/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [0-3]: https://ai.facebook.com/tools/detectron2/
@@ -107,4 +110,7 @@ layout: single
 [8-1]: https://docs.google.com/presentation/d/1BPKjzs2zWDr7V2phXfn-eF6p57iKgFtN/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [9-1]: https://docs.google.com/presentation/d/1hiPYSJJWtL_1MuhTvGC6co3rKRt_-6cq/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [10-1]: https://docs.google.com/presentation/d/1P04i2TSGEHi9GtIRaGmMfiLCxopVZbNO/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
+[10-2]: https://edtechmagazine.com/higher/article/2020/02/5-year-vision-artificial-intelligence-higher-ed
+[10-3]: https://er.educause.edu/articles/2019/8/artificial-intelligence-in-higher-education-applications-promise-and-perils-and-ethical-questions
+[10-4]: https://cloud.google.com/vertex-ai
 
