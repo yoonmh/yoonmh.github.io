@@ -23,12 +23,25 @@ layout: single
 * [Google built a trillion][2-2]
 
 ## 3. Face Mask Detection
-* [RealNetworks][3-1]
-* [Facial Recognition][3-2]
+* [ppt][3-1]
+* [RealNetworks][3-2]
+* [Facial Recognition][3-3]
 
 ## 4. Deep Neural Networks
-* [AI Imortal Dictator][4-1]
-* [10 CNN Architectures][4-2]
+* [ppt][4-1]
+* [AI Imortal Dictator][4-2]
+* [10 CNN Architectures][4-3]
+* [Tensorflow Playground][4-4]
+* [Spiral Dataset][4-5]
+* [Image Kernels][4-6]
+* [CNN Visualization][4-7]
+* [Lenet][4-8]
+* [Tensorspace][4-9]
+* [Resnet][4-10]
+* [Alexnet][4-11]
+
+## 5.
+* [ppt][5-1]
 * 
 
 [0-1]: https://docs.google.com/presentation/d/1nyCIq0Piq1pYI_OjfeSydP2TnCLNHB9m/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
@@ -41,7 +54,19 @@ layout: single
 [1-5]: https://teachablemachine.withgoogle.com/
 [2-1]: https://docs.google.com/presentation/d/1Ov__XSkbZvNgY2JisDoqHkPC45lI6UQj/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [2-2]: https://www.forbes.com/sites/nishatalagala/2021/07/08/google-built-a-trillion-parameter-ai-model-7-things-you-should-know/?sh=2a8399fa7974
-[3-1]: https://www.geekwire.com/2021/realnetworks-releases-first-hardware-product-kiosk-checks-proper-facemask-usage/
-[3-2]: https://www.thalesgroup.com/en/markets/digital-identity-and-security/government/biometrics/facial-recognition
-[4-1]: https://www.cnbc.com/2018/04/06/elon-musk-warns-ai-could-create-immortal-dictator-in-documentary.html
-[4-2]: https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d
+[3-1]: https://docs.google.com/presentation/d/1B2AaGIn7q2C6b2CvplU5MIbW-9A9m_9p/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
+[3-2]: https://www.geekwire.com/2021/realnetworks-releases-first-hardware-product-kiosk-checks-proper-facemask-usage/
+[3-3]: https://www.thalesgroup.com/en/markets/digital-identity-and-security/government/biometrics/facial-recognition
+[4-1]: https://docs.google.com/presentation/d/1B0N49ZdpxrBn1Xo2hx6xIBm0Ag6Lborn/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
+[4-2]: https://www.cnbc.com/2018/04/06/elon-musk-warns-ai-could-create-immortal-dictator-in-documentary.html
+[4-3]: https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d
+[4-4]: https://playground.tensorflow.org/
+[4-5]: https://developers.google.com/machine-learning/crash-course/DPE/tp-ss-neural-net-intro-spiral
+[4-6]: https://setosa.io/ev/image-kernels/
+[4-7]: https://adamharley.com/nn_vis/
+[4-8]: http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
+[4-9]: https://tensorspace.org/
+[4-10]: https://www.researchgate.net/figure/The-structure-of-the-used-residual-neural-network-Shortcuts-for-residual-blocks-12-are_fig2_332927869
+[4-11]: https://www.researchgate.net/figure/AlexNet-architecture-Includes-5-convolutional-layers-and-3-fullyconnected-layers_fig3_322592079
+[5-1]: https://docs.google.com/presentation/d/1B-uCnUIr5NRhIn0pjgLqjRy5qjgBBYHC/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
+
