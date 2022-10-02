@@ -10,7 +10,6 @@ layout: single
 * [Meta AI Detectron2][0-3]
 * [AI and Compute][0-4]
 
-
 ## 1. Fashion class 예측
 * [ppt][1-1]
 * [I am a model][1-2]
@@ -40,9 +39,27 @@ layout: single
 * [Resnet][4-10]
 * [Alexnet][4-11]
 
-## 5.
+## 5. Sucess Stories
 * [ppt][5-1]
-* 
+* [Case study][5-2]
+* [Travel Industry][5-3]
+* [Price Forecasting][5-4]
+* [DataRobot][5-5]
+* [Undestading Machine Learning-#123][5-6]
+* [Statistical Learning-#61][5-7]
+
+## 6. Business Case
+* [ppt][6-1]
+* [7 Ways][6-2]
+* [Employee Attrition][6-3]
+
+## 7. 
+* [ppt][7-1]
+* [Google][7-2]
+* [How AI}[7-3]
+
+## 8.
+
 
 [0-1]: https://docs.google.com/presentation/d/1nyCIq0Piq1pYI_OjfeSydP2TnCLNHB9m/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [0-3]: https://ai.facebook.com/tools/detectron2/
@@ -69,4 +86,17 @@ layout: single
 [4-10]: https://www.researchgate.net/figure/The-structure-of-the-used-residual-neural-network-Shortcuts-for-residual-blocks-12-are_fig2_332927869
 [4-11]: https://www.researchgate.net/figure/AlexNet-architecture-Includes-5-convolutional-layers-and-3-fullyconnected-layers_fig3_322592079
 [5-1]: https://docs.google.com/presentation/d/1B-uCnUIr5NRhIn0pjgLqjRy5qjgBBYHC/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
+[5-2]: https://www.altexsoft.com/case-studies/
+[5-3]: https://www.altexsoft.com/blog/datascience/data-science-and-ai-in-the-travel-industry-9-real-life-use-cases/
+[5-4]: https://www.altexsoft.com/blog/business/price-forecasting-machine-learning-based-approaches-applied-to-electricity-flights-hotels-real-estate-and-stock-pricing/
+[5-5]: https://www.datarobot.com/
+[5-6]: https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
+[5-7]: https://www.statlearning.com/
+[6-1]: https://docs.google.com/presentation/d/1BNcn9pCTrXIVuc4l7wsgNdo8jfCcipsN/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
+[6-2]: https://www.cmswire.com/digital-workplace/7-ways-artificial-intelligence-is-reinventing-human-resources/
+[6-3]: https://www.business-standard.com/article/jobs/employee-attrition-how-ai-is-transforming-human-resource-practices-118062701396_1.html
+[7-1]: https://docs.google.com/presentation/d/1BDYiPWYBOJg88FJIS77AgknkTTS7bYEX/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
+[7-2]: https://venturebeat.com/ai/google-works-with-aravind-eye-hospital-to-deploy-ai-that-can-detect-eye-disease/
+[7-3]: https://www.nature.com/articles/d41586-019-01111-y
+
 
