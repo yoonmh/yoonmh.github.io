@@ -59,7 +59,13 @@ layout: single
 * [How AI}[7-3]
 
 ## 8.
+* [ppt][8-1]
 
+## 9.
+* [ppt][9-1]
+
+## 10.
+* [ppt][10-1]
 
 [0-1]: https://docs.google.com/presentation/d/1nyCIq0Piq1pYI_OjfeSydP2TnCLNHB9m/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [0-3]: https://ai.facebook.com/tools/detectron2/
@@ -98,5 +104,7 @@ layout: single
 [7-1]: https://docs.google.com/presentation/d/1BDYiPWYBOJg88FJIS77AgknkTTS7bYEX/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [7-2]: https://venturebeat.com/ai/google-works-with-aravind-eye-hospital-to-deploy-ai-that-can-detect-eye-disease/
 [7-3]: https://www.nature.com/articles/d41586-019-01111-y
-
+[8-1]: https://docs.google.com/presentation/d/1BPKjzs2zWDr7V2phXfn-eF6p57iKgFtN/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
+[9-1]: https://docs.google.com/presentation/d/1hiPYSJJWtL_1MuhTvGC6co3rKRt_-6cq/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
+[10-1]: https://docs.google.com/presentation/d/1P04i2TSGEHi9GtIRaGmMfiLCxopVZbNO/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 
