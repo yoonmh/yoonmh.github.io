@@ -17,9 +17,10 @@ layout: single
 * [How AI is changing fashion][1-4]
 * [Teachable Machine][1-5]
 
-## 2. ANN Simplified
+## 2. Fashion class 예측
 * [ppt][2-1]
-* [Google built a trillion][2-2]
+* [Google built an AI model (Forbes)][2-2]
+* [수화 인식][2-3]
 
 ## 3. Face Mask Detection
 * [ppt][3-1]
@@ -80,6 +81,7 @@ layout: single
 [1-5]: https://teachablemachine.withgoogle.com/
 [2-1]: https://docs.google.com/presentation/d/1Ov__XSkbZvNgY2JisDoqHkPC45lI6UQj/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [2-2]: https://www.forbes.com/sites/nishatalagala/2021/07/08/google-built-a-trillion-parameter-ai-model-7-things-you-should-know/?sh=2a8399fa7974
+[2-3]: https://www.kaggle.com/datasets/ahmedkhanak1995/sign-language-gesture-images-dataset
 [3-1]: https://docs.google.com/presentation/d/1B2AaGIn7q2C6b2CvplU5MIbW-9A9m_9p/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [3-2]: https://www.geekwire.com/2021/realnetworks-releases-first-hardware-product-kiosk-checks-proper-facemask-usage/
 [3-3]: https://www.thalesgroup.com/en/markets/digital-identity-and-security/government/biometrics/facial-recognition
