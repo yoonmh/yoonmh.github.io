@@ -41,7 +41,8 @@ layout: single
 * [ResNet 구조][4-11]
 * ["Understanding and Coding a ResNet in Keras"][4-12]
 * [ResNet 모델 3D 시각화 (TensorSpace.js)][4-13]
-* [Alexnet ][4-14]
+* [Alexnet 구조][4-14]
+* [Alexnet 시각화 (TensorSpace.js)][4-15]
 
 ## 5. Product Price 예측
 * [ppt][5-1]
@@ -107,6 +108,7 @@ layout: single
 [4-12]: https://towardsdatascience.com/understanding-and-coding-a-resnet-in-keras-446d7ff84d33
 [4-13]: https://tensorspace.org/html/playground/resnet50.html
 [4-14]: https://www.researchgate.net/figure/AlexNet-architecture-Includes-5-convolutional-layers-and-3-fullyconnected-layers_fig3_322592079
+[4-15]: https://tensorspace.org/html/playground/alexnet.html
 [5-1]: https://docs.google.com/presentation/d/1B-uCnUIr5NRhIn0pjgLqjRy5qjgBBYHC/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [5-2]: https://www.altexsoft.com/case-studies/
 [5-3]: https://www.altexsoft.com/case-studies/travel/altexsoft-creates-unique-data-science-and-analytics-based-fare-predictor-tool-to-forecast-price-movements/
