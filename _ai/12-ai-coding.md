@@ -35,7 +35,7 @@ layout: single
 * [Tensorflow Playground 데모][4-5]
 * [Spiral Dataset 데모][4-6]
 * [Image Kernels][4-7]
-* [CNN Visualization][4-8]
+* [CNN Visualization ][4-8]
 * [Lenet][4-9]
 * [Tensorspace][4-10]
 * [Resnet][4-11]
