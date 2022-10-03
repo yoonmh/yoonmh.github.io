@@ -51,7 +51,7 @@ layout: single
 * [선형회귀 (Undestading Machine Learning #123)][5-7]
 * [선형회귀 (Statistical Learning #61)][5-8]
 
-## 6. Business Case
+## 6. Employee Attrition 예측
 * [ppt][6-1]
 * [7 Ways][6-2]
 * [Employee Attrition][6-3]
