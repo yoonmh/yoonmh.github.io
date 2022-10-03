@@ -46,10 +46,11 @@ layout: single
 
 ## 5. Product Price 예측
 * [ppt][5-1]
+* ["Price Forecasting: Applying Machine Learning Approaches to Electricity, Flights, Hotels, Real Estate, and Stock Pricing"][5-5]
+* [자동차 가격 예측 (DataRobot)][5-6]
 * [Altexsoft case study][5-2]
 * [항공료 예측 툴 (Altexsoft)][5-3]
 * [Altexsoft blog][5-4]
-* [Price Forecasting][5-5]
 * [DataRobot 데모][5-6]
 * [선형회귀 (Undestading Machine Learning #123)][5-7]
 * [선형회귀 (Statistical Learning #61)][5-8]
