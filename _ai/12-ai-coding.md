@@ -54,12 +54,12 @@ layout: single
 ## 6. Employee Attrition 예측
 * [ppt][6-1]
 * [7 Ways][6-2]
-* [Employee Attrition][6-3]
+* [Employee Attrition (Business Standard)][6-3]
 
-## 7. 
+## 7. Diabetic Retinopathy Detection
 * [ppt][7-1]
-* [Google][7-2]
-* [How AI}[7-3]
+* [Eye disease detection][7-2]
+* [Prevent blindness][7-3]
 
 ## 8.
 * [ppt][8-1]
