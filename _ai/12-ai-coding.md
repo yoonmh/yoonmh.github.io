@@ -74,9 +74,9 @@ layout: single
 
 ## 10. Higher Education
 * [ppt][10-1]
-* [Vision][10-2]
+* [5-year vision for AI (EdTech)][10-2]
 * [AI in Higher Education][10-3]
-* [Vertex AI][10-4]
+* [Vertex AI 데모][10-4]
 
 [0-1]: https://docs.google.com/presentation/d/1nyCIq0Piq1pYI_OjfeSydP2TnCLNHB9m/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [0-3]: https://ai.facebook.com/tools/detectron2/
