@@ -36,10 +36,10 @@ layout: single
 * [Spiral Dataset 데모][4-6]
 * [Image Kernels][4-7]
 * [CNN Visualization ][4-8]
-* [Gradient-Based Learning Applied to Document Recognition (Yann Lecun)][4-9]
+* ["Gradient-Based Learning Applied to Document Recognition" (Y. Lecun)][4-9]
 * [LeNet 모델의 3D 시각화 (TensorSpace.js)][4-10]
 * [ResNet 구조][4-11]
-* [Understanding and Coding a ResNet in Keras][4-12]
+* ["Understanding and Coding a ResNet in Keras"][4-12]
 * [Alexnet ][4-13]
 
 ## 5. Product Price 예측
