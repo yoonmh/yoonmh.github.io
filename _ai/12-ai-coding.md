@@ -68,6 +68,7 @@ layout: single
 ## 9. Credit Card Default
 * [ppt][9-1]
 * [Kaggle dataset][9-2]
+* [15 Business Applications (Forbes][9-3]
 
 ## 10. Higher Education
 * [ppt][10-1]
@@ -119,6 +120,7 @@ layout: single
 [8-2]: https://monkeylearn.com/blog/ai-sentiment-analysis/
 [9-1]: https://docs.google.com/presentation/d/1hiPYSJJWtL_1MuhTvGC6co3rKRt_-6cq/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [9-2]: https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
+[9-3]: https://www.forbes.com/sites/forbestechcouncil/2018/09/27/15-business-applications-for-artificial-intelligence-and-machine-learning/?sh=71b5fb6e579f
 [10-1]: https://docs.google.com/presentation/d/1P04i2TSGEHi9GtIRaGmMfiLCxopVZbNO/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [10-2]: https://edtechmagazine.com/higher/article/2020/02/5-year-vision-artificial-intelligence-higher-ed
 [10-3]: https://er.educause.edu/articles/2019/8/artificial-intelligence-in-higher-education-applications-promise-and-perils-and-ethical-questions
