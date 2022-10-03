@@ -41,14 +41,15 @@ layout: single
 * [Resnet 구조][4-11]
 * [Alexnet ][4-12]
 
-## 5. Sucess Stories
+## 5. Product Price 예측
 * [ppt][5-1]
-* [Case study][5-2]
-* [Travel Industry][5-3]
-* [Price Forecasting][5-4]
-* [DataRobot][5-5]
-* [Undestading Machine Learning-#123][5-6]
-* [Statistical Learning-#61][5-7]
+* [Altexsoft case study][5-2]
+* [항공료 예측 툴 (Altexsoft)][5-3]
+* [Altexsoft blog][5-4]
+* [Price Forecasting][5-5]
+* [DataRobot][5-6]
+* [Undestading Machine Learning-#123][5-7]
+* [Statistical Learning-#61][5-8]
 
 ## 6. Business Case
 * [ppt][6-1]
@@ -100,11 +101,12 @@ layout: single
 [4-12]: https://www.researchgate.net/figure/AlexNet-architecture-Includes-5-convolutional-layers-and-3-fullyconnected-layers_fig3_322592079
 [5-1]: https://docs.google.com/presentation/d/1B-uCnUIr5NRhIn0pjgLqjRy5qjgBBYHC/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [5-2]: https://www.altexsoft.com/case-studies/
-[5-3]: https://www.altexsoft.com/blog/datascience/data-science-and-ai-in-the-travel-industry-9-real-life-use-cases/
-[5-4]: https://www.altexsoft.com/blog/business/price-forecasting-machine-learning-based-approaches-applied-to-electricity-flights-hotels-real-estate-and-stock-pricing/
-[5-5]: https://www.datarobot.com/
-[5-6]: https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
-[5-7]: https://www.statlearning.com/
+[5-3]: https://www.altexsoft.com/case-studies/travel/altexsoft-creates-unique-data-science-and-analytics-based-fare-predictor-tool-to-forecast-price-movements/
+[5-4]: https://www.altexsoft.com/blog/datascience/data-science-and-ai-in-the-travel-industry-9-real-life-use-cases/
+[5-5]: https://www.altexsoft.com/blog/business/price-forecasting-machine-learning-based-approaches-applied-to-electricity-flights-hotels-real-estate-and-stock-pricing/
+[5-6]: https://www.datarobot.com/
+[5-7]: https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
+[5-8]: https://www.statlearning.com/
 [6-1]: https://docs.google.com/presentation/d/1BNcn9pCTrXIVuc4l7wsgNdo8jfCcipsN/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [6-2]: https://www.cmswire.com/digital-workplace/7-ways-artificial-intelligence-is-reinventing-human-resources/
 [6-3]: https://www.business-standard.com/article/jobs/employee-attrition-how-ai-is-transforming-human-resource-practices-118062701396_1.html
