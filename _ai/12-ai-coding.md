@@ -36,10 +36,10 @@ layout: single
 * [Spiral Dataset 데모][4-6]
 * [Image Kernels][4-7]
 * [CNN Visualization ][4-8]
-* [Lenet][4-9]
-* [Tensorspace][4-10]
-* [Resnet][4-11]
-* [Alexnet][4-12]
+* [Lenet 논문][4-9]
+* [Tensorspace.js 데모][4-10]
+* [Resnet 구조][4-11]
+* [Alexnet ][4-12]
 
 ## 5. Sucess Stories
 * [ppt][5-1]
