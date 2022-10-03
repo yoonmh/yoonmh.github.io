@@ -15,12 +15,12 @@ layout: single
 * [I am a model (Vogue)][1-2]
 * [Powered by AI (Meta AI)][1-3]
 * [How AI is changing fashion][1-4]
-* [Teachable Machine][1-5]
+* [Teachable Machine 데모][1-5]
 
 ## 2. Fashion class 예측
 * [ppt][2-1]
 * [Google built an AI model (Forbes)][2-2]
-* [수화 인식][2-3]
+* [수화 인식 데모][2-3]
 
 ## 3. Face Mask Detection
 * [ppt][3-1]
@@ -32,7 +32,7 @@ layout: single
 * [AI power (CNBC)][4-2]
 * [CNN architectures][4-3]
 * [10 CNN Architectures][4-4]
-* [Tensorflow Playground][4-5]
+* [Tensorflow Playground 데모][4-5]
 * [Spiral Dataset][4-6]
 * [Image Kernels][4-7]
 * [CNN Visualization][4-8]
