@@ -47,9 +47,9 @@ layout: single
 * [항공료 예측 툴 (Altexsoft)][5-3]
 * [Altexsoft blog][5-4]
 * [Price Forecasting][5-5]
-* [DataRobot][5-6]
-* [Undestading Machine Learning-#123][5-7]
-* [Statistical Learning-#61][5-8]
+* [DataRobot 데모][5-6]
+* [선형회귀 (Undestading Machine Learning #123)][5-7]
+* [선형회귀 (Statistical Learning #61)][5-8]
 
 ## 6. Business Case
 * [ppt][6-1]
