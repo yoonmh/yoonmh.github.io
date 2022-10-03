@@ -29,7 +29,7 @@ layout: single
 
 ## 4. Deep Neural Networks
 * [ppt][4-1]
-* [AI power (CNBC)]4-2]
+* [AI power (CNBC)][4-2]
 * [CNN architectures][4-3]
 * [10 CNN Architectures][4-4]
 * [Tensorflow Playground][4-5]
