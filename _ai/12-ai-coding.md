@@ -36,7 +36,7 @@ layout: single
 * [Spiral Dataset 데모][4-6]
 * [Image Kernels][4-7]
 * [CNN Visualization ][4-8]
-* [Lenet 논문][4-9]
+* "Gradient-Based Learning Applied to Document Recognition" (Yann Lecun, 1998) [pdf][4-9]
 * [Tensorspace.js 데모][4-10]
 * [Resnet 구조][4-11]
 * [Alexnet ][4-12]
