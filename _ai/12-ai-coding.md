@@ -25,7 +25,7 @@ layout: single
 ## 3. Face Mask Detection
 * [ppt][3-1]
 * [RealNetworks][3-2]
-* [Facial Recognition][3-3]
+* [Facial recognition (Thales)][3-3]
 
 ## 4. Deep Neural Networks
 * [ppt][4-1]
