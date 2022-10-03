@@ -12,9 +12,9 @@ layout: single
 
 ## 1. Fashion class 예측
 * [ppt][1-1]
-* [I am a model][1-2]
-* [Powered by AI][1-3]
-* [How AI is changing Fashion][1-4]
+* [I am a model (Vogue)][1-2]
+* [Powered by AI (Meta AI)][1-3]
+* [How AI is changing fashion][1-4]
 * [Teachable Machine][1-5]
 
 ## 2. ANN Simplified
