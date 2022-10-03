@@ -29,16 +29,17 @@ layout: single
 
 ## 4. Deep Neural Networks
 * [ppt][4-1]
-* [AI Imortal Dictator][4-2]
-* [10 CNN Architectures][4-3]
-* [Tensorflow Playground][4-4]
-* [Spiral Dataset][4-5]
-* [Image Kernels][4-6]
-* [CNN Visualization][4-7]
-* [Lenet][4-8]
-* [Tensorspace][4-9]
-* [Resnet][4-10]
-* [Alexnet][4-11]
+* [AI power (CNBC)]4-2]
+* [CNN architectures][4-3]
+* [10 CNN Architectures][4-4]
+* [Tensorflow Playground][4-5]
+* [Spiral Dataset][4-6]
+* [Image Kernels][4-7]
+* [CNN Visualization][4-8]
+* [Lenet][4-9]
+* [Tensorspace][4-10]
+* [Resnet][4-11]
+* [Alexnet][4-12]
 
 ## 5. Sucess Stories
 * [ppt][5-1]
@@ -87,15 +88,16 @@ layout: single
 [3-3]: https://www.thalesgroup.com/en/markets/digital-identity-and-security/government/biometrics/facial-recognition
 [4-1]: https://docs.google.com/presentation/d/1B0N49ZdpxrBn1Xo2hx6xIBm0Ag6Lborn/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [4-2]: https://www.cnbc.com/2018/04/06/elon-musk-warns-ai-could-create-immortal-dictator-in-documentary.html
-[4-3]: https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d
-[4-4]: https://playground.tensorflow.org/
-[4-5]: https://developers.google.com/machine-learning/crash-course/DPE/tp-ss-neural-net-intro-spiral
-[4-6]: https://setosa.io/ev/image-kernels/
-[4-7]: https://adamharley.com/nn_vis/
-[4-8]: http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
-[4-9]: https://tensorspace.org/
-[4-10]: https://www.researchgate.net/figure/The-structure-of-the-used-residual-neural-network-Shortcuts-for-residual-blocks-12-are_fig2_332927869
-[4-11]: https://www.researchgate.net/figure/AlexNet-architecture-Includes-5-convolutional-layers-and-3-fullyconnected-layers_fig3_322592079
+[4-3]: https://medium.com/analytics-vidhya/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5
+[4-4]: /towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d
+[4-5: https://playground.tensorflow.org/
+[4-6: https://developers.google.com/machine-learning/crash-course/DPE/tp-ss-neural-net-intro-spiral
+[4-7: https://setosa.io/ev/image-kernels/
+[4-8: https://adamharley.com/nn_vis/
+[4-9: http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
+[4-10 https://tensorspace.org/
+[4-11: https://www.researchgate.net/figure/The-structure-of-the-used-residual-neural-network-Shortcuts-for-residual-blocks-12-are_fig2_332927869
+[4-12: https://www.researchgate.net/figure/AlexNet-architecture-Includes-5-convolutional-layers-and-3-fullyconnected-layers_fig3_322592079
 [5-1]: https://docs.google.com/presentation/d/1B-uCnUIr5NRhIn0pjgLqjRy5qjgBBYHC/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [5-2]: https://www.altexsoft.com/case-studies/
 [5-3]: https://www.altexsoft.com/blog/datascience/data-science-and-ai-in-the-travel-industry-9-real-life-use-cases/
