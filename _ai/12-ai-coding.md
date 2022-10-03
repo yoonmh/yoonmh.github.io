@@ -33,7 +33,7 @@ layout: single
 * [CNN architectures][4-3]
 * [10 CNN Architectures][4-4]
 * [Tensorflow Playground 데모][4-5]
-* [Spiral Dataset][4-6]
+* [Spiral Dataset 데모][4-6]
 * [Image Kernels][4-7]
 * [CNN Visualization][4-8]
 * [Lenet][4-9]
