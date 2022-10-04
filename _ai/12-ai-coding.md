@@ -72,6 +72,7 @@ layout: single
 
 ## 8. Text Classification
 * [ppt][8-1]
+* 참고 : [Monkey Learn][8-2]
 * [Setiment analysis][8-2]
 
 ## 9. Credit Card Default
@@ -131,7 +132,8 @@ layout: single
 [7-2]: https://venturebeat.com/ai/google-works-with-aravind-eye-hospital-to-deploy-ai-that-can-detect-eye-disease/
 [7-3]: https://www.nature.com/articles/d41586-019-01111-y
 [8-1]: https://docs.google.com/presentation/d/1BPKjzs2zWDr7V2phXfn-eF6p57iKgFtN/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
-[8-2]: https://monkeylearn.com/blog/ai-sentiment-analysis/
+[8-2]: https://monkeylearn.com/
+[8-3]: https://monkeylearn.com/blog/ai-sentiment-analysis/
 [9-1]: https://docs.google.com/presentation/d/1hiPYSJJWtL_1MuhTvGC6co3rKRt_-6cq/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [9-2]: https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
 [9-3]: https://www.forbes.com/sites/forbestechcouncil/2018/09/27/15-business-applications-for-artificial-intelligence-and-machine-learning/?sh=71b5fb6e579f
