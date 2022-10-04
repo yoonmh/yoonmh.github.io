@@ -46,14 +46,12 @@ layout: single
 
 ## 5. Product Price 예측
 * [ppt][5-1]
-* ["Price Forecasting: Applying Machine Learning Approaches to Electricity, Flights, Hotels, Real Estate, and Stock Pricing"][5-5]
-* [자동차 가격 예측 (DataRobot)][5-6]
-* [Altexsoft case study][5-2]
-* [항공료 예측 툴 (Altexsoft)][5-3]
-* [Altexsoft blog][5-4]
-* [DataRobot 데모][5-6]
-* [선형회귀 (Undestading Machine Learning #123)][5-7]
-* [선형회귀 (Statistical Learning #61)][5-8]
+* 참고 : [Altexsoft Blog][5-2]
+* 참고 : ["Price Forecasting" (Altexsoft)][5-3]
+* 중고 자동차 가격 예측하기 ([Dataset][5-4], [DataRobot][5-5])
+* 고객의 보험료 예측하기 ([Dataset][5-6])
+* 선형회귀 : [Undestading Machine Learning #123][5-7]
+* 선형회귀 : [Statistical Learning #61][5-8]
 
 ## 6. Employee Attrition 예측
 * [ppt][6-1]
@@ -111,11 +109,11 @@ layout: single
 [4-14]: https://www.researchgate.net/figure/AlexNet-architecture-Includes-5-convolutional-layers-and-3-fullyconnected-layers_fig3_322592079
 [4-15]: https://tensorspace.org/html/playground/alexnet.html
 [5-1]: https://docs.google.com/presentation/d/1B-uCnUIr5NRhIn0pjgLqjRy5qjgBBYHC/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
-[5-2]: https://www.altexsoft.com/case-studies/
-[5-3]: https://www.altexsoft.com/case-studies/travel/altexsoft-creates-unique-data-science-and-analytics-based-fare-predictor-tool-to-forecast-price-movements/
-[5-4]: https://www.altexsoft.com/blog/datascience/data-science-and-ai-in-the-travel-industry-9-real-life-use-cases/
-[5-5]: https://www.altexsoft.com/blog/business/price-forecasting-machine-learning-based-approaches-applied-to-electricity-flights-hotels-real-estate-and-stock-pricing/
-[5-6]: https://www.datarobot.com/
+[5-2]: https://www.altexsoft.com/blog/datascience/data-science-and-ai-in-the-travel-industry-9-real-life-use-cases/
+[5-3]: https://www.altexsoft.com/blog/business/price-forecasting-machine-learning-based-approaches-applied-to-electricity-flights-hotels-real-estate-and-stock-pricing/
+[5-4]: https://drive.google.com/file/d/1BNm3llFxQCiYexx_W1kWceeAasbJVwYB/view?usp=sharing
+[5-5]: https://www.datarobot.com/
+[5-6]: https://drive.google.com/file/d/1BO6VBRahc_ndxdg2faE7r3Va3pxXtG6-/view?usp=sharing
 [5-7]: https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
 [5-8]: https://www.statlearning.com/
 [6-1]: https://docs.google.com/presentation/d/1BNcn9pCTrXIVuc4l7wsgNdo8jfCcipsN/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
