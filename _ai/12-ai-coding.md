@@ -45,7 +45,7 @@ layout: single
 * [Alexnet 시각화 (TensorSpace.js)][4-15]
 
 ## 5. Product Price 예측
-* [ppt][5-1]
+* 발표자료 ([ppt][5-1])
 * 참고 : [Altexsoft Blog][5-2]
 * 참고 : ["Price Forecasting" (Altexsoft)][5-3]
 * 중고 자동차 가격 예측하기 ([Dataset][5-4], [DataRobot][5-5])
