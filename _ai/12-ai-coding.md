@@ -67,14 +67,13 @@ layout: single
 * 설명 가능한 AI
 * Grad-CAM Visualization
 * 흉부 X-ray 데이터 (건강, Covid-19, 세균성 폐렴, 바이러스성 폐렴)
-* 
-* 
 
 ## 8. Text Classification
 * [ppt][8-1]
 * 참고 : [Monkey Learn][8-2]
 * 참고 : ["AI-Enabled Sentiment Analysis in Business"][8-3]
-* Amazon Echo 제품 리뷰 ([Datsset][8-4])
+* Amazon Echo 제품 리뷰 ([Datsset][8-4], DataRobot)
+* 평가점수가 없는 데이터셋 ([Datsset][8-5])
 
 ## 9. Credit Card Default
 * [ppt][9-1]
@@ -136,6 +135,7 @@ layout: single
 [8-2]: https://monkeylearn.com/
 [8-3]: https://monkeylearn.com/blog/ai-sentiment-analysis/
 [8-4]: https://drive.google.com/file/d/1BQP3rcYJvSgibeoA4KTR91ZBOpyHQLbU/view?usp=sharing
+[8-5]: https://drive.google.com/file/d/1BX3FxGiYkhKSjKmlYtqZJkhc3-AKwLtX/view?usp=sharing
 [9-1]: https://docs.google.com/presentation/d/1hiPYSJJWtL_1MuhTvGC6co3rKRt_-6cq/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [9-2]: https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
 [9-3]: https://www.forbes.com/sites/forbestechcouncil/2018/09/27/15-business-applications-for-artificial-intelligence-and-machine-learning/?sh=71b5fb6e579f
