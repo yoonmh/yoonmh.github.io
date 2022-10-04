@@ -78,10 +78,11 @@ layout: single
 
 ## 9. Credit Card Default
 * 발표자료 ([ppt][9-1])
+* 참고 : ["15 Business Applications for AI and ML" (Forbes)][9-4]
 * 크레딧 카드 사용 고객 데이터 ([Kaggle][9-2])
 * [AWS 포털][9-3]
-* 참고 : ["15 Business Applications for AI and ML" (Forbes)][9-4]
 * [Amazon Sagemaker][9-5]
+* [코드][9-6]
 
 ## 10. Higher Education
 * [ppt][10-1]
@@ -144,6 +145,7 @@ layout: single
 [9-3]: https://aws.amazon.com/ko/console/
 [9-4]: https://www.forbes.com/sites/forbestechcouncil/2018/09/27/15-business-applications-for-artificial-intelligence-and-machine-learning/?sh=71b5fb6e579f
 [9-5]: https://aws.amazon.com/ko/sagemaker/autopilot/
+[9-6]: https://colab.research.google.com/drive/1hk60K81pxahxBFe6bdlDcxIPxl2Bq7gu
 [10-1]: https://docs.google.com/presentation/d/1P04i2TSGEHi9GtIRaGmMfiLCxopVZbNO/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [10-2]: https://edtechmagazine.com/higher/article/2020/02/5-year-vision-artificial-intelligence-higher-ed
 [10-3]: https://er.educause.edu/articles/2019/8/artificial-intelligence-in-higher-education-applications-promise-and-perils-and-ethical-questions
