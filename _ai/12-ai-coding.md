@@ -74,6 +74,7 @@ layout: single
 * 참고 : ["AI-Enabled Sentiment Analysis in Business"][8-3]
 * Amazon Echo 제품 리뷰 ([Datsset][8-4], DataRobot)
 * 평가점수가 없는 데이터셋 ([Datsset][8-5])
+* 가짜뉴스 구분 ([Datsset][8-6])
 
 ## 9. Credit Card Default
 * [ppt][9-1]
@@ -136,6 +137,7 @@ layout: single
 [8-3]: https://monkeylearn.com/blog/ai-sentiment-analysis/
 [8-4]: https://drive.google.com/file/d/1BQP3rcYJvSgibeoA4KTR91ZBOpyHQLbU/view?usp=sharing
 [8-5]: https://drive.google.com/file/d/1BX3FxGiYkhKSjKmlYtqZJkhc3-AKwLtX/view?usp=sharing
+[8-6]: https://drive.google.com/file/d/1BOo7MWnKu-s9QZGzARhxsnRsn1-c7Sp1/view?usp=sharing
 [9-1]: https://docs.google.com/presentation/d/1hiPYSJJWtL_1MuhTvGC6co3rKRt_-6cq/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [9-2]: https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
 [9-3]: https://www.forbes.com/sites/forbestechcouncil/2018/09/27/15-business-applications-for-artificial-intelligence-and-machine-learning/?sh=71b5fb6e579f
