@@ -9,7 +9,7 @@ layout: single
 * [ppt][0-1]
 * [Meta AI Detectron2][0-3]
 * [AI and Compute][0-4]
-* [test][https://yoonmh.github.io/ai/p1/]
+* [test][xxx1]
 
 ## 1. Fashion class 예측
 * [ppt][1-1]
@@ -151,4 +151,4 @@ layout: single
 [10-2]: https://edtechmagazine.com/higher/article/2020/02/5-year-vision-artificial-intelligence-higher-ed
 [10-3]: https://er.educause.edu/articles/2019/8/artificial-intelligence-in-higher-education-applications-promise-and-perils-and-ethical-questions
 [10-4]: https://cloud.google.com/vertex-ai
-
+[xxx1]: https://yoonmh.github.io/ai/p1/
