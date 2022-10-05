@@ -9,6 +9,7 @@ layout: single
 * [ppt][0-1]
 * [Meta AI Detectron2][0-3]
 * [AI and Compute][0-4]
+* [test][./udemy/p1.md]
 
 ## 1. Fashion class 예측
 * [ppt][1-1]
