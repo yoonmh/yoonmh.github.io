@@ -86,9 +86,9 @@ layout: single
 * [코드][9-6]
 
 ## 10. Higher Education
-* [ppt][10-1]
-* [5-year vision for AI (EdTech)][10-2]
-* [AI in Higher Education][10-3]
+* 발표자료 ([ppt][10-1])
+* 참고 : ["5-year vision for AI" (EdTech)][10-2]
+* 참고 : ["AI in Higher Education"][10-3]
 * [Vertex AI 데모][10-4]
 
 [0-1]: https://docs.google.com/presentation/d/1nyCIq0Piq1pYI_OjfeSydP2TnCLNHB9m/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
