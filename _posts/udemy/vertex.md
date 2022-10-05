@@ -10,5 +10,5 @@ categories:
 ## Google Vertex AI
 * 처음 가입하면 $300의 크레딧을 줌
 * Dashboard
-![image](https://user-images.githubusercontent.com/84357073/194108602-ca993c75-dbe6-4658-9d7b-f81c020654a8.png)
+![image](https://user-images.githubusercontent.com/84357073/194110322-13cf53f8-f4c1-47b8-9df3-7b51376f8f58.png)
 
