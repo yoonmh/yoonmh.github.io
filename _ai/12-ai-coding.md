@@ -18,8 +18,8 @@ layout: single
 * [P1-패션 아니템 분류하기][1-5] ([Teachable Machine][1-6])
 
 ## 2. Fashion class 예측
-* [ppt][2-1]
-* [Google built an AI model (Forbes)][2-2]
+* 발표자료 ([ppt][2-1])
+* 참고 : [Google built an AI model (Forbes)][2-2]
 * [수화 인식 데모][2-3]
 
 ## 3. Face Mask Detection
