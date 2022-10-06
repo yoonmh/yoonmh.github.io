@@ -15,7 +15,7 @@ layout: single
 * 참고 : [I am a model (Vogue)][1-2]
 * 참고 : [Powered by AI (Meta AI)][1-3]
 * 참고 : [How AI is changing fashion][1-4]
-* [Teachable Machine 데모][1-5]
+* [P1-패션 아니템 분류하기][1-5] ([Teachable Machine][1-6])
 
 ## 2. Fashion class 예측
 * [ppt][2-1]
@@ -97,7 +97,8 @@ layout: single
 [1-2]: https://www.vogue.com/article/sinead-bovell-model-artificial-intelligence
 [1-3]: https://ai.facebook.com/blog/powered-by-ai-advancing-product-understanding-and-building-new-shopping-experiences/
 [1-4]: https://medium.com/vsinghbisen/how-ai-is-changing-fashion-impact-on-the-industry-with-use-cases-76f20fc5d93f
-[1-5]: https://teachablemachine.withgoogle.com/
+[1-5]: https://docs.google.com/presentation/d/1u6EUxE8hGNJQte-kyvwnoq4m6DzAl89O/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
+[1-6]: https://teachablemachine.withgoogle.com/
 [2-1]: https://docs.google.com/presentation/d/1Ov__XSkbZvNgY2JisDoqHkPC45lI6UQj/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [2-2]: https://www.forbes.com/sites/nishatalagala/2021/07/08/google-built-a-trillion-parameter-ai-model-7-things-you-should-know/?sh=2a8399fa7974
 [2-3]: https://www.kaggle.com/datasets/ahmedkhanak1995/sign-language-gesture-images-dataset
