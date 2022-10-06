@@ -15,23 +15,25 @@ layout: single
 * 참고 : [I am a model (Vogue)][1-2]
 * 참고 : [Powered by AI (Meta AI)][1-3]
 * 참고 : [How AI is changing fashion][1-4]
-* [P1-패션 아니템 분류하기][1-5] ([Teachable Machine][1-6])
+* [P1-패션 아이템 분류하기][1-5] ([Teachable Machine][1-6])
 
 ## 2. Fashion class 예측
 * 발표자료 ([ppt][2-1])
 * 참고 : [Google built an AI model (Forbes)][2-2]
-* [수화 인식 데모][2-3]
+* [P2-하이퍼파라미터 변경][2-3]
+* [P3-수화 인식][2-4] ([Dataset][2-5])
 
 ## 3. Face Mask Detection
-* [ppt][3-1]
-* [RealNetworks][3-2]
-* [Facial recognition (Thales)][3-3]
+* 발표자료 ([ppt][3-1])
+* 참고 : [RealNetworks][3-2]
+* 참고 : [Facial recognition (Thales)][3-3]
+* [P4-마스크 인식][3-4]
 
 ## 4. Deep Neural Networks
-* [ppt][4-1]
-* [AI power (CNBC)][4-2]
-* [CNN architectures][4-3]
-* [10 CNN Architectures][4-4]
+* 발표자료 ([ppt][4-1])
+* 참고 : [AI power (CNBC)][4-2]
+* 참고 : [CNN architectures][4-3]
+* 참고 : [10 CNN Architectures][4-4]
 * [Tensorflow Playground 데모][4-5]
 * [Spiral Dataset 데모][4-6]
 * [Image Kernels][4-7]
@@ -101,10 +103,13 @@ layout: single
 [1-6]: https://teachablemachine.withgoogle.com/
 [2-1]: https://docs.google.com/presentation/d/1Ov__XSkbZvNgY2JisDoqHkPC45lI6UQj/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [2-2]: https://www.forbes.com/sites/nishatalagala/2021/07/08/google-built-a-trillion-parameter-ai-model-7-things-you-should-know/?sh=2a8399fa7974
-[2-3]: https://www.kaggle.com/datasets/ahmedkhanak1995/sign-language-gesture-images-dataset
+[2-3]: https://docs.google.com/presentation/d/1u9dd7slt1wd_wlbRJ5C8hBHffECTLal7/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
+[2-4]: https://docs.google.com/presentation/d/1u72bsr13x953ZK0lCv8o_tuYAJzuHJzg/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
+[2-5]: https://www.kaggle.com/datasets/ahmedkhanak1995/sign-language-gesture-images-dataset
 [3-1]: https://docs.google.com/presentation/d/1B2AaGIn7q2C6b2CvplU5MIbW-9A9m_9p/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [3-2]: https://www.geekwire.com/2021/realnetworks-releases-first-hardware-product-kiosk-checks-proper-facemask-usage/
 [3-3]: https://www.thalesgroup.com/en/markets/digital-identity-and-security/government/biometrics/facial-recognition
+[3-4]: https://docs.google.com/presentation/d/1uA3EKuUrFIj7VfCkpA4cxf7ZH-ybLu4K/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [4-1]: https://docs.google.com/presentation/d/1B0N49ZdpxrBn1Xo2hx6xIBm0Ag6Lborn/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [4-2]: https://www.cnbc.com/2018/04/06/elon-musk-warns-ai-could-create-immortal-dictator-in-documentary.html
 [4-3]: https://medium.com/analytics-vidhya/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5
