@@ -34,7 +34,7 @@ layout: single
 * 참고 : [AI power (CNBC)][4-2]
 * 참고 : [CNN architectures][4-3]
 * 참고 : [10 CNN Architectures][4-4]
-* [Tensorflow Playground 데모][4-5]
+* P5 : [Tensorflow Playground][4-5] ([Playground][4-51])
 * [Spiral Dataset 데모][4-6]
 * [Image Kernels][4-7]
 * [CNN Visualization ][4-8]
@@ -114,7 +114,8 @@ layout: single
 [4-2]: https://www.cnbc.com/2018/04/06/elon-musk-warns-ai-could-create-immortal-dictator-in-documentary.html
 [4-3]: https://medium.com/analytics-vidhya/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5
 [4-4]: https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d
-[4-5]: https://playground.tensorflow.org/
+[4-5]: https://docs.google.com/presentation/d/1uL_SAiFy-C1sLNfdw4LBcLTnhLVH5Nl7/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
+[4-51]: https://playground.tensorflow.org/
 [4-6]: https://developers.google.com/machine-learning/crash-course/DPE/tp-ss-neural-net-intro-spiral
 [4-7]: https://setosa.io/ev/image-kernels/
 [4-8]: https://adamharley.com/nn_vis/
