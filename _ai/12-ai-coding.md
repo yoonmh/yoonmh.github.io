@@ -39,7 +39,7 @@ layout: single
 * 참고 : [Image Kernels][4-7]
 * P6 : [CNN Visualization ][4-8] ([Demo 1][4-81], [Demo 2][4-82], [Demo 3][4-83], [Demo 4][4-84])
 * 참고: ["Gradient-Based Learning Applied to Document Recognition" (Y. Lecun)][4-9]
-* P7 : [TensorSpace.js][4-10] ([LeNet][4-101], [ResNet][4-11], [AlexNet][4-15])
+* P7 : [TensorSpace.js][4-10] ([LeNet][4-101], [ResNet][4-13], [AlexNet][4-15])
 * [ResNet 구조][4-11]
 * ["Understanding and Coding a ResNet in Keras"][4-12]
 * [Alexnet 구조][4-14]
