@@ -36,9 +36,9 @@ layout: single
 * 참고 : [10 CNN Architectures][4-4]
 * P5 : [Tensorflow Playground][4-5] ([Playground][4-51])
 * [Spiral Dataset 데모][4-6]
-* [Image Kernels][4-7]
-* [CNN Visualization ][4-8]
-* ["Gradient-Based Learning Applied to Document Recognition" (Y. Lecun)][4-9]
+* 참고 : [Image Kernels][4-7]
+* P6 : [CNN Visualization ][4-8] ([Demo 1][4-81], [Demo 2][4-82], [Demo 3][4-83], [Demo 4][4-84])
+* 참고: ["Gradient-Based Learning Applied to Document Recognition" (Y. Lecun)][4-9]
 * [LeNet 모델의 3D 시각화 (TensorSpace.js)][4-10]
 * [ResNet 구조][4-11]
 * ["Understanding and Coding a ResNet in Keras"][4-12]
@@ -119,6 +119,10 @@ layout: single
 [4-6]: https://developers.google.com/machine-learning/crash-course/DPE/tp-ss-neural-net-intro-spiral
 [4-7]: https://setosa.io/ev/image-kernels/
 [4-8]: https://adamharley.com/nn_vis/
+[4-81]: https://adamharley.com/nn_vis/mlp/3d.html
+[4-82]: https://adamharley.com/nn_vis/cnn/3d.html
+[4-83]: https://adamharley.com/nn_vis/mlp/2d.html
+[4-84]: https://adamharley.com/nn_vis/cnn/2d.html
 [4-9]: http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
 [4-10]: https://tensorspace.org/html/playground/lenet.html
 [4-11]: https://www.researchgate.net/figure/The-structure-of-the-used-residual-neural-network-Shortcuts-for-residual-blocks-12-are_fig2_332927869
