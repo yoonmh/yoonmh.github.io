@@ -124,7 +124,6 @@ layout: single
 [4-9]: http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
 [4-10]: https://tensorspace.org/index.html
 [4-101]: https://tensorspace.org/html/playground/lenet.html
-[4-102]: 
 [4-11]: https://www.researchgate.net/figure/The-structure-of-the-used-residual-neural-network-Shortcuts-for-residual-blocks-12-are_fig2_332927869
 [4-12]: https://towardsdatascience.com/understanding-and-coding-a-resnet-in-keras-446d7ff84d33
 [4-13]: https://tensorspace.org/html/playground/resnet50.html
