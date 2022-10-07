@@ -39,12 +39,10 @@ layout: single
 * 참고 : [Image Kernels][4-7]
 * P6 : [CNN Visualization ][4-8] ([Demo 1][4-81], [Demo 2][4-82], [Demo 3][4-83], [Demo 4][4-84])
 * 참고: ["Gradient-Based Learning Applied to Document Recognition" (Y. Lecun)][4-9]
-* [LeNet 모델의 3D 시각화 (TensorSpace.js)][4-10]
+* P7 : [TensorSpace.js][4-10] ([LeNet][4-101], [ResNet][4-11], [AlexNet][4-15])
 * [ResNet 구조][4-11]
 * ["Understanding and Coding a ResNet in Keras"][4-12]
-* [ResNet 모델 3D 시각화 (TensorSpace.js)][4-13]
 * [Alexnet 구조][4-14]
-* [Alexnet 시각화 (TensorSpace.js)][4-15]
 
 ## 5. Product Price 예측
 * 발표자료 ([ppt][5-1])
@@ -124,7 +122,9 @@ layout: single
 [4-83]: https://adamharley.com/nn_vis/mlp/2d.html
 [4-84]: https://adamharley.com/nn_vis/cnn/2d.html
 [4-9]: http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
-[4-10]: https://tensorspace.org/html/playground/lenet.html
+[4-10]: https://tensorspace.org/index.html
+[4-101]: https://tensorspace.org/html/playground/lenet.html
+[4-102]: 
 [4-11]: https://www.researchgate.net/figure/The-structure-of-the-used-residual-neural-network-Shortcuts-for-residual-blocks-12-are_fig2_332927869
 [4-12]: https://towardsdatascience.com/understanding-and-coding-a-resnet-in-keras-446d7ff84d33
 [4-13]: https://tensorspace.org/html/playground/resnet50.html
