@@ -37,7 +37,7 @@ layout: single
 * P5 : [Tensorflow Playground][4-5] ([Playground][4-51])
 * [Spiral Dataset 데모][4-6]
 * 참고 : [Image Kernels][4-7]
-* P6 : [CNN Visualization ][4-8] ([Demo 1][4-81], [Demo 2][4-82], [Demo 3][4-83], [Demo 4][4-84])
+* P6 : [CNN 시각화][4-8] ([CNN Visualization][4-80], [Demo 1][4-81], [Demo 2][4-82], [Demo 3][4-83], [Demo 4][4-84])
 * 참고: ["Gradient-Based Learning Applied to Document Recognition" (Y. Lecun)][4-9]
 * P7 : [3D 시각화][4-10] ([TensorSpace.js][4-101], [LeNet][4-102], [ResNet][4-103], [AlexNet][4-104])
 * [ResNet 구조][4-11]
@@ -116,7 +116,8 @@ layout: single
 [4-51]: https://playground.tensorflow.org/
 [4-6]: https://developers.google.com/machine-learning/crash-course/DPE/tp-ss-neural-net-intro-spiral
 [4-7]: https://setosa.io/ev/image-kernels/
-[4-8]: https://adamharley.com/nn_vis/
+[4-8]: https://docs.google.com/presentation/d/1uU3isZiIWTECmMHTqfGhrjLudpwYxSSJ/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
+[4-80]: https://adamharley.com/nn_vis/
 [4-81]: https://adamharley.com/nn_vis/mlp/3d.html
 [4-82]: https://adamharley.com/nn_vis/cnn/3d.html
 [4-83]: https://adamharley.com/nn_vis/mlp/2d.html
