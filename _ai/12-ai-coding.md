@@ -39,10 +39,10 @@ layout: single
 * 참고 : [Image Kernels][4-7]
 * P6 : [CNN Visualization ][4-8] ([Demo 1][4-81], [Demo 2][4-82], [Demo 3][4-83], [Demo 4][4-84])
 * 참고: ["Gradient-Based Learning Applied to Document Recognition" (Y. Lecun)][4-9]
-* P7 : [TensorSpace.js][4-10] ([LeNet][4-101], [ResNet][4-13], [AlexNet][4-15])
+* P7 : [3D 시각화][4-10] ([TensorSpace.js][4-101], [LeNet][4-102], [ResNet][4-103], [AlexNet][4-104])
 * [ResNet 구조][4-11]
 * ["Understanding and Coding a ResNet in Keras"][4-12]
-* [Alexnet 구조][4-14]
+* [Alexnet 구조][4-13]
 
 ## 5. Product Price 예측
 * 발표자료 ([ppt][5-1])
@@ -122,13 +122,14 @@ layout: single
 [4-83]: https://adamharley.com/nn_vis/mlp/2d.html
 [4-84]: https://adamharley.com/nn_vis/cnn/2d.html
 [4-9]: http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
-[4-10]: https://tensorspace.org/index.html
-[4-101]: https://tensorspace.org/html/playground/lenet.html
+[4-10]: https://docs.google.com/presentation/d/1uUL4bvXo5xD_qyU_-DiKHM2haymcf7Oo/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
+[4-101]: https://tensorspace.org/index.html
+[4-102]: https://tensorspace.org/html/playground/lenet.html
+[4-103]: https://tensorspace.org/html/playground/resnet50.html
+[4-104]: https://tensorspace.org/html/playground/alexnet.html
 [4-11]: https://www.researchgate.net/figure/The-structure-of-the-used-residual-neural-network-Shortcuts-for-residual-blocks-12-are_fig2_332927869
 [4-12]: https://towardsdatascience.com/understanding-and-coding-a-resnet-in-keras-446d7ff84d33
-[4-13]: https://tensorspace.org/html/playground/resnet50.html
-[4-14]: https://www.researchgate.net/figure/AlexNet-architecture-Includes-5-convolutional-layers-and-3-fullyconnected-layers_fig3_322592079
-[4-15]: https://tensorspace.org/html/playground/alexnet.html
+[4-13]: https://www.researchgate.net/figure/AlexNet-architecture-Includes-5-convolutional-layers-and-3-fullyconnected-layers_fig3_322592079
 [5-1]: https://docs.google.com/presentation/d/1B-uCnUIr5NRhIn0pjgLqjRy5qjgBBYHC/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [5-2]: https://www.altexsoft.com/blog/datascience/data-science-and-ai-in-the-travel-industry-9-real-life-use-cases/
 [5-3]: https://www.altexsoft.com/blog/business/price-forecasting-machine-learning-based-approaches-applied-to-electricity-flights-hotels-real-estate-and-stock-pricing/
