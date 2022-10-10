@@ -49,7 +49,7 @@ layout: single
 * 참고 : [Altexsoft Blog][5-2]
 * 참고 : ["Price Forecasting" (Altexsoft)][5-3]
 * P8 : [자동차 가격][5-4] ([Dataset][5-41], [DataRobot][5-42])
-* 고객의 보험료 예측하기 ([Dataset][5-6])
+* P9 : [고객 보험료][5-5] ([Dataset][5-6])
 * 선형회귀 : [Undestading Machine Learning #123][5-7]
 * 선형회귀 : [Statistical Learning #61][5-8]
 
@@ -133,6 +133,7 @@ layout: single
 [5-4]: https://docs.google.com/presentation/d/1uXpTgBry_ZtDvd26RLDQJg2ypIzfN4J1/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [5-41]: https://drive.google.com/file/d/1BNm3llFxQCiYexx_W1kWceeAasbJVwYB/view?usp=sharing
 [5-42]: https://www.datarobot.com/
+[5-5]: https://docs.google.com/presentation/d/1uif00CtyhuydbuzI2FirJ1362wbhSLS4/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [5-6]: https://drive.google.com/file/d/1BO6VBRahc_ndxdg2faE7r3Va3pxXtG6-/view?usp=sharing
 [5-7]: https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
 [5-8]: https://www.statlearning.com/
