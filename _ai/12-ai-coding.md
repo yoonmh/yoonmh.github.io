@@ -86,7 +86,7 @@ layout: single
 * 발표자료 ([ppt][10-1])
 * 참고 : ["5-year vision for AI" (EdTech)][10-2]
 * 참고 : ["AI in Higher Education"][10-3]
-* [Vertex AI 데모][10-4]
+* P18 : [Education][10-4] ([Vertex AI][10-5])
 
 [0-1]: https://docs.google.com/presentation/d/1nyCIq0Piq1pYI_OjfeSydP2TnCLNHB9m/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [0-3]: https://ai.facebook.com/tools/detectron2/
@@ -166,4 +166,5 @@ layout: single
 [10-1]: https://docs.google.com/presentation/d/1P04i2TSGEHi9GtIRaGmMfiLCxopVZbNO/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [10-2]: https://edtechmagazine.com/higher/article/2020/02/5-year-vision-artificial-intelligence-higher-ed
 [10-3]: https://er.educause.edu/articles/2019/8/artificial-intelligence-in-higher-education-applications-promise-and-perils-and-ethical-questions
-[10-4]: https://cloud.google.com/vertex-ai
+[10-4]: https://docs.google.com/presentation/d/1vDLQ7zGMPogOsPtd-YtypslkTnYcCZW2/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
+[10-5]: https://cloud.google.com/vertex-ai
