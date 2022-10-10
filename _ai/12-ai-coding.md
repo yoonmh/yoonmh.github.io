@@ -48,7 +48,7 @@ layout: single
 * 발표자료 ([ppt][5-1])
 * 참고 : [Altexsoft Blog][5-2]
 * 참고 : ["Price Forecasting" (Altexsoft)][5-3]
-* P8 : [자동차 가격][5-4] ([Dataset][5-41], [DataRobot][5-42]
+* P8 : [자동차 가격][5-4] ([Dataset][5-41], [DataRobot][5-42])
 * 고객의 보험료 예측하기 ([Dataset][5-6])
 * 선형회귀 : [Undestading Machine Learning #123][5-7]
 * 선형회귀 : [Statistical Learning #61][5-8]
