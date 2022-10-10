@@ -80,6 +80,7 @@ layout: single
 * 참고 : ["15 Business Applications for AI and ML" (Forbes)][9-2]
 * P16 : [Credit Card][9-3] ([Kaggle][9-4], [Amazon Sagemaker][9-5], [코드][9-6])
 * [AWS 포털][9-7]
+* P17 : [Heath Insurance][9-8] ([Kaggle][9-9])
 
 ## 10. Higher Education
 * 발표자료 ([ppt][10-1])
@@ -160,6 +161,8 @@ layout: single
 [9-5]: https://aws.amazon.com/ko/sagemaker/autopilot/
 [9-6]: https://colab.research.google.com/drive/1hk60K81pxahxBFe6bdlDcxIPxl2Bq7gu
 [9-7]: https://aws.amazon.com/ko/console/
+[9-8]: https://docs.google.com/presentation/d/1vCmBkpMr5pzaa8QddiJMXikeFfqwKHxJ/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
+[9-9]: https://www.kaggle.com/mirichoi0218/insurance
 [10-1]: https://docs.google.com/presentation/d/1P04i2TSGEHi9GtIRaGmMfiLCxopVZbNO/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [10-2]: https://edtechmagazine.com/higher/article/2020/02/5-year-vision-artificial-intelligence-higher-ed
 [10-3]: https://er.educause.edu/articles/2019/8/artificial-intelligence-in-higher-education-applications-promise-and-perils-and-ethical-questions
