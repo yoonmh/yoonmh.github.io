@@ -63,7 +63,7 @@ layout: single
 * 발표자료 ([ppt][7-1])
 * 참고 : ["Google works with Aravind Eye Hospital"][7-2]
 * 참고 : ["How AI is helping to prevent blindness" (Nature)][7-3]
-* 당뇨망막병증 진단
+* P11 : [당뇨망막병증][7-4]
 * 설명 가능한 AI
 * Grad-CAM Visualization
 * 흉부 X-ray 데이터 (건강, Covid-19, 세균성 폐렴, 바이러스성 폐렴)
@@ -145,6 +145,7 @@ layout: single
 [7-1]: https://docs.google.com/presentation/d/1BDYiPWYBOJg88FJIS77AgknkTTS7bYEX/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [7-2]: https://venturebeat.com/ai/google-works-with-aravind-eye-hospital-to-deploy-ai-that-can-detect-eye-disease/
 [7-3]: https://www.nature.com/articles/d41586-019-01111-y
+[7-4]: https://docs.google.com/presentation/d/1urU1515hp2LEytrzi89oE5M1St97T27c/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [8-1]: https://docs.google.com/presentation/d/1BPKjzs2zWDr7V2phXfn-eF6p57iKgFtN/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [8-2]: https://monkeylearn.com/
 [8-3]: https://monkeylearn.com/blog/ai-sentiment-analysis/
