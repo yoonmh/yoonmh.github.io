@@ -57,7 +57,7 @@ layout: single
 * 발표자료 ([ppt][6-1])
 * 참고 : ["7 Ways AI is Reinventing Human Resources"][6-2]
 * 참고 : ["Employee Attrition?" (Business Standard)][6-3]
-* 인사업무 적용 ([Dataset][6-4], DataRobot)
+* P10 : [인사업무][6-4] ([Dataset][6-5])
 
 ## 7. Diabetic Retinopathy(당뇨망막병증) Detection
 * 발표자료 ([ppt][7-1])
@@ -140,7 +140,8 @@ layout: single
 [6-1]: https://docs.google.com/presentation/d/1BNcn9pCTrXIVuc4l7wsgNdo8jfCcipsN/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [6-2]: https://www.cmswire.com/digital-workplace/7-ways-artificial-intelligence-is-reinventing-human-resources/
 [6-3]: https://www.business-standard.com/article/jobs/employee-attrition-how-ai-is-transforming-human-resource-practices-118062701396_1.html
-[6-4]: https://drive.google.com/file/d/1BKclT0SdmMIKs3tz_WszVXf_7OkdV-va/view?usp=sharing
+[6-4]: https://docs.google.com/presentation/d/1ujGsQ5ZjPTcqBAXpIrdZoVi_h7oHpt-3/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
+[6-5]: https://drive.google.com/file/d/1BKclT0SdmMIKs3tz_WszVXf_7OkdV-va/view?usp=sharing
 [7-1]: https://docs.google.com/presentation/d/1BDYiPWYBOJg88FJIS77AgknkTTS7bYEX/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [7-2]: https://venturebeat.com/ai/google-works-with-aravind-eye-hospital-to-deploy-ai-that-can-detect-eye-disease/
 [7-3]: https://www.nature.com/articles/d41586-019-01111-y
