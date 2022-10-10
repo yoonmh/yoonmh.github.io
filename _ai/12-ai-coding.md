@@ -77,11 +77,10 @@ layout: single
 
 ## 9. Credit Card Default
 * 발표자료 ([ppt][9-1])
-* 참고 : ["15 Business Applications for AI and ML" (Forbes)][9-4]
-* 크레딧 카드 사용 고객 데이터 ([Kaggle][9-2])
-* [AWS 포털][9-3]
-* [Amazon Sagemaker][9-5]
-* [코드][9-6]
+* 참고 : ["15 Business Applications for AI and ML" (Forbes)][9-2]
+* P16 : [Credit Card][9-3] ([Kaggle][9-4], [Amazon Sagemaker][9-5])
+* [AWS 포털][9-6]
+* [코드][9-7]
 
 ## 10. Higher Education
 * 발표자료 ([ppt][10-1])
@@ -156,11 +155,12 @@ layout: single
 [8-8]: https://docs.google.com/presentation/d/1v2rVT9FyEee3mlTtcPPK7ghd0icrh7dt/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [8-9]: https://drive.google.com/file/d/1BOo7MWnKu-s9QZGzARhxsnRsn1-c7Sp1/view?usp=sharing
 [9-1]: https://docs.google.com/presentation/d/1hiPYSJJWtL_1MuhTvGC6co3rKRt_-6cq/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
-[9-2]: https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
-[9-3]: https://aws.amazon.com/ko/console/
-[9-4]: https://www.forbes.com/sites/forbestechcouncil/2018/09/27/15-business-applications-for-artificial-intelligence-and-machine-learning/?sh=71b5fb6e579f
+[9-2]: https://www.forbes.com/sites/forbestechcouncil/2018/09/27/15-business-applications-for-artificial-intelligence-and-machine-learning/?sh=71b5fb6e579f
+[9-3]: https://docs.google.com/presentation/d/1v5VXEgQpiV8owvXZTu5veKo4F9k0tMPU/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
+[9-4]: https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
 [9-5]: https://aws.amazon.com/ko/sagemaker/autopilot/
-[9-6]: https://colab.research.google.com/drive/1hk60K81pxahxBFe6bdlDcxIPxl2Bq7gu
+[9-6]: https://aws.amazon.com/ko/console/
+[9-7]: https://colab.research.google.com/drive/1hk60K81pxahxBFe6bdlDcxIPxl2Bq7gu
 [10-1]: https://docs.google.com/presentation/d/1P04i2TSGEHi9GtIRaGmMfiLCxopVZbNO/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [10-2]: https://edtechmagazine.com/higher/article/2020/02/5-year-vision-artificial-intelligence-higher-ed
 [10-3]: https://er.educause.edu/articles/2019/8/artificial-intelligence-in-higher-education-applications-promise-and-perils-and-ethical-questions
