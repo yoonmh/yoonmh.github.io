@@ -154,7 +154,7 @@ layout: single
 [8-5]: https://drive.google.com/file/d/1BQP3rcYJvSgibeoA4KTR91ZBOpyHQLbU/view?usp=sharing
 [8-6]: https://docs.google.com/presentation/d/1v5OtoTWIE0MIJwEJenNkc-SpEscxOKL7/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [8-7]: https://drive.google.com/file/d/1BX3FxGiYkhKSjKmlYtqZJkhc3-AKwLtX/view?usp=sharing
-[8-8] : https://docs.google.com/presentation/d/1v2rVT9FyEee3mlTtcPPK7ghd0icrh7dt/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
+[8-8]: https://docs.google.com/presentation/d/1v2rVT9FyEee3mlTtcPPK7ghd0icrh7dt/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [8-9]: https://drive.google.com/file/d/1BOo7MWnKu-s9QZGzARhxsnRsn1-c7Sp1/view?usp=sharing
 [9-1]: https://docs.google.com/presentation/d/1hiPYSJJWtL_1MuhTvGC6co3rKRt_-6cq/edit?usp=sharing&ouid=117736955546291049079&rtpof=true&sd=true
 [9-2]: https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
