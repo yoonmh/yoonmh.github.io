@@ -64,8 +64,7 @@ layout: single
 * 참고 : ["Google works with Aravind Eye Hospital"][7-2]
 * 참고 : ["How AI is helping to prevent blindness" (Nature)][7-3]
 * P11 : [당뇨망막병증][7-4]
-* 설명 가능한 AI
-* Grad-CAM Visualization
+* 설명 가능한 AI : Grad-CAM Visualization
 * P12 : [흉부 X-ray][7-5] (건강, Covid-19, 세균성 폐렴, 바이러스성 폐렴)
 
 ## 8. Text Classification
