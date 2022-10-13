@@ -15,19 +15,19 @@ layout: single
 * 참고 : [I am a model (Vogue)][1-2]
 * 참고 : [Powered by AI (Meta AI)][1-3]
 * 참고 : [How AI is changing fashion][1-4]
-* P1 : [패션 아이템 분류][1-5] ([Teachable Machine][1-6])
+* P1 : [Fashion Class][1-5] ([Teachable Machine][1-6])
 
 ## 2. Fashion class 예측
 * 발표자료 ([ppt][2-1])
 * 참고 : [Google built an AI model (Forbes)][2-2]
 * P2 : [하이퍼파라미터 변경][2-3]
-* P3 : [수화 인식][2-4] ([Dataset][2-5])
+* P3 : [Sign Language][2-4] ([Dataset][2-5])
 
 ## 3. Face Mask Detection
 * 발표자료 ([ppt][3-1])
 * 참고 : [RealNetworks][3-2]
 * 참고 : [Facial recognition (Thales)][3-3]
-* P4 : [마스크 인식][3-4]
+* P4 : [Mask Detection][3-4]
 
 ## 4. Deep Neural Networks
 * 발표자료 ([ppt][4-1])
