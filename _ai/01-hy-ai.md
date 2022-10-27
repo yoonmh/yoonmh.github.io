@@ -69,6 +69,7 @@ layout: single
 * 9-5 [IMDB-LSTM][9-5]
 * 9-6 [Sarcasm-LSTM][9-6]
 * 9-7 [IMDB 비교][9-7]
+* 9-8 [뉴스 기사 분류][9-8]
 
 [1-1]: https://colab.research.google.com/drive/1KQimvQusjg_bHG2U86w4OyIysgRMDLbL
 [1-2]: https://colab.research.google.com/drive/1PVbBsYAgs6_JSKZTHRIw3BVIt6oY2pn6
@@ -119,3 +120,4 @@ layout: single
 [9-5]: https://colab.research.google.com/drive/1DlggPvh1rjcIFeplVFXq4jYQWDuVf2U7
 [9-6]: https://colab.research.google.com/drive/1vsav8EgLWks2leS3-PtNNcnhXQCC6EM2
 [9-7]: https://colab.research.google.com/drive/1DpK_b2r8bqyPaZpUc5kzFleR0kSIKi2_
+[9-8]: https://colab.research.google.com/drive/1pRFIQaR8alnUHQ-KeraiebMSZmZpseOu
