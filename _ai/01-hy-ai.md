@@ -65,11 +65,14 @@ layout: single
 * 9-1 [Word Encoding][9-1]
 * 9-2 [IMDB - Word embedding][9-2] ([One-hot encoding][9-2-1])
 * 9-3 [Sarcasm][9-3]
-* 9-4 [IMDB-Subword][9-4]
-* 9-5 [IMDB-LSTM][9-5]
-* 9-6 [Sarcasm-LSTM][9-6]
-* 9-7 [IMDB 비교][9-7]
-* 9-8 [뉴스 기사 분류][9-8]
+* 9-4 [IMDB-LSTM][9-5]
+* 9-5 [Irish Song][9-9]
+* 9-6 [Poetry][9-10]
+
+* [IMDB-Subword][9-4]
+* [Sarcasm-LSTM][9-6]
+* [IMDB 비교][9-7]
+* [뉴스 기사 분류][9-8]
 
 [1-1]: https://colab.research.google.com/drive/1KQimvQusjg_bHG2U86w4OyIysgRMDLbL
 [1-2]: https://colab.research.google.com/drive/1PVbBsYAgs6_JSKZTHRIw3BVIt6oY2pn6
@@ -121,3 +124,5 @@ layout: single
 [9-6]: https://colab.research.google.com/drive/1vsav8EgLWks2leS3-PtNNcnhXQCC6EM2
 [9-7]: https://colab.research.google.com/drive/1DpK_b2r8bqyPaZpUc5kzFleR0kSIKi2_
 [9-8]: https://colab.research.google.com/drive/1pRFIQaR8alnUHQ-KeraiebMSZmZpseOu
+[9-9]: https://colab.research.google.com/drive/1yeCGmYRpEBr3y4yBuD5FbtS2L2DZ4p1A
+[9-10]: https://colab.research.google.com/drive/1yl5KgvRC0jRxnOf1-zEdCs8fh9aT7Sg4
