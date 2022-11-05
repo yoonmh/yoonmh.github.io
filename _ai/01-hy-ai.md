@@ -68,6 +68,7 @@ layout: single
 * 9-4 [IMDB-LSTM][9-5]
 * 9-5 [Irish Song][9-9]
 * 9-6 [Poetry][9-10]
+* 9-7 [Shakespeare][9-11]
 
 * [IMDB-Subword][9-4]
 * [Sarcasm-LSTM][9-6]
@@ -126,3 +127,4 @@ layout: single
 [9-8]: https://colab.research.google.com/drive/1pRFIQaR8alnUHQ-KeraiebMSZmZpseOu
 [9-9]: https://colab.research.google.com/drive/1yeCGmYRpEBr3y4yBuD5FbtS2L2DZ4p1A
 [9-10]: https://colab.research.google.com/drive/1yl5KgvRC0jRxnOf1-zEdCs8fh9aT7Sg4
+[9-11]: https://colab.research.google.com/drive/14dA7mITF0buHsirKenDO8AhGhtDWTptI
