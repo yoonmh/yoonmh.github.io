@@ -54,6 +54,7 @@ layout: single
 * 7-4 [Simple RNN][7-4]
 * 7-5 [LSTM][7-5]
 * 7-6 [Convolution with LSTM][7-6]
+* [SimpleRNN, LSTM 이해하기][7-7]
 
 ## 8. Recurrent Neural Network
 * 8-1 [Sunspot][8-1]
@@ -113,6 +114,7 @@ layout: single
 [7-4]: https://colab.research.google.com/drive/1C0EdM9kcQn5D_zCGN_MZ_KUt2TXbkBtB
 [7-5]: https://colab.research.google.com/drive/1F4TM1ctFJKK0DxjsQC7qs2NHh0NLndXA
 [7-6]: https://colab.research.google.com/drive/1UCrIHn6Zz0HRxVHFahRLzuSGwgVkFN02
+[7-7]: https://colab.research.google.com/drive/1vplrWhF-R9LpFNxmRNJL9uiPfh6JLwDd
 [8-1]: https://colab.research.google.com/drive/1UC5aoVKZR_iB9wnEjv5zku8NB9rMLFgg
 [8-2]: https://colab.research.google.com/drive/1fSD5ZRJnPmdDox1NFcR9K0nnkf39oJJ1 
 [8-3]: https://colab.research.google.com/drive/1fRMg62WYAHhh3zr05w_hmAu3CxN5ZLee
