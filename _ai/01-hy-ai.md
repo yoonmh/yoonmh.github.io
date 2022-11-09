@@ -69,7 +69,7 @@ layout: single
 * 9-5 [Irish Song][9-9]
 * 9-6 [Poetry][9-10]
 * 9-7 [Shakespeare][9-11]
-* 9-8 [New Yprk Times][9-12]
+* 9-8 [New York Times][9-12]
 
 * [IMDB-Subword][9-4]
 * [Sarcasm-LSTM][9-6]
