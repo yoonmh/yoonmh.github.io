@@ -35,10 +35,12 @@ I am a research scientist at KETI, working on deep learning and its applications
 Prior to working at KETI, I worked as a research engineer at KEPRI from 1994 to 2001.
 
 ## Teaching Experience
-* 1994~1997 Instructor of Dept. of Control & Meassurement, Korea University
-* 2000~2001 Instructor of Dept. of Control & Meassurement, Hanbat University
-* 2005~2007 Adjunct Professor of Dept. of Computer Engineering, Kyungnam University
+* 2022~ Hasei University
+* 2020~2022 Hanyang University ERICA
 * 2006~2007 Adjunct Professor of Dept. of Electronics Engineering, Korea Polytechnic University
+* 2005~2007 Adjunct Professor of Dept. of Computer Engineering, Kyungnam University
+* 2000~2001 Instructor of Dept. of Control & Meassurement, Hanbat University
+* 1994~1997 Instructor of Dept. of Control & Meassurement, Korea University
 
 ## Publications/Patents
 I published 123 papers and registered 35 patents. ([Publications][1], [Patents][2])<br>
