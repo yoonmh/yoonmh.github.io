@@ -43,7 +43,7 @@ Prior to working at KETI, I worked as a research engineer at KEPRI from 1994 to 
 * 1994~1997 Instructor of Dept. of Control & Meassurement, Korea University
 
 ## Publications/Patents
-I published 123 papers and registered 35 patents. ([Publications][1], [Patents][2])<br>
+I published 126 papers and registered 35 patents. ([Publications][1], [Patents][2])<br>
 See also [Scholar][4] and [ResearchGate][5].
 
 ## Certificate & Awards
