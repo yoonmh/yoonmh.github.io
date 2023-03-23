@@ -84,9 +84,9 @@ layout: single
 [2-3]: https://colab.research.google.com/drive/12grhrlAptKss_yvDTiofTLjHltYHXc-_
 [2-4]: https://colab.research.google.com/drive/12eK9tEg2qgpDt0XmiEKmNnlC6b5wKnGj
 [2-5]: https://colab.research.google.com/drive/12Q-S6KyU7H5cgl1BLjEHdLVpTNxtTD2S
-[3-1]: https://colab.research.google.com/drive/1Kys3njBLE5JS2V1-RX8It1ykW0f6w-n3
-[3-2]: https://colab.research.google.com/drive/1KGC5jV_CniQQynGC4KxZTBM-fcn9g7SJ
-[3-3]: https://colab.research.google.com/drive/1KNtnmheqfc6B7hB5_rEcU4m7NA781ojV
+[3-1]: https://colab.research.google.com/drive/12KpAGp9odlFO74u2N9P_Wgyn7zFzIqI5
+[3-2]: https://colab.research.google.com/drive/124zREcheK2T96AFTxGdBeAPGC84BpvyA
+[3-3]: https://colab.research.google.com/drive/11swKmsUL_147csqqlEKIKH1xUHAXfWKu
 [4-1]: https://colab.research.google.com/drive/1KKCgB0xfOdujcASAjSw3EMpTu_Uy19rJ
 [4-2]: https://colab.research.google.com/drive/1Kx9ATSRZDKzdO790tKKI54ckp3bfBJlB
 [4-3]: https://colab.research.google.com/drive/1MLUmPaaKUZhHag6vTJA873SWSYqHxVDZ
