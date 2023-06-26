@@ -254,7 +254,10 @@ compress_html:
 collections:
   ai:
     output: true
-    permalink: /:collection/:path/    
+    permalink: /:collection/:path/
+  ai-2:
+    output: true
+    permalink: /:collection/:path/ 
   storage:
     output: true
     permalink: /:collection/:path/
