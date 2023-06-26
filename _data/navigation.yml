@@ -23,6 +23,8 @@ about:
 storage:
   - title: AI
     url: /ai/
+  - title: AI-2
+    url: /ai-2/    
   - title: Storage
     url: /storage/
     
