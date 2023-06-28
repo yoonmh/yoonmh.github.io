@@ -12,6 +12,7 @@ layout: single
 * [Part 4][4] : [Layer Normalization][4-1], [ResNet][4-2], [Tokenizer][4-3], [tiktoken][4-4], [OpenAI Tokenizer][4-5], [Multi-Head Attention][4-6]
 ## 2. 챗GPT API 활용
 * [발표 자료][5]
+* [실습-1][6] : [삼성전자 재무제표][6-1], [SK하이닉스 재무표][6-2]
 
 [1]: https://youtu.be/Wp4hRuwiN3I
 [1-1]: https://colab.research.google.com/drive/1yHXD_dkjsSSaRVCebTB5TNdeNFzIx-UO
@@ -28,4 +29,7 @@ layout: single
 [4-5]: https://platform.openai.com/tokenizer
 [4-6]: https://data-science-blog.com/blog/2021/04/07/multi-head-attention-mechanism/
 [5]: https://drive.google.com/file/d/10rE5PyVOMho6o7Ji9fPVy8ZahdzQPSlM/view
+[6]: https://chat.openai.com/
+[6-1]: https://finance.yahoo.com/quote/005930.KS/balance-sheet?p=005930.KS
+[6-2]: https://finance.yahoo.com/quote/000660.KS/balance-sheet?p=000660.KS
 
