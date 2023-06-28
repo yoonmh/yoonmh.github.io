@@ -8,8 +8,8 @@ layout: single
 ## 1. 어텐션과 트랜스포머
 * [Part 1][1] : [SimpleAttention][1-1]
 * [Part 2][2] : [Attn: Illustrated Attention][2-1]
-* [Part 3][3] : [Bias Variance 개념정리][3-1]
-* [Part 4][4]
+* [Part 3][3] : [Bias Variance 개념정리][3-1], [Positional Encoding][3-2]
+* [Part 4][4] 
 ## 2. 챗GPT API 활용
 * [발표 자료][5]
 
@@ -19,6 +19,7 @@ layout: single
 [2-1]: https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3#30c6
 [3]: https://youtu.be/41KcONN3ok0
 [3-1]: https://modulabs-biomedical.github.io/Bias_vs_Variance
+[3-2]: https://datascience.stackexchange.com/questions/51065/what-is-the-positional-encoding-in-the-transformer-model
 [4]: https://youtu.be/4xF7D5Bo53c
 [5]: https://drive.google.com/file/d/10rE5PyVOMho6o7Ji9fPVy8ZahdzQPSlM/view
 
