@@ -9,7 +9,7 @@ layout: single
 * [Part 1][1] : [SimpleAttention][1-1]
 * [Part 2][2] : [Attn: Illustrated Attention][2-1]
 * [Part 3][3] : [Bias Variance 개념정리][3-1], [Positional Encoding][3-2]
-* [Part 4][4] : [Layer Normalization][4-1], [ResNet][4-2], [Tokenizer][4-3]
+* [Part 4][4] : [Layer Normalization][4-1], [ResNet][4-2], [Tokenizer][4-3], [tiktoken][4-4]
 ## 2. 챗GPT API 활용
 * [발표 자료][5]
 
@@ -24,5 +24,6 @@ layout: single
 [4-1]: https://becominghuman.ai/all-about-normalization-6ea79e70894b
 [4-2]: https://bskyvision.com/644
 [4-3]: https://blog.floydhub.com/tokenization-nlp/
+[4-4]: https://github.com/openai/tiktoken
 [5]: https://drive.google.com/file/d/10rE5PyVOMho6o7Ji9fPVy8ZahdzQPSlM/view
 
