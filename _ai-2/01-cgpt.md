@@ -13,6 +13,10 @@ layout: single
 ## 2. 챗GPT API 활용
 * [발표 자료][5]
 * [실습-1][6] : [삼성전자 재무제표][6-1], [SK하이닉스 재무표][6-2]
+* [챗GPT 크롤링][7]
+* [OpenAI API][8]
+* [LangChain][9]
+* [aaa][10]
 
 [1]: https://youtu.be/Wp4hRuwiN3I
 [1-1]: https://colab.research.google.com/drive/1yHXD_dkjsSSaRVCebTB5TNdeNFzIx-UO
@@ -32,4 +36,8 @@ layout: single
 [6]: https://chat.openai.com/
 [6-1]: https://finance.yahoo.com/quote/005930.KS/balance-sheet?p=005930.KS
 [6-2]: https://finance.yahoo.com/quote/000660.KS/balance-sheet?p=000660.KS
+[7]: https://colab.research.google.com/drive/16r8-uqg0E4kq6RvNKvQW0WYSx9DaX2b-
+[8]: https://platform.openai.com/docs/api-reference/introduction
+[9]: https://colab.research.google.com/drive/1LIruQ-MNGGj-BdsIHV6gN-6ngvHRk824
+[10]: https://colab.research.google.com/drive/1eyBP7xIAXHZ4ew8bHMy0n7CtIK-PZBMj
 
