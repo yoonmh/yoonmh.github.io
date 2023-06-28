@@ -16,7 +16,7 @@ layout: single
 * [챗GPT 크롤링][7]
 * [OpenAI API][8]
 * [LangChain][9]
-* [aaa][10]
+* [종합소득세][10]
 
 [1]: https://youtu.be/Wp4hRuwiN3I
 [1-1]: https://colab.research.google.com/drive/1yHXD_dkjsSSaRVCebTB5TNdeNFzIx-UO
@@ -38,6 +38,5 @@ layout: single
 [6-2]: https://finance.yahoo.com/quote/000660.KS/balance-sheet?p=000660.KS
 [7]: https://colab.research.google.com/drive/16r8-uqg0E4kq6RvNKvQW0WYSx9DaX2b-
 [8]: https://platform.openai.com/docs/api-reference/introduction
-[9]: https://colab.research.google.com/drive/1LIruQ-MNGGj-BdsIHV6gN-6ngvHRk824
-[10]: https://colab.research.google.com/drive/1eyBP7xIAXHZ4ew8bHMy0n7CtIK-PZBMj
-
+[9]: https://colab.research.google.com/drive/1eyBP7xIAXHZ4ew8bHMy0n7CtIK-PZBMj
+[10]: https://colab.research.google.com/drive/1LIruQ-MNGGj-BdsIHV6gN-6ngvHRk824
