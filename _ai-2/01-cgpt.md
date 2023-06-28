@@ -10,6 +10,7 @@ layout: single
 * [Part 2][2] : [Attn: Illustrated Attention][2-1]
 * [Part 3][3] : [Bias-Variance][3-1], [Positional Encoding][3-2]
 * [Part 4][4] : [Layer Normalization][4-1], [ResNet][4-2], [Tokenizer][4-3], [tiktoken][4-4], [OpenAI Tokenizer][4-5], [Multi-Head Attention][4-6]
+
 ## 2. 챗GPT API 활용
 * [발표 자료][5]
 * [실습-1][6] : [삼성전자 재무제표][6-1], [SK하이닉스 재무표][6-2]
