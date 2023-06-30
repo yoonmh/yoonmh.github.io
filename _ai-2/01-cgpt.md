@@ -52,7 +52,7 @@ layout: single
 
 [33-1]: https://drive.google.com/file/d/16xjN-PxjTl2eK1pGPWZ3t1osLZ4Ny73K/view
 [33-2]: https://docs.google.com/presentation/d/171LwXWTrK6q7cDLFCT9GyT5gqoy9Kqqr/view
-[33-3]: https://drive.google.com/file/d/16xELH8gpjXmQPj5kwNgQ69uDfDFk_5CG/view
+[33-3]: https://drive.google.com/file/d/16xELH8gpjXmQPj5kwNgQ69uDfDFk_5CG
 [33-4]: https://drive.google.com/file/d/171miVjHEv9Gv3k4vwAIIoQEEvBBdxsjy/view?usp=drive_link
 [33-5]:
 [33-6]:
