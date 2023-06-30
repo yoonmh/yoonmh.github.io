@@ -19,6 +19,14 @@ layout: single
 * [LangChain][9]
 * [종합소득세][10]
 
+## 3. OpenAI Cookbook
+* [ChatGPT 소개][33-1]
+* [ChatGPT 구조][33-2]
+* [OpenAI 계정 준비][33-3]
+* [OpenAI API 사용기초][33-4]
+* [OpenAI Cookbook][33-5]
+
+  
 [1]: https://youtu.be/Wp4hRuwiN3I
 [1-1]: https://colab.research.google.com/drive/1yHXD_dkjsSSaRVCebTB5TNdeNFzIx-UO
 [2]: https://youtu.be/x0mwvV1R4oQ
@@ -34,10 +42,17 @@ layout: single
 [4-5]: https://platform.openai.com/tokenizer
 [4-6]: https://data-science-blog.com/blog/2021/04/07/multi-head-attention-mechanism/
 [5]: https://drive.google.com/file/d/10rE5PyVOMho6o7Ji9fPVy8ZahdzQPSlM/view
-[6]: https://drive.google.com/file/d/16xELH8gpjXmQPj5kwNgQ69uDfDFk_5CG/view
+[6]: https://chat.openai.com
 [6-1]: https://finance.yahoo.com/quote/005930.KS/balance-sheet?p=005930.KS
 [6-2]: https://finance.yahoo.com/quote/000660.KS/balance-sheet?p=000660.KS
 [7]: https://colab.research.google.com/drive/16r8-uqg0E4kq6RvNKvQW0WYSx9DaX2b-
 [8]: https://platform.openai.com/docs/api-reference/introduction
 [9]: https://colab.research.google.com/drive/1eyBP7xIAXHZ4ew8bHMy0n7CtIK-PZBMj
 [10]: https://colab.research.google.com/drive/1LIruQ-MNGGj-BdsIHV6gN-6ngvHRk824
+
+[33-1]: https://drive.google.com/file/d/16xjN-PxjTl2eK1pGPWZ3t1osLZ4Ny73K/view
+[33-2]: https://docs.google.com/presentation/d/171LwXWTrK6q7cDLFCT9GyT5gqoy9Kqqr/view
+[33-3]: https://drive.google.com/file/d/16xELH8gpjXmQPj5kwNgQ69uDfDFk_5CG/view
+[33-4]:
+[33-5]:
+[33-6]:
