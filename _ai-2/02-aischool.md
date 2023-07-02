@@ -1,7 +1,7 @@
 ---
-title: "ChatGPT"
+title: "AI School"
 layout: single
 ---
 
-> ChatGPT 관련 자료 모음 입니다.
+> 서울데이터과학연구회의 인공지능융합학교 5기 간의 내용입니다.
 > 
