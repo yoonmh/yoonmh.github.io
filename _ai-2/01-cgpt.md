@@ -34,7 +34,18 @@ layout: single
 * [Awesom Prompt][33-8]
 * [DeepLearning.ai의 Prompt Engineering 교육][33-9]
 * [OpenAI API 실습자료][33-10]
-  
+
+## 4. 인공지능융합학교(5기)
+* [머신러닝고 인공지능 기초][41]
+* [딥러닝과 자연어처리, word2vec][42]
+* [RNN vs FNN][43]
+* [기계번역, sequence-to-sequence]
+* [Transformer(1)]
+* [Transformer(2)]
+* [GPT와 BERT]
+* [최근 언어모델]
+
+
 [1]: https://youtu.be/Wp4hRuwiN3I
 [1-1]: https://colab.research.google.com/drive/1yHXD_dkjsSSaRVCebTB5TNdeNFzIx-UO
 [2]: https://youtu.be/x0mwvV1R4oQ
@@ -70,3 +81,5 @@ layout: single
 [33-8]: https://prompts.chat/
 [33-9]: https://learn.deeplearning.ai/chatgpt-prompt-eng
 [33-10]: https://docs.google.com/presentation/d/178Jj3tLOVmHqCuBSgZ-9EaPZ99pN4MZd
+[41]: https://drive.google.com/file/d/17Io8Rfu_ZpAqE86tvJf4HnZ62uY5i0fZ/view?usp=sharing
+[42]: https://drive.google.com/file/d/17KNZwCsGHFNE-Oo-g4lVrphEOf18O4ke/view?usp=sharing
