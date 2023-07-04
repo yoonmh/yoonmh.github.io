@@ -7,6 +7,8 @@ layout: single
 
 ## 1. Neural Networks and Deep Learning
 * Introduction to Deep Learning
+  * [Geoffrey Hinton Interview][1-1]
+* 
 
 ## 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization
 
