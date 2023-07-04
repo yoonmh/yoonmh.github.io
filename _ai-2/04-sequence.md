@@ -7,6 +7,7 @@ layout: single
 
 ## 1. Neural Networks and Deep Learning
 * Introduction to Deep Learning
+  * [Lecture Note][11-1]
   * [Geoffrey Hinton Interview][1-1]
 * Neural Network Basics
 * Shallow Neural Networks
@@ -26,3 +27,5 @@ layout: single
 * Natural Language Processing & Word Embedding
 * Sequence Models & Attention Mechanism
 * Transformer Network
+
+[11-1]: https://drive.google.com/file/d/1GIEIQCNqA3ZGAeLyKJNwJQq9bZ0p8DOH/view?usp=drive_link
