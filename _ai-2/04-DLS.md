@@ -13,6 +13,7 @@ layout: single
   * [Lecture Note][12-1]
   * [Python Basics][12-2]
   * [Logistic Regression][12-3]
+  * [Pieter Abbeel Interview][12-4]
 * Shallow Neural Networks
 * Deep Neural Networks
 
@@ -36,4 +37,5 @@ layout: single
 [12-1]: https://drive.google.com/file/d/1GQooZ1TYIUsEihFhft_McLpeVAMke2Rk/view?usp=drive_link
 [12-2]: https://colab.research.google.com/drive/1H7OSKj3HQ2ZR61dwUxvMHd15qc3d7Rrh
 [12-3]: https://colab.research.google.com/drive/1HAj9t9pCFZtTPVhRIumzEoB_sbXapVva
+[12-4]: https://drive.google.com/drive/folders/1GfuvBNk-QGo-V3qW656cvNuwXhiNoX3n
 
