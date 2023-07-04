@@ -6,7 +6,7 @@ layout: single
 > Deep Learning Specialization
 
 ## 1. Neural Networks and Deep Learning
-
+* Introduction to Deep Learning
 
 ## 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization
 
