@@ -35,6 +35,9 @@ layout: single
 * [DeepLearning.ai의 Prompt Engineering 교육][33-9]
 * [OpenAI API 실습자료][33-10]
 
+## 4. EIRIC 세미나
+* [ChatGPT와 생성 AI가 가져올 미래][41-1]
+
 [1]: https://youtu.be/Wp4hRuwiN3I
 [1-1]: https://colab.research.google.com/drive/1yHXD_dkjsSSaRVCebTB5TNdeNFzIx-UO
 [2]: https://youtu.be/x0mwvV1R4oQ
@@ -68,5 +71,7 @@ layout: single
 [33-7-1]: https://platform.openai.com/docs/api-reference
 [33-7-2]: https://platform.openai.com/examples
 [33-8]: https://prompts.chat/
+[41-1]: https://drive.google.com/file/d/1H2nMQSCK-a0f9PymO8hQeI6IxgFT3S3G/view?usp=drive_link
+
 [33-9]: https://learn.deeplearning.ai/chatgpt-prompt-eng
 [33-10]: https://docs.google.com/presentation/d/178Jj3tLOVmHqCuBSgZ-9EaPZ99pN4MZd
