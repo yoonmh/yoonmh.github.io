@@ -21,6 +21,7 @@ layout: single
 * Deep Neural Networks
   * [Lecture Note][14-1]
   * [DNN][14-2]
+  * [DNN Application][14-3]
 
 ## 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization
 * Practical Aspects of Deep Learning
@@ -48,4 +49,5 @@ layout: single
 [13-3]: https://drive.google.com/drive/folders/1GfuvBNk-QGo-V3qW656cvNuwXhiNoX3n
 [14-1]: https://drive.google.com/drive/folders/1GGeow4APoFFhkCQ7gUPK_yrQE5UFaM9I
 [14-2]: https://colab.research.google.com/drive/1HsUgpY3KSelhA8P2koPXYi9cwq8CMhk_
+[14-3]: https://colab.research.google.com/drive/1HvbJWiWqTdeJu4aV-mHV8v1QSkEN1ZqA
 
