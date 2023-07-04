@@ -10,10 +10,11 @@ layout: single
   * [Geoffrey Hinton Interview][11-2]
 * Neural Network Basics ([강의자료][12-1])
   * [참고][12-2]
-  * [Python Basics][12-3]
-  * [Logistic Regression][12-4]
-  * [Pieter Abbeel Interview][12-5]
-  * [Reference][12-6]
+  * [Vectorization 예제][12-3]
+  * [Python Basics][12-4]
+  * [Logistic Regression][12-5]
+  * [Pieter Abbeel Interview][12-6]
+  * [Reference][12-7]
 * Shallow Neural Networks
   * [Lecture Note][13-1]
   * [Planar Data Classification][13-2]
@@ -44,10 +45,11 @@ layout: single
 [11-2]: https://drive.google.com/file/d/1GgookSh9VQFDr1q6Uf3B9uGPJPyJgKv8/view?usp=drive_link
 [12-1]: https://drive.google.com/file/d/1GQooZ1TYIUsEihFhft_McLpeVAMke2Rk/view?usp=drive_link
 [12-2]: https://community.deeplearning.ai/t/derivation-of-dl-dz/165
-[12-3]: https://colab.research.google.com/drive/1H7OSKj3HQ2ZR61dwUxvMHd15qc3d7Rrh
-[12-4]: https://colab.research.google.com/drive/1HAj9t9pCFZtTPVhRIumzEoB_sbXapVva
-[12-5]: https://drive.google.com/drive/folders/1GfuvBNk-QGo-V3qW656cvNuwXhiNoX3n
-[12-6]: https://stats.stackexchange.com/questions/211436/why-normalize-images-by-subtracting-datasets-image-mean-instead-of-the-current
+[12-3]: https://colab.research.google.com/drive/1I4NRAAdoLVmcUjEMIqKIx3oTpARZL4Sa
+[12-4]: https://colab.research.google.com/drive/1H7OSKj3HQ2ZR61dwUxvMHd15qc3d7Rrh
+[12-5]: https://colab.research.google.com/drive/1HAj9t9pCFZtTPVhRIumzEoB_sbXapVva
+[12-6]: https://drive.google.com/drive/folders/1GfuvBNk-QGo-V3qW656cvNuwXhiNoX3n
+[12-7]: https://stats.stackexchange.com/questions/211436/why-normalize-images-by-subtracting-datasets-image-mean-instead-of-the-current
 [13-1]: https://drive.google.com/file/d/1GaQCR_tfwMDEGIH_Ud05zcm8r3Bbg1NU/view?usp=drive_link
 [13-2]: https://colab.research.google.com/drive/1HQ2NRUjEHWEPVDpYnFkEqH-VtNUrfOdQ
 [13-3]: https://drive.google.com/drive/folders/1GfuvBNk-QGo-V3qW656cvNuwXhiNoX3n
