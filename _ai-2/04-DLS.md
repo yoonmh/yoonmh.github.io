@@ -8,7 +8,7 @@ layout: single
 ## 1. Neural Networks and Deep Learning
 * Introduction to Deep Learning
   * [Lecture Note][11-1]
-  * [Geoffrey Hinton Interview][1-1]
+  * [Geoffrey Hinton Interview][11-2]
 * Neural Network Basics
 * Shallow Neural Networks
 * Deep Neural Networks
@@ -29,3 +29,4 @@ layout: single
 * Transformer Network
 
 [11-1]: https://drive.google.com/file/d/1GIEIQCNqA3ZGAeLyKJNwJQq9bZ0p8DOH/view?usp=drive_link
+[11-2]: https://drive.google.com/drive/folders/1GfuvBNk-QGo-V3qW656cvNuwXhiNoX3n
