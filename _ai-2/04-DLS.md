@@ -19,6 +19,7 @@ layout: single
   * [Planar Data Classification][13-2]
   * [Ian Goodfellow Interview][13-3]
 * Deep Neural Networks
+  * [Lecture Note][14-1]
 
 ## 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization
 * Practical Aspects of Deep Learning
@@ -44,4 +45,5 @@ layout: single
 [13-1]: https://drive.google.com/file/d/1GaQCR_tfwMDEGIH_Ud05zcm8r3Bbg1NU/view?usp=drive_link
 [13-2]: https://colab.research.google.com/drive/1HQ2NRUjEHWEPVDpYnFkEqH-VtNUrfOdQ
 [13-3]: https://drive.google.com/drive/folders/1GfuvBNk-QGo-V3qW656cvNuwXhiNoX3n
+[14-1]: https://drive.google.com/drive/folders/1GGeow4APoFFhkCQ7gUPK_yrQE5UFaM9I
 
