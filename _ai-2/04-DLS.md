@@ -10,6 +10,7 @@ layout: single
   * [Lecture Note][11-1]
   * [Geoffrey Hinton Interview][11-2]
 * Neural Network Basics
+  * [Lecture Note][12-1]
 * Shallow Neural Networks
 * Deep Neural Networks
 
@@ -30,3 +31,5 @@ layout: single
 
 [11-1]: https://drive.google.com/file/d/1GIEIQCNqA3ZGAeLyKJNwJQq9bZ0p8DOH/view?usp=drive_link
 [11-2]: https://drive.google.com/drive/folders/1GfuvBNk-QGo-V3qW656cvNuwXhiNoX3n
+[12-1]: https://drive.google.com/file/d/1GQooZ1TYIUsEihFhft_McLpeVAMke2Rk/view?usp=drive_link
+
