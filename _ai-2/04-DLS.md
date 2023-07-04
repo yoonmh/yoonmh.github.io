@@ -15,6 +15,7 @@ layout: single
   * [Logistic Regression][12-3]
   * [Pieter Abbeel Interview][12-4]
 * Shallow Neural Networks
+  * [Lecture Note][13-1]
 * Deep Neural Networks
 
 ## 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization
@@ -38,4 +39,5 @@ layout: single
 [12-2]: https://colab.research.google.com/drive/1H7OSKj3HQ2ZR61dwUxvMHd15qc3d7Rrh
 [12-3]: https://colab.research.google.com/drive/1HAj9t9pCFZtTPVhRIumzEoB_sbXapVva
 [12-4]: https://drive.google.com/drive/folders/1GfuvBNk-QGo-V3qW656cvNuwXhiNoX3n
+[13-1]: https://drive.google.com/file/d/1GaQCR_tfwMDEGIH_Ud05zcm8r3Bbg1NU/view?usp=drive_link
 
