@@ -26,6 +26,9 @@ layout: single
 ## 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization
 * Practical Aspects of Deep Learning : [강의자료][21-1]
   * [Initialization 과제][21-2]
+  * [Regularization 과제][21-3]
+  * [Gradient 과제][21-4]
+  * [Yoshua Bengio 인터뷰][21-5]
 * Optimization Algorithms : [강의자료][22-1]
 * Hyperparameter Tuning, Batch Normalization and Programming Frameworks : [강의자료][23-1]
   
@@ -62,5 +65,9 @@ layout: single
 [15-4]: https://stackoverflow.com/questions/1907993/autoreload-of-modules-in-ipython
 [21-1]: https://drive.google.com/file/d/1IKyPKCe7f0Q6gmq8qLrY6Ugxq7bBTyp0/view?usp=drive_link
 [21-2]: https://colab.research.google.com/drive/1Ies2tpfcc2kJXcjUTAKqJ0CnzaFfTqcz
+[21-3]: https://colab.research.google.com/drive/1Ipr8JJ0U1wlTFfT8C-DQOQOXd4kOsIR2
+[21-4]: https://colab.research.google.com/drive/1J1fWjDPUL5nLCWEYWumPlDIB2YV-W4bV
+[21-5]: https://drive.google.com/file/d/1JAyPdj8tN38F8oG8PEK1277ja_oO2tNv/view?usp=drive_link
+
 [22-1]: https://drive.google.com/file/d/1ICGK395VZaVTXwGVSBwC0xfUDVP1HZad/view?usp=drive_link
 [23-1]: https://drive.google.com/file/d/1ICv7Z3kpVzuBv1pFZbj6H3PMyGSftO4G/view?usp=drive_link
