@@ -17,10 +17,10 @@ layout: single
   * [Planar Data Classification 과제][13-2]
   * [Ian Goodfellow 인터뷰][13-3]
   * [Reference][13-4]
-* Deep Neural Networks : [강의자료][14-1]
-  * [DNN][14-2]
-  * [DNN Application][14-3]
-  * [Autoreload][14-4]
+* Deep Neural Networks : [강의자료][14-1], [참고고][14-2]
+  * [DNN][14-3]
+  * [DNN Application][14-4]
+  * [Autoreload][14-5]
 
 ## 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization
 * Practical Aspects of Deep Learning
@@ -53,7 +53,8 @@ layout: single
 [13-3]: https://drive.google.com/file/d/1HkxOm2Kx72VUz5CXtJ9u4MI0xJoNiB_o/view?usp=drive_link
 [13-4]: https://cs231n.github.io/neural-networks-case-study/
 [14-1]: https://drive.google.com/drive/folders/1GGeow4APoFFhkCQ7gUPK_yrQE5UFaM9I
-[14-2]: https://colab.research.google.com/drive/1HsUgpY3KSelhA8P2koPXYi9cwq8CMhk_
-[14-3]: https://colab.research.google.com/drive/1HvbJWiWqTdeJu4aV-mHV8v1QSkEN1ZqA
-[14-4]: https://stackoverflow.com/questions/1907993/autoreload-of-modules-in-ipython
+[14-2]: https://community.deeplearning.ai/t/feedforward-neural-networks-in-depth/98811
+[14-3]: https://colab.research.google.com/drive/1HsUgpY3KSelhA8P2koPXYi9cwq8CMhk_
+[14-4]: https://colab.research.google.com/drive/1HvbJWiWqTdeJu4aV-mHV8v1QSkEN1ZqA
+[14-5]: https://stackoverflow.com/questions/1907993/autoreload-of-modules-in-ipython
 
