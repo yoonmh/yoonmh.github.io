@@ -13,8 +13,7 @@ layout: single
   * [Python Basics 과제][12-6], [Logistic Regression 과제][12-7]
   * [Pieter Abbeel 인터뷰][12-8]
   * [Reference][12-9]
-* Shallow Neural Networks
-  * [Lecture Note][13-1]
+* Shallow Neural Networks : [강의자료][13-1]
   * [Planar Data Classification][13-2]
   * [Ian Goodfellow Interview][13-3]
   * [Reference][13-4]
