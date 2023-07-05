@@ -17,7 +17,7 @@ layout: single
   * [Ian Goodfellow 인터뷰][13-3]
   * [Reference][13-4]
 * Deep Neural Networks : [강의자료][14-1], [참고][14-2]
-  * [DNN 과제][14-3], [DNN Application 과][14-4]
+  * [DNN 과제][14-3], [DNN Application 과제][14-4]
   * [Autoreload][14-5]
 * References
   * [NN from Scartch][15-1]
