@@ -48,7 +48,9 @@ layout: single
   * [Face Recognition 과제][44-2], [Art Generation 과제][44-3]
 * References
   * [Sequential 모델][45-1], [Functional API][45-2]
-  * [YOLO][45-5], [artistic style transfer][45-6], [MatConvNet][45-7]
+  * [resnet50][45-3], [YAD2k][45-4], [YOLO][45-5]
+  * [facenet][45-6], [Face Recognition][45-7], [keras-facenet][45-8]
+  * [Artistic Style][45-9], [artistic style transfer][45-10], [MatConvNet][45-11]
     
 ## 5. Sequence Models
 * Recurrent Neural Networks : [강의자료][51-1]
@@ -106,9 +108,15 @@ layout: single
 [44-3]: https://colab.research.google.com/drive/1MbUxE3kb-r7sqZ3Ifho_7xA3ZjoCExgS
 [45-1]: https://www.tensorflow.org/guide/keras/sequential_model?hl=ko
 [45-2]: https://www.tensorflow.org/guide/keras/functional?hl=ko
+[45-3]: https://github.com/fchollet/deep-learning-models/blob/master/resnet50.py
+[45-4]: https://github.com/allanzelener/YAD2K
 [45-5]: https://pjreddie.com/darknet/yolo/
-[45-6]: https://harishnarayanan.org/writing/artistic-style-transfer/
-[45-7]: https://www.vlfeat.org/matconvnet/pretrained/
+[45-6]: https://github.com/davidsandberg/facenet
+[45-7]: https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/
+[45-8]: https://github.com/nyoki-mtl/keras-facenet/blob/master/notebook/tf_to_keras.ipynb
+[45-9]: http://www.chioka.in/tensorflow-implementation-neural-algorithm-of-artistic-style
+[45-10]: https://harishnarayanan.org/writing/artistic-style-transfer/
+[45-11]: https://www.vlfeat.org/matconvnet/pretrained/
 [51-1]: https://drive.google.com/file/d/1G50WzzGlu4Hh2K8cxcM255YbgBJ1FaYi/view?usp=drive_link
 [52-1]: https://drive.google.com/file/d/1G5ejvPYKFa6AAISWf6ubfi3VFwPe1J2C/view?usp=drive_link
 [53-1]: https://drive.google.com/file/d/1FzaVhZ7WOK3TZ8t5B6SJqtbojnmIOryG/view?usp=drive_link
