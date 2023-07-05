@@ -37,6 +37,8 @@ layout: single
   * [GradientTape][24-2]
   
 ## 3. Structuring Machine Learning Projects
+* ML Strategy : [강의자료][31-1]
+* ML Strategy : [강의자료][32-1]
 
 ## 4. Convolutional Neural Networks
 
@@ -79,3 +81,5 @@ layout: single
 [23-2]: https://colab.research.google.com/drive/1JmV1ZgSOzDAgfACoGxdic2vjLgV4pbiE
 [24-1]: https://www.tensorflow.org/guide/autodiff?hl=ko
 [24-2]: https://www.tensorflow.org/api_docs/python/tf/GradientTape
+[31-1]: https://drive.google.com/file/d/1KwUCbd59y3A_cjCM9vVKKngs0pvaOenB/view?usp=drive_link
+[32-1]: https://drive.google.com/file/d/1K9-P63F3Wl3c99d_rD2F-G4FsRq1v7Mp/view?usp=drive_link
