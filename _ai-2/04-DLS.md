@@ -41,6 +41,7 @@ layout: single
   * [CNN 과제][41-2], [Conv Application 과제][41-3]
   * [Yann LeCun 인터뷰][41-4]
 * Deep Convolutional Models : [강의자료][42-1]
+  * [Residual Network 과제][42-2], [Transfer Learning 과제][42-3]
 * Object Detection : [강의자료][43-1]
 * Special Applications : [강의자료][44-1]
   
@@ -90,6 +91,8 @@ layout: single
 [41-3]: https://colab.research.google.com/drive/1M50_9TUqiL5amrdHT5d3HKrdJdPKIAKc
 [41-4]: https://drive.google.com/file/d/1M9J0yS-3mQr2lQz2pmV7U6y5G69j3DJc/view?usp=drive_link
 [42-1]: https://drive.google.com/file/d/1LdpL5yeo2BLw88jWFRZ7DIvyNhg4EfM8/view?usp=drive_link
+[42-2]: https://colab.research.google.com/drive/1MLVW0StAsrfmI9wpZPoZOoQUV9tuPu_I
+[42-3]: https://colab.research.google.com/drive/1MMAdNQ6aKMVyTBOTfW1hGSIo3b4XAbfd
 [43-1]: https://drive.google.com/file/d/1LanuOxXXHdDUFy-SAVWE4trgX13_lh3Z/view?usp=drive_link
 [44-1]: https://drive.google.com/file/d/1LhlM1iq6DVnH4p7w4SSZIuGf36S4VUUi/view?usp=drive_link
 [51-1]: https://drive.google.com/file/d/1G50WzzGlu4Hh2K8cxcM255YbgBJ1FaYi/view?usp=drive_link
