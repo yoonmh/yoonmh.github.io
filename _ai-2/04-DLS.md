@@ -15,14 +15,13 @@ layout: single
 * Shallow Neural Networks : [강의자료][13-1]
   * [Planar Data Classification 과제][13-2]
   * [Ian Goodfellow 인터뷰][13-3]
-  * [Reference][13-4]
 * Deep Neural Networks : [강의자료][14-1], [참고][14-2]
   * [DNN 과제][14-3], [DNN Application 과제][14-4]
-  * [Autoreload][14-5]
 * References
   * [NN from Scartch][15-1]
   * [Reference][15-2]
   * [cs231n][15-3]
+  * [Autoreload][15-4]
 
 ## 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization
 * Practical Aspects of Deep Learning
@@ -52,12 +51,11 @@ layout: single
 [13-1]: https://drive.google.com/file/d/1GaQCR_tfwMDEGIH_Ud05zcm8r3Bbg1NU/view?usp=drive_link
 [13-2]: https://colab.research.google.com/drive/1HQ2NRUjEHWEPVDpYnFkEqH-VtNUrfOdQ
 [13-3]: https://drive.google.com/file/d/1HkxOm2Kx72VUz5CXtJ9u4MI0xJoNiB_o/view?usp=drive_link
-[13-4]: https://cs231n.github.io/neural-networks-case-study/
 [14-1]: https://drive.google.com/drive/folders/1GGeow4APoFFhkCQ7gUPK_yrQE5UFaM9I
 [14-2]: https://community.deeplearning.ai/t/feedforward-neural-networks-in-depth/98811
 [14-3]: https://colab.research.google.com/drive/1HsUgpY3KSelhA8P2koPXYi9cwq8CMhk_
 [14-4]: https://colab.research.google.com/drive/1HvbJWiWqTdeJu4aV-mHV8v1QSkEN1ZqA
-[14-5]: https://stackoverflow.com/questions/1907993/autoreload-of-modules-in-ipython
 [15-1]: https://github.com/dennybritz/nn-from-scratch
 [15-2]: https://stats.stackexchange.com/questions/211436/why-normalize-images-by-subtracting-datasets-image-mean-instead-of-the-current
 [15-3]: https://cs231n.github.io/neural-networks-case-study/
+[15-4]: https://stackoverflow.com/questions/1907993/autoreload-of-modules-in-ipython
