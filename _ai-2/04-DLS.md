@@ -8,13 +8,12 @@ layout: single
 ## 1. Neural Networks and Deep Learning
 * Introduction to Deep Learning ([강의자료][11-1])
   * [Geoffrey Hinton Interview][11-2]
-* Neural Network Basics ([강의자료][12-1])
-  * [참고][12-2]
-  * [Vectorization 예제][12-3]
-  * [Python Basics][12-4]
-  * [Logistic Regression][12-5]
-  * [Pieter Abbeel Interview][12-6]
-  * [Reference][12-7]
+* Neural Network Basics ([강의자료][12-1]) : [참고][12-2]
+  * [Vectorization 예제][12-3], [Broadcasting 예제][12-4], [Numpy 예제][12-5]
+  * [Python Basics][12-6]
+  * [Logistic Regression][12-7]
+  * [Pieter Abbeel Interview][12-8]
+  * [Reference][12-9]
 * Shallow Neural Networks
   * [Lecture Note][13-1]
   * [Planar Data Classification][13-2]
@@ -46,10 +45,12 @@ layout: single
 [12-1]: https://drive.google.com/file/d/1GQooZ1TYIUsEihFhft_McLpeVAMke2Rk/view?usp=drive_link
 [12-2]: https://community.deeplearning.ai/t/derivation-of-dl-dz/165
 [12-3]: https://colab.research.google.com/drive/1I4NRAAdoLVmcUjEMIqKIx3oTpARZL4Sa
-[12-4]: https://colab.research.google.com/drive/1H7OSKj3HQ2ZR61dwUxvMHd15qc3d7Rrh
-[12-5]: https://colab.research.google.com/drive/1HAj9t9pCFZtTPVhRIumzEoB_sbXapVva
-[12-6]: https://drive.google.com/drive/folders/1GfuvBNk-QGo-V3qW656cvNuwXhiNoX3n
-[12-7]: https://stats.stackexchange.com/questions/211436/why-normalize-images-by-subtracting-datasets-image-mean-instead-of-the-current
+[12-4]: https://colab.research.google.com/drive/18bajA90zXoFnkdCn8dW1Nd7nBN_-yPVP
+[12-5]: https://colab.research.google.com/drive/14GlLRgu9xmr5k40eLpqFqYrodbr2qDcz
+[12-6]: https://colab.research.google.com/drive/1H7OSKj3HQ2ZR61dwUxvMHd15qc3d7Rrh
+[12-7]: https://colab.research.google.com/drive/1HAj9t9pCFZtTPVhRIumzEoB_sbXapVva
+[12-8]: https://drive.google.com/drive/folders/1GfuvBNk-QGo-V3qW656cvNuwXhiNoX3n
+[12-9]: https://stats.stackexchange.com/questions/211436/why-normalize-images-by-subtracting-datasets-image-mean-instead-of-the-current
 [13-1]: https://drive.google.com/file/d/1GaQCR_tfwMDEGIH_Ud05zcm8r3Bbg1NU/view?usp=drive_link
 [13-2]: https://colab.research.google.com/drive/1HQ2NRUjEHWEPVDpYnFkEqH-VtNUrfOdQ
 [13-3]: https://drive.google.com/drive/folders/1GfuvBNk-QGo-V3qW656cvNuwXhiNoX3n
