@@ -54,8 +54,9 @@ layout: single
     
 ## 5. Sequence Models
 * Recurrent Neural Networks : [강의자료][51-1]
-  * [RNN 과제][51-2], [Dinosaurus Island 과제][51-3], [Jazz Improvisation][51-4]
+  * [RNN 과제][51-2], [Dinosaurus Island 과제][51-3], [Jazz Improvisation 과제][51-4]
 * Natural Language Processing & Word Embedding : [강의자료][52-1]
+  * [Word Vectors 과제][52-2]
 * Sequence Models & Attention Mechanism : [강의자료][53-1]
 * Transformer Network : [강의자료][54-1]
 
@@ -123,5 +124,6 @@ layout: single
 [51-3]: https://colab.research.google.com/drive/1N3uwy3p3JLtpE1HpRpqcRdFYvbspe8Am
 [51-4]: https://colab.research.google.com/drive/1N9Eg6S2HarGpKyQyvp9A4pRJqvwvTnfs
 [52-1]: https://drive.google.com/file/d/1G5ejvPYKFa6AAISWf6ubfi3VFwPe1J2C/view?usp=drive_link
+[52-2]: https://colab.research.google.com/drive/1NHAoiV8MUZ7HCi7jS3Gk3QDW6Xdi4Mhv
 [53-1]: https://drive.google.com/file/d/1FzaVhZ7WOK3TZ8t5B6SJqtbojnmIOryG/view?usp=drive_link
 [54-1]: https://drive.google.com/file/d/1G-RVhhBS9PLenWHcTaQwyVrcefH2DO0r/view?usp=drive_link
