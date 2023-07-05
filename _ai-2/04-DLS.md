@@ -43,10 +43,10 @@ layout: single
 * Special Applications : [강의자료][44-1]
   
 ## 5. Sequence Models
-* Recurrent Neural Networks
-* Natural Language Processing & Word Embedding
-* Sequence Models & Attention Mechanism
-* Transformer Network
+* Recurrent Neural Networks : [강의자료][51-1]
+* Natural Language Processing & Word Embedding : [강의자료][52-1]
+* Sequence Models & Attention Mechanism : [강의자료][53-1]
+* Transformer Network : [강의자료][54-1]
 
 [11-1]: https://drive.google.com/file/d/1GIEIQCNqA3ZGAeLyKJNwJQq9bZ0p8DOH/view?usp=drive_link
 [11-2]: https://drive.google.com/file/d/1GgookSh9VQFDr1q6Uf3B9uGPJPyJgKv8/view?usp=drive_link
@@ -87,3 +87,7 @@ layout: single
 [42-1]: https://drive.google.com/file/d/1LdpL5yeo2BLw88jWFRZ7DIvyNhg4EfM8/view?usp=drive_link
 [43-1]: https://drive.google.com/file/d/1LanuOxXXHdDUFy-SAVWE4trgX13_lh3Z/view?usp=drive_link
 [44-1]: https://drive.google.com/file/d/1LhlM1iq6DVnH4p7w4SSZIuGf36S4VUUi/view?usp=drive_link
+[51-1]: https://drive.google.com/file/d/1G50WzzGlu4Hh2K8cxcM255YbgBJ1FaYi/view?usp=drive_link
+[52-1]: https://drive.google.com/file/d/1G5ejvPYKFa6AAISWf6ubfi3VFwPe1J2C/view?usp=drive_link
+[53-1]: https://drive.google.com/file/d/1FzaVhZ7WOK3TZ8t5B6SJqtbojnmIOryG/view?usp=drive_link
+[54-1]: https://drive.google.com/file/d/1G-RVhhBS9PLenWHcTaQwyVrcefH2DO0r/view?usp=drive_link
