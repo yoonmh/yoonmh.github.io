@@ -10,7 +10,7 @@ layout: single
   * [Geoffrey Hinton Interview][11-2]
 * Neural Network Basics : [강의자료][12-1], [참고][12-2]
   * [Vectorization 예제][12-3], [Broadcasting 예제][12-4], [Numpy 예제][12-5]
-  * [Python Basics][12-6]
+  * [Python Basics 과제][12-6]
   * [Logistic Regression][12-7]
   * [Pieter Abbeel Interview][12-8]
   * [Reference][12-9]
