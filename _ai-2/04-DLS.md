@@ -18,10 +18,7 @@ layout: single
 * Deep Neural Networks : [강의자료][14-1], [참고][14-2]
   * [DNN 과제][14-3], [DNN Application 과제][14-4]
 * References
-  * [NN from Scartch][15-1]
-  * [Reference][15-2]
-  * [cs231n][15-3]
-  * [Autoreload][15-4]
+  * [NN from Scartch][15-1], [Reference][15-2], [cs231n][15-3], [Autoreload][15-4]
 
 ## 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization
 * Practical Aspects of Deep Learning : [강의자료][21-1]
@@ -33,15 +30,18 @@ layout: single
 * Hyperparameter Tuning, Batch Normalization and Programming Frameworks : [강의자료][23-1]
   * [Tensorflow 과제][23-2]
 * References
-  * [자동미분][24-1]
-  * [GradientTape][24-2]
+  * [자동미분][24-1], [GradientTape][24-2]
   
 ## 3. Structuring Machine Learning Projects
 * ML Strategy : [강의자료][31-1]
 * Error Analysis : [강의자료][32-1]
 
 ## 4. Convolutional Neural Networks
-
+* Foundations of CNN : [강의자료][41-1]
+* Deep Convolutional Models : [강의자료][42-1]
+* Object Detection : [강의자료][43-1]
+* Special Applications : [강의자료][44-1]
+  
 ## 5. Sequence Models
 * Recurrent Neural Networks
 * Natural Language Processing & Word Embedding
