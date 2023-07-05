@@ -24,9 +24,9 @@ layout: single
   * [Autoreload][15-4]
 
 ## 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization
-* Practical Aspects of Deep Learning
-* Optimization Algorithms
-* Hyperparameter Tuning, Batch Normalization and Programming Frameworks
+* Practical Aspects of Deep Learning : [강의자료][21-1]
+* Optimization Algorithms : [강의자료][22-1]
+* Hyperparameter Tuning, Batch Normalization and Programming Frameworks : [강의자료][23-1]
   
 ## 3. Structuring Machine Learning Projects
 
@@ -59,3 +59,6 @@ layout: single
 [15-2]: https://stats.stackexchange.com/questions/211436/why-normalize-images-by-subtracting-datasets-image-mean-instead-of-the-current
 [15-3]: https://cs231n.github.io/neural-networks-case-study/
 [15-4]: https://stackoverflow.com/questions/1907993/autoreload-of-modules-in-ipython
+[21-1]: https://drive.google.com/file/d/1IKyPKCe7f0Q6gmq8qLrY6Ugxq7bBTyp0/view?usp=drive_link
+[22-1]: https://drive.google.com/file/d/1ICGK395VZaVTXwGVSBwC0xfUDVP1HZad/view?usp=drive_link
+[23-1]: https://drive.google.com/file/d/1ICv7Z3kpVzuBv1pFZbj6H3PMyGSftO4G/view?usp=drive_link
