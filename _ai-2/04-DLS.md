@@ -28,6 +28,8 @@ layout: single
   * [Initialization 과제][21-2], [Regularization 과제][21-3], [Gradient 과제][21-4]
   * [Yoshua Bengio 인터뷰][21-5]
 * Optimization Algorithms : [강의자료][22-1]
+  * [Optimization 과제][22-2]
+  * [Yuanqing Lin 인터뷰][22-3]
 * Hyperparameter Tuning, Batch Normalization and Programming Frameworks : [강의자료][23-1]
   
 ## 3. Structuring Machine Learning Projects
