@@ -14,8 +14,8 @@ layout: single
   * [Pieter Abbeel 인터뷰][12-8]
   * [Reference][12-9]
 * Shallow Neural Networks : [강의자료][13-1]
-  * [Planar Data Classification][13-2]
-  * [Ian Goodfellow Interview][13-3]
+  * [Planar Data Classification 과제][13-2]
+  * [Ian Goodfellow 인터뷰뷰][13-3]
   * [Reference][13-4]
 * Deep Neural Networks
   * [Lecture Note][14-1]
@@ -51,7 +51,7 @@ layout: single
 [12-9]: https://stats.stackexchange.com/questions/211436/why-normalize-images-by-subtracting-datasets-image-mean-instead-of-the-current
 [13-1]: https://drive.google.com/file/d/1GaQCR_tfwMDEGIH_Ud05zcm8r3Bbg1NU/view?usp=drive_link
 [13-2]: https://colab.research.google.com/drive/1HQ2NRUjEHWEPVDpYnFkEqH-VtNUrfOdQ
-[13-3]: https://drive.google.com/drive/folders/1GfuvBNk-QGo-V3qW656cvNuwXhiNoX3n
+[13-3]: https://drive.google.com/file/d/1HkxOm2Kx72VUz5CXtJ9u4MI0xJoNiB_o/view?usp=drive_link
 [13-4]: https://cs231n.github.io/neural-networks-case-study/
 [14-1]: https://drive.google.com/drive/folders/1GGeow4APoFFhkCQ7gUPK_yrQE5UFaM9I
 [14-2]: https://colab.research.google.com/drive/1HsUgpY3KSelhA8P2koPXYi9cwq8CMhk_
