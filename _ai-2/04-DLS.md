@@ -39,7 +39,7 @@ layout: single
 ## 4. Convolutional Neural Networks
 * Foundations of CNN : [강의자료][41-1]
   * [CNN 과제][41-2], [Conv Application 과제][41-3]
-  * [Yann LeCun dlsxjqb][41-4]
+  * [Yann LeCun 인터뷰][41-4]
 * Deep Convolutional Models : [강의자료][42-1]
 * Object Detection : [강의자료][43-1]
 * Special Applications : [강의자료][44-1]
