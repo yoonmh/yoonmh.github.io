@@ -45,6 +45,7 @@ layout: single
 * Object Detection : [강의자료][43-1]
   * [Car detection 과제][43-2], [Image Segmentation 과제][43-3]
 * Special Applications : [강의자료][44-1]
+  * [Face Recognition][44-2]
   
 ## 5. Sequence Models
 * Recurrent Neural Networks : [강의자료][51-1]
@@ -98,6 +99,7 @@ layout: single
 [43-2]: https://colab.research.google.com/drive/1MMPuw5iaE4Z0JLwRi-g3LYKM_4mLCPrH
 [43-3]: https://colab.research.google.com/drive/1MVCtJt7A4OhB-RCziHZmUWbHrrv8rLS4
 [44-1]: https://drive.google.com/file/d/1LhlM1iq6DVnH4p7w4SSZIuGf36S4VUUi/view?usp=drive_link
+[44-2]: https://colab.research.google.com/drive/1MYCIUg6l7ypSKTs9SOOuD-jWL7Nf-Y8M
 [51-1]: https://drive.google.com/file/d/1G50WzzGlu4Hh2K8cxcM255YbgBJ1FaYi/view?usp=drive_link
 [52-1]: https://drive.google.com/file/d/1G5ejvPYKFa6AAISWf6ubfi3VFwPe1J2C/view?usp=drive_link
 [53-1]: https://drive.google.com/file/d/1FzaVhZ7WOK3TZ8t5B6SJqtbojnmIOryG/view?usp=drive_link
