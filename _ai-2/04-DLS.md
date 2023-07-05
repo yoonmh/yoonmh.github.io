@@ -31,6 +31,10 @@ layout: single
   * [Optimization 과제][22-2]
   * [Yuanqing Lin 인터뷰][22-3]
 * Hyperparameter Tuning, Batch Normalization and Programming Frameworks : [강의자료][23-1]
+  * [Tensorflow 과제][23-2]
+* References
+  * [자동미분][24-1]
+  * [GradientTape][24-2]
   
 ## 3. Structuring Machine Learning Projects
 
@@ -72,3 +76,6 @@ layout: single
 [22-2]: https://colab.research.google.com/drive/1JXN-UbCrr3t2N1fakqiC9Gbts6aCHESc
 [22-3]: https://drive.google.com/file/d/1JemjfEhMNvpVIp1v1Qx70IbpSlSw972n/view?usp=drive_link
 [23-1]: https://drive.google.com/file/d/1ICv7Z3kpVzuBv1pFZbj6H3PMyGSftO4G/view?usp=drive_link
+[23-2]: https://colab.research.google.com/drive/1JmV1ZgSOzDAgfACoGxdic2vjLgV4pbiE
+[24-1]: https://www.tensorflow.org/guide/autodiff?hl=ko
+[24-2]: https://www.tensorflow.org/api_docs/python/tf/GradientTape
