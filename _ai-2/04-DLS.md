@@ -15,7 +15,7 @@ layout: single
   * [Reference][12-9]
 * Shallow Neural Networks : [강의자료][13-1]
   * [Planar Data Classification 과제][13-2]
-  * [Ian Goodfellow 인터뷰뷰][13-3]
+  * [Ian Goodfellow 인터뷰][13-3]
   * [Reference][13-4]
 * Deep Neural Networks
   * [Lecture Note][14-1]
