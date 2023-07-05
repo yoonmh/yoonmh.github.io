@@ -17,7 +17,7 @@ layout: single
   * [Planar Data Classification 과제][13-2]
   * [Ian Goodfellow 인터뷰][13-3]
   * [Reference][13-4]
-* Deep Neural Networks : [강의자료][14-1], [참고고][14-2]
+* Deep Neural Networks : [강의자료][14-1], [참고][14-2]
   * [DNN][14-3]
   * [DNN Application][14-4]
   * [Autoreload][14-5]
