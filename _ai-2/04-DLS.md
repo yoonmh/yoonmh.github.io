@@ -83,3 +83,7 @@ layout: single
 [24-2]: https://www.tensorflow.org/api_docs/python/tf/GradientTape
 [31-1]: https://drive.google.com/file/d/1KwUCbd59y3A_cjCM9vVKKngs0pvaOenB/view?usp=drive_link
 [32-1]: https://drive.google.com/file/d/1K9-P63F3Wl3c99d_rD2F-G4FsRq1v7Mp/view?usp=drive_link
+[41-1]: https://drive.google.com/file/d/1LfduIpnUaja698ASE_0LVOcF5S17O68v/view?usp=drive_link
+[42-1]: https://drive.google.com/file/d/1LdpL5yeo2BLw88jWFRZ7DIvyNhg4EfM8/view?usp=drive_link
+[43-1]: https://drive.google.com/file/d/1LanuOxXXHdDUFy-SAVWE4trgX13_lh3Z/view?usp=drive_link
+[44-1]: https://drive.google.com/file/d/1LhlM1iq6DVnH4p7w4SSZIuGf36S4VUUi/view?usp=drive_link
