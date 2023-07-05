@@ -46,7 +46,10 @@ layout: single
   * [Car detection 과제][43-2], [Image Segmentation 과제][43-3]
 * Special Applications : [강의자료][44-1]
   * [Face Recognition 과제][44-2], [Art Generation 과제][44-3]
-  
+* References
+  * [Sequential 모델][45-1], [Functional API][45-2]
+  * [YOLO][45-5], [artistic style transfer][45-6], [MatConvNet][45-7]
+    
 ## 5. Sequence Models
 * Recurrent Neural Networks : [강의자료][51-1]
 * Natural Language Processing & Word Embedding : [강의자료][52-1]
@@ -101,6 +104,11 @@ layout: single
 [44-1]: https://drive.google.com/file/d/1LhlM1iq6DVnH4p7w4SSZIuGf36S4VUUi/view?usp=drive_link
 [44-2]: https://colab.research.google.com/drive/1MYCIUg6l7ypSKTs9SOOuD-jWL7Nf-Y8M
 [44-3]: https://colab.research.google.com/drive/1MbUxE3kb-r7sqZ3Ifho_7xA3ZjoCExgS
+[45-1]: https://www.tensorflow.org/guide/keras/sequential_model?hl=ko
+[45-2]: https://www.tensorflow.org/guide/keras/functional?hl=ko
+[45-5]: https://pjreddie.com/darknet/yolo/
+[45-6]: https://harishnarayanan.org/writing/artistic-style-transfer/
+[45-7]: https://www.vlfeat.org/matconvnet/pretrained/
 [51-1]: https://drive.google.com/file/d/1G50WzzGlu4Hh2K8cxcM255YbgBJ1FaYi/view?usp=drive_link
 [52-1]: https://drive.google.com/file/d/1G5ejvPYKFa6AAISWf6ubfi3VFwPe1J2C/view?usp=drive_link
 [53-1]: https://drive.google.com/file/d/1FzaVhZ7WOK3TZ8t5B6SJqtbojnmIOryG/view?usp=drive_link
