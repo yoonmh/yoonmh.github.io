@@ -38,7 +38,7 @@ layout: single
   
 ## 3. Structuring Machine Learning Projects
 * ML Strategy : [강의자료][31-1]
-* ML Strategy : [강의자료][32-1]
+* Error Analysis : [강의자료][32-1]
 
 ## 4. Convolutional Neural Networks
 
