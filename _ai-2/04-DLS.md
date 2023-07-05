@@ -43,7 +43,7 @@ layout: single
 * Deep Convolutional Models : [강의자료][42-1]
   * [Residual Network 과제][42-2], [Transfer Learning 과제][42-3]
 * Object Detection : [강의자료][43-1]
-  * [Car detection 과제][43-2]
+  * [Car detection 과제][43-2], [Image Segmentation 과제][43-3]
 * Special Applications : [강의자료][44-1]
   
 ## 5. Sequence Models
@@ -96,6 +96,7 @@ layout: single
 [42-3]: https://colab.research.google.com/drive/1MMAdNQ6aKMVyTBOTfW1hGSIo3b4XAbfd
 [43-1]: https://drive.google.com/file/d/1LanuOxXXHdDUFy-SAVWE4trgX13_lh3Z/view?usp=drive_link
 [43-2]: https://colab.research.google.com/drive/1MMPuw5iaE4Z0JLwRi-g3LYKM_4mLCPrH
+[43-3]: https://colab.research.google.com/drive/1MVCtJt7A4OhB-RCziHZmUWbHrrv8rLS4
 [44-1]: https://drive.google.com/file/d/1LhlM1iq6DVnH4p7w4SSZIuGf36S4VUUi/view?usp=drive_link
 [51-1]: https://drive.google.com/file/d/1G50WzzGlu4Hh2K8cxcM255YbgBJ1FaYi/view?usp=drive_link
 [52-1]: https://drive.google.com/file/d/1G5ejvPYKFa6AAISWf6ubfi3VFwPe1J2C/view?usp=drive_link
