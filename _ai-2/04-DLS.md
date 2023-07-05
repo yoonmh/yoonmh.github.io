@@ -6,7 +6,7 @@ layout: single
 > Deep Learning Specialization
 
 ## 1. Neural Networks and Deep Learning
-* Introduction to Deep Learning : [강의자료][11-1])
+* Introduction to Deep Learning : [강의자료][11-1]
   * [Geoffrey Hinton Interview][11-2]
 * Neural Network Basics : [강의자료][12-1], [참고][12-2]
   * [Vectorization 예제][12-3], [Broadcasting 예제][12-4], [Numpy 예제][12-5]
