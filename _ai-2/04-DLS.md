@@ -7,9 +7,9 @@ layout: single
 
 ## 1. Neural Networks and Deep Learning
 * Introduction to Deep Learning : [강의자료][11-1]
-  * 1. Introduction
-    2. Logistic Regression
-    3. , Logistic Regression Cost Function, Gradient Descent, Derivatives, 
+  1. Introduction
+  2. Logistic Regression
+  3. , Logistic Regression Cost Function, Gradient Descent, Derivatives, 
   * [Geoffrey Hinton 인터뷰][11-2]
 * Neural Network Basics : [강의자료][12-1], [참고][12-2]
   * [Vectorization 예제][12-3], [Broadcasting 예제][12-4], [Numpy 예제][12-5]
