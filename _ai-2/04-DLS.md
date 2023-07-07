@@ -36,7 +36,7 @@ layout: single
 * ML Strategy : [강의자료][31-1]
   * [Andrej Karpathy 인터뷰][31-2]
 * Error Analysis : [강의자료][32-1]
-  * [Ruslan Salakhutdinov][32-2]
+  * [Ruslan Salakhutdinov 인터뷰][32-2]
 
 ## 4. Convolutional Neural Networks
 * Foundations of CNN : [강의자료][41-1]
