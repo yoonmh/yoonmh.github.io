@@ -34,7 +34,7 @@ layout: single
   
 ## 3. Structuring Machine Learning Projects
 * ML Strategy : [강의자료][31-1]
-  * [인터뷰][31-2]
+  * [Andrej Karpathy 인터뷰][31-2]
 * Error Analysis : [강의자료][32-1]
 
 ## 4. Convolutional Neural Networks
