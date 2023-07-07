@@ -20,7 +20,7 @@ layout: single
 * References
   * [NN from Scartch][15-1], [Reference][15-2], [cs231n][15-3], [Autoreload][15-4]
 
-## 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization
+## 2. Improving DNN: Hyperparameter tuning, Regularization, and Optimization
 * Practical Aspects of Deep Learning : [강의자료][21-1]
   * [Initialization 과제][21-2], [Regularization 과제][21-3], [Gradient 과제][21-4]
   * [Yoshua Bengio 인터뷰][21-5]
