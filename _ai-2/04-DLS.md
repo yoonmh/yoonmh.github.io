@@ -75,7 +75,7 @@ layout: single
 [13-1]: https://drive.google.com/file/d/1GaQCR_tfwMDEGIH_Ud05zcm8r3Bbg1NU/view?usp=drive_link
 [13-2]: https://colab.research.google.com/drive/1HQ2NRUjEHWEPVDpYnFkEqH-VtNUrfOdQ
 [13-3]: https://drive.google.com/file/d/1HkxOm2Kx72VUz5CXtJ9u4MI0xJoNiB_o/view?usp=drive_link
-[14-1]: https://drive.google.com/drive/folders/1GGeow4APoFFhkCQ7gUPK_yrQE5UFaM9I
+[14-1]: https://drive.google.com/file/d/1G_VPlEE9N3hJaOXpB-UtgtdRN_QnUHWS/view?usp=drive_link
 [14-2]: https://community.deeplearning.ai/t/feedforward-neural-networks-in-depth/98811
 [14-3]: https://colab.research.google.com/drive/1HsUgpY3KSelhA8P2koPXYi9cwq8CMhk_
 [14-4]: https://colab.research.google.com/drive/1HvbJWiWqTdeJu4aV-mHV8v1QSkEN1ZqA
