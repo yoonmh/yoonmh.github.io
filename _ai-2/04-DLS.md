@@ -34,6 +34,7 @@ layout: single
   
 ## 3. Structuring Machine Learning Projects
 * ML Strategy : [강의자료][31-1]
+  * [인터뷰][31-2]
 * Error Analysis : [강의자료][32-1]
 
 ## 4. Convolutional Neural Networks
@@ -96,6 +97,7 @@ layout: single
 [24-1]: https://www.tensorflow.org/guide/autodiff?hl=ko
 [24-2]: https://www.tensorflow.org/api_docs/python/tf/GradientTape
 [31-1]: https://drive.google.com/file/d/1KwUCbd59y3A_cjCM9vVKKngs0pvaOenB/view?usp=drive_link
+[31-2]: https://drive.google.com/file/d/1LJESZwfmkXvmp6ECesCKhyU_qb3bF1wO/view?usp=drive_link
 [32-1]: https://drive.google.com/file/d/1K9-P63F3Wl3c99d_rD2F-G4FsRq1v7Mp/view?usp=drive_link
 [41-1]: https://drive.google.com/file/d/1LfduIpnUaja698ASE_0LVOcF5S17O68v/view?usp=drive_link
 [41-2]: https://colab.research.google.com/drive/1LoqWsrqUuni0RhadykSUDDQvABXD8-iu
