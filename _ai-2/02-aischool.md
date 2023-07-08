@@ -22,7 +22,7 @@ layout: single
 
 8. [최근 언어모델]
 
-[1]: https://drive.google.com/file/d/17Io8Rfu_ZpAqE86tvJf4HnZ62uY5i0fZ/view?usp=sharing
+[1]: https://drive.google.com/file/d/17Io8Rfu_ZpAqE86tvJf4HnZ62uY5i0fZ/view?usp=drive_link
 [1-1]: https://drive.google.com/file/d/18G_SlLZI7k5TNvLYT-aWG5qkOgV8MNrH/view?usp=drive_link
 [1-2]: https://www.geeksforgeeks.org/implementing-models-of-artificial-neural-network/
 [1-3]: https://towardsdatascience.com/rosenblatts-perceptron-the-very-first-neural-network-37a3ec09038a
@@ -33,7 +33,7 @@ layout: single
 [1-8]: https://machinelearningmastery.com/the-chain-rule-of-calculus-for-univariate-and-multivariate-functions/
 [1-9]: https://www.youtube.com/watch?v=1Q_etC_GHHk
 [1-10]: https://www.youtube.com/watch?v=aircAruvnKk&t=760s
-[2]: https://drive.google.com/file/d/17KNZwCsGHFNE-Oo-g4lVrphEOf18O4ke/view?usp=sharing
+[2]: https://drive.google.com/file/d/17KNZwCsGHFNE-Oo-g4lVrphEOf18O4ke/view?usp=drive_link
 [2-1]: https://projector.tensorflow.org/
 [2-2]: https://medium.com/@sasi24/cosine-similarity-vs-euclidean-distance-e5d9a9375fc8
 [2-3]: http://ronxin.github.io/wevi/
