@@ -37,4 +37,4 @@ layout: single
 [2-1]: https://projector.tensorflow.org/
 [2-2]: https://medium.com/@sasi24/cosine-similarity-vs-euclidean-distance-e5d9a9375fc8
 [2-3]: http://ronxin.github.io/wevi/
-
+[3]: https://drive.google.com/file/d/1OHAJ9YDez0dHTuLjz4cJSujckpxBs0LD/view?usp=drive_link
