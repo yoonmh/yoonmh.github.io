@@ -5,7 +5,7 @@ layout: single
 
 > 밑바닥부터 시작하는 딥러닝 [참고][0-1]
 
-## 1. 밑바닥부터 시작하는 딥러닝 (1)
+## 1. 밑바닥부터 시작하는 딥러닝
 * [요약정리][1-11], [github 저장소][1-22]
 * [Ch1][1-1]
 * [Ch2][1-2]
@@ -17,6 +17,9 @@ layout: single
 * [Ch6][1-6]
 * [Ch7][1-7]
 * [Ch8][1-8]
+
+## 2. 밑바닥부터 시작하는 딥러닝 (2)
+* [요약정리][1-11], [github 저장소][1-22]
 
 [0-1]: https://www.mindmeister.com/ko/812276967/_?fullscreen=1
 [1-11]: https://nbviewer.org/github/SDRLurker/deep-learning/blob/master/%EB%AA%A9%EC%B0%A8.ipynb
