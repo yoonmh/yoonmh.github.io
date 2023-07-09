@@ -12,8 +12,12 @@ layout: single
 * [Ch2][1-2]
   * [AND게이트][12-1], [NAND게이트][12-2], [OR게이트][12-3], [XOR게이트][12-4]
 * [Ch3][1-3]
-  * [MNIST}[13-1], [NN MNIST][13-2], 
-* [MNIST][
+  * [MNIST][13-1], [NN MNIST][13-2], [MNIST Batch][13-3], [ReLU][13-4], [Sample Weight][13-5], [Sigmoid/Step][13-6], [Sigmoid][13-7], [Step][13-8]
+* [Ch4][1-4]
+* [Ch5][1-5]
+* [Ch6][1-6]
+* [Ch7][1-7]
+* [Ch8][1-8]
 
 [0-1]: https://www.mindmeister.com/ko/812276967/_?fullscreen=1
 [1-11]: https://nbviewer.org/github/SDRLurker/deep-learning/blob/master/%EB%AA%A9%EC%B0%A8.ipynb
@@ -27,6 +31,9 @@ layout: single
 [1-3]: https://docs.google.com/presentation/d/1OzU9_2jr3kzIYzEGnYiXoi3ZC_larQ35/edit?usp=drive_link&ouid=100029220833717660572&rtpof=true&sd=true
 [13-1]: https://colab.research.google.com/drive/1TKdBPvSt54Uf3sIbZSiRGXrF_H1JhVzb
 [13-2]: https://colab.research.google.com/drive/1POVXR6I5TEIMXtFcgVdIUff1lgztAY3r
-[13-3]: 
-
-
+[13-3]: https://colab.research.google.com/drive/1POnbSI5dJm44ex5vGUxIsEH5hT52AjyB
+[13-4]: https://colab.research.google.com/drive/1PTUorKcyN9jYDakEff4vGGoCnI5j6olh
+[13-5]: https://colab.research.google.com/drive/1P_P8TDLlQ_KubbuButoUWGvRS5m6rABz
+[13-6]: https://colab.research.google.com/drive/1Pc17uMxWQx8Ci3dIar7gYmvSBQi_sJwe
+[13-7]: https://colab.research.google.com/drive/1PgovMsHv5oEBe21R2SGXnKS2TDPcc9G9
+[13-8]: https://colab.research.google.com/drive/1Ph8yAwQxHN7RICEnNr5LEjHA-ViPfCr8
