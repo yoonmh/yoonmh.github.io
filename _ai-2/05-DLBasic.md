@@ -6,19 +6,27 @@ layout: single
 > 밑바닥부터 시작하는 딥러닝 [참고][0-1]
 
 ## 1. 밑바닥부터 시작하는 딥러닝 (1)
-* [요약정리][1-1]
-* [github 저장소][1-2]
-* [Ch1][1-3]
-* [Ch2][1-4]
+* [요약정리][1-11]
+* [github 저장소][1-22]
+* [Ch1][1-1]
+* [Ch2][1-2]
   * [AND게이트][12-1], [NAND게이트][12-2], [OR게이트][12-3], [XOR게이트][12-4]
-* [MNIST}[13-1]
+* [Ch3][1-3]
+  * [MNIST}[13-1], [NN MNIST][13-2], 
+* [MNIST][
 
 [0-1]: https://www.mindmeister.com/ko/812276967/_?fullscreen=1
-[1-1]: https://nbviewer.org/github/SDRLurker/deep-learning/blob/master/%EB%AA%A9%EC%B0%A8.ipynb
-[1-2]: https://github.com/WegraLee/deep-learning-from-scratch
-[1-3]: https://docs.google.com/presentation/d/1P5xcmvA_mS4VKhaCIi0pMheV9N1W7_7Y/edit?usp=drive_link&ouid=100029220833717660572&rtpof=true&sd=true
-[1-4]: https://docs.google.com/presentation/d/1P4TI9B8ZANCTQqAa3lwPc6rNLcDj_gtg/edit?usp=drive_link&ouid=100029220833717660572&rtpof=true&sd=true
+[1-11]: https://nbviewer.org/github/SDRLurker/deep-learning/blob/master/%EB%AA%A9%EC%B0%A8.ipynb
+[1-22]: https://github.com/WegraLee/deep-learning-from-scratch
+[1-1]: https://docs.google.com/presentation/d/1P5xcmvA_mS4VKhaCIi0pMheV9N1W7_7Y/edit?usp=drive_link&ouid=100029220833717660572&rtpof=true&sd=true
+[1-2]: https://docs.google.com/presentation/d/1P4TI9B8ZANCTQqAa3lwPc6rNLcDj_gtg/edit?usp=drive_link&ouid=100029220833717660572&rtpof=true&sd=true
 [12-1]: https://colab.research.google.com/drive/1OXpZBLp2tyodK7wCeExKMuwYEqVRa637
 [12-2]: https://colab.research.google.com/drive/1OXtDgpn5-FSLvJBawzZp2GpPCdOe5hmB
 [12-3]: https://colab.research.google.com/drive/1OZAfhO84T6iPl6ZSBC8g88v6QOvodZIM
 [12-4]: https://colab.research.google.com/drive/1OTfdwkNybgRucUaaa1G9WaZfqUn11U7A
+[1-3]: https://docs.google.com/presentation/d/1OzU9_2jr3kzIYzEGnYiXoi3ZC_larQ35/edit?usp=drive_link&ouid=100029220833717660572&rtpof=true&sd=true
+[13-1]: https://colab.research.google.com/drive/1TKdBPvSt54Uf3sIbZSiRGXrF_H1JhVzb
+[13-2]: https://colab.research.google.com/drive/1POVXR6I5TEIMXtFcgVdIUff1lgztAY3r
+[13-3]: 
+
+
