@@ -17,6 +17,7 @@ layout: single
 [1-1]: https://nbviewer.org/github/SDRLurker/deep-learning/blob/master/%EB%AA%A9%EC%B0%A8.ipynb
 [1-2]: https://github.com/WegraLee/deep-learning-from-scratch
 [1-3]: https://docs.google.com/presentation/d/1P5xcmvA_mS4VKhaCIi0pMheV9N1W7_7Y/edit?usp=drive_link&ouid=100029220833717660572&rtpof=true&sd=true
+[1-4]: https://docs.google.com/presentation/d/1P4TI9B8ZANCTQqAa3lwPc6rNLcDj_gtg/edit?usp=drive_link&ouid=100029220833717660572&rtpof=true&sd=true
 [12-1]: https://colab.research.google.com/drive/1OXpZBLp2tyodK7wCeExKMuwYEqVRa637
 [12-2]: https://colab.research.google.com/drive/1OXtDgpn5-FSLvJBawzZp2GpPCdOe5hmB
 [12-3]: https://colab.research.google.com/drive/1OZAfhO84T6iPl6ZSBC8g88v6QOvodZIM
