@@ -13,6 +13,7 @@ layout: single
 * [Ch3][1-3]
   * [MNIST][13-1], [NN MNIST][13-2], [MNIST Batch][13-3], [ReLU][13-4], [Sigmoid/Step][13-5], [Sigmoid][13-6], [Step][13-7]
 * [Ch4][1-4]
+  * [1D Gradient][14-1], [2D Gradient][14-2], [Gradient][14-3], [simpleNet][14-4], [NN][14-5], [2 Layer][14-6]
 * [Ch5][1-5]
 * [Ch6][1-6]
 * [Ch7][1-7]
@@ -40,5 +41,11 @@ layout: single
 [13-6]: https://colab.research.google.com/drive/1PgovMsHv5oEBe21R2SGXnKS2TDPcc9G9
 [13-7]: https://colab.research.google.com/drive/1Ph8yAwQxHN7RICEnNr5LEjHA-ViPfCr8
 [1-4]: https://docs.google.com/presentation/d/1OzOnHEfkPpJoBZCT9bugNAjyZyI3dGJO/edit?usp=drive_link&ouid=100029220833717660572&rtpof=true&sd=true
+[14-1]: https://colab.research.google.com/drive/1QAtkPwDEtcCsO3CUTVTQs0HZJNgsMPMj
+[14-2]: https://colab.research.google.com/drive/1Q3nRkkE-FQ2yOxkUxAAH5kjHeh8edQfV
+[14-3]: https://colab.research.google.com/drive/1Q18IYHBpiJLCgYKJtK9liwKCsCkMmzw3
+[14-4]: https://colab.research.google.com/drive/1Puo2jiCHt1Eqrhz9d27FxnTZq7_c23Y_
+[14-5]: https://colab.research.google.com/drive/1Pt5o1dqI37QlrIynS_KW-szgrdGWBRuE
+[14-6]: https://colab.research.google.com/drive/1Psi6qsO2PU2lMe9YKMBf3zqx-KLhtvtu
 
 [2-1]: https://github.com/WegraLee/deep-learning-from-scratch-2
