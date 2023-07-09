@@ -19,7 +19,7 @@ layout: single
 * [Ch8][1-8]
 
 ## 2. 밑바닥부터 시작하는 딥러닝 (2)
-* [요약정리][1-11], [github 저장소][1-22]
+* [github 저장소][2-1]
 
 [0-1]: https://www.mindmeister.com/ko/812276967/_?fullscreen=1
 [1-1]: https://preview2.hanbit.co.kr/books/riaq/#p=1
@@ -41,3 +41,4 @@ layout: single
 [13-7]: https://colab.research.google.com/drive/1Ph8yAwQxHN7RICEnNr5LEjHA-ViPfCr8
 [1-4]: https://docs.google.com/presentation/d/1OzOnHEfkPpJoBZCT9bugNAjyZyI3dGJO/edit?usp=drive_link&ouid=100029220833717660572&rtpof=true&sd=true
 
+[2-1]: https://github.com/WegraLee/deep-learning-from-scratch-2
