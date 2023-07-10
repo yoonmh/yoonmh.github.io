@@ -12,7 +12,7 @@ layout: single
 * [Ch2][1-2] : [AND게이트][12-1], [NAND게이트][12-2], [OR게이트][12-3], [XOR게이트][12-4]
 * [Ch3][1-3] : [MNIST][13-1], [NN MNIST][13-2], [MNIST Batch][13-3], [ReLU][13-4], [Sigmoid/Step][13-5], [Sigmoid][13-6], [Step][13-7]
 * [Ch4][1-4] : [1D Gradient][14-1], [2D Gradient][14-2], [Gradient][14-3], [simpleNet][14-4], [NN][14-5], [2 Layer][14-6]
-* [Ch5][1-5]
+* [Ch5][1-5] : [Buy Apple][15-1], [Buy Apple/Orange][15-2], [Gradient Check][15-3], [Naive][14-4], [NN][15-5], [2 Layer][15-6]
 * [Ch6][1-6]
 * [Ch7][1-7]
 * [Ch8][1-8]
@@ -46,6 +46,12 @@ layout: single
 [14-5]: https://colab.research.google.com/drive/1Pt5o1dqI37QlrIynS_KW-szgrdGWBRuE
 [14-6]: https://colab.research.google.com/drive/1Psi6qsO2PU2lMe9YKMBf3zqx-KLhtvtu
 [1-5]: https://drive.google.com/file/d/1OxrpYxUIAmAy39xJS25JL-Wylu76PhWP/view
+[15-1]: https://colab.research.google.com/drive/1Qbe9t90M6CGdE79rsu6_ZQSBK1yUpSci
+[15-2]: https://colab.research.google.com/drive/1QYb8sUR8CuAXEypK0z47w_L3ap3tmE-S
+[15-3]: https://colab.research.google.com/drive/1QY0inr0szulELN1v_GG88tfnq45odPC7
+[15-4]: https://colab.research.google.com/drive/1QUAZASpXnRCZg-5-DSEL2Wg8u4Fhfx7j
+[15-5]: https://colab.research.google.com/drive/1QQrJFBIKKc2HPxcpwu5jAulelnaQwPhm
+[15-6]: https://colab.research.google.com/drive/1QMF5BwXGWuelx--d1krX1Ghc7GDvBQff
 [1-6]: https://drive.google.com/file/d/1Ow4Lq_d_6M5OGn53m8nn4kDYNpkZtTDo/view
 [1-7]: https://drive.google.com/file/d/1Os-HbeMqQ8CZRZ_BCma6IZ0CE_16OyX2/view
 [1-8]: https://drive.google.com/file/d/1OiP6IYXVOUX9l3pR-FGb7k5lsSRtzjS3/view
