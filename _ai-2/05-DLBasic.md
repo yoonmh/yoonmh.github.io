@@ -8,7 +8,7 @@ layout: single
 
 ## 1. 밑바닥부터 시작하는 딥러닝 ([보기][1-0])
 * [요약정리][1-11], [github 저장소][1-22]
-* [Ch1][1-1]
+* [Ch1][1-1] : [Image][11-1], [Graph][11-2], [SIN/COS][11-3], [SIN][11-4]
 * [Ch2][1-2] : [AND게이트][12-1], [NAND게이트][12-2], [OR게이트][12-3], [XOR게이트][12-4]
 * [Ch3][1-3] : [MNIST][13-1], [NN MNIST][13-2], [MNIST Batch][13-3], [ReLU][13-4], [Sigmoid/Step][13-5], [Sigmoid][13-6], [Step][13-7]
 * [Ch4][1-4] : [1D Gradient][14-1], [2D Gradient][14-2], [Gradient][14-3], [simpleNet][14-4], [NN][14-5], [2 Layer][14-6]
@@ -25,6 +25,10 @@ layout: single
 [1-11]: https://nbviewer.org/github/SDRLurker/deep-learning/blob/master/%EB%AA%A9%EC%B0%A8.ipynb
 [1-22]: https://github.com/WegraLee/deep-learning-from-scratch
 [1-1]: https://drive.google.com/file/d/1P5xcmvA_mS4VKhaCIi0pMheV9N1W7_7Y/view
+[11-1]: https://colab.research.google.com/drive/1QjmXFsN1snCBq2SLMnFSsfb4nec2yeO5
+[11-2]: https://colab.research.google.com/drive/1R0y4LBuW43CvXDI4RxKhJZjMCzsmbd1_
+[11-3]: https://colab.research.google.com/drive/1R0S_Yl6TV3tOJHnhCLtNfH7d0YQfHlEQ
+[11-4]: https://colab.research.google.com/drive/1QzQi3YAW9N43ECRYPDQKEO35JN4gRfju
 [1-2]: https://drive.google.com/file/d/1P4TI9B8ZANCTQqAa3lwPc6rNLcDj_gtg/view
 [12-1]: https://colab.research.google.com/drive/1OXpZBLp2tyodK7wCeExKMuwYEqVRa637
 [12-2]: https://colab.research.google.com/drive/1OXtDgpn5-FSLvJBawzZp2GpPCdOe5hmB
