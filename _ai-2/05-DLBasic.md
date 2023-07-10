@@ -26,7 +26,7 @@ layout: single
 [1-0]: https://preview2.hanbit.co.kr/books/riaq/#p=1
 [1-11]: https://nbviewer.org/github/SDRLurker/deep-learning/blob/master/%EB%AA%A9%EC%B0%A8.ipynb
 [1-22]: https://github.com/WegraLee/deep-learning-from-scratch
-[1-1]: https://drive.google.com/drive/folders/1OczCJsTO0fiOz_GyFgp70hB9DZlnOvee
+[1-1]: https://drive.google.com/drive/folders/1OczCJsTO0fiOz_GyFgp70hB9DZlnOvee?q=parent:1OczCJsTO0fiOz_GyFgp70hB9DZlnOvee
 [1-2]: https://docs.google.com/presentation/d/1P4TI9B8ZANCTQqAa3lwPc6rNLcDj_gtg/edit?usp=drive_link&ouid=100029220833717660572&rtpof=true&sd=true
 [12-1]: https://colab.research.google.com/drive/1OXpZBLp2tyodK7wCeExKMuwYEqVRa637
 [12-2]: https://colab.research.google.com/drive/1OXtDgpn5-FSLvJBawzZp2GpPCdOe5hmB
