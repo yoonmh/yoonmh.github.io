@@ -4,7 +4,7 @@ layout: single
 ---
 
 > 밑바닥부터 시작하는 딥러닝 ([참고][0-1])
-![참고](https://drive.google.com/drive/folders/1OHc_OD9WHqGxzK7Aj_Se2VKwE2aqBl2V)
+![참고](밑바닥 선수지식.png)
 
 ## 1. 밑바닥부터 시작하는 딥러닝 ([보기][1-0])
 * [요약정리][1-11], [github 저장소][1-22]
