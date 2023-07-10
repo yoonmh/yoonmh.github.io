@@ -20,6 +20,9 @@ layout: single
 ## 2. 밑바닥부터 시작하는 딥러닝 (2) ([보기][2-0])
 * [github 저장소][2-1]
 
+## 2. 밑바닥부터 시작하는 딥러닝 (3) ([보기][3-0])
+* [github 저장소][3-1]
+
 [0-1]: https://www.mindmeister.com/ko/812276967/_?fullscreen=1
 [1-0]: https://preview2.hanbit.co.kr/books/riaq/#p=1
 [1-11]: https://nbviewer.org/github/SDRLurker/deep-learning/blob/master/%EB%AA%A9%EC%B0%A8.ipynb
@@ -62,3 +65,5 @@ layout: single
 
 [2-0]: http://preview2.hanbit.co.kr/books/zcau/#p=1
 [2-1]: https://github.com/WegraLee/deep-learning-from-scratch-2
+[3-0]: https://preview2.hanbit.co.kr/books/jqlw/#p=1
+[3-1]: https://github.com/WegraLee/deep-learning-from-scratch-3
