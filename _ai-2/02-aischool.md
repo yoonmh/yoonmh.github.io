@@ -11,7 +11,8 @@ layout: single
 2. [딥러닝과 자연어처리, word2vec][2]
   * [Projector][2-1], [유클리디언 거리][2-2], [Word Embedding][2-3]
 3. [RNN vs FNN][3]
-  * [LSTM 주가예측][3-1]
+  * [Skip-Gram 모델][3-1]. [소프트맥][3-2], [자연어처리][3-3], [wevi][3-4], [LSTM/GRU][3-5], [LSTM][3-6]
+  * [LSTM 주가예측 문제][3-7]
 4. [기계번역, sequence-to-sequence]
   
 5. [Transformer(1)]
@@ -39,4 +40,10 @@ layout: single
 [2-3]: http://ronxin.github.io/wevi/
 [3]: https://drive.google.com/file/d/1OHAJ9YDez0dHTuLjz4cJSujckpxBs0LD/view?usp=drive_link
 [3]: https://drive.google.com/file/d/1SKUEehNAv4lROIzTjLlSlQhoBj6oGRyD/view
-[3-1]: https://colab.research.google.com/drive/1SM6jPefAPgWqkuFj8xbu74TAVt3viwOl
+[3-1]: https://aegis4048.github.io/demystifying_neural_network_in_skip_gram_language_modeling
+[3-2]: https://www.youtube.com/watch?v=K7HTd_Zgr3w&t=1s
+[3-3]: https://wikidocs.net/35476
+[3-4]: http://ronxin.github.io/wevi/
+[3-5]: https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+[3-6]: https://www.youtube.com/watch?v=YCzL96nL7j0&t=696s
+[3-7]: https://colab.research.google.com/drive/1SM6jPefAPgWqkuFj8xbu74TAVt3viwOl
