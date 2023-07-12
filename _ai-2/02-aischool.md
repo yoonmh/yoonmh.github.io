@@ -11,7 +11,7 @@ layout: single
 2. [딥러닝과 자연어처리, word2vec][2]
   * [Projector][2-1], [유클리디언 거리][2-2], [Word Embedding][2-3]
 3. [RNN vs FNN][3]
-
+  * [LSTM 주가예측][3-1]
 4. [기계번역, sequence-to-sequence]
   
 5. [Transformer(1)]
@@ -22,7 +22,7 @@ layout: single
 
 8. [최근 언어모델]
 
-[1]: https://drive.google.com/file/d/17Io8Rfu_ZpAqE86tvJf4HnZ62uY5i0fZ/view?usp=drive_link
+[1]: https://drive.google.com/file/d/17Io8Rfu_ZpAqE86tvJf4HnZ62uY5i0fZ/view
 [1-1]: https://drive.google.com/file/d/18G_SlLZI7k5TNvLYT-aWG5qkOgV8MNrH/view?usp=drive_link
 [1-2]: https://www.geeksforgeeks.org/implementing-models-of-artificial-neural-network/
 [1-3]: https://towardsdatascience.com/rosenblatts-perceptron-the-very-first-neural-network-37a3ec09038a
@@ -33,9 +33,10 @@ layout: single
 [1-8]: https://machinelearningmastery.com/the-chain-rule-of-calculus-for-univariate-and-multivariate-functions/
 [1-9]: https://www.youtube.com/watch?v=1Q_etC_GHHk
 [1-10]: https://www.youtube.com/watch?v=aircAruvnKk&t=760s
-[2]: https://drive.google.com/file/d/17KNZwCsGHFNE-Oo-g4lVrphEOf18O4ke/view?usp=drive_link
+[2]: https://drive.google.com/file/d/17KNZwCsGHFNE-Oo-g4lVrphEOf18O4ke/view
 [2-1]: https://projector.tensorflow.org/
 [2-2]: https://medium.com/@sasi24/cosine-similarity-vs-euclidean-distance-e5d9a9375fc8
 [2-3]: http://ronxin.github.io/wevi/
 [3]: https://drive.google.com/file/d/1OHAJ9YDez0dHTuLjz4cJSujckpxBs0LD/view?usp=drive_link
 [3]: https://drive.google.com/file/d/1SKUEehNAv4lROIzTjLlSlQhoBj6oGRyD/view
+[3-1]: https://colab.research.google.com/drive/1SM6jPefAPgWqkuFj8xbu74TAVt3viwOl
