@@ -11,7 +11,7 @@ layout: single
 2. [딥러닝과 자연어처리, word2vec][2]
   * [Projector][2-1], [유클리디언 거리][2-2], [Word Embedding][2-3]
 3. [RNN vs FNN][3]
-  * [Skip-Gram 모델][3-1]. [소프트맥][3-2], [자연어처리][3-3], [wevi][3-4], [LSTM/GRU][3-5], [LSTM][3-6]
+  * [Skip-Gram 모델][3-1]. [소프트맥스][3-2], [자연어처리][3-3], [wevi][3-4], [LSTM/GRU][3-5], [LSTM][3-6]
   * [LSTM 주가예측 문제][3-7]
 4. [기계번역, sequence-to-sequence]
   
