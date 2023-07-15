@@ -23,6 +23,13 @@ layout: single
 
 8. [최근 언어모델]
 
+## 인공지능융합학교(4기)
+1. [기상 빅뎅터 활용][1]
+2. [자연어 처리][]
+3. [인공지능 비즈니스 모델][]
+4. 
+
+
 [1]: https://drive.google.com/file/d/17Io8Rfu_ZpAqE86tvJf4HnZ62uY5i0fZ/view
 [1-1]: https://drive.google.com/file/d/18G_SlLZI7k5TNvLYT-aWG5qkOgV8MNrH/view?usp=drive_link
 [1-2]: https://www.geeksforgeeks.org/implementing-models-of-artificial-neural-network/
