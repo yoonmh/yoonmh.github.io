@@ -28,8 +28,6 @@ layout: single
 1. [기상 빅데이터터 활용][44-1]
 2. [자연어 처리][44-2]
 3. [인공지능 비즈니스 모델][44-3]
-4. 
-
 
 [1]: https://drive.google.com/file/d/17Io8Rfu_ZpAqE86tvJf4HnZ62uY5i0fZ/view
 [1-1]: https://drive.google.com/file/d/18G_SlLZI7k5TNvLYT-aWG5qkOgV8MNrH/view?usp=drive_link
@@ -64,3 +62,5 @@ layout: single
 [4-6]: https://colab.research.google.com/drive/1Sx6iSrqs9AaBem7ND4d2kfL8MoYo-Izc
 
 [44-1]: https://drive.google.com/file/d/1T-MFl4r48Jw1g6a1QwSYqpvA6I6X84Oy/view
+[44-2]: https://colab.research.google.com/drive/1Sm8ZbmGsGJ_v1q9TCTtKZYXSswYAhIck
+[44-3]: https://drive.google.com/file/d/1SZ6pa_XwQEwruh19Knkixb5HYFBDsRaO/view
