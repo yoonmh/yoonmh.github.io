@@ -25,9 +25,9 @@ layout: single
 8. [최근 언어모델]
 
 ## 인공지능융합학교(4기)
-1. [기상 빅뎅터 활용][1]
-2. [자연어 처리][]
-3. [인공지능 비즈니스 모델][]
+1. [기상 빅데이터터 활용][44-1]
+2. [자연어 처리][44-2]
+3. [인공지능 비즈니스 모델][44-3]
 4. 
 
 
@@ -62,3 +62,5 @@ layout: single
 [4-4]: https://arxiv.org/pdf/1409.3215.pdf
 [4-5]: https://www.davidsbatista.net/blog/2020/01/25/Attention-seq2seq/
 [4-6]: https://colab.research.google.com/drive/1Sx6iSrqs9AaBem7ND4d2kfL8MoYo-Izc
+
+[44-1]: https://drive.google.com/file/d/1T-MFl4r48Jw1g6a1QwSYqpvA6I6X84Oy/view
