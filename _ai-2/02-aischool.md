@@ -14,8 +14,8 @@ layout: single
   * [Skip-Gram 모델][3-1]. [소프트맥스][3-2], [자연어처리][3-3], [wevi][3-4], [LSTM/GRU][3-5], [LSTM][3-6]
   * [LSTM 주가예측 문제][3-7]
 4. [기계번역, sequence-to-sequence][4]
-  * [SGD][4-1], [한땀한땀 딥러닝][4-2], [감정분석][4-3], [Seq-to-Seq][4-4], [Attention][4-5], 
-  * [LSTM 주가예측 문제][3-7]
+  * [SGD][4-1], [한땀한땀 딥러닝][4-2], [감정분석][4-3], [Seq-to-Seq][4-4], [Attention][4-5]
+  * [감정분석 LSTM 문제][4-6]
 5. [Transformer(1)]
  
 6. [Transformer(2)]
@@ -61,3 +61,4 @@ layout: single
 [4-3]: https://happy-jihye.github.io/nlp/nlp-1/
 [4-4]: https://arxiv.org/pdf/1409.3215.pdf
 [4-5]: https://www.davidsbatista.net/blog/2020/01/25/Attention-seq2seq/
+[4-6]: https://colab.research.google.com/drive/1Sx6iSrqs9AaBem7ND4d2kfL8MoYo-Izc
