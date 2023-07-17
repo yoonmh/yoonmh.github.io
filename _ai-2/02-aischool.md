@@ -16,13 +16,9 @@ layout: single
 4. [기계번역, sequence-to-sequence][4]
   * [SGD][4-1], [한땀한땀 딥러닝][4-2], [감정분석][4-3], [Seq-to-Seq][4-4], [Attention][4-5]
   * [감정분석 LSTM 문제][4-6]
-5. [Transformer(1)]
+5. [Transformer]
  
-6. [Transformer(2)]
-
-7. [GPT와 BERT]
-
-8. [최근 언어모델]
+6. [GPT와 BERT]
 
 ## 인공지능융합학교(4기)
 1. [기상 빅데이터터 활용][44-1]
