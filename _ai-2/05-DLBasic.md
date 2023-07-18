@@ -8,14 +8,19 @@ layout: single
 
 ## 1. 밑바닥부터 시작하는 딥러닝 ([보기][1-0])
 * [요약정리][1-11], [github 저장소][1-22]
-* [Ch1][1-1] : [Image][11-1], [Graph][11-2], [SIN/COS][11-3], [SIN][11-4]
-* [Ch2][1-2] : [AND게이트][12-1], [NAND게이트][12-2], [OR게이트][12-3], [XOR게이트][12-4]
-* [Ch3][1-3] : [MNIST][13-1], [NN MNIST][13-2], [MNIST Batch][13-3], [ReLU][13-4], [Sigmoid/Step][13-5], [Sigmoid][13-6], [Step][13-7]
-* [Ch4][1-4] : [1D Gradient][14-1], [2D Gradient][14-2], [Gradient][14-3], [simpleNet][14-4], [NN][14-5], [2 Layer][14-6]
-* [Ch5][1-5] : [Buy Apple][15-1], [Buy Apple/Orange][15-2], [Gradient Check][15-3], [Naive][14-4], [NN][15-5], [2 Layer][15-6]
-* [Ch6][1-6]
-* [Ch7][1-7]
-* [Ch8][1-8]
+* [Ch1. 헬로 파이썬][1-1]
+  * [Image][11-1], [Graph][11-2], [SIN/COS][11-3], [SIN][11-4]
+* [Ch2. 퍼셉트론][1-2]
+  * [AND게이트][12-1], [NAND게이트][12-2], [OR게이트][12-3], [XOR게이트][12-4]
+* [Ch3. 신경망][1-3]
+  * [MNIST][13-1], [NN MNIST][13-2], [MNIST Batch][13-3], [ReLU][13-4], [Sigmoid/Step][13-5], [Sigmoid][13-6], [Step][13-7]
+* [Ch4. 신경망 학습][1-4]
+  * [1D Gradient][14-1], [2D Gradient][14-2], [Gradient][14-3], [simpleNet][14-4], [NN][14-5], [2 Layer][14-6]
+* [Ch5. 오차역전파법][1-5]
+  * [Buy Apple][15-1], [Buy Apple/Orange][15-2], [Gradient Check][15-3], [Naive][14-4], [NN][15-5], [2 Layer][15-6]
+* [Ch6. 학습 관련 기술들][1-6]
+* [Ch7. 합성곱 신경망(CNN)][1-7]
+* [Ch8. 딥러닝][1-8]
 
 ## 2. 밑바닥부터 시작하는 딥러닝 (2) ([보기][2-0])
 * [github 저장소][2-1]
