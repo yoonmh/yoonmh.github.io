@@ -63,6 +63,9 @@ layout: single
   * Word embeddings : [Mikolov][52-r1]
   * Language model : [Bengio][52-r2]
   * Skip-gram : [Mokolov][52-r3]
+  * Negative sampling : [Mikolov][52-r4]
+  * GloVe  :  [Pennington][52-r5]
+  * Debiasing : [Bolikbasi][52-r6]
   * [Word Vectors 과제][52-2], [Emojify 과제][52-3]
 * Sequence Models & Attention Mechanism : [강의자료][53-1]
   * [Machine Translation 과제][53-2], [Word Detection 과제][53-3]
@@ -72,9 +75,12 @@ layout: single
 [51-r1]: https://arxiv.org/abs/1409.1259
 [51-r2]: https://arxiv.org/abs/1412.3555
 [51-r3]: https://drive.google.com/file/d/1TStzOWFm0mnWLzbgWpHN7Hainj-L9tF7/view
-[52-r1]: https://arxiv.org/abs/1310.4546
+[52-r1]: https://drive.google.com/file/d/1ToGCqoS7iUDyB6zVSaxdWI90e-bFIe7e/view
 [52-r2]: https://drive.google.com/file/d/1TfY3Cl0g6vfK8mVxmPMI6Mpd0hTuY12U/view
 [52-r3]: https://arxiv.org/abs/1301.3781
+[52-r4]: https://arxiv.org/abs/1310.4546
+[52-r5]: https://aclanthology.org/D14-1162/
+[52-r6]: https://arxiv.org/abs/1607.06520
 
 
 [11-1]: https://drive.google.com/file/d/1GIEIQCNqA3ZGAeLyKJNwJQq9bZ0p8DOH/view?usp=drive_link
