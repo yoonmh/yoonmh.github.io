@@ -57,11 +57,12 @@ layout: single
 ## 5. Sequence Models
 * Recurrent Neural Networks : [강의자료][51-1]
   * GRU : [Cho][51-r1], [Chung][51-r2]
-  * LSTM : [][51-r3]
+  * LSTM : [Hochreiter][51-r3]
   * [RNN 과제][51-2], [Dinosaurus Island 과제][51-3], [Jazz Improvisation 과제][51-4]
 * Natural Language Processing & Word Embedding : [강의자료][52-1]
-  * Word embeddings : Word2Vec & Glove : 
-  * Negative sampling : [Mikolov][52-r1]
+  * Word embeddings : [Mikolov][52-r1]
+  * Language model : [Bengio][52-r2]
+  * Skip-gram : [Mokolov][52-r3]
   * [Word Vectors 과제][52-2], [Emojify 과제][52-3]
 * Sequence Models & Attention Mechanism : [강의자료][53-1]
   * [Machine Translation 과제][53-2], [Word Detection 과제][53-3]
@@ -70,7 +71,11 @@ layout: single
 
 [51-r1]: https://arxiv.org/abs/1409.1259
 [51-r2]: https://arxiv.org/abs/1412.3555
+[51-r3]: https://drive.google.com/file/d/1TStzOWFm0mnWLzbgWpHN7Hainj-L9tF7/view
 [52-r1]: https://arxiv.org/abs/1310.4546
+[52-r2]: https://drive.google.com/file/d/1TfY3Cl0g6vfK8mVxmPMI6Mpd0hTuY12U/view
+[52-r3]: https://arxiv.org/abs/1301.3781
+
 
 [11-1]: https://drive.google.com/file/d/1GIEIQCNqA3ZGAeLyKJNwJQq9bZ0p8DOH/view?usp=drive_link
 [11-2]: https://drive.google.com/file/d/1GgookSh9VQFDr1q6Uf3B9uGPJPyJgKv8/view?usp=drive_link
