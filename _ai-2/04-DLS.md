@@ -68,6 +68,10 @@ layout: single
   * Debiasing : [Bolikbasi][52-r6]
   * [Word Vectors 과제][52-2], [Emojify 과제][52-3]
 * Sequence Models & Attention Mechanism : [강의자료][53-1]
+  * Sequence to Sequence : [Sutskver][53-r1], [Cho][53-r2]
+  * Image captioning : [Mao][53-r3], [Vinyals][53-r4], [Karpathy][53-r5]
+  * Blau score : [Papineni][53-r6]
+  * Attention : [Bahdanau][53-r7], [Xu][53-r8]
   * [Machine Translation 과제][53-2], [Word Detection 과제][53-3]
 * Transformer Network : [강의자료][54-1]
   * [Transformers 과제][54-2], [Transformer Pre-processing 과제][54-3], [Transformer Application #1][54-4], [Transformer Application #2][54-5]
@@ -81,7 +85,14 @@ layout: single
 [52-r4]: https://arxiv.org/abs/1310.4546
 [52-r5]: https://aclanthology.org/D14-1162/
 [52-r6]: https://arxiv.org/abs/1607.06520
-
+[53-r1]: https://arxiv.org/abs/1409.3215
+[53-r2]: https://arxiv.org/abs/1406.1078
+[53-r3]: https://arxiv.org/abs/1412.6632
+[53-r4]: https://arxiv.org/abs/1411.4555
+[53-r5]: https://arxiv.org/abs/1412.2306
+[53-r6]: https://aclanthology.org/P02-1040/
+[53-r7]: https://arxiv.org/abs/1409.0473
+[53-r8]: https://proceedings.mlr.press/v37/xuc15.html
 
 [11-1]: https://drive.google.com/file/d/1GIEIQCNqA3ZGAeLyKJNwJQq9bZ0p8DOH/view?usp=drive_link
 [11-2]: https://drive.google.com/file/d/1GgookSh9VQFDr1q6Uf3B9uGPJPyJgKv8/view?usp=drive_link
