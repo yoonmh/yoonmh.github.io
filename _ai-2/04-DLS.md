@@ -60,12 +60,7 @@ layout: single
   * LSTM : [Hochreiter][51-r3]
   * [RNN 과제][51-2], [Dinosaurus Island 과제][51-3], [Jazz Improvisation 과제][51-4]
 * Natural Language Processing & Word Embedding : [강의자료][52-1]
-  * Word embeddings : [Mikolov][52-r1]
-  * Language model : [Bengio][52-r2]
-  * Skip-gram : [Mokolov][52-r3]
-  * Negative sampling : [Mikolov][52-r4]
-  * GloVe  :  [Pennington][52-r5]
-  * Debiasing : [Bolikbasi][52-r6]
+  * [Word embeddings][52-r1], [Language model][52-r2], [Skip-gram][52-r3], [Negative sampling][52-r4], [GloVe][52-r5], [Debiasing][52-r6]
   * [Word Vectors 과제][52-2], [Emojify 과제][52-3]
 * Sequence Models & Attention Mechanism : [강의자료][53-1]
   * Sequence to Sequence : [Sutskver][53-r1], [Cho][53-r2]
@@ -76,7 +71,7 @@ layout: single
 * Transformer Network : [강의자료][54-1]
   * [Transformers 과제][54-2], [Transformer Pre-processing 과제][54-3], [Transformer Application #1][54-4], [Transformer Application #2][54-5]
 
-[51-r1]: https://arxiv.org/abs/1409.1259
+[51-r1]: https://aclanthology.org/N13-1090/
 [51-r2]: https://arxiv.org/abs/1412.3555
 [51-r3]: https://drive.google.com/file/d/1TStzOWFm0mnWLzbgWpHN7Hainj-L9tF7/view
 [52-r1]: https://drive.google.com/file/d/1ToGCqoS7iUDyB6zVSaxdWI90e-bFIe7e/view
