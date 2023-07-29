@@ -10,7 +10,7 @@ layout: single
   * [(1)CNN][1-1], [(2)MP모델][1-2], [(3)Perceptron][1-3], [(4)다층퍼셉트론][1-4], [(5)XOR문제][1-5]
   * [(6)][1-6], [(7)][1-7], [(8)Backpropagation][1-8], [(9)][1-9], [(10)][1-10]
 2. 딥러닝과 자연어처리, word2vec ([영상][22-1]. [자료][22-2]) 
-  * [Projector][2-1], [유클리디언 거리][2-2], [Word Embedding][2-3]
+  * [(1)Projector][2-1], [(2)유클리디언 거리][2-2], [(3)Word Embedding][2-3]
 3. RNN vs FNN ([영상][33-1]. [자료][33-2]) 
   * [(1)Skip-Gram][3-1]. [(2)소프트맥스][3-2], [(3)자연어처리][3-3], [(4)wevi][3-4], [(5)LSTM/GRU][3-5], [(6)LSTM][3-6]
   * [LSTM 주가예측 문제][3-7]
@@ -20,7 +20,7 @@ layout: single
 5. Transformer ([영상][55-1], [자료][55-2])
   * [(1)Attention][5-1], [(2)Transfomer][5-2], [(3)Transfomer][5-3], [(4)Transfomer][5-4], [(5)Transfomer][5-5]
   * [(6)Transfomer][5-6]
-6. [GPT와 BERT]
+6. GPT와 BERT ([영상][66-1], [자료][66-2])
 
 ## 인공지능융합학교(4기)
 1. [기상 빅데이터터 활용][41-1]
@@ -69,6 +69,8 @@ layout: single
 [5-4]: http://incredible.ai/nlp/2020/02/29/Transformer/
 [5-5]: https://jalammar.github.io/illustrated-transformer/
 [5-6]: https://www.kdnuggets.com/2020/10/understanding-transformers-data-science-way.html
+[66-1]: https://youtu.be/b6GHCRvUWBs
+[66-2]: https://drive.google.com/file/d/1TyyLu5c38iHRz37qXTTQuPnSYh-UXACk/view
 
 [41-1]: https://drive.google.com/file/d/1T-MFl4r48Jw1g6a1QwSYqpvA6I6X84Oy/view
 [42-2]: https://colab.research.google.com/drive/1Sm8ZbmGsGJ_v1q9TCTtKZYXSswYAhIck
