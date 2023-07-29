@@ -18,7 +18,8 @@ layout: single
   * [(1)SGD][4-1], [(2)한땀한땀 딥러닝][4-2], [(3)감정분석][4-3], [(4)Seq-to-Seq][4-4], [(5)Attention][4-5]
   * [감정분석 LSTM 문제][4-6]
 5. Transformer ([영상][55-1], [자료][55-2])
- 
+  * [(1)Attention][5-1], [(2)Transfomer][5-2], [(3)Transfomer][5-3], [(4)Transfomer][5-4], [(5)Transfomer][5-5]
+  * [(6)Transfomer][5-6]
 6. [GPT와 BERT]
 
 ## 인공지능융합학교(4기)
@@ -62,6 +63,12 @@ layout: single
 [4-6]: https://colab.research.google.com/drive/1Sx6iSrqs9AaBem7ND4d2kfL8MoYo-Izc
 [55-1]: https://www.youtube.com/watch?v=v6FXxbMysuk
 [55-2]: https://drive.google.com/file/d/1TwMc-K0syxK7xDZH_BqIKwvzPc_4qWJF/view
+[5-1]: https://lilianweng.github.io/posts/2018-06-24-attention/
+[5-2]: https://www.blossominkyung.com/deeplearning/transfomer-positional-encoding
+[5-3]: https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/
+[5-4]: http://incredible.ai/nlp/2020/02/29/Transformer/
+[5-5]: https://jalammar.github.io/illustrated-transformer/
+[5-6]: https://www.kdnuggets.com/2020/10/understanding-transformers-data-science-way.html
 
 [41-1]: https://drive.google.com/file/d/1T-MFl4r48Jw1g6a1QwSYqpvA6I6X84Oy/view
 [42-2]: https://colab.research.google.com/drive/1Sm8ZbmGsGJ_v1q9TCTtKZYXSswYAhIck
