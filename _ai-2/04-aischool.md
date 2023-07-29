@@ -8,7 +8,8 @@ layout: single
 ## 인공지능융합학교(5기)
 1. 머신러닝과 인공지능 기초 ([영상][11-1]. [자료][11-2]) 
   * [CNN][1-1], [맥클럭-피츠 모델][1-2], [Perceptron][1-3], [다층 퍼셉트론][1-4], [XOR 문제][1-5]
-2. [딥러닝과 자연어처리, word2vec][2]
+  * [6][1-6], [7][1-7], [8][1-8], [9][1-9], [10],[1-10]
+2. 딥러닝과 자연어처리, word2vec ([영상][22-1]. [자료][22-2]) 
   * [Projector][2-1], [유클리디언 거리][2-2], [Word Embedding][2-3]
 3. [RNN vs FNN][3]
   * [Skip-Gram 모델][3-1]. [소프트맥스][3-2], [자연어처리][3-3], [wevi][3-4], [LSTM/GRU][3-5], [LSTM][3-6]
@@ -37,7 +38,8 @@ layout: single
 [1-8]: https://machinelearningmastery.com/the-chain-rule-of-calculus-for-univariate-and-multivariate-functions/
 [1-9]: https://www.youtube.com/watch?v=1Q_etC_GHHk
 [1-10]: https://www.youtube.com/watch?v=aircAruvnKk&t=760s
-[2]: https://drive.google.com/file/d/17KNZwCsGHFNE-Oo-g4lVrphEOf18O4ke/view
+[22-1]: https://youtu.be/ocK7s0smPE4
+[22-2]: https://drive.google.com/file/d/17KNZwCsGHFNE-Oo-g4lVrphEOf18O4ke/view
 [2-1]: https://projector.tensorflow.org/
 [2-2]: https://medium.com/@sasi24/cosine-similarity-vs-euclidean-distance-e5d9a9375fc8
 [2-3]: http://ronxin.github.io/wevi/
