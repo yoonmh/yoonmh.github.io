@@ -13,7 +13,7 @@ layout: single
 3. [RNN vs FNN][3]
   * [Skip-Gram 모델][3-1]. [소프트맥스][3-2], [자연어처리][3-3], [wevi][3-4], [LSTM/GRU][3-5], [LSTM][3-6]
   * [LSTM 주가예측 문제][3-7]
-4. [기계번역, sequence-to-sequence][4]
+4. 기계번역, sequence-to-sequence ([영상][40-1], [자료][40-2])
   * [SGD][4-1], [한땀한땀 딥러닝][4-2], [감정분석][4-3], [Seq-to-Seq][4-4], [Attention][4-5]
   * [감정분석 LSTM 문제][4-6]
 5. [Transformer]
@@ -49,13 +49,16 @@ layout: single
 [3-5]: https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
 [3-6]: https://www.youtube.com/watch?v=YCzL96nL7j0&t=696s
 [3-7]: https://colab.research.google.com/drive/1SM6jPefAPgWqkuFj8xbu74TAVt3viwOl
-[4]: https://drive.google.com/file/d/1SuxgGTd3ktiiqHvNV-AXFUruFcUKMusP/view
+[40-1]: https://youtu.be/gymMaJYEb18
+[40-2]: https://drive.google.com/file/d/1SuxgGTd3ktiiqHvNV-AXFUruFcUKMusP/view
 [4-1]: https://medium.com/@divakar_239/stochastic-vs-batch-gradient-descent-8820568eada1
 [4-2]: https://wikidocs.net/152765
 [4-3]: https://happy-jihye.github.io/nlp/nlp-1/
 [4-4]: https://arxiv.org/pdf/1409.3215.pdf
 [4-5]: https://www.davidsbatista.net/blog/2020/01/25/Attention-seq2seq/
 [4-6]: https://colab.research.google.com/drive/1Sx6iSrqs9AaBem7ND4d2kfL8MoYo-Izc
+[50-1]: https://www.youtube.com/watch?v=v6FXxbMysuk
+[50-2]: https://drive.google.com/file/d/1TwMc-K0syxK7xDZH_BqIKwvzPc_4qWJF/view
 
 [44-1]: https://drive.google.com/file/d/1T-MFl4r48Jw1g6a1QwSYqpvA6I6X84Oy/view
 [44-2]: https://colab.research.google.com/drive/1Sm8ZbmGsGJ_v1q9TCTtKZYXSswYAhIck
