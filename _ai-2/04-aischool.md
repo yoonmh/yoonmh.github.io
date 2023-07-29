@@ -6,7 +6,7 @@ layout: single
 > 서울데이터과학연구회의 인공지능융합학교 5기 강의 내용입니다.
 
 ## 인공지능융합학교(5기)
-1. [머신러닝과 인공지능 기초][1]
+1. 머신러닝과 인공지능 기초 ([영상]][11-1]. [자료][11-2]) 
   * [CNN][1-1], [맥클럭-피츠 모델][1-2], [Perceptron][1-3], [다층 퍼셉트론][1-4], [XOR 문제][1-5]
 2. [딥러닝과 자연어처리, word2vec][2]
   * [Projector][2-1], [유클리디언 거리][2-2], [Word Embedding][2-3]
@@ -25,7 +25,8 @@ layout: single
 2. [자연어 처리][44-2]
 3. [인공지능 비즈니스 모델][44-3]
 
-[1]: https://drive.google.com/file/d/17Io8Rfu_ZpAqE86tvJf4HnZ62uY5i0fZ/view
+[11-1]: https://youtu.be/FvjzPPx5qJQ
+[11-2]: https://drive.google.com/file/d/17Io8Rfu_ZpAqE86tvJf4HnZ62uY5i0fZ/view
 [1-1]: https://drive.google.com/file/d/18G_SlLZI7k5TNvLYT-aWG5qkOgV8MNrH/view?usp=drive_link
 [1-2]: https://www.geeksforgeeks.org/implementing-models-of-artificial-neural-network/
 [1-3]: https://towardsdatascience.com/rosenblatts-perceptron-the-very-first-neural-network-37a3ec09038a
