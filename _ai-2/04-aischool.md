@@ -21,6 +21,7 @@ layout: single
   * [(1)Attention][5-1], [(2)Transfomer][5-2], [(3)Transfomer][5-3], [(4)Transfomer][5-4], [(5)Transfomer][5-5]
   * [(6)Transfomer][5-6]
 6. GPT와 BERT ([영상][66-1], [자료][66-2])
+  * [(1)][6-1], [(2)][6-2], [(3)][6-3], [(4)][6-4], [(5)][6-5]
 
 ## 인공지능융합학교(4기)
 1. [기상 빅데이터터 활용][41-1]
@@ -71,6 +72,11 @@ layout: single
 [5-6]: https://www.kdnuggets.com/2020/10/understanding-transformers-data-science-way.html
 [66-1]: https://youtu.be/b6GHCRvUWBs
 [66-2]: https://drive.google.com/file/d/1TyyLu5c38iHRz37qXTTQuPnSYh-UXACk/view
+[6-1]: https://jalammar.github.io/illustrated-transformer/
+[6-2]: https://towardsdatascience.com/how-to-estimate-the-number-of-parameters-in-transformer-models-ca0f57d8dff0
+[6-3]: https://ko.wikipedia.org/wiki/GPT_(%EC%96%B8%EC%96%B4_%EB%AA%A8%EB%8D%B8)
+[6-4]: https://jalammar.github.io/illustrated-gpt2/
+[6-5]: https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html
 
 [41-1]: https://drive.google.com/file/d/1T-MFl4r48Jw1g6a1QwSYqpvA6I6X84Oy/view
 [42-2]: https://colab.research.google.com/drive/1Sm8ZbmGsGJ_v1q9TCTtKZYXSswYAhIck
