@@ -83,9 +83,10 @@ layout: single
 ## 인공지능기술동향
 * 인공지능거품론과 새로운 가능성(2023.8.5.) ([영상][23-81]. [자료][23-82]) 
 * 인공지능기술동향(2023.6.10.) ([영상][23-61])
+* 인공지능기술동향(2023.4.1.) ([영상][23-41])
 
-  
 [23-81]: https://www.youtube.com/watch?v=jCxgzDqD2ZM
 [23-82]: https://drive.google.com/file/d/1UFIT1AzK6t-Zp17G138S-GdCzOIizyyx/view
 [23-61]: https://www.youtube.com/watch?v=BrzIbAla_GE
+[23-41]: https://www.youtube.com/watch?v=fL-tTEWjnwA
 
