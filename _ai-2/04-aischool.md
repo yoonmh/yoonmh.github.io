@@ -84,4 +84,5 @@ layout: single
 * 인공지능거품론과 새로운 가능성(2023.8.5.) ([영상][23-81]. [자료][23-82]) 
 
 [23-81]: https://www.youtube.com/watch?v=jCxgzDqD2ZM
-[23-82]: https://drive.google.com/file/d/1U9snp1Pu58dNL45TVf8k7-a3Ew0lJrw5/view
+[23-82]: https://drive.google.com/file/d/1UFIT1AzK6t-Zp17G138S-GdCzOIizyyx/view
+
