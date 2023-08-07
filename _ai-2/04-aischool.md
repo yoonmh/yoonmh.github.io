@@ -21,11 +21,6 @@ layout: single
 6. GPT와 BERT ([영상][66-1], [자료][66-2])
   * 참고 : [(1)][6-1], [(2)][6-2], [(3)][6-3], [(4)][6-4], [(5)][6-5]
 
-## 인공지능융합학교(4기)
-1. [기상 빅데이터터 활용][41-1]
-2. [자연어 처리][42-2]
-3. [인공지능 비즈니스 모델][43-3]
-
 [11-1]: https://youtu.be/FvjzPPx5qJQ
 [11-2]: https://drive.google.com/file/d/17Io8Rfu_ZpAqE86tvJf4HnZ62uY5i0fZ/view
 [1-1]: https://drive.google.com/file/d/18G_SlLZI7k5TNvLYT-aWG5qkOgV8MNrH/view?usp=drive_link
@@ -76,6 +71,17 @@ layout: single
 [6-4]: https://jalammar.github.io/illustrated-gpt2/
 [6-5]: https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html
 
+## 인공지능융합학교(4기)
+1. [기상 빅데이터터 활용][41-1]
+2. [자연어 처리][42-2]
+3. [인공지능 비즈니스 모델][43-3]
+
 [41-1]: https://drive.google.com/file/d/1T-MFl4r48Jw1g6a1QwSYqpvA6I6X84Oy/view
 [42-2]: https://colab.research.google.com/drive/1Sm8ZbmGsGJ_v1q9TCTtKZYXSswYAhIck
 [43-3]: https://drive.google.com/file/d/1SZ6pa_XwQEwruh19Knkixb5HYFBDsRaO/view
+
+## 인공지능기술동향
+* 인공지능거품론과 새로운 가능성(2023.8.5.) ([영상][23-81]. [자료][23-82]) 
+
+[23-81]: https://www.youtube.com/watch?v=jCxgzDqD2ZM
+[23-82]: https://drive.google.com/file/d/1U9snp1Pu58dNL45TVf8k7-a3Ew0lJrw5/view
