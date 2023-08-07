@@ -93,4 +93,3 @@ layout: single
 [23-42]: https://drive.google.com/file/d/1UOjyTeUQWRNkaSrfRvgDd7Z_pOmIy9kM/view
 [23-31]: https://www.youtube.com/watch?v=4bY5UD6Hl2I
 [23-32]: https://drive.google.com/file/d/1UOPhYXBFHnHHyrd-jOBvBxiYsfrhT4Wb/view
-
