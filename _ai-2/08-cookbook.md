@@ -1,3 +1,22 @@
+---
+title: "ChatGPT"
+layout: single
+---
+
+> ChatGPT의 모델을 프로그래밍 적인 방법으로 호출할 수 있는 OpenAI API의 사용 호출예 사이트 OpenAI CookBook의 예를 가지고 ChatGPT의 기능과 이외의 기능을 사용하는 방법을 공부합니다.
+
+## 커리큘럼
+
+## 자료
+* ChatGPT_소개.pdf
+* GPT 구조 : from_DNN_to_GPT.pptx
+* 실습 준비 : OpenAI_계정만들기_키만들기_결제정보_입력.pdf
+* OpenAI_API_사용_기초.pdf
+* 회자별_실습내용.md
+
+## 주요링크
+
+
 ## 3. OpenAI Cookbook
 * [ChatGPT 소개][33-1]
 * [ChatGPT 구조][33-2]
