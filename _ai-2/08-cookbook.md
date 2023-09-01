@@ -14,4 +14,14 @@
 * [DeepLearning.ai의 Prompt Engineering 교육][33-9]
 * [OpenAI API 실습자료][33-10]
 
+[33-1]: https://drive.google.com/file/d/16xjN-PxjTl2eK1pGPWZ3t1osLZ4Ny73K
+[33-2]: https://docs.google.com/presentation/d/171LwXWTrK6q7cDLFCT9GyT5gqoy9Kqqr
+[33-3]: https://drive.google.com/file/d/16xELH8gpjXmQPj5kwNgQ69uDfDFk_5CG
+[33-4]: https://drive.google.com/file/d/171miVjHEv9Gv3k4vwAIIoQEEvBBdxsjy/view?usp=drive_link
+[33-5]: https://github.com/openai/openai-cookbook
+[33-6]: https://drive.google.com/file/d/17CrEmVlveJkVk3o9XA4L04TM7pvuw_fw/view?usp=drive_link
+[33-7]: https://platform.openai.com/
+[33-7-1]: https://platform.openai.com/docs/api-reference
+[33-7-2]: https://platform.openai.com/examples
+[33-8]: https://prompts.chat/
 
