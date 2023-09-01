@@ -8,7 +8,7 @@ layout: single
 ## 커리큘럼
 
 ## 자료
-* ChatGPT_소개.pdf
+* [ChatGPT_소개][r1]
 * GPT 구조 : from_DNN_to_GPT.pptx
 * 실습 준비 : OpenAI_계정만들기_키만들기_결제정보_입력.pdf
 * OpenAI_API_사용_기초.pdf
@@ -32,6 +32,8 @@ layout: single
 * [Awesom Prompt][33-8]
 * [DeepLearning.ai의 Prompt Engineering 교육][33-9]
 * [OpenAI API 실습자료][33-10]
+
+[r1]: https://drive.google.com/file/d/1UmD6ij3fw236AlpLS8rSNVb58v_Varxu/view
 
 [33-1]: https://drive.google.com/file/d/16xjN-PxjTl2eK1pGPWZ3t1osLZ4Ny73K
 [33-2]: https://docs.google.com/presentation/d/171LwXWTrK6q7cDLFCT9GyT5gqoy9Kqqr
