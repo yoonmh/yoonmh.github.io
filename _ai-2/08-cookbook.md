@@ -14,7 +14,7 @@ layout: single
  * 2020. 6 GPT3
  * 2022. 11 GPT3-5
  * 2023. 3 GPT4
-* OpenAI에서 GPT3.5를 기반으로 웹인터페이스로 구현한 챗봇 서비스 이름이 ChatGPT. 2023년 4월 현재 GPT4도 적용됨 ([https://chat.openai.com/][ttps://chat.openai.com/])
+* OpenAI에서 GPT3.5를 기반으로 웹인터페이스로 구현한 챗봇 서비스 이름이 ChatGPT. 2023년 4월 현재 GPT4도 적용됨 ([https://chat.openai.com/][https://chat.openai.com/])
 
 ## 자료
 * [ChatGPT_소개][r1]
