@@ -5,14 +5,16 @@ layout: single
 
 > OpenAI CookBook의 예를 통해 ChatGPT의 기능과 동작을 학습
 
-## ChatGPT_소개
+## ChatGPT 주요 링크
 * OpenAI 홈 : [https://openai.com/][1-1]
 * ChatGPT 홈 : [https://chat.openai.com/][1-2]
 * OpenAI Platform 홈 : [https://platform.openai.com/][1-3]
   * API 레퍼런스 : [https://platform.openai.com/docs/api-reference][1-4]
   * 웹에서 설명한 사용 예제 : [https://platform.openai.com/examples][1-5]
 * OpenAI API CookBook : [https://github.com/openai/openai-cookbook][1-6]
-* ChatGPT API Key 발급 (OpenAI Platform에서)
+
+## ChatGPT 계정 만들기
+* ChatGPT API Key 발급 ([OpenAI Platform][1-3])
   * 오른쪽 상단 유저 프로파일에서 [View API Keys][1-7] 클릭
   * 중간에 + Create new secret key 버튼을 누르고 API Key 생성
   * 왼쪽 메뉴 [Usage][1-8]에서 사용량 확인(처음 계정을 만들면 $5 credit을 줌)
