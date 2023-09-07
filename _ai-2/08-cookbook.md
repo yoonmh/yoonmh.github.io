@@ -8,12 +8,12 @@ layout: single
 ## ChatGPT_소개
 * Tranformer 모델을 기반으로 한 거대자연어처리모델(LLM; Large Language Model)
 * OpenAI에서 GPT, GPT2, GPT3, GPT3.5, GPT4 모델을 개발함
- * 2017. 6. Transformer
- * 2018. 6. GPT
- * 2019. 5. GPT2
- * 2020. 6 GPT3
- * 2022. 11 GPT3-5
- * 2023. 3 GPT4
+ * 2017년 6월 Transformer
+ * 2018년 6월 GPT
+ * 2019년 5월 GPT2
+ * 2020년 6월 GPT3
+ * 2022년 11월 GPT3-5
+ * 2023년 3월 GPT4
 * OpenAI에서 GPT3.5를 기반으로 웹인터페이스로 구현한 챗봇 서비스 이름이 ChatGPT. 2023년 4월 현재 GPT4도 적용됨 ([https://chat.openai.com/][https://chat.openai.com/])
 
 ## 자료
