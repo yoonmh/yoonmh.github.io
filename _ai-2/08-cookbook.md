@@ -30,10 +30,16 @@ layout: single
 
 ## OpenAI API CookBook
 * [Github Cookbook][1-6]에서 Codespace 생성
-* [호출 최소 코드][3-1]
-* [Tiny Chatbot][3-2]
-* [How to format inputs to ChatGPT models][3-3]
-* [How to count kokens with tictoken][3-4]
+* 호출 기본 방법
+  * [호출 최소 코드][3-1]
+  * [Tiny Chatbot][3-2]
+  * [How to format inputs to ChatGPT models][3-3]
+* 토커니아징
+  * [How to count kokens with tictoken][3-4]
+* 입베딩
+  * [임베딩 소개글][3-5]
+  * [Get embeddings][3-6]
+  * [Obtain dataset][3-7]
   
 ## 자료
 * [ChatGPT_소개][r1]
@@ -76,6 +82,9 @@ layout: single
 [3-2]: https://colab.research.google.com/drive/1VavGIkcKpDc7A-jxCxCp5eTMOjye0PR6
 [3-3]: https://colab.research.google.com/drive/1VeLmhmG5i2493jUTnmmq71idq9LciFqw
 [3-4]: https://colab.research.google.com/drive/1VcxZe0e_aUjMrAHjMyPzdPalLmGnZ1VJ
+[3-5]: https://openai.com/blog/introducing-text-and-code-embeddings
+[3-6]: https://colab.research.google.com/drive/1VogjSe_EehtPxr4Ply7_I6ZxCu2GSACU
+[3-7]: https://colab.research.google.com/drive/1VjN8ahHeWdEicMfBD6yMqqpOshXMcBWb
 
 
 [r1]: https://drive.google.com/file/d/1UmD6ij3fw236AlpLS8rSNVb58v_Varxu/view
