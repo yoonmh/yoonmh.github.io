@@ -3,9 +3,18 @@ title: "ChatGPT Cookbook"
 layout: single
 ---
 
-> ChatGPT의 모델을 프로그래밍 적인 방법으로 호출할 수 있는 OpenAI API의 사용 호출예 사이트 OpenAI CookBook의 예를 가지고 ChatGPT의 기능과 이외의 기능을 사용하는 방법을 공부합니다.
+> OpenAI CookBook의 예를 통해 ChatGPT의 기능과 동작을 학습
 
-## 커리큘럼
+## ChatGPT_소개
+* Tranformer 모델을 기반으로 한 거대자연어처리모델(LLM; Large Language Model)
+* OpenAI에서 GPT, GPT2, GPT3, GPT3.5, GPT4 모델을 개발함
+ * 2017. 6. Transformer
+ * 2018. 6. GPT
+ * 2019. 5. GPT2
+ * 2020. 6 GPT3
+ * 2022. 11 GPT3-5
+ * 2023. 3 GPT4
+* OpenAI에서 GPT3.5를 기반으로 웹인터페이스로 구현한 챗봇 서비스 이름이 ChatGPT. 2023년 4월 현재 GPT4도 적용됨 ([https://chat.openai.com/][ttps://chat.openai.com/])
 
 ## 자료
 * [ChatGPT_소개][r1]
