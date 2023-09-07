@@ -32,7 +32,8 @@ layout: single
 * [Github Cookbook][1-6]에서 Codespace 생성
 * [호출 최소 코드][3-1]
 * [Tiny Chatbot][3-2]
-* [How to count kokens with tictoken][3-3]
+* [How to format inputs to ChatGPT models][3-3]
+* [How to count kokens with tictoken][3-4]
   
 ## 자료
 * [ChatGPT_소개][r1]
@@ -73,7 +74,8 @@ layout: single
 [2-5]: https://platform.openai.com/docs/guides/fine-tuning
 [3-1]: https://colab.research.google.com/drive/1VaqyTynVRLQ0ZOtGCC69e6uwLLs6EYRD
 [3-2]: https://colab.research.google.com/drive/1VavGIkcKpDc7A-jxCxCp5eTMOjye0PR6
-[3-3]: https://colab.research.google.com/drive/1VcxZe0e_aUjMrAHjMyPzdPalLmGnZ1VJ
+[3-3]: https://colab.research.google.com/drive/1VeLmhmG5i2493jUTnmmq71idq9LciFqw
+[3-4]: https://colab.research.google.com/drive/1VcxZe0e_aUjMrAHjMyPzdPalLmGnZ1VJ
 
 
 [r1]: https://drive.google.com/file/d/1UmD6ij3fw236AlpLS8rSNVb58v_Varxu/view
