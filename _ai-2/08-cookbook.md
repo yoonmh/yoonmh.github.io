@@ -28,6 +28,11 @@ layout: single
 * Examples : [https://platform.openai.com/examples][2-4]
 * 파인튜닝 공식 문서 : [https://platform.openai.com/docs/guides/fine-tuning][2-5]
 
+## OpenAI API CookBook
+* [Github Cookbook][1-6]에서 Codespace 생성
+* [호출 최소 코드][3-1]
+* [Tiny Chatbot][3-2]
+  
 ## 자료
 * [ChatGPT_소개][r1]
 * GPT 구조 : from_DNN_to_GPT.pptx
@@ -63,12 +68,15 @@ layout: single
 [1-7]: https://platform.openai.com/account/api-keys
 [1-8]: https://platform.openai.com/account/usage
 [1-9]: https://platform.openai.com/account/billing/overview
-
 [2-1]: https://platform.openai.com/playground
 [2-2]: https://platform.openai.com/docs/introduction
 [2-3]: https://platform.openai.com/docs/api-reference
 [2-4]: https://platform.openai.com/examples
 [2-5]: https://platform.openai.com/docs/guides/fine-tuning
+[3-1]: https://colab.research.google.com/drive/1VaqyTynVRLQ0ZOtGCC69e6uwLLs6EYRD
+[3-2]: https://colab.research.google.com/drive/1VavGIkcKpDc7A-jxCxCp5eTMOjye0PR6
+
+
 
 [r1]: https://drive.google.com/file/d/1UmD6ij3fw236AlpLS8rSNVb58v_Varxu/view
 
