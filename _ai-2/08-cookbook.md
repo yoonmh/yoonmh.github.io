@@ -19,6 +19,13 @@ layout: single
   * 중간에 + Create new secret key 버튼을 누르고 API Key 생성
   * 왼쪽 메뉴 [Usage][1-8]에서 사용량 확인(처음 계정을 만들면 $5 credit을 줌)
 
+## OpenAI API
+* playground : [https://platform.openai.com/playground][2-1]
+* doc 홈 : [https://platform.openai.com/docs/introduction][2-2]
+* Reference 홈 : [https://platform.openai.com/docs/api-reference][2-3]
+* Examples : [https://platform.openai.com/examples][2-4]
+* 파인튜닝 공식 문서 : [https://platform.openai.com/docs/guides/fine-tuning][2-5]
+
 ## 자료
 * [ChatGPT_소개][r1]
 * GPT 구조 : from_DNN_to_GPT.pptx
@@ -53,6 +60,12 @@ layout: single
 [1-6]: https://github.com/openai/openai-cookbook
 [1-7]: https://platform.openai.com/account/api-keys
 [1-8]: https://platform.openai.com/account/usage
+
+[2-1]: https://platform.openai.com/playground
+[2-2]: https://platform.openai.com/docs/introduction
+[2-3]: https://platform.openai.com/docs/api-reference
+[2-4]: https://platform.openai.com/examples
+[2-5]: https://platform.openai.com/docs/guides/fine-tuning
 
 [r1]: https://drive.google.com/file/d/1UmD6ij3fw236AlpLS8rSNVb58v_Varxu/view
 
