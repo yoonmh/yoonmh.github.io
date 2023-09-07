@@ -19,6 +19,7 @@ layout: single
   * 중간에 + Create new secret key 버튼을 누르고 API Key 생성
   * 왼쪽 메뉴 [Usage][1-8]에서 사용량 확인(처음 계정을 만들면 $5 credit을 줌)
 * 결제 정보 입력 ([Billing][1-9])
+  * Start payment plan -> Individual -> Setup payment plan
 
 ## OpenAI API
 * playground : [https://platform.openai.com/playground][2-1]
