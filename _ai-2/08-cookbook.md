@@ -7,7 +7,7 @@ layout: single
 
 ## ChatGPT_소개
 * OpenAI 홈 : [https://openai.com/][1-1]
-* ChatGpt 홈 : [https://chat.openai.com/][1-2]
+* ChatGPT 홈 : [https://chat.openai.com/][1-2]
 * OpenAI Platform 홈 : [https://platform.openai.com/][1-3]
   * API 레퍼런스 : [https://platform.openai.com/docs/api-reference][1-4]
   * 웹에서 설명한 사용 예제 : [https://platform.openai.com/examples][1-5]
