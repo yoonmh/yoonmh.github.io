@@ -6,15 +6,12 @@ layout: single
 > OpenAI CookBook의 예를 통해 ChatGPT의 기능과 동작을 학습
 
 ## ChatGPT_소개
-* Tranformer 모델을 기반으로 한 거대자연어처리모델(LLM; Large Language Model)
-* OpenAI에서 GPT, GPT2, GPT3, GPT3.5, GPT4 모델을 개발함
-   * 2017년 6월 Transformer
- * 2018년 6월 GPT
- * 2019년 5월 GPT2
- * 2020년 6월 GPT3
- * 2022년 11월 GPT3-5
- * 2023년 3월 GPT4
-* OpenAI에서 GPT3.5를 기반으로 웹인터페이스로 구현한 챗봇 서비스 이름이 ChatGPT. 2023년 4월 현재 GPT4도 적용됨 ([https://chat.openai.com/][https://chat.openai.com/])
+* OpenAI 홈 : [https://openai.com/][1-1]
+* ChatGpt 홈 : [https://chat.openai.com/][1-2]
+* OpenAI Platform 홈 : [https://platform.openai.com/][1-3]
+  * API 레퍼런스 : [https://platform.openai.com/docs/api-reference][1-4]
+  * 웹에서 설명한 사용 예제 : [https://platform.openai.com/examples][1-5]
+* OpenAI API CookBook : [https://github.com/openai/openai-cookbook][1-6]
 
 ## 자료
 * [ChatGPT_소개][r1]
@@ -41,6 +38,14 @@ layout: single
 * [Awesom Prompt][33-8]
 * [DeepLearning.ai의 Prompt Engineering 교육][33-9]
 * [OpenAI API 실습자료][33-10]
+
+[1-1]: https://openai.com/
+[1-2]: https://chat.openai.com/
+[1-3]: https://platform.openai.com/
+[1-4]: https://platform.openai.com/docs/api-reference
+[1-5]: https://platform.openai.com/examples
+[1-6]: https://github.com/openai/openai-cookbook
+
 
 [r1]: https://drive.google.com/file/d/1UmD6ij3fw236AlpLS8rSNVb58v_Varxu/view
 
