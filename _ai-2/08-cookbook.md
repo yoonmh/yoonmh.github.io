@@ -54,4 +54,6 @@ layout: single
 [33-7-1]: https://platform.openai.com/docs/api-reference
 [33-7-2]: https://platform.openai.com/examples
 [33-8]: https://prompts.chat/
+[33-9]: https://learn.deeplearning.ai/chatgpt-prompt-eng
+[33-10]: https://docs.google.com/presentation/d/178Jj3tLOVmHqCuBSgZ-9EaPZ99pN4MZd
 
