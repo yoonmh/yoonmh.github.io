@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT"
+title: "ChatGPT Cookbook"
 layout: single
 ---
 
