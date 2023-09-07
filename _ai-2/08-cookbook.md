@@ -61,7 +61,7 @@ layout: single
 [1-6]: https://github.com/openai/openai-cookbook
 [1-7]: https://platform.openai.com/account/api-keys
 [1-8]: https://platform.openai.com/account/usage
-[1-9] https://platform.openai.com/account/billing/overview
+[1-9]: https://platform.openai.com/account/billing/overview
 
 [2-1]: https://platform.openai.com/playground
 [2-2]: https://platform.openai.com/docs/introduction
