@@ -40,9 +40,6 @@ layout: single
 * OpenAI_API_사용_기초.pdf
 * 회자별_실습내용.md
 
-## 주요링크
-
-
 ## 3. OpenAI Cookbook
 * [ChatGPT 소개][33-1]
 * [ChatGPT 구조][33-2]
