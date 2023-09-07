@@ -18,6 +18,7 @@ layout: single
   * 오른쪽 상단 유저 프로파일에서 [View API Keys][1-7] 클릭
   * 중간에 + Create new secret key 버튼을 누르고 API Key 생성
   * 왼쪽 메뉴 [Usage][1-8]에서 사용량 확인(처음 계정을 만들면 $5 credit을 줌)
+* 결제 정보 입력 ([Billing][1-9])
 
 ## OpenAI API
 * playground : [https://platform.openai.com/playground][2-1]
@@ -60,6 +61,7 @@ layout: single
 [1-6]: https://github.com/openai/openai-cookbook
 [1-7]: https://platform.openai.com/account/api-keys
 [1-8]: https://platform.openai.com/account/usage
+[1-9] https://platform.openai.com/account/billing/overview
 
 [2-1]: https://platform.openai.com/playground
 [2-2]: https://platform.openai.com/docs/introduction
