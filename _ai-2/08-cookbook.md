@@ -44,8 +44,8 @@ layout: single
   * [Text tokenizing and embedding][3-8]
 * 임베딩을 사용한 사례
   * 검색 : [Semantic text search using embeddings][4-1]
-  * 분류 : Zero-shot_classification_with_embeddings.ipynb
-  * 추천 : Recommendation_using_embeddings.ipynb
+  * 분류 : [Zero-shot classification with embeddings][4-2]
+  * 추천 : [Recommendation using embeddings][4-3]
   
 ## 자료
 * [ChatGPT_소개][r1]
@@ -94,6 +94,8 @@ layout: single
 [3-7]: https://colab.research.google.com/drive/1VjN8ahHeWdEicMfBD6yMqqpOshXMcBWb
 [3-8]: https://colab.research.google.com/drive/1VxXZ4OgsFB0jYs3XG5geFL_um2ECLRqw
 [4-1]: https://colab.research.google.com/drive/1VxXZ4OgsFB0jYs3XG5geFL_um2ECLRqw
+[4-2]: https://colab.research.google.com/drive/1W9Hu0UeFM2pPrezvabKWmy2p7AxfULuo
+[4-3]: https://colab.research.google.com/drive/1W8iq6Pbsesed-GKdsP3dLktiX2apnCe0
 
 [r1]: https://drive.google.com/file/d/1UmD6ij3fw236AlpLS8rSNVb58v_Varxu/view
 
