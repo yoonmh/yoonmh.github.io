@@ -43,7 +43,7 @@ layout: single
 * Word 임베딩 예
   * [Text tokenizing and embedding][3-8]
 * 임베딩을 사용한 사례
-  * 검색 : Semantic_text_search_using_embeddings.ipynb
+  * 검색 : [Semantic text search using embeddings][4-1]
   * 분류 : Zero-shot_classification_with_embeddings.ipynb
   * 추천 : Recommendation_using_embeddings.ipynb
   
@@ -93,7 +93,7 @@ layout: single
 [3-6]: https://colab.research.google.com/drive/1VogjSe_EehtPxr4Ply7_I6ZxCu2GSACU
 [3-7]: https://colab.research.google.com/drive/1VjN8ahHeWdEicMfBD6yMqqpOshXMcBWb
 [3-8]: https://colab.research.google.com/drive/1VxXZ4OgsFB0jYs3XG5geFL_um2ECLRqw
-
+[4-1]: https://colab.research.google.com/drive/1VxXZ4OgsFB0jYs3XG5geFL_um2ECLRqw
 
 [r1]: https://drive.google.com/file/d/1UmD6ij3fw236AlpLS8rSNVb58v_Varxu/view
 
