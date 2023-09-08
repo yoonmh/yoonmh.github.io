@@ -40,6 +40,7 @@ layout: single
   * [임베딩 소개글][3-5]
   * [Get embeddings][3-6]
   * [Obtain dataset][3-7]
+  * Word 임베딩 예 : [Text tokenizing and embedding][3-8]
   
 ## 자료
 * [ChatGPT_소개][r1]
@@ -86,6 +87,7 @@ layout: single
 [3-5]: https://openai.com/blog/introducing-text-and-code-embeddings
 [3-6]: https://colab.research.google.com/drive/1VogjSe_EehtPxr4Ply7_I6ZxCu2GSACU
 [3-7]: https://colab.research.google.com/drive/1VjN8ahHeWdEicMfBD6yMqqpOshXMcBWb
+[3-8]: https://colab.research.google.com/drive/1VxXZ4OgsFB0jYs3XG5geFL_um2ECLRqw
 
 
 [r1]: https://drive.google.com/file/d/1UmD6ij3fw236AlpLS8rSNVb58v_Varxu/view
