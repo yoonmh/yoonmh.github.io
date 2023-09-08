@@ -41,6 +41,9 @@ layout: single
   * [Get embeddings][3-6]
   * [Obtain dataset][3-7]
   * Word 임베딩 예 : [Text tokenizing and embedding][3-8]
+* 임베딩을 사용한 검색 방법 : Semantic_text_search_using_embeddings.ipynb
+* 임베딩을 사용한 분류 방법 : Zero-shot_classification_with_embeddings.ipynb
+* 임베딩을 사용한 추천 방법 : Recommendation_using_embeddings.ipynb
   
 ## 자료
 * [ChatGPT_소개][r1]
