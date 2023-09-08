@@ -3,9 +3,9 @@ title: "ChatGPT Cookbook"
 layout: single
 ---
 
-> OpenAI CookBook의 예를 통해 ChatGPT의 기능과 동작을 학습([인도형 Github 참조][0])
+> OpenAI CookBook의 예를 통해 ChatGPT의 기능과 동작을 학습
 
-## ChatGPT 주요 링크
+## ChatGPT 주요 링크([인도형 Github 참조][0])
 * OpenAI 홈 : [https://openai.com/][1-1]
 * ChatGPT 홈 : [https://chat.openai.com/][1-2]
 * OpenAI Platform 홈 : [https://platform.openai.com/][1-3]
