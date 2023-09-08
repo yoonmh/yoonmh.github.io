@@ -34,16 +34,18 @@ layout: single
   * [호출 최소 코드][3-1]
   * [Tiny Chatbot][3-2]
   * [How to format inputs to ChatGPT models][3-3]
-* 토커니아징
+* 토커니아징 소개와 방법
   * [How to count kokens with tictoken][3-4]
-* 입베딩
+* 입베딩 소개와 방법
   * [임베딩 소개글][3-5]
   * [Get embeddings][3-6]
   * [Obtain dataset][3-7]
-  * Word 임베딩 예 : [Text tokenizing and embedding][3-8]
-* 임베딩을 사용한 검색 방법 : Semantic_text_search_using_embeddings.ipynb
-* 임베딩을 사용한 분류 방법 : Zero-shot_classification_with_embeddings.ipynb
-* 임베딩을 사용한 추천 방법 : Recommendation_using_embeddings.ipynb
+* Word 임베딩 예
+  * [Text tokenizing and embedding][3-8]
+* 임베딩을 사용한 사례
+  * 검색 : Semantic_text_search_using_embeddings.ipynb
+  * 분류 : Zero-shot_classification_with_embeddings.ipynb
+  * 추천 : Recommendation_using_embeddings.ipynb
   
 ## 자료
 * [ChatGPT_소개][r1]
