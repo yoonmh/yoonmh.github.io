@@ -6,9 +6,11 @@ layout: single
 > 이미지 생성 모델 GAN & VAE의 원리와 활용
 
 ## [Day 1][1]
-* OpenAI 홈
+* [AE for Anomaly Detection][1-1]
+* 
 
 ## [Day 2][2]
 
 [1]: https://drive.google.com/file/d/1WC47CnqP8UPfHVOGLv08jl7O5NaqkyVA/view
+[1-1]: https://colab.research.google.com/drive/1kUbJrNBmVY_rwSV78DNapu6XMaq3zBRH
 [2]: https://drive.google.com/file/d/1WJCQIOMrWsqERzKYilACVOpdvL0VaUGV/view
