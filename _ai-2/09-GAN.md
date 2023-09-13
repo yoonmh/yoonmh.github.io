@@ -12,6 +12,8 @@ layout: single
 * [Simple Pattern GAN][1-4]
 
 ## [Day 2][2]
+* [MNIST FF GAN][2-1]
+* [MNIST FF GAN(Pytorch)][2-1]
 
 [1]: https://drive.google.com/file/d/1WC47CnqP8UPfHVOGLv08jl7O5NaqkyVA/view
 [1-1]: https://colab.research.google.com/drive/1kUbJrNBmVY_rwSV78DNapu6XMaq3zBRH
@@ -19,3 +21,5 @@ layout: single
 [1-3]: https://colab.research.google.com/drive/1YETknhagdWwcCWU9JZsD6luNoENwkziQ
 [1-4]: https://colab.research.google.com/drive/1EuTuzNhPUPiXmjUqKgyR_9g_z-jle2ZR
 [2]: https://drive.google.com/file/d/1WJCQIOMrWsqERzKYilACVOpdvL0VaUGV/view
+[2-1]: https://colab.research.google.com/drive/1qlnWEzJ6EFMlMqNe_X5HGTGSvA7q2ocl
+[2-2]: https://colab.research.google.com/drive/1-I8uVsWVZ0JxKNkPKfRSVnWRTylEklgo
