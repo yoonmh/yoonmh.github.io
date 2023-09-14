@@ -5,13 +5,13 @@ layout: single
 
 > 이미지 생성 모델 GAN & VAE의 원리와 활용
 
-## [Day 1][1]
+## Day 1 : [Autoencoder][1]
 * [AE for Anomaly Detection][1-1]
 * [AE for Denoising][1-2]
 * [Simple VAE][1-3]
 * [Simple Pattern GAN][1-4]
 
-## [Day 2][2]
+## Day 2 : [GAN][2]
 * [MNIST FF GAN][2-1]
 * [MNIST FF GAN(Pytorch)][2-2]
 * [MNIST FF GAN 수정(Pytorch)][2-3]
