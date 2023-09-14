@@ -6,7 +6,7 @@ layout: single
 > 이미지 생성 모델 GAN & VAE의 원리와 활용
 
 ## Day 1 : [Autoencoder][1]
-* [AE for Anomaly Detection][1-1]
+* 이상치 감지 : [AE for Anomaly Detection][1-1]
 * [AE for Denoising][1-2]
 * [Simple VAE][1-3]
 * [Simple Pattern GAN][1-4]
