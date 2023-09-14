@@ -12,6 +12,7 @@ layout: single
   * API 레퍼런스 : [https://platform.openai.com/docs/api-reference][1-4]
   * 웹에서 설명한 사용 예제 : [https://platform.openai.com/examples][1-5]
 * OpenAI API CookBook : [https://github.com/openai/openai-cookbook][1-6]
+* CookBook 강의 : [https://github.com/dhrim/2023_openai_cookbook][1-66]
 
 ## ChatGPT 계정 만들기
 * ChatGPT API Key 발급 ([OpenAI Platform][1-3])
@@ -77,6 +78,7 @@ layout: single
 [1-4]: https://platform.openai.com/docs/api-reference
 [1-5]: https://platform.openai.com/examples
 [1-6]: https://github.com/openai/openai-cookbook
+[1-66]: https://github.com/dhrim/2023_openai_cookbook
 [1-7]: https://platform.openai.com/account/api-keys
 [1-8]: https://platform.openai.com/account/usage
 [1-9]: https://platform.openai.com/account/billing/overview
