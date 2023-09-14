@@ -30,26 +30,26 @@ layout: single
 * 파인튜닝 공식 문서 : [https://platform.openai.com/docs/guides/fine-tuning][2-5]
 
 ## OpenAI API CookBook
-* 1. [Github Cookbook][1-6]에서 Codespace 생성
-* 2. 호출 기본 방법
+* (1) [Github Cookbook][1-6]에서 Codespace 생성
+* (2) 호출 기본 방법
   * [호출 최소 코드][3-1]
   * [Tiny Chatbot][3-2]
   * [How to format inputs to ChatGPT models][3-3]
-* 3. 토커니아징, 임베딩
+* (3) 토커니아징, 임베딩
   * 토크나이징 : [How to count kokens with tictoken][3-4]
   * 입베딩 : [임베딩 소개글][3-5], [Get embeddings][3-6], [Obtain dataset][3-7]
   * Word 임베딩 예 : [Text tokenizing and embedding][3-8]
-* 4. 임베딩을 사용한 사례
+* (4) 임베딩을 사용한 사례
   * 검색 : [Semantic text search using embeddings][4-1]
   * 분류 : [Zero-shot classification with embeddings][4-2]
   * 추천 : [Recommendation using embeddings][4-3]
-* 5. 파인 튜닝 방법
+* (5) 파인 튜닝 방법
   * [How_to_finetune_chat_models][5-1]
   * [Fine-tuned_classification][5-2]
-* 6. SQL
+* (6) SQL
   * SQL 생성 방법 : [Backtranslation_of_SQL_queries][6-1], [SQL_generation_설명][6-2]
   * Latex 문서의 번역 방법 : [book_translation/translate_latex_book][6-3]
-  * 
+* (7)
   
 ## 자료
 * [ChatGPT_소개][r1]
