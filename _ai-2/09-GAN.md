@@ -16,6 +16,7 @@ layout: single
 * [MNIST FF GAN(Pytorch)][2-2]
 * [MNIST FF GAN 수정(Pytorch)][2-3]
 * [PG GAN][2-4]
+* [DC GAN][2-5]
 
 ## Day 3 : [GAN][3]
 
@@ -29,3 +30,4 @@ layout: single
 [2-2]: https://colab.research.google.com/drive/1-I8uVsWVZ0JxKNkPKfRSVnWRTylEklgo
 [2-3]: https://colab.research.google.com/drive/1WKOrvUFHdNPcbpZfT9oVgRuYFJnUlKUI
 [2-4]: https://machinelearningmastery.com/how-to-train-a-progressive-growing-gan-in-keras-for-synthesizing-faces/
+[2-5]: https://colab.research.google.com/drive/1z5l5BpfhBHa9NaLanPHAml2aFN7A00JS
