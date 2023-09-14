@@ -16,7 +16,8 @@ layout: single
 * [MNIST FF GAN(Pytorch)][2-2]
 * [MNIST FF GAN 수정(Pytorch)][2-3]
 * [PG GAN][2-4]
-* 
+
+## Day 3 : [GAN][3]
 
 [1]: https://drive.google.com/file/d/1WC47CnqP8UPfHVOGLv08jl7O5NaqkyVA/view
 [1-1]: https://colab.research.google.com/drive/1kUbJrNBmVY_rwSV78DNapu6XMaq3zBRH
