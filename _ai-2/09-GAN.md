@@ -26,7 +26,6 @@ layout: single
 * [Cycle GAN][3-5]
 * [Style Transfer][3-6]
 * [Adaptive IN][3-7]
-* 
 
 [1]: https://drive.google.com/file/d/1WC47CnqP8UPfHVOGLv08jl7O5NaqkyVA/view
 [1-1]: https://colab.research.google.com/drive/1kUbJrNBmVY_rwSV78DNapu6XMaq3zBRH
@@ -42,4 +41,8 @@ layout: single
 [3]: https://drive.google.com/file/d/1WYOGwHwGQZ2HmYuFy5_4FowiF3sCMUOz/view
 [3-1]: https://colab.research.google.com/drive/1X-Nz0P1-NiVGz-i8XAuaNY1T1NgZxS58
 [3-2]: https://colab.research.google.com/drive/11j5v-ERvPIX19qPmEFPMLJ9GoRJWbBtT
-
+[3-3]: https://colab.research.google.com/drive/1ADgQ3vVGLYj_8QAX-8oFECPwTiqKKDDO
+[3-4]: https://colab.research.google.com/drive/1iL0EbBEkqlizBpJ80eHq7KmD3oErlNsN
+[3-5]: https://colab.research.google.com/drive/1ePqHEDWWwi8NbrPxT1ZasDho2bILBIv2
+[3-6]: https://colab.research.google.com/drive/1P2FdPkdniCTSkbFq_oiHK_XjTY5J-jfB
+[3-7]: https://colab.research.google.com/drive/150pxnpHZHkZ-S84BMTEm8BTrhQX9xDBC
