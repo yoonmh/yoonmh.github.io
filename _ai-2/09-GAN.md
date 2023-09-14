@@ -9,7 +9,7 @@ layout: single
 * 이상치 감지 : [AE for Anomaly Detection][1-1]
 * 노이즈 제거 : [AE for Denoising][1-2]
 * Variational AE : [Simple VAE][1-3]
-* [Simple Pattern GAN][1-4]
+* 1010 패턴 생성기 : [Simple Pattern GAN][1-4]
 
 ## Day 2 : [GAN][2]
 * [MNIST FF GAN][2-1]
