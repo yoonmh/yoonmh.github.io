@@ -17,9 +17,16 @@ layout: single
 * [MNIST FF GAN 수정(Pytorch)][2-3]
 * [PG GAN][2-4]
 * [DC GAN][2-5]
-* [CGAN][2-6]
 
 ## Day 3 : [GAN][3]
+* [Conditional GAN][3-1]
+* [Pix2Pix][3-2]
+* [능동학습][3-3]
+* [Semi-supervised GAN][3-4]
+* [Cycle GAN][3-5]
+* [Style Transfer][3-6]
+* [Adaptive IN][3-7]
+* 
 
 [1]: https://drive.google.com/file/d/1WC47CnqP8UPfHVOGLv08jl7O5NaqkyVA/view
 [1-1]: https://colab.research.google.com/drive/1kUbJrNBmVY_rwSV78DNapu6XMaq3zBRH
@@ -32,4 +39,7 @@ layout: single
 [2-3]: https://colab.research.google.com/drive/1WKOrvUFHdNPcbpZfT9oVgRuYFJnUlKUI
 [2-4]: https://machinelearningmastery.com/how-to-train-a-progressive-growing-gan-in-keras-for-synthesizing-faces/
 [2-5]: https://colab.research.google.com/drive/1z5l5BpfhBHa9NaLanPHAml2aFN7A00JS
-[2-6]: https://colab.research.google.com/drive/1X-Nz0P1-NiVGz-i8XAuaNY1T1NgZxS58
+[3]: https://drive.google.com/file/d/1WYOGwHwGQZ2HmYuFy5_4FowiF3sCMUOz/view
+[3-1]: https://colab.research.google.com/drive/1X-Nz0P1-NiVGz-i8XAuaNY1T1NgZxS58
+[3-2]: https://colab.research.google.com/drive/11j5v-ERvPIX19qPmEFPMLJ9GoRJWbBtT
+
