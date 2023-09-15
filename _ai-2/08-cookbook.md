@@ -21,6 +21,10 @@ layout: single
   * 왼쪽 메뉴 [Usage][1-8]에서 사용량 확인(처음 계정을 만들면 $5 credit을 줌)
 * 결제 정보 입력 ([Billing][1-9])
   * Start payment plan -> Individual -> Setup payment plan
+* [ChatGPT Pricing][1-10]
+* 기타 숫자들
+  * [알아야 할 숫자들][1-11]
+  * [Original Article][1-12]
 
 ## OpenAI API
 * playground : [https://platform.openai.com/playground][2-1]
@@ -84,6 +88,9 @@ layout: single
 [1-7]: https://platform.openai.com/account/api-keys
 [1-8]: https://platform.openai.com/account/usage
 [1-9]: https://platform.openai.com/account/billing/overview
+[1-10]: https://openai.com/pricing
+[1-11]: https://codeendeavor.tistory.com/9
+[1-12]: https://github.com/ray-project/llm-numbers
 [2-1]: https://platform.openai.com/playground
 [2-2]: https://platform.openai.com/docs/introduction
 [2-3]: https://platform.openai.com/docs/api-reference
