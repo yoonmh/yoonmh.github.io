@@ -22,9 +22,8 @@ layout: single
 * 결제 정보 입력 ([Billing][1-9])
   * Start payment plan -> Individual -> Setup payment plan
 * [ChatGPT Pricing][1-10]
-* 기타 숫자들
   * [알아야 할 숫자들][1-11]
-  * [Original Article][1-12]
+  * [원 Article][1-12]
 
 ## OpenAI API
 * playground : [https://platform.openai.com/playground][2-1]
