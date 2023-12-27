@@ -10,7 +10,8 @@ layout: single
   * Welcome to DLS, What is a Neural Network?, Supervised Learning with Neural Networks, Why is Deep Learning taking off?
   * [Geoffrey Hinton 인터뷰][11-2]
 * Neural Network Basics : [강의자료][12-1], [참고][12-2]
-  * Logistic Regression as a Neural Network : Binary Classification, 
+  * Logistic Regression as a Neural Network
+    * Binary Classification, Logistic Regression, Logistic Regression Cost Function, Gradient Descent, 
   * [Vectorization 예제][12-3], [Broadcasting 예제][12-4], [Numpy 예제][12-5]
   * [Python Basics 과제][12-6], [Logistic Regression 과제][12-7]
   * [Pieter Abbeel 인터뷰][12-8]
