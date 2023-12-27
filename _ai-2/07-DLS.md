@@ -25,12 +25,20 @@ layout: single
 
 ## 2. Improving DNN: Hyperparameter tuning, Regularization, and Optimization
 * Practical Aspects of Deep Learning : [강의자료][21-1]
+  * Setting up your ML Application : Train/Dev/Test sets, Bias/Variance, Basic Recipe for ML
+  * Regularizing your Neural Network : Regularization, Why Regularization Reduces Overfitting?, Dropout Regularization, Undestading Dropout, Other Regularization Methods
+  * Setting up your Optimization Problem : Normalizing Inputs, 
   * [Initialization 과제][21-2], [Regularization 과제][21-3], [Gradient 과제][21-4]
   * [Yoshua Bengio 인터뷰][21-5]
 * Optimization Algorithms : [강의자료][22-1]
+  * Mini-batch Gradient Descent, Understading Mini-batch Gradient Descent, Exponetially Weighed Averages, RMSprop
+  * 
   * [Optimization 과제][22-2]
   * [Yuanqing Lin 인터뷰][22-3]
 * Hyperparameter Tuning, Batch Normalization and Programming Frameworks : [강의자료][23-1]
+  * Hyperparameter Tuning : Tuining Process, Using an Appropriate Scale to pick Hyperparameters, Hyperparameter Tuing in pRactice
+  * Batch Normalization : Normalizing Activations
+  * Multi-class Classification : 
   * [Tensorflow 과제][23-2]
 * References
   * [자동미분][24-1], [GradientTape][24-2]
