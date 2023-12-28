@@ -66,7 +66,8 @@ layout: single
 
 [221]: https://drive.google.com/file/d/1_Du_fWSQ1BvY4PWMPh5wBGN5E9Glj6j0/view
 
-### Week 3 : Hyperparameter Tuning, Batch Normalization and Programming Frameworks : [강의자료][23-1]
+### Week 3 : Hyperparameter Tuning, Batch Normalization and Programming Frameworks
+* [Lecture Notes][23-1]
 * Hyperparameter Tuning
   * Tuining Process, Using an Appropriate Scale to pick Hyperparameters, Hyperparameter Tuing in pRactice: Pandas vs Cavlar
 * Batch Normalization
@@ -78,13 +79,36 @@ layout: single
 * Programming Assignments : [Tensorflow 과제][23-2]
 * References : [자동미분][24-1], [GradientTape][24-2]
 
+# 3. Structuring Machine Learning Projects
+### Week 1 : ML Strategy
+* [Lecture Notes][31-1]
+* Introduction to ML Strategy
+  * Why ML Strategy, Orthogonalization
+* Setting Up your Goal
+  * Single Number Evaluation Metric, Satisficing and Optimizing Metric, Train/Dev/Test Distributions, Size of the Dev and Test Sets, When to Change Dev/Test Sets and Metrics?
+* Comparing to Human-level Performance
+  * Why Human-level Performance?, Avoidable Bias, Understanding Human-level Performance, Surpassing Human-level Performance, Improving your Model Performance
+* [Machine Learning Flight Simulator][311]
+* [Quiz][312]
+* [Andrej Karpathy 인터뷰][31-2]
 
+### Week 2 : ML Strategy
+* [Lecture Notes][32-1]
+* Error Analysis
+  * Carrying Out Error Analysis, Cleaning Up Incorrectly Labeled Data, Build your First System Quickly, then Iterate
+* Mismatched Training and Dev/Test Set
+  * Training and Testing on Different Distributions, [Bias and Variance with Mismatched Data Distributions][325], Addressing Data Mismatch
+* Learning from Multiple Tasks
+  * Transfer Learning, Multi-task Learning
+* End-to-end Deep Learning
+  * What is End-to-end Deep Learning?, Whether to use End-to-end Deep Learning
+* [Autonomous Driving][321]
+* [Ruslan Salakhutdinov 인터뷰][32-2]
 
-## 3. Structuring Machine Learning Projects
-* ML Strategy : [강의자료][31-1]
-  * [Andrej Karpathy 인터뷰][31-2]
-* Error Analysis : [강의자료][32-1]
-  * [Ruslan Salakhutdinov 인터뷰][32-2]
+[311]: https://drive.google.com/file/d/1_IoJcu6CAg9yg2ciJcD0DmcDKzgyRcE_/view
+[312]: https://drive.google.com/file/d/1_QTN27CdWoOliHZo9jOBP2jI0sqQRHM0/view
+[325]: https://drive.google.com/file/d/1_Ra3HL820QpBBoSgS-EpLBDOHApFnMtc/view
+[321]: https://drive.google.com/file/d/1_Tc6OCWvp9CkSDIqZr6F7alXhCfTOAHp/view
 
 ## 4. Convolutional Neural Networks
 * Foundations of CNN : [강의자료][41-1]
