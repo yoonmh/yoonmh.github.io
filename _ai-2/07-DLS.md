@@ -35,6 +35,7 @@ layout: single
 *  [DNN 과제][14-3], [DNN Application 과제][14-4]
 * References
   * [NN from Scartch][15-1], [Reference][15-2], [cs231n][15-3], [Autoreload][15-4]
+
 [147]: https://community.deeplearning.ai/t/feedforward-neural-networks-in-depth/98811
 
 ## 2. Improving DNN: Hyperparameter tuning, Regularization, and Optimization
