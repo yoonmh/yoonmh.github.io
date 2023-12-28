@@ -51,16 +51,23 @@ layout: single
 * Programming Assignments
   * [Initialization 과제][211] ([Code][21-2]), [Regularization 과제][212] ([Code][21-3]), [Gradient 과제][213] ([Code][21-4])
 * [Yoshua Bengio 인터뷰][21-5]
+
 [211]: https://drive.google.com/file/d/1ZQmW5txxc7o1NC9P2_cJwuKOwe4kJy_z/view
 [212]: https://drive.google.com/file/d/1ZZROlmotrNXg-ICk0zSgLCrt3SI5Wsx1/view
 [213]: https://drive.google.com/file/d/1ZddGlNvRM7DdQclacBdpt36QznDS4_SU/view
 
-### Week 2 : Optimization Algorithms : [강의자료][22-1]
-  * Mini-batch Gradient Descent, Understading Mini-batch Gradient Descent, Exponetially Weighed Averages, RMSprop
-  * 
-  * [Optimization 과제][22-2]
-  * [Yuanqing Lin 인터뷰][22-3]
-* Hyperparameter Tuning, Batch Normalization and Programming Frameworks : [강의자료][23-1]
+### Week 2 : Optimization Algorithms
+* [Lecture Notes][22-1]
+* Optimization Algorithm
+  * Mini-batch Gradient Descent, Understading Mini-batch Gradient Descent, Exponentially Weighted Averages, Understanding Exponentially Weighted Averages, Bias Correction in Exponentially Weighted Averages
+  * Gradient Descent with Momentum, RMSprop, Adam Optimization Algorithm, Learning Rate Decay, Problem of Local Optima
+* Programming Assignments
+  * [Optimization 과제][221] ([Code][22-2])
+* [Yuanqing Lin 인터뷰][22-3]
+
+[221]: https://drive.google.com/file/d/1_Du_fWSQ1BvY4PWMPh5wBGN5E9Glj6j0/view
+
+### Week 3 : Hyperparameter Tuning, Batch Normalization and Programming Frameworks : [강의자료][23-1]
   * Hyperparameter Tuning : Tuining Process, Using an Appropriate Scale to pick Hyperparameters, Hyperparameter Tuing in pRactice
   * Batch Normalization : Normalizing Activations
   * Multi-class Classification : 
