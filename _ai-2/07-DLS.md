@@ -20,21 +20,22 @@ layout: single
   * [Vectorization 예제][12-3], [Broadcasting 예제][12-4], [Numpy 예제][12-5]
   * [Python Basics 과제][12-6], [Logistic Regression 과제][12-7]
   * [Pieter Abbeel 인터뷰][12-8]
+* References : [NN from Scartch][15-1], [Reference][15-2]
 
 ### Week 3 : Shallow Neural Networks 
 * Shallow Network : [강의자료][13-1]
   * Neural Network Overview, Neural Network Representation, Computing a Neural Network's Output, Vectoriaing Across Multiple Examples, Explanation of Vectorized Implementation, Activation Functions, Why do you need Non-linear Activation Functions?, Derivatives of Activatio Functions, Gradient Descent for Neural Networks, Backpropagation Intuition, Random Initialization
   * [Planar Data Classification 과제][13-2]
   * [Ian Goodfellow 인터뷰][13-3]
+* References : [cs231n][15-3]
 
 ### Week 4 : Deep Neural Networks
 * Deep Neural Network : [강의자료][14-1], [참고][14-2]
   * Deep L-layer Neural Network, Forward Propagation in a Deep Network, Getting your Matrix Dimentions Right, Why Deep Representations?, Building Blocks of Deep Neural Networks, Forward and Backward Propagation
   * [Feedforward Neural Networks in Depth][147]
   * Parameters vs. Hyperparameters, What does this have to do with the brain?
-*  [DNN 과제][14-3], [DNN Application 과제][14-4]
-* References
-  * [NN from Scartch][15-1], [Reference][15-2], [cs231n][15-3], [Autoreload][15-4]
+* Programming Assignments : [DNN 과제][14-3], [DNN Application 과제][14-4]
+* References : [Autoreload][15-4]
 
 [147]: https://community.deeplearning.ai/t/feedforward-neural-networks-in-depth/98811
 
