@@ -52,7 +52,7 @@ layout: single
 * [Initialization 과제][21-2], [Regularization 과제][21-3], [Gradient 과제][21-4]
 * [Yoshua Bengio 인터뷰][21-5]
 
-[211]: ../_ai-2/DLS/PA211.md
+[211]: ../DLS/PA211.md
 
 ### Week 2 : Optimization Algorithms : [강의자료][22-1]
   * Mini-batch Gradient Descent, Understading Mini-batch Gradient Descent, Exponetially Weighed Averages, RMSprop
