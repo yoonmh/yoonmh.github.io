@@ -24,9 +24,9 @@ layout: single
 
 ### Week 3 : Shallow Neural Networks 
 * Shallow Network : [강의자료][13-1]
-  * Neural Network Overview, Neural Network Representation, Computing a Neural Network's Output, Vectoriaing Across Multiple Examples, Explanation of Vectorized Implementation, Activation Functions, Why do you need Non-linear Activation Functions?, Derivatives of Activatio Functions, Gradient Descent for Neural Networks, Backpropagation Intuition, Random Initialization
-  * [Planar Data Classification 과제][13-2]
-  * [Ian Goodfellow 인터뷰][13-3]
+  * Neural Network Overview, Neural Network Representation, Computing a Neural Network's Output, Vectorizing Across Multiple Examples, Explanation of Vectorized Implementation, Activation Functions, Why do you need Non-linear Activation Functions?, Derivatives of Activation Functions, Gradient Descent for Neural Networks, Backpropagation Intuition, Random Initialization
+* Programming Assignments : [Planar Data Classification 과제][13-2],
+* [Ian Goodfellow 인터뷰][13-3]
 * References : [cs231n][15-3]
 
 ### Week 4 : Deep Neural Networks
@@ -39,14 +39,19 @@ layout: single
 
 [147]: https://community.deeplearning.ai/t/feedforward-neural-networks-in-depth/98811
 
-## 2. Improving DNN: Hyperparameter tuning, Regularization, and Optimization
-* Practical Aspects of Deep Learning : [강의자료][21-1]
-  * Setting up your ML Application : Train/Dev/Test sets, Bias/Variance, Basic Recipe for ML
-  * Regularizing your Neural Network : Regularization, Why Regularization Reduces Overfitting?, Dropout Regularization, Undestading Dropout, Other Regularization Methods
-  * Setting up your Optimization Problem : Normalizing Inputs, 
-  * [Initialization 과제][21-2], [Regularization 과제][21-3], [Gradient 과제][21-4]
-  * [Yoshua Bengio 인터뷰][21-5]
-* Optimization Algorithms : [강의자료][22-1]
+# 2. Improving DNN: Hyperparameter Tuning, Regularization, and Optimization
+### Week 1 : Practical Aspects of Deep Learning 
+* [Lecture Notes][21-1]
+* Setting up your Machine Learning Application
+  * Train/Dev/Test sets, Bias/Variance, Basic Recipe for ML
+* Regularizing your Neural Network
+  * Regularization, Why Regularization Reduces Overfitting?, Dropout Regularization, Undestading Dropout, Other Regularization Methods
+* Setting up your Optimization Problem
+  * Normalizing Inputs, Vanishing/Exploding Gradients, Weight Initialization for Deep Networks, Numerical Appoximation of Gradients, Gradient Checking, Gradient Checking Implementation Notes
+* Programming Assignments : [Initialization 과제][21-2], [Regularization 과제][21-3], [Gradient 과제][21-4]
+* [Yoshua Bengio 인터뷰][21-5]
+
+### Week 2 : Optimization Algorithms : [강의자료][22-1]
   * Mini-batch Gradient Descent, Understading Mini-batch Gradient Descent, Exponetially Weighed Averages, RMSprop
   * 
   * [Optimization 과제][22-2]
