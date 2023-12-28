@@ -48,8 +48,8 @@ layout: single
   * Regularization, Why Regularization Reduces Overfitting?, Dropout Regularization, Undestading Dropout, Other Regularization Methods
 * Setting up your Optimization Problem
   * Normalizing Inputs, Vanishing/Exploding Gradients, Weight Initialization for Deep Networks, Numerical Appoximation of Gradients, Gradient Checking, Gradient Checking Implementation Notes
-* [Programming Assignments][211]
-* [Initialization 과제][21-2], [Regularization 과제][21-3], [Gradient 과제][21-4]
+* Programming Assignments
+  * [Initialization 과제][211] ([Code][21-2]), [Regularization 과제][21-3], [Gradient 과제][21-4]
 * [Yoshua Bengio 인터뷰][21-5]
 
 [211]: https://drive.google.com/file/d/1ZQmW5txxc7o1NC9P2_cJwuKOwe4kJy_z/view
