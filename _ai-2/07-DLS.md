@@ -61,8 +61,7 @@ layout: single
 * Optimization Algorithm
   * Mini-batch Gradient Descent, Understading Mini-batch Gradient Descent, Exponentially Weighted Averages, Understanding Exponentially Weighted Averages, Bias Correction in Exponentially Weighted Averages
   * Gradient Descent with Momentum, RMSprop, Adam Optimization Algorithm, Learning Rate Decay, Problem of Local Optima
-* Programming Assignments
-  * [Optimization 과제][221] ([Code][22-2])
+* Programming Assignments : [Optimization 과제][221] ([Code][22-2])
 * [Yuanqing Lin 인터뷰][22-3]
 
 [221]: https://drive.google.com/file/d/1_Du_fWSQ1BvY4PWMPh5wBGN5E9Glj6j0/view
@@ -76,10 +75,8 @@ layout: single
   * Softmax Regression, Training a Softmax Classifier
 * Introduction to Programming Frameworks
   * Deep Learning Frameworks, Tensorflow
-* Programming Assignments
-  * [Tensorflow 과제][23-2]
-* References
-  * [자동미분][24-1], [GradientTape][24-2]
+* Programming Assignments : [Tensorflow 과제][23-2]
+* References : [자동미분][24-1], [GradientTape][24-2]
 
 
 
