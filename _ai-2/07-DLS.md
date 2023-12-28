@@ -110,11 +110,16 @@ layout: single
 [325]: https://drive.google.com/file/d/1_Ra3HL820QpBBoSgS-EpLBDOHApFnMtc/view
 [321]: https://drive.google.com/file/d/1_Tc6OCWvp9CkSDIqZr6F7alXhCfTOAHp/view
 
-## 4. Convolutional Neural Networks
-* Foundations of CNN : [강의자료][41-1]
+# 4. Convolutional Neural Networks
+### Week 1 : Foundations of Convolutional Neural Networks
+* [Lecture Notes][41-1]
+* Convolutional Neural Networks
+  * Computer Vision, Edge Detection Example, More Edge Detection, Padding, Strided Convolutions, 
+* Programming Assignments
   * [CNN 과제][41-2], [Conv Application 과제][41-3]
-  * [Yann LeCun 인터뷰][41-4]
-* Deep Convolutional Models : [강의자료][42-1]
+* [Yann LeCun 인터뷰][41-4]
+
+### Week 2 : Deep Convolutional Models : [강의자료][42-1]
   * [Residual Network 과제][42-2], [Transfer Learning 과제][42-3]
 * Object Detection : [강의자료][43-1]
   * [Car detection 과제][43-2], [Image Segmentation 과제][43-3]
