@@ -49,10 +49,11 @@ layout: single
 * Setting up your Optimization Problem
   * Normalizing Inputs, Vanishing/Exploding Gradients, Weight Initialization for Deep Networks, Numerical Appoximation of Gradients, Gradient Checking, Gradient Checking Implementation Notes
 * Programming Assignments
-  * [Initialization 과제][211] ([Code][21-2]), [Regularization 과제][21-3], [Gradient 과제][21-4]
+  * [Initialization 과제][211] ([Code][21-2]), [Regularization 과제][212] ([Code][21-3]), [Gradient 과제][21-4]
 * [Yoshua Bengio 인터뷰][21-5]
 
 [211]: https://drive.google.com/file/d/1ZQmW5txxc7o1NC9P2_cJwuKOwe4kJy_z/view
+[212]: https://drive.google.com/file/d/1ZZROlmotrNXg-ICk0zSgLCrt3SI5Wsx1/view
 
 ### Week 2 : Optimization Algorithms : [강의자료][22-1]
   * Mini-batch Gradient Descent, Understading Mini-batch Gradient Descent, Exponetially Weighed Averages, RMSprop
