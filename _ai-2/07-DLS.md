@@ -5,7 +5,7 @@ layout: single
 
 > Deep Learning Specialization
 
-# 1. Neural Networks and Deep Learning
+## 1. Neural Networks and Deep Learning
 ### Week 1 : Introduction to Deep Learning 
 * Welcome to DLS
 * Introduction to Deep Laerning : [강의자료][11-1]
@@ -39,7 +39,7 @@ layout: single
 
 [147]: https://community.deeplearning.ai/t/feedforward-neural-networks-in-depth/98811
 
-# 2. Improving DNN: Hyperparameter Tuning, Regularization, and Optimization
+## 2. Improving DNN: Hyperparameter Tuning, Regularization, and Optimization
 ### Week 1 : Practical Aspects of Deep Learning 
 * [Lecture Notes][21-1]
 * Setting up your Machine Learning Application
@@ -79,7 +79,7 @@ layout: single
 * Programming Assignments : [Tensorflow 과제][23-2]
 * References : [자동미분][24-1], [GradientTape][24-2]
 
-# 3. Structuring Machine Learning Projects
+## 3. Structuring Machine Learning Projects
 ### Week 1 : ML Strategy
 * [Lecture Notes][31-1]
 * Introduction to ML Strategy
@@ -110,7 +110,7 @@ layout: single
 [325]: https://drive.google.com/file/d/1_Ra3HL820QpBBoSgS-EpLBDOHApFnMtc/view
 [321]: https://drive.google.com/file/d/1_Tc6OCWvp9CkSDIqZr6F7alXhCfTOAHp/view
 
-# 4. Convolutional Neural Networks
+## 4. Convolutional Neural Networks
 ### Week 1 : Foundations of Convolutional Neural Networks
 * [Lecture Notes][41-1]
 * Convolutional Neural Networks
@@ -149,7 +149,7 @@ layout: single
   * [facenet][45-6], [Face Recognition][45-7], [keras-facenet][45-8]
   * [Artistic Style][45-9], [artistic style transfer][45-10], [MatConvNet][45-11]
     
-# 5. Sequence Models
+## 5. Sequence Models
 ### Week 1 : Recurrent Neural Networks
 * [Lecture Notes][51-1]
 * Recurrent Neural Networks
