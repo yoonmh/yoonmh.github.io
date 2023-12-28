@@ -6,24 +6,31 @@ layout: single
 > Deep Learning Specialization
 
 ## 1. Neural Networks and Deep Learning
-### Week 1 : Introduction to Deep Learning : [강의자료][11-1]
+### Week 1 : Introduction to Deep Learning 
 * Welcome to DLS
-* Introduction to Deep Laerning
+* Introduction to Deep Laerning : [강의자료][11-1]
   * What is a Neural Network?, Supervised Learning with Neural Networks, Why is Deep Learning taking off?
 * [Geoffrey Hinton 인터뷰][11-2]
-### Week 2 : Neural Network Basics : [강의자료][12-1], [참고][12-2]
-* Logistic Regression as a Neural Network
+
+### Week 2 : Neural Network Basics 
+* Logistic Regression as a Neural Network : [강의자료][12-1], [참고][12-2]
   * Binary Classification, Logistic Regression, Logistic Regression Cost Function, Gradient Descent, Derivatives, More Derivative Examples, Computation Graph, Derivatives with Computation Graph, LogisticRegreaaion Gradient Descent, Gradient Descent on m Examples
 * Python and Vectorization
   * Vectorization, More Vectorization Examples, Vectorizing Logistic Regressipn, Vectorizing Logistic Regressipn Gradient Output
   * [Vectorization 예제][12-3], [Broadcasting 예제][12-4], [Numpy 예제][12-5]
   * [Python Basics 과제][12-6], [Logistic Regression 과제][12-7]
   * [Pieter Abbeel 인터뷰][12-8]
-### Week 3 : Shallow Neural Networks : [강의자료][13-1]
+
+### Week 3 : Shallow Neural Networks 
+* Shallow Network : [강의자료][13-1]
+  * Neural Network Overview, Neural Network Representation, Computing a Neural Network's Output, Vectoriaing Across Multiple Examples, Explanation of Vectorized Implementation, Activation Functions, Why do you need Non-linear Activation Functions?, Derivatives of Activatio Functions, Gradient Descent for Neural Networks, Backpropagation Intuition, Random Initialization
   * [Planar Data Classification 과제][13-2]
   * [Ian Goodfellow 인터뷰][13-3]
-* Deep Neural Networks : [강의자료][14-1], [참고][14-2]
-  * [DNN 과제][14-3], [DNN Application 과제][14-4]
+
+### Week 4 : Deep Neural Networks
+* Deep Neural Network : [강의자료][14-1], [참고][14-2]
+  * Deep Neural Network, Forward Propagation in Deep Network, Getting your Matrix Dimentions Right, Why Deep Representations?, Building Blocks of Deep Neural Networks, Forward and Backward Propagation
+*  [DNN 과제][14-3], [DNN Application 과제][14-4]
 * References
   * [NN from Scartch][15-1], [Reference][15-2], [cs231n][15-3], [Autoreload][15-4]
 
