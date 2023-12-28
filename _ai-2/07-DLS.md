@@ -76,10 +76,10 @@ layout: single
   * Softmax Regression, Training a Softmax Classifier
 * Introduction to Programming Frameworks
   * Deep Learning Frameworks, Tensorflow
-  * [자동미분][24-1], [GradientTape][24-2]
 * Programming Assignments
   * [Tensorflow 과제][23-2]
-
+* References
+  * [자동미분][24-1], [GradientTape][24-2]
 
 
 
