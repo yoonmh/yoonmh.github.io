@@ -29,7 +29,7 @@ layout: single
 
 ### Week 4 : Deep Neural Networks
 * Deep Neural Network : [강의자료][14-1], [참고][14-2]
-  * Deep Neural Network, Forward Propagation in Deep Network, Getting your Matrix Dimentions Right, Why Deep Representations?, Building Blocks of Deep Neural Networks, Forward and Backward Propagation
+  * Deep L-layer Neural Network, Forward Propagation in a Deep Network, Getting your Matrix Dimentions Right, Why Deep Representations?, Building Blocks of Deep Neural Networks, Forward and Backward Propagation
 *  [DNN 과제][14-3], [DNN Application 과제][14-4]
 * References
   * [NN from Scartch][15-1], [Reference][15-2], [cs231n][15-3], [Autoreload][15-4]
