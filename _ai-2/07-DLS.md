@@ -114,19 +114,37 @@ layout: single
 ### Week 1 : Foundations of Convolutional Neural Networks
 * [Lecture Notes][41-1]
 * Convolutional Neural Networks
-  * Computer Vision, Edge Detection Example, More Edge Detection, Padding, Strided Convolutions, 
+  * Computer Vision, Edge Detection Example, More Edge Detection, Padding, Strided Convolutions, Convolutions Over Volume, One Layer of a Convolutional Network, Simple Convolutional Network Example, Pooling Layers, CNN Example, Why Convolutions?
 * Programming Assignments
-  * [CNN 과제][41-2], [Conv Application 과제][41-3]
+  * [Convolutional Model][41-2], [Convolutional Model Application][41-3]
+* References : [Sequential 모델][45-1], [Functional API][45-2]
 * [Yann LeCun 인터뷰][41-4]
 
-### Week 2 : Deep Convolutional Models : [강의자료][42-1]
-  * [Residual Network 과제][42-2], [Transfer Learning 과제][42-3]
-* Object Detection : [강의자료][43-1]
-  * [Car detection 과제][43-2], [Image Segmentation 과제][43-3]
-* Special Applications : [강의자료][44-1]
-  * [Face Recognition 과제][44-2], [Art Generation 과제][44-3]
+### Week 2 : Deep Convolutional Models: Case Study 
+* [Lecture Notes][42-1]
+* Case Stydies
+  * Why look at case studies?, Classic Networks, ResNets, Why ResNets Work?, Networks in Networks and 1x1 Convolutions, Inception Network Motivation, Inception Network, MobileNet,
+* Practical Advive for Using ConvNets
+  * Using Open-Source Implementation, Transfer Learning, Data Augmentation, State of Computer Vision
+* Programming Assignments
+  * [Residual Networks][42-2], [Transfer Learning with MobileNet][42-3]
+
+### Week 3 : Object Detection
+* [Lecture Notes][43-1]
+* Detection Algorithms
+  * Object Localization, Landmark Detection, Object Detection, 
+* Programming Assignments  
+  * [Car detection with YOLO][43-2], [Image Segmentation with U-Net][43-3]
+
+### Week 4 : Special Applications : Face Recognition & Neural Style Transfer
+* [Lecture Notes][44-1]
+* Face Recognition
+  * What is Face Recognition?, One Shot Learning, Siamese Network, Triplet Loss, Face Verification and Binary Classification, 
+* Neural Style Transfer
+  * What is Neural Style Transfer?, What are deep ConvNets learning?, Cost Function, Content Cost Function, Style Cost Function, 1D and 3D Generalizations
+* Programming Assignments
+  * [Face Recognition][44-2], [Art Generation with Neural Style Transfer][44-3]
 * References
-  * [Sequential 모델][45-1], [Functional API][45-2]
   * [resnet50][45-3], [YAD2k][45-4], [YOLO][45-5]
   * [facenet][45-6], [Face Recognition][45-7], [keras-facenet][45-8]
   * [Artistic Style][45-9], [artistic style transfer][45-10], [MatConvNet][45-11]
