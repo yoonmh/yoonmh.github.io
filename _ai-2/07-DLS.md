@@ -6,16 +6,20 @@ layout: single
 > Deep Learning Specialization
 
 ## 1. Neural Networks and Deep Learning
-* Introduction to Deep Learning : [강의자료][11-1]
-  * Welcome to DLS, What is a Neural Network?, Supervised Learning with Neural Networks, Why is Deep Learning taking off?
-  * [Geoffrey Hinton 인터뷰][11-2]
-* Neural Network Basics : [강의자료][12-1], [참고][12-2]
-  * Logistic Regression as a Neural Network : Binary Classification, Logistic Regression, Logistic Regression Cost Function, Gradient Descent, Derivatives, More Derivative Examples, Computation Graph, Derivatives with Computation Graph, LogisticRegreaaion Gradient Descent, Gradient Descent on m Examples
-  * Python and Vectorization : Vectorization, More Vectorization Examples, Vectorizing Logistic Regressipn, Vectorizing Logistic Regressipn Gradient Output
+### Week 1 : Introduction to Deep Learning : [강의자료][11-1]
+* Welcome to DLS
+* Introduction to Deep Laerning
+  * What is a Neural Network?, Supervised Learning with Neural Networks, Why is Deep Learning taking off?
+* [Geoffrey Hinton 인터뷰][11-2]
+### Week 2 : Neural Network Basics : [강의자료][12-1], [참고][12-2]
+* Logistic Regression as a Neural Network
+  * Binary Classification, Logistic Regression, Logistic Regression Cost Function, Gradient Descent, Derivatives, More Derivative Examples, Computation Graph, Derivatives with Computation Graph, LogisticRegreaaion Gradient Descent, Gradient Descent on m Examples
+* Python and Vectorization
+  * Vectorization, More Vectorization Examples, Vectorizing Logistic Regressipn, Vectorizing Logistic Regressipn Gradient Output
   * [Vectorization 예제][12-3], [Broadcasting 예제][12-4], [Numpy 예제][12-5]
   * [Python Basics 과제][12-6], [Logistic Regression 과제][12-7]
   * [Pieter Abbeel 인터뷰][12-8]
-* Shallow Neural Networks : [강의자료][13-1]
+### Week 3 : Shallow Neural Networks : [강의자료][13-1]
   * [Planar Data Classification 과제][13-2]
   * [Ian Goodfellow 인터뷰][13-3]
 * Deep Neural Networks : [강의자료][14-1], [참고][14-2]
