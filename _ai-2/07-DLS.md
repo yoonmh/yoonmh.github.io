@@ -5,7 +5,7 @@ layout: single
 
 > Deep Learning Specialization
 
-## 1. Neural Networks and Deep Learning
+# 1. Neural Networks and Deep Learning
 ### Week 1 : Introduction to Deep Learning 
 * Welcome to DLS
 * Introduction to Deep Laerning : [강의자료][11-1]
@@ -30,11 +30,12 @@ layout: single
 ### Week 4 : Deep Neural Networks
 * Deep Neural Network : [강의자료][14-1], [참고][14-2]
   * Deep L-layer Neural Network, Forward Propagation in a Deep Network, Getting your Matrix Dimentions Right, Why Deep Representations?, Building Blocks of Deep Neural Networks, Forward and Backward Propagation
-  * [Feedforward Neural Networks in Depth][https://community.deeplearning.ai/t/feedforward-neural-networks-in-depth/98811]
-  * Parameters vs. Hyperparameters
+  * [Feedforward Neural Networks in Depth][147]
+  * Parameters vs. Hyperparameters, What does this have to do with the brain?
 *  [DNN 과제][14-3], [DNN Application 과제][14-4]
 * References
   * [NN from Scartch][15-1], [Reference][15-2], [cs231n][15-3], [Autoreload][15-4]
+[147]: https://community.deeplearning.ai/t/feedforward-neural-networks-in-depth/98811
 
 ## 2. Improving DNN: Hyperparameter tuning, Regularization, and Optimization
 * Practical Aspects of Deep Learning : [강의자료][21-1]
