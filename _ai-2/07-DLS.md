@@ -68,12 +68,18 @@ layout: single
 [221]: https://drive.google.com/file/d/1_Du_fWSQ1BvY4PWMPh5wBGN5E9Glj6j0/view
 
 ### Week 3 : Hyperparameter Tuning, Batch Normalization and Programming Frameworks : [강의자료][23-1]
-  * Hyperparameter Tuning : Tuining Process, Using an Appropriate Scale to pick Hyperparameters, Hyperparameter Tuing in pRactice
-  * Batch Normalization : Normalizing Activations
-  * Multi-class Classification : 
-  * [Tensorflow 과제][23-2]
-* References
+* Hyperparameter Tuning
+  * Tuining Process, Using an Appropriate Scale to pick Hyperparameters, Hyperparameter Tuing in pRactice: Pandas vs Cavlar
+* Batch Normalization
+  * Normalizing Activations in a Network, Fitting Batch Norm into a Neural Network, Why does Batch Norm work?, Batch Norm at Test Time
+* Multi-class Classification
+  * Softmax Regression, Training a Softmax Classifier
+* Introduction to Programming Frameworks
+  * Deep Learning Frameworks, Tensorflow
   * [자동미분][24-1], [GradientTape][24-2]
+* Programming Assignments
+  * [Tensorflow 과제][23-2]
+
 
 
 
