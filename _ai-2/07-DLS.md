@@ -149,12 +149,23 @@ layout: single
   * [facenet][45-6], [Face Recognition][45-7], [keras-facenet][45-8]
   * [Artistic Style][45-9], [artistic style transfer][45-10], [MatConvNet][45-11]
     
-## 5. Sequence Models
-* Recurrent Neural Networks : [강의자료][51-1]
+# 5. Sequence Models
+### Week 1 : Recurrent Neural Networks
+* [Lecture Notes][51-1]
+* Recurrent Neural Networks
+  * Why Sequence Models?, Notation,
+
   * GRU : [Cho][51-r1], [Chung][51-r2]
   * LSTM : [Hochreiter][51-r3]
-  * [RNN 과제][51-2], [Dinosaurus Island 과제][51-3], [Jazz Improvisation 과제][51-4]
-* Natural Language Processing & Word Embedding : [강의자료][52-1]
+* Programming Assignments  
+  * [Building your RNN][51-2], [Dinosaur Island-Character-Level Language Modeling][51-3], [azz Improvisation with LSTM][51-4]
+
+### Week 2 : Natural Language Processing & Word Embedding 
+* [Lecture Notes][52-1]
+* Introduction to Word Embeddings
+  * Word Representation,
+* Learning Word Embeddings
+  * 
   * [Word embeddings][52-r1], [Language model][52-r2], [Skip-gram][52-r3], [Negative sampling][52-r4], [GloVe][52-r5], [Debiasing][52-r6]
   * [Word Vectors 과제][52-2], [Emojify 과제][52-3]
 * Sequence Models & Attention Mechanism : [강의자료][53-1]
