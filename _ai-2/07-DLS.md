@@ -175,6 +175,11 @@ layout: single
 
 ### (3) Sequence Models & Attention Mechanism 
 * [Lecture Notes][53-1]
+* Various Sequence to Sequence Architectures
+  * Basic Models, Picking the Most Likely Sentence, Beam Search,
+* Speech Recognition - Audio Data
+  * Speech Recognition
+* References
   * Sequence to Sequence : [Sutskver][53-r1], [Cho][53-r2]
   * Image captioning : [Mao][53-r3], [Vinyals][53-r4], [Karpathy][53-r5]
   * Blau score : [Papineni][53-r6]
