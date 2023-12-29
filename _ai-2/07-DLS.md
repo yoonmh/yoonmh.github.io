@@ -122,8 +122,8 @@ layout: single
 
 ### (2) Deep Convolutional Models: Case Study 
 * [Lecture Notes][42-1]
-* Case Stydies
-  * Why look at case studies?, Classic Networks, ResNets, Why ResNets Work?, Networks in Networks and 1x1 Convolutions, Inception Network Motivation, Inception Network, MobileNet,
+* Case Studies
+  * Why look at case studies?, Classic Networks, ResNets, Why ResNets Work?, Networks in Networks and 1x1 Convolutions, Inception Network Motivation, Inception Network, MobileNet, MobileNet Architecture, EfficientNet
 * Practical Advive for Using ConvNets
   * Using Open-Source Implementation, Transfer Learning, Data Augmentation, State of Computer Vision
 * Programming Assignments
@@ -132,7 +132,7 @@ layout: single
 ### (3) Object Detection
 * [Lecture Notes][43-1]
 * Detection Algorithms
-  * Object Localization, Landmark Detection, Object Detection, 
+  * Object Localization, Landmark Detection, Object Detection, Convolutional Implementation of Sliding Windows, Bounding Box Predictions, Intersection Over Union, Non-max Suppression, Anchor Boxes, YOLO Algorithm, Region Proposals, Semantic Segmentation with U-Net, Transpose Convolutions, U-Net Architecture Intuition, U-Net Architecture
 * Programming Assignments  
   * [Car detection with YOLO][43-2], [Image Segmentation with U-Net][43-3]
 
