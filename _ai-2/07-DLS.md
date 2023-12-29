@@ -6,13 +6,13 @@ layout: single
 > Deep Learning Specialization
 
 ## 1. Neural Networks and Deep Learning
-### Week 1: Introduction to Deep Learning 
+### (1) Introduction to Deep Learning 
 * Welcome to DLS
 * Introduction to Deep Laerning : [강의자료][11-1]
   * What is a Neural Network?, Supervised Learning with Neural Networks, Why is Deep Learning taking off?
 * [Geoffrey Hinton 인터뷰][11-2]
 
-### Week 2: Neural Network Basics 
+### (2) Neural Network Basics 
 * Logistic Regression as a Neural Network : [강의자료][12-1], [참고][12-2]
   * Binary Classification, Logistic Regression, Logistic Regression Cost Function, Gradient Descent, Derivatives, More Derivative Examples, Computation Graph, Derivatives with Computation Graph, LogisticRegreaaion Gradient Descent, Gradient Descent on m Examples
 * Python and Vectorization
@@ -22,14 +22,14 @@ layout: single
   * [Pieter Abbeel 인터뷰][12-8]
 * References : [NN from Scartch][15-1], [StackExchange][15-2]
 
-### Week 3: Shallow Neural Networks 
+### (3) Shallow Neural Networks 
 * Shallow Network : [강의자료][13-1]
   * Neural Network Overview, Neural Network Representation, Computing a Neural Network's Output, Vectorizing Across Multiple Examples, Explanation of Vectorized Implementation, Activation Functions, Why do you need Non-linear Activation Functions?, Derivatives of Activation Functions, Gradient Descent for Neural Networks, Backpropagation Intuition, Random Initialization
 * Programming Assignments : [Planar Data Classification 과제][13-2],
 * [Ian Goodfellow 인터뷰][13-3]
 * References : [cs231n][15-3]
 
-### Week 4: Deep Neural Networks
+### (4) Deep Neural Networks
 * Deep Neural Network : [강의자료][14-1], [참고][14-2]
   * Deep L-layer Neural Network, Forward Propagation in a Deep Network, Getting your Matrix Dimentions Right, Why Deep Representations?, Building Blocks of Deep Neural Networks, Forward and Backward Propagation
   * [Feedforward Neural Networks in Depth][147]
@@ -40,7 +40,7 @@ layout: single
 [147]: https://community.deeplearning.ai/t/feedforward-neural-networks-in-depth/98811
 
 ## 2. Improving DNN: Hyperparameter Tuning, Regularization, and Optimization
-### Week 1: Practical Aspects of Deep Learning 
+### (1) Practical Aspects of Deep Learning 
 * [Lecture Notes][21-1]
 * Setting up your Machine Learning Application
   * Train/Dev/Test sets, Bias/Variance, Basic Recipe for ML
@@ -56,7 +56,7 @@ layout: single
 [212]: https://drive.google.com/file/d/1ZZROlmotrNXg-ICk0zSgLCrt3SI5Wsx1/view
 [213]: https://drive.google.com/file/d/1ZddGlNvRM7DdQclacBdpt36QznDS4_SU/view
 
-### Week 2: Optimization Algorithms
+### (2) Optimization Algorithms
 * [Lecture Notes][22-1]
 * Optimization Algorithm
   * Mini-batch Gradient Descent, Understading Mini-batch Gradient Descent, Exponentially Weighted Averages, Understanding Exponentially Weighted Averages, Bias Correction in Exponentially Weighted Averages
@@ -66,7 +66,7 @@ layout: single
 
 [221]: https://drive.google.com/file/d/1_Du_fWSQ1BvY4PWMPh5wBGN5E9Glj6j0/view
 
-### Week 3: Hyperparameter Tuning, Batch Normalization and Programming Frameworks
+### (3) Hyperparameter Tuning, Batch Normalization and Programming Frameworks
 * [Lecture Notes][23-1]
 * Hyperparameter Tuning
   * Tuining Process, Using an Appropriate Scale to pick Hyperparameters, Hyperparameter Tuing in pRactice: Pandas vs Cavlar
@@ -80,7 +80,7 @@ layout: single
 * References : [자동미분][24-1], [GradientTape][24-2]
 
 ## 3. Structuring Machine Learning Projects
-### Week 1: ML Strategy
+### (1) ML Strategy
 * [Lecture Notes][31-1]
 * Introduction to ML Strategy
   * Why ML Strategy, Orthogonalization
@@ -92,7 +92,7 @@ layout: single
 * [Quiz][312]
 * [Andrej Karpathy 인터뷰][31-2]
 
-### Week 2: ML Strategy
+### (2) ML Strategy
 * [Lecture Notes][32-1]
 * Error Analysis
   * Carrying Out Error Analysis, Cleaning Up Incorrectly Labeled Data, Build your First System Quickly, then Iterate
@@ -111,7 +111,7 @@ layout: single
 [321]: https://drive.google.com/file/d/1_Tc6OCWvp9CkSDIqZr6F7alXhCfTOAHp/view
 
 ## 4. Convolutional Neural Networks
-### Week 1: Foundations of Convolutional Neural Networks
+### (1) Foundations of Convolutional Neural Networks
 * [Lecture Notes][41-1]
 * Convolutional Neural Networks
   * Computer Vision, Edge Detection Example, More Edge Detection, Padding, Strided Convolutions, Convolutions Over Volume, One Layer of a Convolutional Network, Simple Convolutional Network Example, Pooling Layers, CNN Example, Why Convolutions?
@@ -120,7 +120,7 @@ layout: single
 * References : [Sequential 모델][45-1], [Functional API][45-2]
 * [Yann LeCun 인터뷰][41-4]
 
-### Week 2: Deep Convolutional Models: Case Study 
+### (2) Deep Convolutional Models: Case Study 
 * [Lecture Notes][42-1]
 * Case Stydies
   * Why look at case studies?, Classic Networks, ResNets, Why ResNets Work?, Networks in Networks and 1x1 Convolutions, Inception Network Motivation, Inception Network, MobileNet,
@@ -129,14 +129,14 @@ layout: single
 * Programming Assignments
   * [Residual Networks][42-2], [Transfer Learning with MobileNet][42-3]
 
-### Week 3: Object Detection
+### (3) Object Detection
 * [Lecture Notes][43-1]
 * Detection Algorithms
   * Object Localization, Landmark Detection, Object Detection, 
 * Programming Assignments  
   * [Car detection with YOLO][43-2], [Image Segmentation with U-Net][43-3]
 
-### Week 4: Special Applications : Face Recognition & Neural Style Transfer
+### (4) Special Applications : Face Recognition & Neural Style Transfer
 * [Lecture Notes][44-1]
 * Face Recognition
   * What is Face Recognition?, One Shot Learning, Siamese Network, Triplet Loss, Face Verification and Binary Classification, 
@@ -150,7 +150,7 @@ layout: single
   * [Artistic Style][45-9], [artistic style transfer][45-10], [MatConvNet][45-11]
     
 ## 5. Sequence Models
-### Week 1: Recurrent Neural Networks
+### (1) Recurrent Neural Networks
 * [Lecture Notes][51-1]
 * Recurrent Neural Networks
   * Why Sequence Models?, Notation,
@@ -160,7 +160,7 @@ layout: single
 * Programming Assignments  
   * [Building your RNN][51-2], [Dinosaur Island-Character-Level Language Modeling][51-3], [Jazz Improvisation with LSTM][51-4]
 
-### Week 2: Natural Language Processing & Word Embedding 
+### (2) Natural Language Processing & Word Embedding 
 * [Lecture Notes][52-1]
 * Introduction to Word Embeddings
   * Word Representation,
@@ -169,7 +169,7 @@ layout: single
   * [Word embeddings][52-r1], [Language model][52-r2], [Skip-gram][52-r3], [Negative sampling][52-r4], [GloVe][52-r5], [Debiasing][52-r6]
   * [Word Vectors 과제][52-2], [Emojify 과제][52-3]
 
-### Week 3: Sequence Models & Attention Mechanism 
+### (3) Sequence Models & Attention Mechanism 
 * [Lecture Notes][53-1]
   * Sequence to Sequence : [Sutskver][53-r1], [Cho][53-r2]
   * Image captioning : [Mao][53-r3], [Vinyals][53-r4], [Karpathy][53-r5]
@@ -178,7 +178,7 @@ layout: single
 * Programming Assignments 
   * [Machine Translation 과제][53-2], [Word Detection 과제][53-3]
 
-### Week 4: Transformer Network 
+### (4) Transformer Network 
 * [Lecture Notes][54-1]
 * Programming Assignments 
   * [Transformers 과제][54-2], [Transformer Pre-processing 과제][54-3], [Transformer Application #1][54-4], [Transformer Application #2][54-5]
