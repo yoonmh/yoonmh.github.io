@@ -176,16 +176,16 @@ layout: single
 ### (3) Sequence Models & Attention Mechanism 
 * [Lecture Notes][53-1]
 * Various Sequence to Sequence Architectures
-  * Basic Models, Picking the Most Likely Sentence, Beam Search,
+  * Basic Models, Picking the Most Likely Sentence, Beam Search, Refinements to Beam Search, Error Analysis in Beam Search, Bleu Score, Attention Model Intuition, Attention Model
 * Speech Recognition - Audio Data
-  * Speech Recognition
+  * Speech Recognition, Trigger Word Detection
 * References
   * Sequence to Sequence : [Sutskver][53-r1], [Cho][53-r2]
   * Image captioning : [Mao][53-r3], [Vinyals][53-r4], [Karpathy][53-r5]
   * Blau score : [Papineni][53-r6]
   * Attention : [Bahdanau][53-r7], [Xu][53-r8]
 * Programming Assignments 
-  * [Machine Translation 과제][53-2], [Word Detection 과제][53-3]
+  * [Neural Machine Translation][53-2], [Trigger Word Detection][53-3]
 
 ### (4) Transformer Network 
 * [Lecture Notes][54-1]
