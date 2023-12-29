@@ -139,7 +139,7 @@ layout: single
 ### (4) Special Applications : Face Recognition & Neural Style Transfer
 * [Lecture Notes][44-1]
 * Face Recognition
-  * What is Face Recognition?, One Shot Learning, Siamese Network, Triplet Loss, Face Verification and Binary Classification, 
+  * What is Face Recognition?, One Shot Learning, Siamese Network, Triplet Loss, Face Verification and Binary Classification
 * Neural Style Transfer
   * What is Neural Style Transfer?, What are deep ConvNets learning?, Cost Function, Content Cost Function, Style Cost Function, 1D and 3D Generalizations
 * Programming Assignments
