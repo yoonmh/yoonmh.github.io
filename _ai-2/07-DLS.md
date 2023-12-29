@@ -189,8 +189,10 @@ layout: single
 
 ### (4) Transformer Network 
 * [Lecture Notes][54-1]
+* Transformers
+  * Transformer Network Intuition, Self-Attention, Multi-Head Attention, Transformer Network
 * Programming Assignments 
-  * [Transformers 과제][54-2], [Transformer Pre-processing 과제][54-3], [Transformer Application #1][54-4], [Transformer Application #2][54-5]
+  * [Transformers Architecture with TensorFlow][54-2], [Transformer Pre-processing][54-3], [Transformer Application #1][54-4], [Transformer Application #2][54-5]
 
 [51-r1]: https://aclanthology.org/N13-1090/
 [51-r2]: https://arxiv.org/abs/1412.3555
