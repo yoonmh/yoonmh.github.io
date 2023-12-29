@@ -154,20 +154,24 @@ layout: single
 * [Lecture Notes][51-1]
 * Recurrent Neural Networks
   * Why Sequence Models?, Notation, Recurrent Neural Network Model, Backpropagation Through Time, Different Types of RNNs, Language Model and Sequence Generation, Sampling Novel Sequences, Vanishing Gradients with RNNs, Gated Recurrent Unit (GRU), Long Short Term Memory (LSTM), Bidirectional RNN, Deep RNNs
-* Programming Assignments  
-  * [Building your RNN][51-2], [Dinosaur Island-Character-Level Language Modeling][51-3], [Jazz Improvisation with LSTM][51-4]
 * References
   * GRU : [Cho][51-r1], [Chung][51-r2]
   * LSTM : [Hochreiter][51-r3]
+* Programming Assignments  
+  * [Building your RNN][51-2], [Dinosaur Island-Character-Level Language Modeling][51-3], [Jazz Improvisation with LSTM][51-4]
 
 ### (2) Natural Language Processing & Word Embedding 
 * [Lecture Notes][52-1]
 * Introduction to Word Embeddings
-  * Word Representation,
-* Learning Word Embeddings
-  * 
+  * Word Representation, Using Word Embeddings, Properties of Word Embeddings, Embedding Matrix
+* Learning Word Embeddings: Word2Vec & Glove
+  * Learning Word Embeddings, Word2Vec, Negative Sampling, GloVe Word Vectors
+* Applications Using Word Embeddings
+  * Sentiment Classification, Debiasing Word Embeddings
+* References
   * [Word embeddings][52-r1], [Language model][52-r2], [Skip-gram][52-r3], [Negative sampling][52-r4], [GloVe][52-r5], [Debiasing][52-r6]
-  * [Word Vectors 과제][52-2], [Emojify 과제][52-3]
+* Programming Assignments
+  * [Operations on Word Vectors - Debiasing][52-2], [Emojify][52-3]
 
 ### (3) Sequence Models & Attention Mechanism 
 * [Lecture Notes][53-1]
