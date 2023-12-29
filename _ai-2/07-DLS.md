@@ -153,12 +153,12 @@ layout: single
 ### (1) Recurrent Neural Networks
 * [Lecture Notes][51-1]
 * Recurrent Neural Networks
-  * Why Sequence Models?, Notation,
-
-  * GRU : [Cho][51-r1], [Chung][51-r2]
-  * LSTM : [Hochreiter][51-r3]
+  * Why Sequence Models?, Notation, Recurrent Neural Network Model, Backpropagation Through Time, Different Types of RNNs, Language Model and Sequence Generation, Sampling Novel Sequences, Vanishing Gradients with RNNs, Gated Recurrent Unit (GRU), Long Short Term Memory (LSTM), Bidirectional RNN, Deep RNNs
 * Programming Assignments  
   * [Building your RNN][51-2], [Dinosaur Island-Character-Level Language Modeling][51-3], [Jazz Improvisation with LSTM][51-4]
+* References
+  * GRU : [Cho][51-r1], [Chung][51-r2]
+  * LSTM : [Hochreiter][51-r3]
 
 ### (2) Natural Language Processing & Word Embedding 
 * [Lecture Notes][52-1]
