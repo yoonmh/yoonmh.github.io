@@ -25,7 +25,8 @@ layout: single
 * References : [NN from Scartch][15-1], [StackExchange][15-2]
 
 ### (3) Shallow Neural Networks 
-* Shallow Network : [강의자료][13-1]
+* [Lecture Notes][13-1]
+* Shallow Network
   * Neural Network Overview, Neural Network Representation, Computing a Neural Network's Output, Vectorizing Across Multiple Examples, Explanation of Vectorized Implementation, Activation Functions, Why do you need Non-linear Activation Functions?, Derivatives of Activation Functions, Gradient Descent for Neural Networks, Backpropagation Intuition, Random Initialization
 * Programming Assignments : [Planar Data Classification 과제][13-2],
 * [Ian Goodfellow 인터뷰][13-3]
