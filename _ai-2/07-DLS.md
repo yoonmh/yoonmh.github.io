@@ -7,7 +7,6 @@ layout: single
 
 ## 1. Neural Networks and Deep Learning
 ### (1) Introduction to Deep Learning 
-* Welcome to DLS
 * Introduction to Deep Laerning : [강의자료][11-1]
   * What is a Neural Network?, Supervised Learning with Neural Networks, Why is Deep Learning taking off?
 * [Geoffrey Hinton 인터뷰][11-2]
