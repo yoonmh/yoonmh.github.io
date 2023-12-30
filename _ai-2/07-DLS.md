@@ -28,7 +28,7 @@ layout: single
 * [Lecture Notes][13-1]
 * Shallow Network
   * Neural Network Overview, Neural Network Representation, Computing a Neural Network's Output, Vectorizing Across Multiple Examples, Explanation of Vectorized Implementation, Activation Functions, Why do you need Non-linear Activation Functions?, Derivatives of Activation Functions, Gradient Descent for Neural Networks, Backpropagation Intuition, Random Initialization
-* Programming Assignments : [Planar Data Classification 과제][13-2],
+* Programming Assignments : [Planar Data Classification with One Hidden Layer][13-2],
 * [Ian Goodfellow 인터뷰][13-3]
 * References : [cs231n][15-3]
 
