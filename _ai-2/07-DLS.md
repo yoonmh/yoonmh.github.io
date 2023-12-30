@@ -19,8 +19,8 @@ layout: single
 * Python and Vectorization
   * Vectorization, More Vectorization Examples, Vectorizing Logistic Regressipn, Vectorizing Logistic Regressipn Gradient Output, Broadcasting in Python, A Note on Python/Numpy Vectors, Quick tour of Jupyter/iPython Notebooks, Explanation of Logistic Regression Cost Function
 * Programming Assignments
-  * [Python Basics with Numpy][12-3], [Broadcasting 예제][12-4], [Numpy 예제][12-5]
-  * [Python Basics 과제][12-6], [Logistic Regression with a Neural Network Mindset][12-7]
+  * [Python Basics with Numpy][12-31], [Logistic Regression with a Neural Network Mindset][12-7]
+  * [Numpy][12-3], [Broadcasting 예제][12-4], [Numpy 예제][12-5], [Python Basics 과제][12-6], 
 * [Pieter Abbeel 인터뷰][12-8]
 * References : [NN from Scartch][15-1], [StackExchange][15-2]
 
@@ -219,6 +219,7 @@ layout: single
 [12-1]: https://drive.google.com/file/d/1GQooZ1TYIUsEihFhft_McLpeVAMke2Rk/view?usp=drive_link
 [12-2]: https://community.deeplearning.ai/t/derivation-of-dl-dz/165
 [12-3]: https://colab.research.google.com/drive/1I4NRAAdoLVmcUjEMIqKIx3oTpARZL4Sa
+[12-31]: https://colab.research.google.com/drive/1H7OSKj3HQ2ZR61dwUxvMHd15qc3d7Rrh
 [12-4]: https://colab.research.google.com/drive/18bajA90zXoFnkdCn8dW1Nd7nBN_-yPVP
 [12-5]: https://colab.research.google.com/drive/14GlLRgu9xmr5k40eLpqFqYrodbr2qDcz
 [12-6]: https://colab.research.google.com/drive/1H7OSKj3HQ2ZR61dwUxvMHd15qc3d7Rrh
