@@ -7,12 +7,14 @@ layout: single
 
 ## 1. Neural Networks and Deep Learning
 ### (1) Introduction to Deep Learning 
-* Introduction to Deep Laerning : [강의자료][11-1]
+* [Lecture Notes][11-1]
+* * Introduction to Deep Laerning
   * What is a Neural Network?, Supervised Learning with Neural Networks, Why is Deep Learning taking off?
 * [Geoffrey Hinton 인터뷰][11-2]
 
 ### (2) Neural Network Basics 
-* Logistic Regression as a Neural Network : [강의자료][12-1], [참고][12-2]
+* [Lecture Notes][12-1]
+* Logistic Regression as a Neural Network [참고][12-2]
   * Binary Classification, Logistic Regression, Logistic Regression Cost Function, Gradient Descent, Derivatives, More Derivative Examples, Computation Graph, Derivatives with Computation Graph, LogisticRegreaaion Gradient Descent, Gradient Descent on m Examples
 * Python and Vectorization
   * Vectorization, More Vectorization Examples, Vectorizing Logistic Regressipn, Vectorizing Logistic Regressipn Gradient Output
