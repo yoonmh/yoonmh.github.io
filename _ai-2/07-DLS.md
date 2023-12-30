@@ -8,7 +8,7 @@ layout: single
 ## 1. Neural Networks and Deep Learning
 ### (1) Introduction to Deep Learning 
 * [Lecture Notes][11-1]
-* * Introduction to Deep Laerning
+* Introduction to Deep Laerning
   * What is a Neural Network?, Supervised Learning with Neural Networks, Why is Deep Learning taking off?
 * [Geoffrey Hinton 인터뷰][11-2]
 
