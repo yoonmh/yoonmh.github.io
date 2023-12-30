@@ -19,8 +19,8 @@ layout: single
 * Python and Vectorization
   * Vectorization, More Vectorization Examples, Vectorizing Logistic Regressipn, Vectorizing Logistic Regressipn Gradient Output
 * Programming Assignments
-  * [Vectorization 예제][12-3], [Broadcasting 예제][12-4], [Numpy 예제][12-5]
-  * [Python Basics 과제][12-6], [Logistic Regression 과제][12-7]
+  * [Python Basics with Numpy][12-3], [Broadcasting 예제][12-4], [Numpy 예제][12-5]
+  * [Python Basics 과제][12-6], [Logistic Regression with a Neural Network Mindset][12-7]
 * [Pieter Abbeel 인터뷰][12-8]
 * References : [NN from Scartch][15-1], [StackExchange][15-2]
 
