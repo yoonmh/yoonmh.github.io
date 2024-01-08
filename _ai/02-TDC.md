@@ -5,7 +5,7 @@ layout: single
 #  teaser: /assets/images/TDC.jpg
 ---
 
-> Cousera에서 운영하는 "TensorFlow Developer Certificate" 과정의 학습강좌 및 텐서플로우 노트북 입니다.
+> Cousera에서 운영하는 "TensorFlow  Developer Professional Certificate" 과정의 학습강좌 및 텐서플로우 노트북 입니다.
 
 ## Class 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 ### (1) A new programming paradigm
@@ -42,17 +42,15 @@ layout: single
 
 ### (4) Using Real-world Images
 * [Lecture Notes][c1-w4]
-1. ImageGenerator 이해 ([Video][c1-w4-v1])
-2. 복잡한 이미지에 사용하기 위한 ConvNet 정의 ([Video][c1-w4-v2])
-3. fit_generator와 함께 ConvNet 학습 ([Video][c1-w4-v3], [YouTube][c1-w4-y3])
-4. ConvNet 실습 ([Video][c1-w4-v4], [Notebook][c1-w4-n4])
-5. fit_generator를 이용한 ConvNet 실습 ([Video][c1-w4-v5])
-6. 테스트 정확도에 대한 자동 검증 ([Video][c1-w4-v6], [Notebook][c1-w4-n6])
-7. 이미지 압축 효과 탐색 ([Video][c1-w4-v7], [Notebook][c1-w4-n8])
-
-* [Binary Classification][c1-w4-b8]
-* [Pixabay][c1-w4-p8]
-* Ex-4: Complex Images ([Exercise-4][c1-w4-e4])
+* Understanding ImageGenerator ([Video][c1-w4-v1])
+* Defining a ConvNet to use complex images ([Video][c1-w4-v2])
+* Training the ConvNet ([Video][c1-w4-v3], [YouTube][c1-w4-y3])
+* Walking through developing a ConvNet ([Video][c1-w4-v4], [Notebook][c1-w4-n4])
+* Walking through training the ConvNet ([Video][c1-w4-v5])
+* Adding automatic validation to test accuracy ([Video][c1-w4-v6], [Notebook][c1-w4-n6])
+* Exploring the impact of compressing images ([Video][c1-w4-v7], [Notebook][c1-w4-n8])
+* Reference: [Binary Classification][c1-w4-b8], [Pixabay][c1-w4-p8]
+* Ex-4: Handling Complex Images ([Exercise-4][c1-w4-e4])
 
 [c1-w1]: https://drive.google.com/file/d/1ZTtGO6PsQ7y-fXdLGHwQLNN3GslRkRWx/view
 [c1-w2]: https://drive.google.com/file/d/1ZQuSIavDCNUOS9r53jy6cDehwMuW6tEu/view
