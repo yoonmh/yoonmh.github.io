@@ -7,39 +7,41 @@ layout: single
 
 > Cousera에서 운영하는 "TensorFlow Developer Certificate" 과정의 학습강좌 및 텐서플로우 노트북 입니다.
 
-## Class 1. AI, 머신러닝, 딥러닝
-### W-1. 프로그래밍 패러다임
-1. 머신러닝 기초 ([Video][c1-w1-v1])
-2. 신경망의 ‘Hello World’ ([Video][c1-w1-v2])
-3. 텐서플로우 ‘Hello World’ 실습 ([Video][c1-w1-v3], [YouTube][c1-w1-y3], [Notebook][c1-w1-n3])
-
-* 머신러닝의 Hello World ([Codelab][c1-w1-c5])
-* L. Moroney의 딥러닝 GitHub ([GitHub][c1-w1-g5])
-* [Neural Network Playground][c1-w1-p5]
+## Class 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+### (1) A new programming paradigm
+* [Lecture Notes][c1-w1]
+* A Promer in Machine Learning ([Video][c1-w1-v1])
+* The "Hello World" of Neural Networks ([Video][c1-w1-v2])
+* "Hello World" in TensorFlow and Python ([Video][c1-w1-v3], [YouTube][c1-w1-y3], [Notebook][c1-w1-n3])
+* References
+  * 머신러닝의 Hello World ([Codelab][c1-w1-c5])
+  * L. Moroney의 딥러닝 GitHub ([GitHub][c1-w1-g5])
+  * [Neural Network Playground][c1-w1-p5]
 * Ex-1: Housing Prices ([Exercise-1][c1-w1-e1])
 
-### W-2. 컴퓨터 비전 
-1. 컴퓨터 비전 소개 ([Video][c1-w2-v1])
-2. 학습 데이터 로딩 ([Video][c1-w2-v2])
-3. 컴퓨터 비전 신경망 ([Video][c1-w2-v3], [YouTube][c1-w2-y3])
-4. 컴퓨터 비전 노트북 실습 ([Video][c1-w2-v4], [Notebook][c1-w2-n4])
-5. 학습을 콘트롤하기 위한 Callback 사용 ([Video][c1-w2-v5])
-6. Callback 노트북 실습 ([Video][c1-w2-v6], [Notebook][c1-w2-n6])
-
-* Computer Vision Model ([Codelab][c1-w2-c7])
+### (2) Introduction to Computer Vision
+* [Lecture Notes][c1-w2]
+* Introduction to Computer Vision ([Video][c1-w2-v1])
+* Writing code to training data ([Video][c1-w2-v2])
+* Coding a Computer Vision Neural Network ([Video][c1-w2-v3], [YouTube][c1-w2-y3])
+* Notebook for Computer Vision ([Video][c1-w2-v4], [Notebook][c1-w2-n4])
+* Using Callbacks to contro training ([Video][c1-w2-v5])
+* Notebook with Callbacks ([Video][c1-w2-v6], [Notebook][c1-w2-n6])
+* Reference: Computer Vision Model ([Codelab][c1-w2-c7])
 * Ex-2: HandWriting Recognition ([Exercise-2][c1-w2-e2])
 
-### W-3. CNN으로 비전 향상
-1. Convolution과 pooling 이란? ([Video][c1-w3-v1])
-2. Convolutional layer 구현 ([Video][c1-w3-v2], [YouTube][c1-w3-y2])
-3. Pooling layer 구현 ([Video][c1-w3-v3])
-4. 컨벌루션으로 Fashion classifier 성능 향상 ([Video][c1-w3-v4], [Notebook][c1-w3-n4])
-5. 컨벌루션 실습 ([Video][c1-w3-v5], [Notebook][c1-w3-n5])
-
+### (3) Enhancing Vision with CNN
+* [Lecture Notes][c1-w3]
+* What are convolutions and pooling? ([Video][c1-w3-v1])
+* Implementing Convolutional layers ([Video][c1-w3-v2], [YouTube][c1-w3-y2])
+* Implementing Pooling layers ([Video][c1-w3-v3])
+* Improving the Fashion classifier with convolutions ([Video][c1-w3-v4], [Notebook][c1-w3-n4])
+* Walking through convolutions ([Video][c1-w3-v5], [Notebook][c1-w3-n5])
 * [Image Filtering][c1-w3-i6]
-* Ex-3: Fashion MNIST with CNN ([Exercise-3][c1-w3-e3])
+* Ex-3: Improvng DNN performance using convolutions ([Exercise-3][c1-w3-e3])
 
-### W-4. 실생활 이미지 사용
+### (4) Using Real-world Images
+* [Lecture Notes][c1-w4]
 1. ImageGenerator 이해 ([Video][c1-w4-v1])
 2. 복잡한 이미지에 사용하기 위한 ConvNet 정의 ([Video][c1-w4-v2])
 3. fit_generator와 함께 ConvNet 학습 ([Video][c1-w4-v3], [YouTube][c1-w4-y3])
