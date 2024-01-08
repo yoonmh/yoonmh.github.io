@@ -54,6 +54,10 @@ layout: single
 * [Pixabay][c1-w4-p8]
 * Ex-4: Complex Images ([Exercise-4][c1-w4-e4])
 
+[c1-w1]: https://drive.google.com/file/d/1ZTtGO6PsQ7y-fXdLGHwQLNN3GslRkRWx/view
+[c1-w2]: https://drive.google.com/file/d/1ZQuSIavDCNUOS9r53jy6cDehwMuW6tEu/view
+[c1-w3]: https://drive.google.com/file/d/1ZR4HvfF6Z8Ntjatj3Cxc-NGg4aoh3iOW/view
+[c1-w4]: https://drive.google.com/file/d/1ZSUEM72HSUftorb8WbVTIIqnG6lW443M/view
 [c1-w1-v1]: https://drive.google.com/file/d/1Cf_9DH7KWcLz7YJ-W4DHGngaMrVE15pX/view?usp=sharing
 [c1-w1-v2]: https://drive.google.com/file/d/1CemGe4AnOjuOm7OE4C5AycbLzrP-D565/view?usp=sharing
 [c1-w1-v3]: https://drive.google.com/file/d/1CfQYOuy4BD6H_bPzh4eYMph-2dnyBQCC/view?usp=sharing
