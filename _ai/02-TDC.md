@@ -119,24 +119,22 @@ layout: single
 * [Keras augmentation][c2-w2-ka]
 * Ex-6: Cats vs. Dogs with Data Augmentation ([Exercise-6][c2-w2-e6])
 
-### W-3. Transfer Learning
+### (3) Transfer Learning
 * [Lecture Notes][c2-w3]
-1. Transfer learning의 개념 ([Video][c2-w3-v1])
-2. Inception 모드로 transfer learning 코딩 ([Video][c2-w3-v2])
-3. Transferred feature를 사용한 자신의 모델 구현 ([Video][c2-w3-v3])
-4. Dropout ([Video][c2-w3-v4], [YouTube][c2-w3-y4])
-5. Transfer Learning with Inception ([Video][c2-w3-v5], [Notebook][c2-w3-n5])
-
+* Understanding transfer learning: the concepts ([Video][c2-w3-v1])
+* Coding transfer learning from the Inception model ([Video][c2-w3-v2])
+* Coding your own model with transfered features ([Video][c2-w3-v3])
+* Exploring Dropouts! ([Video][c2-w3-v4], [YouTube][c2-w3-y4])
+* Exploring Transfer Learning with Inception ([Video][c2-w3-v5], [Notebook][c2-w3-n5])
 * [TensorFlow tutorial][c2-w3-tt]
 * Ex-3 : [Horses vs. humans using Transfer Learning][c2-w3-hw]
 
-### W-4. Multiclass Classifications
+### (4) Multiclass Classifications
 * [Lecture Notes][c2-w4]
-1. Multi-class classification ([Video][c2-w4-v1])
-2. 가위-바위-보 dataset ([Video][c2-w4-v2], [Dataset][c2-w4-d2])
-3. 가위-바위-보 분류기 ([Video][c2-w4-v3], [Notebook][c2-w4-n3])
-4. 가위-바위-보 분류기 테스트 ([Video][c2-w4-v4])
-
+* Moving from binary classification to multi-class classification ([Video][c2-w4-v1])
+* Explore multi-class with Rock Paper Scissors dataset ([Video][c2-w4-v2], [Dataset][c2-w4-d2])
+* Train a classifier with Rock Paper Scissors ([Video][c2-w4-v3], [Notebook][c2-w4-n3])
+* Test the Rock Paper Scissors classifier ([Video][c2-w4-v4])
 * [Kaggle][c2-w4-kg]
 * Ex-4: [Multi-class classifier][c2-w4-hw]
 
