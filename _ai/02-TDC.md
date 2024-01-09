@@ -196,10 +196,10 @@ layout: single
 ### (2) Word Embeddings
 * [Lecture Notes][c3-w2]
 * Introduction ([Video][c3-w2-v1], [Dataset][c3-w2-d1])
-* IMBD 코딩 ([Video][c3-w2-v2])
-* 단어의 벡터 ([Video][c3-w2-v3])
-* 벡터의 사용 ([Video][c3-w2-v4], [Projector][c3-w2-p4])
-* IMDB 실습 ([Video][c3-w2-v5], [Notebook][c3-w2-n5])
+* The IMBD dataset ([Video][c3-w2-v2])
+* Looking into the details ([Video][c3-w2-v3])
+* How can we use vectors? ([Video][c3-w2-v4], [Projector][c3-w2-p4])
+* More into the details ([Video][c3-w2-v5], [Notebook][c3-w2-n5])
 * Sarcasm ([Video][c3-w2-v6])
 * Sarcasm 분류기 ([Video][c3-w2-v7], [Notebook][c3-w2-n7])
 * Loss function ([Video][c3-w2-v8], [Notebook][c3-w2-n8])
