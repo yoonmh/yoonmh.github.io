@@ -191,24 +191,23 @@ layout: single
 * Working with the Tokenizer ([Video][c3-w1-v9])
 * Notebook ([Video][c3-w1-v10], [Notebook][c3-w1-n10])
 * References: [BBC news archive][c3-w1-h1], [Stopwords][c3-w1-h2]
-* Ex-1 : [Explore the BBC news archive][c3-w1-hw]
+* Ex-1: [Explore the BBC news archive][c3-w1-hw]
 
 ### (2) Word Embeddings
 * [Lecture Notes][c3-w2]
-1. 서론 ([Video][c3-w2-v1], [Dataset][c3-w2-d1])
-2. IMBD 코딩 ([Video][c3-w2-v2])
-3. 단어의 벡터 ([Video][c3-w2-v3])
-4. 벡터의 사용 ([Video][c3-w2-v4], [Projector][c3-w2-p4])
-5. IMDB 실습 ([Video][c3-w2-v5], [Notebook][c3-w2-n5])
-6. Sarcasm ([Video][c3-w2-v6])
-7. Sarcasm 분류기 ([Video][c3-w2-v7], [Notebook][c3-w2-n7])
-8. Loss function ([Video][c3-w2-v8], [Notebook][c3-w2-n8])
-9. Pre-tokenized datasets ([Video][c3-w2-v9])
-10. Sunword tokenizer(1) ([Video][c3-w2-v10])
-11. Sunword tokenizer(2) ([Video][c3-w2-v11])
-12. IMDB subword 실습 ([Video][c3-w2-v12], [Notebook][c3-w2-n12])
-
-* [BBC news archive][c3-w2-hw]
+* Introduction ([Video][c3-w2-v1], [Dataset][c3-w2-d1])
+* IMBD 코딩 ([Video][c3-w2-v2])
+* 단어의 벡터 ([Video][c3-w2-v3])
+* 벡터의 사용 ([Video][c3-w2-v4], [Projector][c3-w2-p4])
+* IMDB 실습 ([Video][c3-w2-v5], [Notebook][c3-w2-n5])
+* Sarcasm ([Video][c3-w2-v6])
+* Sarcasm 분류기 ([Video][c3-w2-v7], [Notebook][c3-w2-n7])
+* Loss function ([Video][c3-w2-v8], [Notebook][c3-w2-n8])
+* Pre-tokenized datasets ([Video][c3-w2-v9])
+* Sunword tokenizer(1) ([Video][c3-w2-v10])
+* Sunword tokenizer(2) ([Video][c3-w2-v11])
+* IMDB subword 실습 ([Video][c3-w2-v12], [Notebook][c3-w2-n12])
+* Ex-2: [Diving deeper into the BBC News archive][c3-w2-hw]
 
 ### W-3. Sequence 모델
 * [Lecture Notes][c3-w3]
