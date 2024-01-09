@@ -13,7 +13,7 @@ layout: single
 * A Promer in Machine Learning ([Video][c1-w1-v1])
 * The "Hello World" of Neural Networks ([Video][c1-w1-v2])
 * "Hello World" in TensorFlow and Python ([Video][c1-w1-v3], [YouTube][c1-w1-y3], [Notebook][c1-w1-n3])
-* References: 머신러닝의 Hello World ([Codelab][c1-w1-c5]), L. Moroney GitHub ([GitHub][c1-w1-g5]), [Neural Network Playground][c1-w1-p5]
+* References: ML "Hello World" ([Codelab][c1-w1-c5]), L. Moroney GitHub ([GitHub][c1-w1-g5]), [Neural Network Playground][c1-w1-p5]
 * Ex-1: Housing Prices ([Exercise-1][c1-w1-e1])
 
 ### (2) Introduction to Computer Vision
