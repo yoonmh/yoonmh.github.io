@@ -10,7 +10,7 @@ layout: single
 ## Class 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 ### (1) A new programming paradigm
 * [Lecture Notes][c1-w1]
-* A Promer in Machine Learning ([Video][c1-w1-v1])
+* A Primer in Machine Learning ([Video][c1-w1-v1])
 * The "Hello World" of Neural Networks ([Video][c1-w1-v2])
 * "Hello World" in TensorFlow and Python ([Video][c1-w1-v3], [YouTube][c1-w1-y3], [Notebook][c1-w1-n3])
 * References: ML "Hello World" ([Codelab][c1-w1-c5]), L. Moroney GitHub ([GitHub][c1-w1-g5]), [Neural Network Playground][c1-w1-p5]
@@ -98,18 +98,19 @@ layout: single
 [c1-w4-b8]: https://gombru.github.io/2018/05/23/cross_entropy_loss/
 [c1-w4-p8]: https://pixabay.com/
 
-## Class 2. 턴서플로우에서 CNN
-### W-1. 대규모 Dataset 사용
-1. 고양이와 개 dataset 학습 ([Video][c2-w1-v1])
-2. 노트북 실습 ([Video][c2-w1-v2], [Notebook][c2-w1-n2])
-3. Cropping ([Video][c2-w1-v3])
-4. 컨벌루션 효과 시각화 ([Video][c2-w1-v4])
-5. Accuracy와 loss 관점의 해석 ([Video][c2-w1-v5])
-
+## Class 2. Convolutional Neural Networks in TensorFlow
+### (1) Exploring Larger Dataset
+* [Lecture Notes][c2-w1]
+* Training with cats and dogs dataset ([Video][c2-w1-v1])
+* Working through the notebook ([Video][c2-w1-v2], [Notebook][c2-w1-n2])
+* Fixing through Cropping ([Video][c2-w1-v3])
+* Visualizing the effect of the convolutions ([Video][c2-w1-v4])
+* Looking at accuracy and loss ([Video][c2-w1-v5])
 * [Kaggle data][c2-w1-kg]
 * Ex-5: Full Cats vs. Dogs ([Exercise-5][c2-w1-e5])
 
-### W-2. Augmentation: overfitting을 피하는 방법
+### (2) Augmentation: overfitting을 피하는 방법
+* [Lecture Notes][c2-w2]
 1. Augmentation 서론 ([Video][c2-w2-v1])
 2. ImageDataGenerator로 augmentation 코딩 ([Video][c2-w2-v2])
 3. 고양이와 개 에서 overfitting 데모 ([Video][c2-w2-v3])
@@ -120,6 +121,7 @@ layout: single
 * Ex-6: Cats vs. Dogs with Augmentation ([Exercise-6][c2-w2-e6])
 
 ### W-3. Transfer Learning
+* [Lecture Notes][c2-w3]
 1. Transfer learning의 개념 ([Video][c2-w3-v1])
 2. Inception 모드로 transfer learning 코딩 ([Video][c2-w3-v2])
 3. Transferred feature를 사용한 자신의 모델 구현 ([Video][c2-w3-v3])
@@ -130,6 +132,7 @@ layout: single
 * Ex-3 : [Horses vs. humans using Transfer Learning][c2-w3-hw]
 
 ### W-4. Multiclass Classifications
+* [Lecture Notes][c2-w4]
 1. Multi-class classification ([Video][c2-w4-v1])
 2. 가위-바위-보 dataset ([Video][c2-w4-v2], [Dataset][c2-w4-d2])
 3. 가위-바위-보 분류기 ([Video][c2-w4-v3], [Notebook][c2-w4-n3])
@@ -138,6 +141,10 @@ layout: single
 * [Kaggle][c2-w4-kg]
 * Ex-4: [Multi-class classifier][c2-w4-hw]
 
+[c2-w1]: https://drive.google.com/file/d/1_0E27mb0CkyisFKajwf3S01vW3ufCzig/view
+[c2-w2]: https://drive.google.com/file/d/1_-nAXk5hIuMoC16_vv76n-CEmdZmgKNQ/view
+[c2-w3]: https://drive.google.com/file/d/1_0GDACdy3Bq51ujVtCRvh2fli2ausawj/view
+[c2-w4]: https://drive.google.com/file/d/1_0FbWj-ScfIPjpgaXfN5HTOmwlNttHgH/view
 [c2-w1-v1]: https://drive.google.com/file/d/1DWVtYgtQXy457gy98QuwfgwG4F4t-ZE5/view?usp=sharing
 [c2-w1-v2]: https://drive.google.com/file/d/1DQWt955CboyiVBAFbg_6QGwGG5o-wx04/view?usp=sharing
 [c2-w1-n2]: https://colab.research.google.com/drive/1tEQd1tJbYhu3cK89TBEVNAs3w6za-PDG
