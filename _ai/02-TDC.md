@@ -200,18 +200,18 @@ layout: single
 * Looking into the details ([Video][c3-w2-v3])
 * How can we use vectors? ([Video][c3-w2-v4], [Projector][c3-w2-p4])
 * More into the details ([Video][c3-w2-v5], [Notebook][c3-w2-n5])
-* Sarcasm ([Video][c3-w2-v6])
-* Sarcasm 분류기 ([Video][c3-w2-v7], [Notebook][c3-w2-n7])
-* Loss function ([Video][c3-w2-v8], [Notebook][c3-w2-n8])
+* Remember the sarcasm dataset? ([Video][c3-w2-v6])
+* Building a classifier for the sarcasm dataset ([Video][c3-w2-v7], [Notebook][c3-w2-n7])
+* Let’s talk about the loss ([Video][c3-w2-v8], [Notebook][c3-w2-n8])
 * Pre-tokenized datasets ([Video][c3-w2-v9])
-* Sunword tokenizer(1) ([Video][c3-w2-v10])
-* Sunword tokenizer(2) ([Video][c3-w2-v11])
+* Diving into the code(1) ([Video][c3-w2-v10])
+* Diving into the code(2) ([Video][c3-w2-v11])
 * IMDB subword 실습 ([Video][c3-w2-v12], [Notebook][c3-w2-n12])
 * Ex-2: [Diving deeper into the BBC News archive][c3-w2-hw]
 
 ### W-3. Sequence 모델
 * [Lecture Notes][c3-w3]
-1. 서론 ([Video][c3-w3-v1], [Coursera][c3-w3-c1])
+* Introduction ([Video][c3-w3-v1], [Coursera][c3-w3-c1])
 2. LSTM ([Video][c3-w3-v2], [Coursera][c3-w3-c2])
 3. LSTM 구현 ([Video][c3-w3-v3], [1 LSTM][c3-w3-n31], [2 LSTM][c3-w3-n32])
 4. Accuracy와 loss ([Video][c3-w3-v4])
