@@ -109,16 +109,15 @@ layout: single
 * [Kaggle data][c2-w1-kg]
 * Ex-5: Full Cats vs. Dogs ([Exercise-5][c2-w1-e5])
 
-### (2) Augmentation: overfitting을 피하는 방법
+### (2) Augmentation: A technique to avoid overfitting
 * [Lecture Notes][c2-w2]
-1. Augmentation 서론 ([Video][c2-w2-v1])
-2. ImageDataGenerator로 augmentation 코딩 ([Video][c2-w2-v2])
-3. 고양이와 개 에서 overfitting 데모 ([Video][c2-w2-v3])
-4. 고양이와 개 분류에 augmentation 적용 ([Video][c2-w2-v4], [Notebook][c2-w2-n4])
-5. 말과 사람 분류의 augmentation ([Video][c2-w2-v5], [Notebook][c2-w2-n5])
-
+* Introducing Augmentation ([Video][c2-w2-v1])
+* Coding augmentation using ImageDataGenerator ([Video][c2-w2-v2])
+* Demonstrating overfitting in Cats vs. Dogs ([Video][c2-w2-v3])
+* Adopting aaugmentation to cats vs. dogs ([Video][c2-w2-v4], [Notebook][c2-w2-n4])
+* Exploring augmentation on horses vs. humans ([Video][c2-w2-v5], [Notebook][c2-w2-n5])
 * [Keras augmentation][c2-w2-ka]
-* Ex-6: Cats vs. Dogs with Augmentation ([Exercise-6][c2-w2-e6])
+* Ex-6: Cats vs. Dogs with Data Augmentation ([Exercise-6][c2-w2-e6])
 
 ### W-3. Transfer Learning
 * [Lecture Notes][c2-w3]
