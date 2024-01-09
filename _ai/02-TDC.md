@@ -177,24 +177,24 @@ layout: single
 [c2-w4-kg]: https://www.kaggle.com/datamunge/sign-language-mnist
 [c2-w4-hw]: https://colab.research.google.com/drive/1cNlm9Z_7F32k2vysHKQ082UO_R1tYMis
 
-## Class 3. 텐서플로우에서 자연어 처리 (NLP)
-### W-1. 문장에서 Sentiment
-1. 서론 ([Video][c3-w1-v1])
-2. 단어의 encoding ([Video][c3-w1-v2])
-3. API 사용 ([Video][c3-w1-v3], [Notebook][c3-w1-n3])
-4. Text를 sequence로 ([Video][c3-w1-v4]) 
-5. Tokenizer ([Video][c3-w1-v5])
-6. Padding ([Video][c3-w1-v6])
-7. 노트북 실습 ([Video][c3-w1-v7], [Notebook][c3-w1-n7])
-8. Sarcasm ([Video][c3-w1-v8], [Dataset][c3-w1-d8])
-9. Sarcasm Tokenizer ([Video][c3-w1-v9])
-10. Sarcasm 실습 ([Video][c3-w1-v10], [Notebook][c3-w1-n10])
+## Class 3. Natural Language Processing in TensorFlow
+### (1) Sentiment in Text
+* [Lecture Notes][c3-w1]
+* Introduction ([Video][c3-w1-v1])
+* Word based encodings ([Video][c3-w1-v2])
+* Using APIs ([Video][c3-w1-v3], [Notebook][c3-w1-n3])
+* Text to sequence ([Video][c3-w1-v4]) 
+* Looking more at the Tokenizer ([Video][c3-w1-v5])
+* Padding ([Video][c3-w1-v6])
+* Notebook ([Video][c3-w1-v7], [Notebook][c3-w1-n7])
+* Sarcasm, really? ([Video][c3-w1-v8], [Dataset][c3-w1-d8])
+* Working with the Tokenizer ([Video][c3-w1-v9])
+* Notebook ([Video][c3-w1-v10], [Notebook][c3-w1-n10])
+* References: [BBC news archive][c3-w1-h1], [Stopwords][c3-w1-h2]
+* Ex-1 : [Explore the BBC news archive][c3-w1-hw]
 
-* [BBC news archive][c3-w1-h1]
-* [Stopwords][c3-w1-h2]
-* Ex-1 : [Explore the BBC news][c3-w1-hw]
-
-### W-2. Word Embeddings
+### (2) Word Embeddings
+* [Lecture Notes][c3-w2]
 1. 서론 ([Video][c3-w2-v1], [Dataset][c3-w2-d1])
 2. IMBD 코딩 ([Video][c3-w2-v2])
 3. 단어의 벡터 ([Video][c3-w2-v3])
@@ -211,6 +211,7 @@ layout: single
 * [BBC news archive][c3-w2-hw]
 
 ### W-3. Sequence 모델
+* [Lecture Notes][c3-w3]
 1. 서론 ([Video][c3-w3-v1], [Coursera][c3-w3-c1])
 2. LSTM ([Video][c3-w3-v2], [Coursera][c3-w3-c2])
 3. LSTM 구현 ([Video][c3-w3-v3], [1 LSTM][c3-w3-n31], [2 LSTM][c3-w3-n32])
@@ -224,6 +225,7 @@ layout: single
 * [Overfitting in NLP][c3-w3-hw]
 
 ### W-4. Sequence 모델과 문학
+* [Lecture Notes][c3-w4]
 1. 서론 ([Video][c3-w4-v1])
 2. 코딩 ([Video][c3-w4-v2])
 3. 데이터 학습 (1) ([Video][c3-w4-v3])
@@ -239,6 +241,10 @@ layout: single
 
 * [Using LSTMs, see if you can write Shakespeare!][c3-w4-hw]
 
+[c3-w1]: 
+[c3-w2]: 
+[c3-w3]: 
+[c3-w4]: 
 [c3-w1-v1]: https://drive.google.com/file/d/1DtjmzeQSGvdonXb_qZAnMn7IKLZPvA7O/view?usp=sharing
 [c3-w1-v2]: https://drive.google.com/file/d/1DtMEqPVrDKXy9inU86zeC3ReyY2lQCD3/view?usp=sharing
 [c3-w1-v3]: https://drive.google.com/file/d/1DuLOXNBxD3Bh5a9U70rpNUzysqylJ-6a/view?usp=sharing
