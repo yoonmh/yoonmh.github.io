@@ -1,11 +1,11 @@
 ---
-title: "TensorFlow Developer Certificate"
+title: "TensorFlow Developer Professional Certificate"
 layout: single
 # header:
 #  teaser: /assets/images/TDC.jpg
 ---
 
-> Cousera에서 운영하는 "TensorFlow  Developer Professional Certificate" 과정의 학습강좌 및 텐서플로우 노트북 입니다.
+> Cousera에서 운영하는 "TensorFlow Developer Professional Certificate" 과정의 학습강좌 및 텐서플로우 노트북 입니다.
 
 ## Class 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 ### (1) A new programming paradigm
@@ -13,10 +13,7 @@ layout: single
 * A Promer in Machine Learning ([Video][c1-w1-v1])
 * The "Hello World" of Neural Networks ([Video][c1-w1-v2])
 * "Hello World" in TensorFlow and Python ([Video][c1-w1-v3], [YouTube][c1-w1-y3], [Notebook][c1-w1-n3])
-* References
-  * 머신러닝의 Hello World ([Codelab][c1-w1-c5])
-  * L. Moroney의 딥러닝 GitHub ([GitHub][c1-w1-g5])
-  * [Neural Network Playground][c1-w1-p5]
+* References: 머신러닝의 Hello World ([Codelab][c1-w1-c5]), L. Moroney GitHub ([GitHub][c1-w1-g5]), [Neural Network Playground][c1-w1-p5]
 * Ex-1: Housing Prices ([Exercise-1][c1-w1-e1])
 
 ### (2) Introduction to Computer Vision
