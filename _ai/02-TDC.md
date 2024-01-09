@@ -241,10 +241,10 @@ layout: single
 
 * [Using LSTMs, see if you can write Shakespeare!][c3-w4-hw]
 
-[c3-w1]: 
-[c3-w2]: 
-[c3-w3]: 
-[c3-w4]: 
+[c3-w1]: https://drive.google.com/file/d/1_4UbvcbrY3x7n74RbUS8qA48DLTQSmdq/view
+[c3-w2]: https://drive.google.com/file/d/1_4-5Cs4qzXh0nHjcDd4KH68A6G5UOTHo/view
+[c3-w3]: https://drive.google.com/file/d/1_3CgKLIDkQ96FI6-VG823pCRJs2VaTrz/view
+[c3-w4]: https://drive.google.com/file/d/1_36rG03jP7W2KkgbgOXGd2jNRc3RYTcs/view
 [c3-w1-v1]: https://drive.google.com/file/d/1DtjmzeQSGvdonXb_qZAnMn7IKLZPvA7O/view?usp=sharing
 [c3-w1-v2]: https://drive.google.com/file/d/1DtMEqPVrDKXy9inU86zeC3ReyY2lQCD3/view?usp=sharing
 [c3-w1-v3]: https://drive.google.com/file/d/1DuLOXNBxD3Bh5a9U70rpNUzysqylJ-6a/view?usp=sharing
