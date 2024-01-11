@@ -209,7 +209,7 @@ layout: single
 * IMDB subword 실습 ([Video][c3-w2-v12], [Notebook][c3-w2-n12])
 * Ex-2: [Diving deeper into the BBC News archive][c3-w2-hw]
 
-### W-3. Sequence 모델
+### (3) Sequence models
 * [Lecture Notes][c3-w3]
 * Introduction ([Video][c3-w3-v1], [Coursera][c3-w3-c1])
 * LSTMs ([Video][c3-w3-v2], [Coursera][c3-w3-c2])
@@ -218,26 +218,24 @@ layout: single
 * Looking into the code ([Video][c3-w3-v5])
 * Using a convolutional network ([Video][c3-w3-v6])
 * Going back to the IMDB dataset ([Video][c3-w3-v7])
-
 * [Dataset][c3-w3-h1]
 * [Global Vectors for Word Representation][c3-w3-h2]
 * [Overfitting in NLP][c3-w3-hw]
 
-### W-4. Sequence 모델과 문학
+### (4)Sequence models and literature
 * [Lecture Notes][c3-w4]
-1. 서론 ([Video][c3-w4-v1])
-2. 코딩 ([Video][c3-w4-v2])
-3. 데이터 학습 (1) ([Video][c3-w4-v3])
-4. 데이터 학습 (2) ([Video][c3-w4-v4])
-5. 노트북 실습 ([Video][c3-w4-v5], [Notebook][c3-w4-n5])
-6. Finding what the next word should be ([Video][c3-w4-v6])
-7. Example ([Video][c3-w4-v7])
-8. Predicting a word ([Video][c3-w4-v8])
-9. Poetry! ([Video][c3-w4-v9])
-10. Looking into the code ([Video][c3-w4-v10])
-11. Laurence the poet! ([Video][c3-w4-v11])
-12. Your next task ([Video][c3-w4-v12])
-
+* Introduction ([Video][c3-w4-v1])
+* Looking into the code ([Video][c3-w4-v2])
+* Preparing the training data ([Video][c3-w4-v3])
+* More on the training data ([Video][c3-w4-v4])
+* 노트북 실습 ([Video][c3-w4-v5], [Notebook][c3-w4-n5])
+* Finding what the next word should be ([Video][c3-w4-v6])
+* Example ([Video][c3-w4-v7])
+* Predicting a word ([Video][c3-w4-v8])
+* Poetry! ([Video][c3-w4-v9])
+* Looking into the code ([Video][c3-w4-v10])
+* Laurence the poet! ([Video][c3-w4-v11])
+* Your next task ([Video][c3-w4-v12])
 * [Using LSTMs, see if you can write Shakespeare!][c3-w4-hw]
 
 [c3-w1]: https://drive.google.com/file/d/1_4UbvcbrY3x7n74RbUS8qA48DLTQSmdq/view
