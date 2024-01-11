@@ -310,7 +310,7 @@ layout: single
 ## Class 4. Sequences, Time Series & Prediction
 ### (1) Sequences and Prediction
 * [Lecture Notes][c4-w1]
-1. Time series의 예 ([Video][c4-w1-v1])
+* Time series examples ([Video][c4-w1-v1])
 2. Time series에 적용한 머신러닝 ([Video][c4-w1-v2])
 3. Time series에서 패턴 ([Video][c4-w1-v3])
 4. Time series 서론 ([Video][c4-w1-v4], [Notebook][c4-w1-n4])
@@ -324,7 +324,7 @@ layout: single
 
 ### (2) Deep Neural Networks for Time Series 
 * [Lecture Notes][c4-w2]
-1. Preparing features and labels ([Video][c4-w2-v1])
+* Preparing features and labels ([Video][c4-w2-v1])
 2. Preparing features and labels ([Video][c4-w2-v2], [Notebook][c4-w2-n2])
 3. Feeding windowed dataset into neural network ([Video][c4-w2-v3])
 4. Single layer neural network ([Video][c4-w2-v4])
@@ -338,7 +338,7 @@ layout: single
 
 ### (3) Recurrent Neural Networks for Time Series
 * [Lecture Notes][c4-w3]
-1. 개념 정리 ([Video][c4-w3-v1])
+* Conceptual overview ([Video][c4-w3-v1])
 2. Shape of the inputs to the RNN ([Video][c4-w3-v2])
 3. Outputting a sequence ([Video][c4-w3-v3])
 4. Lambda layers ([Video][c4-w3-v4])
@@ -353,7 +353,7 @@ layout: single
 
 ### (4) Real-world time series data
 * [Lecture Notes][c4-w4]
-1. Convolutions ([Video][c4-w4-v1])
+* Convolutions ([Video][c4-w4-v1])
 2. 양방향 LSTM ([Video][c4-w4-v2])
 3. LSTM ([Video][c4-w4-v3], [Notebook][c4-w4-n3])
 4. Real data - sunspots ([Video][c4-w4-v4])
