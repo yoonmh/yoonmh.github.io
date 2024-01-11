@@ -212,12 +212,12 @@ layout: single
 ### W-3. Sequence 모델
 * [Lecture Notes][c3-w3]
 * Introduction ([Video][c3-w3-v1], [Coursera][c3-w3-c1])
-2. LSTM ([Video][c3-w3-v2], [Coursera][c3-w3-c2])
-3. LSTM 구현 ([Video][c3-w3-v3], [1 LSTM][c3-w3-n31], [2 LSTM][c3-w3-n32])
-4. Accuracy와 loss ([Video][c3-w3-v4])
-5. Sarcasm 코딩 ([Video][c3-w3-v5])
-6. Convolutional network ([Video][c3-w3-v6])
-7. IMDB 코드 ([Video][c3-w3-v7])
+* LSTMs ([Video][c3-w3-v2], [Coursera][c3-w3-c2])
+* Implementing LSTMs in code ([Video][c3-w3-v3], [1 LSTM][c3-w3-n31], [2 LSTM][c3-w3-n32])
+* Accuracy and loss ([Video][c3-w3-v4])
+* Looking into the code ([Video][c3-w3-v5])
+* Using a convolutional network ([Video][c3-w3-v6])
+* Going back to the IMDB dataset ([Video][c3-w3-v7])
 
 * [Dataset][c3-w3-h1]
 * [Global Vectors for Word Representation][c3-w3-h2]
