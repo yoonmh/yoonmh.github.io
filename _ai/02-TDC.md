@@ -308,7 +308,8 @@ layout: single
 [c3-w4-hw]: https://colab.research.google.com/drive/1d_lnHtSSgaez8m8W7o9ukEXNwEtI80uN
 
 ## Class 4. Sequences, Time Series & Prediction
-### W-1. Sequence와 예측
+### (1) Sequences and Prediction
+* [Lecture Notes][c4-w1]
 1. Time series의 예 ([Video][c4-w1-v1])
 2. Time series에 적용한 머신러닝 ([Video][c4-w1-v2])
 3. Time series에서 패턴 ([Video][c4-w1-v3])
@@ -321,7 +322,8 @@ layout: single
 
 * [Create and predict synthetic data][c4-w1-hw]
 
-### W-2. Deep Neural Networks for Time Series 
+### (2) Deep Neural Networks for Time Series 
+* [Lecture Notes][c4-w2]
 1. Preparing features and labels ([Video][c4-w2-v1])
 2. Preparing features and labels ([Video][c4-w2-v2], [Notebook][c4-w2-n2])
 3. Feeding windowed dataset into neural network ([Video][c4-w2-v3])
@@ -334,7 +336,8 @@ layout: single
 
 * [Predict with a DNN][c4-w2-hw]
 
-### W-3. Time Series를 위한 RNN
+### (3) Recurrent Neural Networks for Time Series
+* [Lecture Notes][c4-w3]
 1. 개념 정리 ([Video][c4-w3-v1])
 2. Shape of the inputs to the RNN ([Video][c4-w3-v2])
 3. Outputting a sequence ([Video][c4-w3-v3])
@@ -348,7 +351,8 @@ layout: single
 
 * [Mean Absolute Error][c4-w3-hw]
 
-### W-4. 실생활의 time series data
+### (4) Real-world time series data
+* [Lecture Notes][c4-w4]
 1. Convolutions ([Video][c4-w4-v1])
 2. 양방향 LSTM ([Video][c4-w4-v2])
 3. LSTM ([Video][c4-w4-v3], [Notebook][c4-w4-n3])
@@ -361,6 +365,10 @@ layout: single
 
 * [Sunspots][c4-w4-hw]
 
+[c4-w1]: https://drive.google.com/file/d/1_J5aIgUbBonQeDHTdb35XoduGLc-oq_W/view
+[c4-w2]: https://drive.google.com/file/d/1_IqpEcYCpYlpDqnpi27s1teBCptM-LsS/view
+[c4-w3]: https://drive.google.com/file/d/1_IiUhjDPW74eyGoG8Dji3ftKzZQdD_uY/view
+[c4-w4]: https://drive.google.com/file/d/1_IlQ3EmRQ9pe1ils-D0QQtTBmLJCFhCh/view
 [c4-w1-v1]: https://drive.google.com/file/d/1HC7fU4slqoRZX_ZmoR4Corrm5fiYxg1H/view?usp=sharing
 [c4-w1-v2]: https://drive.google.com/file/d/1HItIETh64XY6AqCcYpn8386ayUEFPeHy/view?usp=sharing
 [c4-w1-v3]: https://drive.google.com/file/d/1H6vVcZlvOKf-rCTg-34r8vxrZ85ryYO5/view?usp=sharing
