@@ -222,7 +222,7 @@ layout: single
 * [Global Vectors for Word Representation][c3-w3-h2]
 * [Overfitting in NLP][c3-w3-hw]
 
-### (4)Sequence models and literature
+### (4) Sequence models and literature
 * [Lecture Notes][c3-w4]
 * Introduction ([Video][c3-w4-v1])
 * Looking into the code ([Video][c3-w4-v2])
