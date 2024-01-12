@@ -324,30 +324,28 @@ layout: single
 ### (2) Deep Neural Networks for Time Series 
 * [Lecture Notes][c4-w2]
 * Preparing features and labels ([Video][c4-w2-v1])
-2. Preparing features and labels ([Video][c4-w2-v2], [Notebook][c4-w2-n2])
-3. Feeding windowed dataset into neural network ([Video][c4-w2-v3])
-4. Single layer neural network ([Video][c4-w2-v4])
-5. Machine learning on time windows ([Video][c4-w2-v5])
-6. Prediction ([Video][c4-w2-v6])
-7. More on single layer neural network ([Video][c4-w2-v7], [Notebook][c4-w2-n7])
-8. Deep neural network training, tuning and prediction ([Video][c4-w2-v8])
-9. Deep neural network ([Video][c4-w2-v9], [Notebook][c4-w2-n9])
-
+* Preparing features and labels (screencast) ([Video][c4-w2-v2], [Notebook][c4-w2-n2])
+* Feeding windowed dataset into neural network ([Video][c4-w2-v3])
+* Single layer neural network ([Video][c4-w2-v4])
+* Machine learning on time windows ([Video][c4-w2-v5])
+* Prediction ([Video][c4-w2-v6])
+* More on single layer neural network ([Video][c4-w2-v7], [Notebook][c4-w2-n7])
+* Deep neural network training, tuning and prediction ([Video][c4-w2-v8])
+* Deep neural network ([Video][c4-w2-v9], [Notebook][c4-w2-n9])
 * [Predict with a DNN][c4-w2-hw]
 
 ### (3) Recurrent Neural Networks for Time Series
 * [Lecture Notes][c4-w3]
 * Conceptual overview ([Video][c4-w3-v1])
-2. Shape of the inputs to the RNN ([Video][c4-w3-v2])
-3. Outputting a sequence ([Video][c4-w3-v3])
-4. Lambda layers ([Video][c4-w3-v4])
-5. Adjusting the learning rate dynamically ([Video][c4-w3-v5])
+* Shape of the inputs to the RNN ([Video][c4-w3-v2])
+* Outputting a sequence ([Video][c4-w3-v3])
+* Lambda layers ([Video][c4-w3-v4])
+* Adjusting the learning rate dynamically ([Video][c4-w3-v5])
 * Huber loss ([Wikipedia][c4-w3-w5])
-6. RNN ([Video][c4-w3-v6], [Notebook][c4-w3-n6])
-7. LSTM ([Video][c4-w3-v7], [A.NG][c4-w3-a7])
-8. LSTM 코딩 ([Video][c4-w3-v8])
-9. More on LSTM ([Video][c4-w3-v9], [Notebook][c4-w3-n9])
-
+* RNN ([Video][c4-w3-v6], [Notebook][c4-w3-n6])
+* LSTM ([Video][c4-w3-v7], [A.NG][c4-w3-a7])
+* Coding LSTMs ([Video][c4-w3-v8])
+* More on LSTM ([Video][c4-w3-v9], [Notebook][c4-w3-n9])
 * [Mean Absolute Error][c4-w3-hw]
 
 ### (4) Real-world time series data
