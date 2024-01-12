@@ -311,15 +311,14 @@ layout: single
 ### (1) Sequences and Prediction
 * [Lecture Notes][c4-w1]
 * Time series examples ([Video][c4-w1-v1])
-2. Time series에 적용한 머신러닝 ([Video][c4-w1-v2])
-3. Time series에서 패턴 ([Video][c4-w1-v3])
-4. Time series 서론 ([Video][c4-w1-v4], [Notebook][c4-w1-n4])
-5. Train, validation and test sets ([Video][c4-w1-v5])
-6. 성능 평가를 위한 Metrics ([Video][c4-w1-v6])
-7. Moving average and differencing ([Video][c4-w1-v7])
-8. Trailing versus centered windows ([Video][c4-w1-v8])
-9. Forecasting ([Video][c4-w1-v9])
-
+* Machine learning applied to time series ([Video][c4-w1-v2])
+* Common patterns in time series ([Video][c4-w1-v3])
+* Introduction to time series ([Video][c4-w1-v4], [Notebook][c4-w1-n4])
+* Train, validation and test sets ([Video][c4-w1-v5])
+* Metrics for evaluating performance ([Video][c4-w1-v6])
+* Moving average and differencing ([Video][c4-w1-v7])
+* Trailing versus centered windows ([Video][c4-w1-v8])
+* Forecasting ([Video][c4-w1-v9])
 * [Create and predict synthetic data][c4-w1-hw]
 
 ### (2) Deep Neural Networks for Time Series 
