@@ -351,15 +351,13 @@ layout: single
 ### (4) Real-world time series data
 * [Lecture Notes][c4-w4]
 * Convolutions ([Video][c4-w4-v1])
-2. 양방향 LSTM ([Video][c4-w4-v2])
-3. LSTM ([Video][c4-w4-v3], [Notebook][c4-w4-n3])
-4. Real data - sunspots ([Video][c4-w4-v4])
-5. Train and tune the model ([Video][c4-w4-v5])
-6. Prediction ([Video][c4-w4-v6])
-7. Sunspots ([Video][c4-w4-v7], [Notebook][c4-w4-n7])
-8. Combining our tools for analysis ([Video][c4-w4-v8])
-9. Congratulations! 
-
+* Bi-directional LSTMs ([Video][c4-w4-v2])
+* Convolutions with LSTM ([Video][c4-w4-v3], [Notebook][c4-w4-n3])
+* Real data - sunspots ([Video][c4-w4-v4])
+* Train and tune the model ([Video][c4-w4-v5])
+* Prediction ([Video][c4-w4-v6])
+* Sunspots ([Video][c4-w4-v7], [Notebook][c4-w4-n7])
+* Combining our tools for analysis ([Video][c4-w4-v8])
 * [Sunspots][c4-w4-hw]
 
 [c4-w1]: https://drive.google.com/file/d/1_J5aIgUbBonQeDHTdb35XoduGLc-oq_W/view
