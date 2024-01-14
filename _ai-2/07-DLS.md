@@ -17,7 +17,7 @@ layout: single
 * Logistic Regression as a Neural Network [참고][12-2]
   * 1-Binary Classification, 2-Logistic Regression, 3-Logistic Regression Cost Function, 4-Gradient Descent, 5-Derivatives, 6-More Derivative Examples, 7-Computation Graph, 8-Derivatives with Computation Graph, 9-LogisticRegreaaion Gradient Descent, 10-Gradient Descent on m Examples
 * Python and Vectorization
-  * Vectorization, More Vectorization Examples, Vectorizing Logistic Regressipn, Vectorizing Logistic Regressipn Gradient Output, Broadcasting in Python, A Note on Python/Numpy Vectors, Quick tour of Jupyter/iPython Notebooks, Explanation of Logistic Regression Cost Function
+  * 1-Vectorization, 2-More Vectorization Examples, 3-Vectorizing Logistic Regressipn, 4-Vectorizing Logistic Regressipn Gradient Output, 5-Broadcasting in Python, 6-A Note on Python/Numpy Vectors, 7-Quick tour of Jupyter/iPython Notebooks, 8-Explanation of Logistic Regression Cost Function
 * Programming Assignments
   * [Python Basics with Numpy][12-31], [Logistic Regression with a Neural Network Mindset][12-7]
   * [Numpy][12-3], [Broadcasting 예제][12-4], [Numpy 예제][12-5], [Python Basics 과제][12-6], 
