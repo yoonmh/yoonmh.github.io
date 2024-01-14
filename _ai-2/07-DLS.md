@@ -5,7 +5,7 @@ layout: single
 
 > Deep Learning Specialization
 
-## 1. Neural Networks and Deep Learning
+## Class 1. Neural Networks and Deep Learning
 ### (1) Introduction to Deep Learning 
 * [Lecture Notes][11-1]
 * Introduction to Deep Laerning
@@ -42,7 +42,7 @@ layout: single
 
 [147]: https://community.deeplearning.ai/t/feedforward-neural-networks-in-depth/98811
 
-## 2. Improving DNN: Hyperparameter Tuning, Regularization, and Optimization
+## Class 2. Improving DNN: Hyperparameter Tuning, Regularization, and Optimization
 ### (1) Practical Aspects of Deep Learning 
 * [Lecture Notes][21-1]
 * Setting up your Machine Learning Application
@@ -62,8 +62,8 @@ layout: single
 ### (2) Optimization Algorithms
 * [Lecture Notes][22-1]
 * Optimization Algorithm
-  * Mini-batch Gradient Descent, Understading Mini-batch Gradient Descent, Exponentially Weighted Averages, Understanding Exponentially Weighted Averages, Bias Correction in Exponentially Weighted Averages
-  * Gradient Descent with Momentum, RMSprop, Adam Optimization Algorithm, Learning Rate Decay, Problem of Local Optima
+  * 1-Mini-batch Gradient Descent, 2-Understading Mini-batch Gradient Descent, 3-Exponentially Weighted Averages, 4-Understanding Exponentially Weighted Averages, 5-Bias Correction in Exponentially Weighted Averages
+  * 6-Gradient Descent with Momentum, 7-RMSprop, 8-Adam Optimization Algorithm, 9-Learning Rate Decay, 10-Problem of Local Optima
 * Programming Assignments : [Optimization 과제][221] ([Code][22-2])
 * [Yuanqing Lin 인터뷰][22-3]
 
@@ -72,21 +72,21 @@ layout: single
 ### (3) Hyperparameter Tuning, Batch Normalization and Programming Frameworks
 * [Lecture Notes][23-1]
 * Hyperparameter Tuning
-  * Tuining Process, Using an Appropriate Scale to pick Hyperparameters, Hyperparameter Tuing in pRactice: Pandas vs Cavlar
+  * 1-Tuining Process, 2-Using an Appropriate Scale to pick Hyperparameters, 3-Hyperparameter Tuing in pRactice: Pandas vs Cavlar
 * Batch Normalization
-  * Normalizing Activations in a Network, Fitting Batch Norm into a Neural Network, Why does Batch Norm work?, Batch Norm at Test Time
+  * 4-Normalizing Activations in a Network, 5-Fitting Batch Norm into a Neural Network, 6-Why does Batch Norm work?, 7-Batch Norm at Test Time
 * Multi-class Classification
-  * Softmax Regression, Training a Softmax Classifier
+  * 8-Softmax Regression, 9-Training a Softmax Classifier
 * Introduction to Programming Frameworks
-  * Deep Learning Frameworks, Tensorflow
+  * 10-Deep Learning Frameworks, 11-Tensorflow
 * Programming Assignments : [Tensorflow 과제][23-2]
 * References : [자동미분][24-1], [GradientTape][24-2]
 
-## 3. Structuring Machine Learning Projects
+## Class 3. Structuring Machine Learning Projects
 ### (1) ML Strategy
 * [Lecture Notes][31-1]
 * Introduction to ML Strategy
-  * Why ML Strategy, Orthogonalization
+  * 1-Why ML Strategy, 2-Orthogonalization
 * Setting Up your Goal
   * Single Number Evaluation Metric, Satisficing and Optimizing Metric, Train/Dev/Test Distributions, Size of the Dev and Test Sets, When to Change Dev/Test Sets and Metrics?
 * Comparing to Human-level Performance
