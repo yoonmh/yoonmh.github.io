@@ -27,16 +27,16 @@ layout: single
 ### (3) Shallow Neural Networks 
 * [Lecture Notes][13-1]
 * Shallow Network
-  * Neural Network Overview, Neural Network Representation, Computing a Neural Network's Output, Vectorizing Across Multiple Examples, Explanation of Vectorized Implementation, Activation Functions, Why do you need Non-linear Activation Functions?, Derivatives of Activation Functions, Gradient Descent for Neural Networks, Backpropagation Intuition, Random Initialization
+  * 1-Neural Network Overview, 2-Neural Network Representation, 3-Computing a Neural Network's Output, 4-Vectorizing Across Multiple Examples, 5-Explanation of Vectorized Implementation, 6-Activation Functions, 7-Why do you need Non-linear Activation Functions?, 8-Derivatives of Activation Functions, 9-Gradient Descent for Neural Networks, 10-Backpropagation Intuition, 11-Random Initialization
 * Programming Assignments : [Planar Data Classification with One Hidden Layer][13-2],
 * [Ian Goodfellow 인터뷰][13-3]
 * References : [cs231n][15-3]
 
 ### (4) Deep Neural Networks
 * Deep Neural Network : [강의자료][14-1], [참고][14-2]
-  * Deep L-layer Neural Network, Forward Propagation in a Deep Network, Getting your Matrix Dimentions Right, Why Deep Representations?, Building Blocks of Deep Neural Networks, Forward and Backward Propagation
+  * 1-Deep L-layer Neural Network, 2-Forward Propagation in a Deep Network, 3-Getting your Matrix Dimentions Right, 4-Why Deep Representations?, 5-Building Blocks of Deep Neural Networks, 6-Forward and Backward Propagation
   * [Feedforward Neural Networks in Depth][147]
-  * Parameters vs. Hyperparameters, What does this have to do with the brain?
+  * 7-Parameters vs. Hyperparameters, 8-What does this have to do with the brain?
 * Programming Assignments : [DNN 과제][14-3], [DNN Application 과제][14-4]
 * References : [Autoreload][15-4]
 
