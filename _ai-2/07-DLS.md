@@ -46,11 +46,11 @@ layout: single
 ### (1) Practical Aspects of Deep Learning 
 * [Lecture Notes][21-1]
 * Setting up your Machine Learning Application
-  * Train/Dev/Test sets, Bias/Variance, Basic Recipe for ML
+  * 1-Train/Dev/Test sets, 2-Bias/Variance, 3-Basic Recipe for ML
 * Regularizing your Neural Network
-  * Regularization, Why Regularization Reduces Overfitting?, Dropout Regularization, Undestading Dropout, Other Regularization Methods
+  * 4-Regularization, 5-Why Regularization Reduces Overfitting?, 6-Dropout Regularization, 7-Undestading Dropout, 8-Other Regularization Methods
 * Setting up your Optimization Problem
-  * Normalizing Inputs, Vanishing/Exploding Gradients, Weight Initialization for Deep Networks, Numerical Appoximation of Gradients, Gradient Checking, Gradient Checking Implementation Notes
+  * 9-Normalizing Inputs, 10-Vanishing/Exploding Gradients, 11-Weight Initialization for Deep Networks, 12-Numerical Appoximation of Gradients, 13-Gradient Checking, 14-Gradient Checking Implementation Notes
 * Programming Assignments
   * [Initialization 과제][211] ([Code][21-2]), [Regularization 과제][212] ([Code][21-3]), [Gradient 과제][213] ([Code][21-4])
 * [Yoshua Bengio 인터뷰][21-5]
