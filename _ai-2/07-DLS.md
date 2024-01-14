@@ -9,13 +9,13 @@ layout: single
 ### (1) Introduction to Deep Learning 
 * [Lecture Notes][11-1]
 * Introduction to Deep Laerning
-  * What is a Neural Network?, Supervised Learning with Neural Networks, Why is Deep Learning taking off?
+  * 1-What is a Neural Network?, 2-Supervised Learning with Neural Networks, 3-Why is Deep Learning taking off?
 * [Geoffrey Hinton 인터뷰][11-2]
 
 ### (2) Neural Network Basics 
 * [Lecture Notes][12-1]
 * Logistic Regression as a Neural Network [참고][12-2]
-  * Binary Classification, Logistic Regression, Logistic Regression Cost Function, Gradient Descent, Derivatives, More Derivative Examples, Computation Graph, Derivatives with Computation Graph, LogisticRegreaaion Gradient Descent, Gradient Descent on m Examples
+  * 1-Binary Classification, 2-Logistic Regression, 3-Logistic Regression Cost Function, 4-Gradient Descent, 5-Derivatives, 6-More Derivative Examples, 7-Computation Graph, 8-Derivatives with Computation Graph, 9-LogisticRegreaaion Gradient Descent, 10-Gradient Descent on m Examples
 * Python and Vectorization
   * Vectorization, More Vectorization Examples, Vectorizing Logistic Regressipn, Vectorizing Logistic Regressipn Gradient Output, Broadcasting in Python, A Note on Python/Numpy Vectors, Quick tour of Jupyter/iPython Notebooks, Explanation of Logistic Regression Cost Function
 * Programming Assignments
