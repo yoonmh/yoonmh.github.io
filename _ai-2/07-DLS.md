@@ -117,7 +117,7 @@ layout: single
 ### (1) Foundations of Convolutional Neural Networks
 * [Lecture Notes][41-1]
 * Convolutional Neural Networks
-  * Computer Vision, Edge Detection Example, More Edge Detection, Padding, Strided Convolutions, Convolutions Over Volume, One Layer of a Convolutional Network, Simple Convolutional Network Example, Pooling Layers, CNN Example, Why Convolutions?
+  * 1-Computer Vision, 2-Edge Detection Example, 3-More Edge Detection, 4-Padding, 5-Strided Convolutions, 6-Convolutions Over Volume, 7-One Layer of a Convolutional Network, 8-Simple Convolutional Network Example, 9-Pooling Layers, 10-CNN Example, 11-Why Convolutions?
 * Programming Assignments
   * [Convolutional Model][41-2], [Convolutional Model Application][41-3]
 * References : [Sequential 모델][45-1], [Functional API][45-2]
@@ -126,9 +126,9 @@ layout: single
 ### (2) Deep Convolutional Models: Case Study 
 * [Lecture Notes][42-1]
 * Case Studies
-  * Why look at case studies?, Classic Networks, ResNets, Why ResNets Work?, Networks in Networks and 1x1 Convolutions, Inception Network Motivation, Inception Network, MobileNet, MobileNet Architecture, EfficientNet
+  * 1-Why look at case studies?, 2-Classic Networks, 3-ResNets, 4-Why ResNets Work?, 5-Networks in Networks and 1x1 Convolutions, 6-Inception Network Motivation, 7-Inception Network, 8-MobileNet, 9-MobileNet Architecture, 10-EfficientNet
 * Practical Advive for Using ConvNets
-  * Using Open-Source Implementation, Transfer Learning, Data Augmentation, State of Computer Vision
+  * 11-Using Open-Source Implementation, 12-Transfer Learning, 13-Data Augmentation, 14-State of Computer Vision
 * Programming Assignments
   * [Residual Networks][42-2], [Transfer Learning with MobileNet][42-3]
 
