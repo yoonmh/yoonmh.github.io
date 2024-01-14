@@ -88,9 +88,9 @@ layout: single
 * Introduction to ML Strategy
   * 1-Why ML Strategy, 2-Orthogonalization
 * Setting Up your Goal
-  * Single Number Evaluation Metric, Satisficing and Optimizing Metric, Train/Dev/Test Distributions, Size of the Dev and Test Sets, When to Change Dev/Test Sets and Metrics?
+  * 3-Single Number Evaluation Metric, 4-Satisficing and Optimizing Metric, 5-Train/Dev/Test Distributions, 6-Size of the Dev and Test Sets, 7-When to Change Dev/Test Sets and Metrics?
 * Comparing to Human-level Performance
-  * Why Human-level Performance?, Avoidable Bias, Understanding Human-level Performance, Surpassing Human-level Performance, Improving your Model Performance
+  * 8-Why Human-level Performance?, 9-Avoidable Bias, 10-Understanding Human-level Performance, 11-Surpassing Human-level Performance, 12-Improving your Model Performance
 * [Machine Learning Flight Simulator][311]
 * [Quiz][312]
 * [Andrej Karpathy 인터뷰][31-2]
@@ -98,13 +98,13 @@ layout: single
 ### (2) ML Strategy
 * [Lecture Notes][32-1]
 * Error Analysis
-  * Carrying Out Error Analysis, Cleaning Up Incorrectly Labeled Data, Build your First System Quickly, then Iterate
+  * 1-Carrying Out Error Analysis, 2-Cleaning Up Incorrectly Labeled Data, 3-Build your First System Quickly, then Iterate
 * Mismatched Training and Dev/Test Set
-  * Training and Testing on Different Distributions, [Bias and Variance with Mismatched Data Distributions][325], Addressing Data Mismatch
+  * 4-Training and Testing on Different Distributions, 5-[Bias and Variance with Mismatched Data Distributions][325], 6-Addressing Data Mismatch
 * Learning from Multiple Tasks
-  * Transfer Learning, Multi-task Learning
+  * 7-Transfer Learning, 8-Multi-task Learning
 * End-to-end Deep Learning
-  * What is End-to-end Deep Learning?, Whether to use End-to-end Deep Learning
+  * 9-What is End-to-end Deep Learning?, 10-Whether to use End-to-end Deep Learning
 * [Autonomous Driving][321]
 * [Ruslan Salakhutdinov 인터뷰][32-2]
 
