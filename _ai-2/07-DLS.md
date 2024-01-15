@@ -156,7 +156,7 @@ layout: single
 ### (1) Recurrent Neural Networks
 * [Lecture Notes][51-1]
 * Recurrent Neural Networks
-  * Why Sequence Models?, Notation, Recurrent Neural Network Model, Backpropagation Through Time, Different Types of RNNs, Language Model and Sequence Generation, Sampling Novel Sequences, Vanishing Gradients with RNNs, Gated Recurrent Unit (GRU), Long Short Term Memory (LSTM), Bidirectional RNN, Deep RNNs
+  * 1-Why Sequence Models?, 2-Notation, 3-Recurrent Neural Network Model, 4-Backpropagation Through Time, 5-Different Types of RNNs, 6-Language Model and Sequence Generation, 7-Sampling Novel Sequences, 8-Vanishing Gradients with RNNs, 9-Gated Recurrent Unit (GRU), 10-Long Short Term Memory (LSTM), 11-Bidirectional RNN, 12-Deep RNNs
 * References
   * GRU : [Cho][51-r1], [Chung][51-r2]
   * LSTM : [Hochreiter][51-r3]
