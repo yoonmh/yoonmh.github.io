@@ -152,7 +152,7 @@ layout: single
   * [facenet][45-6], [Face Recognition][45-7], [keras-facenet][45-8]
   * [Artistic Style][45-9], [artistic style transfer][45-10], [MatConvNet][45-11]
     
-## 5. Sequence Models
+## Class 5. Sequence Models
 ### (1) Recurrent Neural Networks
 * [Lecture Notes][51-1]
 * Recurrent Neural Networks
