@@ -113,7 +113,7 @@ layout: single
 [325]: https://drive.google.com/file/d/1_Ra3HL820QpBBoSgS-EpLBDOHApFnMtc/view
 [321]: https://drive.google.com/file/d/1_Tc6OCWvp9CkSDIqZr6F7alXhCfTOAHp/view
 
-## 4. Convolutional Neural Networks
+## Class 4. Convolutional Neural Networks
 ### (1) Foundations of Convolutional Neural Networks
 * [Lecture Notes][41-1]
 * Convolutional Neural Networks
@@ -135,7 +135,7 @@ layout: single
 ### (3) Object Detection
 * [Lecture Notes][43-1]
 * Detection Algorithms
-  * Object Localization, Landmark Detection, Object Detection, Convolutional Implementation of Sliding Windows, Bounding Box Predictions, Intersection Over Union, Non-max Suppression, Anchor Boxes, YOLO Algorithm, Region Proposals, Semantic Segmentation with U-Net, Transpose Convolutions, U-Net Architecture Intuition, U-Net Architecture
+  * 1-Object Localization, 2-Landmark Detection, 3-Object Detection, 4-Convolutional Implementation of Sliding Windows, 5-Bounding Box Predictions, 6-Intersection Over Union, 7-Non-max Suppression, 8-Anchor Boxes, 9-YOLO Algorithm, 10-Region Proposals, Semantic Segmentation with U-Net, Transpose Convolutions, U-Net Architecture Intuition, U-Net Architecture
 * Programming Assignments  
   * [Car detection with YOLO][43-2], [Image Segmentation with U-Net][43-3]
 
