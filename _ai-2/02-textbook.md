@@ -19,7 +19,26 @@ layout: single
 * [K-평균 군집화][3-6]
 * [PCA][3-7]
 
-## 4. 
+## 4. 딥러닝
+
+## 5. 합성곱 신경망 I
+
+## 6. 합성곱 신경망 II
+
+## 7. 시계열 분석
+
+## 8. 성능 최적화
+
+## 9. 자연어 처리
+
+## 10. 자연어 처리 임베딩
+
+## 11. 클러스터링
+
+## 12. 강화 학습
+
+## 13. 생성 모델
+
 
 [0-1]: https://github.com/gilbutITbook/080263
 [2-1]: https://drive.google.com/file/d/1-gFlEEs73Em0UAqEd0lgvR5F1IgzwLRX/view?usp=drive_link
