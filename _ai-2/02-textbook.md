@@ -38,7 +38,9 @@ layout: single
 ## 12. 강화 학습
 
 ## 13. 생성 모델
-
+* [AutoEncoder][13-1]
+* [Variational AutoEncoder][13-2]
+* [GAN][13-3]
 
 [0-1]: https://github.com/gilbutITbook/080263
 [2-1]: https://drive.google.com/file/d/1-gFlEEs73Em0UAqEd0lgvR5F1IgzwLRX/view?usp=drive_link
@@ -50,3 +52,6 @@ layout: single
 [3-6]: https://drive.google.com/file/d/10HN-cy5TFmr_94CRSf45e--fINJKG0kb/view?usp=drive_link
 [3-7]: https://drive.google.com/file/d/10OyHZSM1sK64GhvxEU7cw-RqfpRipw9T/view?usp=drive_link
 
+[13-1]: https://drive.google.com/file/d/10ehoMfO5kcGSKUyZZSem6dpwAZvjRNbg/view?usp=drive_link
+[13-2]: https://drive.google.com/file/d/10iRiwomy5_4YwkB4HREzVbAxUgf3N--u/view?usp=drive_link
+[13-3]: https://drive.google.com/file/d/10j_vicQ3ZSvrtc-DglGYj8UK7ORrUQvH/view?usp=drive_link
