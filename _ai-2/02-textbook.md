@@ -24,7 +24,12 @@ layout: single
 ## 5. 합성곱 신경망 I
 
 ## 6. 합성곱 신경망 II
-
+* [LeNet][6-1]
+* [AlexNet][6-2]
+* [VGGNet][6-3]
+* [ResNet][6-4]
+* 
+  
 ## 7. 시계열 분석
 
 ## 8. 성능 최적화
@@ -51,6 +56,11 @@ layout: single
 [3-5]: https://drive.google.com/file/d/10IwTa-thhyhi1S0N3ohFbSkbLhl4lXzm/view?usp=drive_link
 [3-6]: https://drive.google.com/file/d/10HN-cy5TFmr_94CRSf45e--fINJKG0kb/view?usp=drive_link
 [3-7]: https://drive.google.com/file/d/10OyHZSM1sK64GhvxEU7cw-RqfpRipw9T/view?usp=drive_link
+
+[6-1]: https://drive.google.com/file/d/11H-RqMGjUlsbFaOqh6ExuaXT232Jm3TX/view?usp=drive_link
+[6-2]: https://drive.google.com/file/d/11IWiET1zRzNidr4WvoF63Ub-f74ZuiSV/view?usp=drive_link
+[6-3]: https://drive.google.com/file/d/11Rdwa6uyqrd6YYIRxPXjiwdSGsLKho1x/view?usp=drive_link
+[6-4]: https://drive.google.com/file/d/11RaVBNw5mrvQmKl5hxCdh2ejgsbKiEj0/view?usp=drive_link
 
 [13-1]: https://drive.google.com/file/d/10ehoMfO5kcGSKUyZZSem6dpwAZvjRNbg/view?usp=drive_link
 [13-2]: https://drive.google.com/file/d/10iRiwomy5_4YwkB4HREzVbAxUgf3N--u/view?usp=drive_link
