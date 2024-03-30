@@ -28,7 +28,6 @@ layout: single
 * [AlexNet][6-2]
 * [VGGNet][6-3]
 * [ResNet][6-4]
-* 
   
 ## 7. 시계열 분석
 
