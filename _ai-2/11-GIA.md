@@ -7,13 +7,13 @@ layout: single
 
 [블로그][0-1], [깃허브 저장소][0-2]
 
-* 2. [AutoEncoder][2-1]
-* 3. [GAN][3-1]
-* 4. [DCGAN][4-1]
-* 6. [ProGAN][6-1]
-* 7. [SGAN]7-1]
-* 8. [CGAN][8-1]
-* 9. [CycleGAN][9-1]
+* [2. AutoEncoder][2-1]
+* [3. GAN][3-1]
+* [4. DCGAN][4-1]
+* [6. ProGAN][6-1]
+* [7. SGAN][7-1]
+* [8. CGAN][8-1]
+* [9. CycleGAN][9-1]
 
 [0-1]: https://tensorflow.blog/gan-in-action/
 [0-2]: https://github.com/rickiepark/gans-in-action
