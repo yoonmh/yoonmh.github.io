@@ -11,6 +11,7 @@ layout: single
 * [AutoEncoder][2-1]
 
 ## 3. 첫 번째 GAN
+* [GAN][3-1]
 
 ## 4. DCGAN
 
@@ -33,3 +34,4 @@ layout: single
 [0-1]: https://tensorflow.blog/gan-in-action/
 [0-2]: https://github.com/rickiepark/gans-in-action
 [2-1]: https://drive.google.com/file/d/11mcgpTBlgKVW7wxpb7cSM9fmhWUFll0f/view?usp=drive_link
+[3-1]: https://drive.google.com/file/d/11n_KDkNJ6lVOt-504HgBSYZ5-Xa4QnF7/view?usp=drive_link
