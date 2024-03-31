@@ -7,9 +7,8 @@ layout: single
 
 [블로그][0-1], [깃허브 저장소][0-2]
 
-## 1. GAN과 생성 모델링
-
 ## 2. 오토인코더와 생성 학습
+* [AutoEncoder][2-1]
 
 ## 3. 첫 번째 GAN
 
@@ -33,3 +32,4 @@ layout: single
 
 [0-1]: https://tensorflow.blog/gan-in-action/
 [0-2]: https://github.com/rickiepark/gans-in-action
+[2-1]: https://drive.google.com/file/d/11mcgpTBlgKVW7wxpb7cSM9fmhWUFll0f/view?usp=drive_link
