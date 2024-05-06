@@ -49,7 +49,7 @@ layout: single
 * [Fine-tuning][2-18]
 * [QLoRA][2-19]
 * [종합소득세 예제][2-20]
-* 
+* [LangChain][2-21]
 
 [1-1]: https://drive.google.com/file/d/1oT7mn3KjRAy7AlGYMln-oLLGk7nHj5wU/view
 [1-2]: https://drive.google.com/file/d/1oYLOBR-8HER-eFZEGYMSZUE5xk61cvJI/view
@@ -92,3 +92,4 @@ layout: single
 [2-18]: https://xiaosean5408.medium.com/fine-tuning-llms-made-easy-with-lora-and-generative-ai-stable-diffusion-lora-39ff27480fda
 [2-19]: https://arxiv.org/pdf/2305.14314
 [2-20]: https://drive.google.com/file/d/1qbO1_pweX_p5w6FxSmuxzZvSIuknsm-q/view?usp=sharing
+[2-21]: https://knowslog.tistory.com/entry/Langchain%EC%9C%BC%EB%A1%9C-LLaMA2-cpp-%EB%B2%84%EC%A0%84-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
