@@ -8,6 +8,9 @@ layout: single
 ## 제1유형
 * [타이타닉 데이터 분석][1-1] 
 * [정규화][1-2]
+* [차원축소][1-3]
+* [결측치][1-4]
+* [이상치][1-5]
 
 ## 제2유형
 * [붓꽃분류][2-1]
@@ -35,6 +38,9 @@ layout: single
 [0-2]: https://drive.google.com/file/d/19U5OpjxQXCtDAkafHsLnkK_mxRr8cqAl/view
 [1-1]: https://colab.research.google.com/drive/1Tdm-rOxBUQaH6GPtJvIz8lU1lUjVoeLC?usp=sharing
 [1-2]: https://colab.research.google.com/drive/1xqKk6Wq1xjoNoF_0zizu7XPsJTZWVu-J?usp=sharing
+[1-3]: https://colab.research.google.com/drive/1wJ1-qDS-HZZxjNSEV0R_2SSvhejrMf8T?usp=sharing
+[1-4]: https://colab.research.google.com/drive/1Bu-6awPPBji2DJ1o_VciNkY3liHa4YBt?usp=sharing
+[1-5]: https://colab.research.google.com/drive/1DjXsNUN7jTSQqeOB4Qm1V6qoJD_YBlNl?usp=sharing
 [2-1]: https://colab.research.google.com/drive/1sV8-1xXT_k5YvTqTAUPg4qhaeAn6dqXU?usp=sharing
 [2-2]: https://colab.research.google.com/drive/1n1JSz38CiLkEO8fgcLKlXNTPwG5vJR0-?usp=sharing
 [2-3]: https://colab.research.google.com/drive/1nOPE1z0AwRIZ1KJAlC6Ry7CnFgml_VxM?usp=sharing
