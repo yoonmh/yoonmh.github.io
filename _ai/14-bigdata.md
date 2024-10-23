@@ -1,5 +1,5 @@
 ---
-title: "코딩없는 인공지능"
+title: "빅데이터분석기사 실기"
 layout: single
 ---
 
