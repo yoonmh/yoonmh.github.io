@@ -5,6 +5,9 @@ layout: single
 
 > [체험][0-1], [가이드][0-2]
 
+## 제1유형
+* [데이터분석][1-1]
+
 ## 제2유형
 * [붓꽃분류][2-1]
 * [Titanic][2-2]
@@ -29,6 +32,7 @@ layout: single
 
 [0-1]: https://dataq.goorm.io/exam/3/%EC%B2%B4%ED%97%98%ED%95%98%EA%B8%B0/quiz/1
 [0-2]: https://s3.ap-northeast-2.amazonaws.com/statics.goorm.io/dataq/%5BK-DATA%5D+빅데이터+실기+체험환경+가이드_202405.pdf
+[1-1]: https://colab.research.google.com/drive/1Tdm-rOxBUQaH6GPtJvIz8lU1lUjVoeLC?usp=sharing
 [2-1]: https://colab.research.google.com/drive/1sV8-1xXT_k5YvTqTAUPg4qhaeAn6dqXU?usp=sharing
 [2-2]: https://colab.research.google.com/drive/1n1JSz38CiLkEO8fgcLKlXNTPwG5vJR0-?usp=sharing
 [2-3]: https://colab.research.google.com/drive/1nOPE1z0AwRIZ1KJAlC6Ry7CnFgml_VxM?usp=sharing
