@@ -16,6 +16,7 @@ layout: single
 
 ## 제3유형
 * [회귀][3-1]
+* [가설검정][3-2]
 
 ## 모의고사
 * [모의고사 1-1][4-1]
@@ -36,6 +37,7 @@ layout: single
 [2-6]: https://colab.research.google.com/drive/1FQkGw5fulLiyT5xoaErGhZEl9AWtrcPL?usp=sharing
 [2-7]: https://colab.research.google.com/drive/1uEiswb5WgNgC4PXK9uHcUIXWgHmaur3N?usp=sharing
 [3-1]: https://colab.research.google.com/drive/1zrbyA8iDbP_596mXgY4FQ4lH09V9vV22?usp=sharing
+[3-2]: https://colab.research.google.com/drive/1Psb3Ue9hQpBA9HNzUyuRervqnP4YAnKS?usp=sharing
 [4-1]: https://colab.research.google.com/drive/1Mw-Hy1E1mvWOb6SMLun4N7tJkaqCxVAl?usp=sharing
 [4-2]: https://colab.research.google.com/drive/1U0JnNeaZLpJTxYHxuLEzIyl3JU-K1o1y?usp=sharing
 [4-3]: https://colab.research.google.com/drive/1sEQz7hNfZWVO5ZR2fq5EpI3LyWPbQPa5?usp=sharing
