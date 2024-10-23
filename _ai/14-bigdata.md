@@ -31,7 +31,7 @@ layout: single
 * [기출문제 6][5-1]
 
 [0-1]: https://dataq.goorm.io/exam/3/%EC%B2%B4%ED%97%98%ED%95%98%EA%B8%B0/quiz/1
-[0-2]: https://s3.ap-northeast-2.amazonaws.com/statics.goorm.io/dataq/%5BK-DATA%5D+빅데이터+실기+체험환경+가이드_202405.pdf
+[0-2]: https://drive.google.com/file/d/19U5OpjxQXCtDAkafHsLnkK_mxRr8cqAl/view
 [1-1]: https://colab.research.google.com/drive/1Tdm-rOxBUQaH6GPtJvIz8lU1lUjVoeLC?usp=sharing
 [2-1]: https://colab.research.google.com/drive/1sV8-1xXT_k5YvTqTAUPg4qhaeAn6dqXU?usp=sharing
 [2-2]: https://colab.research.google.com/drive/1n1JSz38CiLkEO8fgcLKlXNTPwG5vJR0-?usp=sharing
