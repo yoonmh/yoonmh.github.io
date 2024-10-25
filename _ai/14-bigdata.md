@@ -26,13 +26,13 @@ layout: single
 * [가설검정][3-2]
 
 ## 모의고사
-* [모의고사 1-1][4-1]
-* [모의고사 1-2][4-2]
-* [모의고사 1-3][4-3]
-* [모의고사 2-1][4-4]
+* [모의고사 1][4-1]
+* [모의고사 2][4-2]
 
 ## 기출문제
-* [기출문제 6][5-1]
+* [기출문제 6회][5-1]
+* [기출문제 5회][5-2]
+* [기출문제 4회][5-3] 
 
 [0-1]: https://dataq.goorm.io/exam/3/%EC%B2%B4%ED%97%98%ED%95%98%EA%B8%B0/quiz/1
 [0-2]: https://drive.google.com/file/d/19U5OpjxQXCtDAkafHsLnkK_mxRr8cqAl/view
@@ -52,6 +52,6 @@ layout: single
 [3-2]: https://colab.research.google.com/drive/1Psb3Ue9hQpBA9HNzUyuRervqnP4YAnKS?usp=sharing
 [4-1]: https://colab.research.google.com/drive/1Mw-Hy1E1mvWOb6SMLun4N7tJkaqCxVAl?usp=sharing
 [4-2]: https://colab.research.google.com/drive/1U0JnNeaZLpJTxYHxuLEzIyl3JU-K1o1y?usp=sharing
-[4-3]: https://colab.research.google.com/drive/1sEQz7hNfZWVO5ZR2fq5EpI3LyWPbQPa5?usp=sharing
-[4-4]: https://colab.research.google.com/drive/1WJ4uiGK_fgz8ZrxRLBVTWjqHDJZp-Qxj?usp=sharing
 [5-1]: https://colab.research.google.com/drive/101f-NtzuYgBMOVnb2-YxI8ana_9t5vPc?usp=sharing
+[5-2]: https://colab.research.google.com/drive/1sEQz7hNfZWVO5ZR2fq5EpI3LyWPbQPa5?usp=sharing
+[5-3]: https://colab.research.google.com/drive/1WJ4uiGK_fgz8ZrxRLBVTWjqHDJZp-Qxj?usp=sharing
