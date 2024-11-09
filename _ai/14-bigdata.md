@@ -35,6 +35,8 @@ layout: single
 * [모의고사 2][4-2]
 
 ## 기출문제
+* [기출문제 8회][5-8]
+* [기출문제 7회][5-7]
 * [기출문제 6회][5-1]
 * [기출문제 5회][5-2]
 * [기출문제 4회][5-3] 
@@ -65,3 +67,6 @@ layout: single
 [5-1]: https://colab.research.google.com/drive/101f-NtzuYgBMOVnb2-YxI8ana_9t5vPc?usp=sharing
 [5-2]: https://colab.research.google.com/drive/1sEQz7hNfZWVO5ZR2fq5EpI3LyWPbQPa5?usp=sharing
 [5-3]: https://colab.research.google.com/drive/1WJ4uiGK_fgz8ZrxRLBVTWjqHDJZp-Qxj?usp=sharing
+[5-7]: https://colab.research.google.com/drive/1-Js5h52cc_jyxrxQ8uSp5QAEArvUiPHU
+[5-8]: https://colab.research.google.com/drive/1-IqhnGpYxHk2m0xUQPeY5s0gDFZ9yvP1
+
