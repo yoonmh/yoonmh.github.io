@@ -23,8 +23,12 @@ layout: single
 * [회귀][2-7]
 
 ## 제3유형
-* [회귀][3-1]
-* [가설검정][3-2]
+* [표본의 평균 검증][3-1]
+* [두 독립표본의 평균, 중앙값 차이 검정][3-2]
+* [대응표본의 평균 차이 검정(t-검정)][3-3]
+* [단일표본의 모분산 검정(카이스퀘어 검정) 검정][3-2]
+* [두 모분산 비에 대한 가설검정(F-검정, ANOVA)][3-5]
+* [독립성 검정(카이스퀘어 검정)][3-6]
 
 ## 모의고사
 * [모의고사 1][4-1]
@@ -52,6 +56,10 @@ layout: single
 [2-7]: https://colab.research.google.com/drive/1uEiswb5WgNgC4PXK9uHcUIXWgHmaur3N?usp=sharing
 [3-1]: https://colab.research.google.com/drive/1zrbyA8iDbP_596mXgY4FQ4lH09V9vV22?usp=sharing
 [3-2]: https://colab.research.google.com/drive/1Psb3Ue9hQpBA9HNzUyuRervqnP4YAnKS?usp=sharing
+[3-3]: https://colab.research.google.com/drive/1-3oWV6m9CFzeE56O-t0YlRd4znltmpZJ
+[3-4]: https://colab.research.google.com/drive/1-4uuWMCzpRUcp6FvT2FXJ5fCJK5FGhbV
+[3-5]: https://colab.research.google.com/drive/1-80ZXgAbopU32oYWrQhSZI6cxPy4k7fe
+[3-6]: https://colab.research.google.com/drive/1-FVTfoyIfM1zH9bVfs5MrzUrV30RrT2q
 [4-1]: https://colab.research.google.com/drive/1Mw-Hy1E1mvWOb6SMLun4N7tJkaqCxVAl?usp=sharing
 [4-2]: https://colab.research.google.com/drive/1U0JnNeaZLpJTxYHxuLEzIyl3JU-K1o1y?usp=sharing
 [5-1]: https://colab.research.google.com/drive/101f-NtzuYgBMOVnb2-YxI8ana_9t5vPc?usp=sharing
