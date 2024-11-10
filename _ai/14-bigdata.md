@@ -38,8 +38,8 @@ layout: single
 * 기출문제 8회([1유형][8-1], [2유형][8-2], [3유형][8-3])
 * 기출문제 7회([1유형][7-1], [2유형][7-2], [3유형][7-3])
 * 기출문제 6회([1유형][6-1], [2유형][6-2], [3유형][6-3])
-* [기출문제 5회][5-2]
-* [기출문제 4회][5-3] 
+* 기출문제 5회([1유형][5-1], [2유형][5-2])
+* 기출문제 4회([1유형][5-3], [2유형][5-4])
 
 [0-1]: https://dataq.goorm.io/exam/3/%EC%B2%B4%ED%97%98%ED%95%98%EA%B8%B0/quiz/1
 [0-2]: https://drive.google.com/file/d/19U5OpjxQXCtDAkafHsLnkK_mxRr8cqAl/view
@@ -64,9 +64,11 @@ layout: single
 [3-6]: https://colab.research.google.com/drive/1-FVTfoyIfM1zH9bVfs5MrzUrV30RrT2q
 [4-1]: https://colab.research.google.com/drive/1Mw-Hy1E1mvWOb6SMLun4N7tJkaqCxVAl?usp=sharing
 [4-2]: https://colab.research.google.com/drive/1U0JnNeaZLpJTxYHxuLEzIyl3JU-K1o1y?usp=sharing
-[5-1]: https://colab.research.google.com/drive/101f-NtzuYgBMOVnb2-YxI8ana_9t5vPc?usp=sharing
-[5-2]: https://colab.research.google.com/drive/1sEQz7hNfZWVO5ZR2fq5EpI3LyWPbQPa5?usp=sharing
-[6-1]: https://colab.research.google.com/drive/1WJ4uiGK_fgz8ZrxRLBVTWjqHDJZp-Qxj?usp=sharing
+[5-1]: https://colab.research.google.com/drive/1sEQz7hNfZWVO5ZR2fq5EpI3LyWPbQPa5
+[5-2]: https://colab.research.google.com/drive/1-n1OITJAgiDckkKjXxQs81E58xAySUmH
+[5-3]: https://colab.research.google.com/drive/1WJ4uiGK_fgz8ZrxRLBVTWjqHDJZp-Qxj
+[5-4]: https://colab.research.google.com/drive/1-rEwVaijPNAqWmwaDzyfiibj1cmFe0pb
+[6-1]: https://colab.research.google.com/drive/101f-NtzuYgBMOVnb2-YxI8ana_9t5vPc
 [6-2]: https://colab.research.google.com/drive/1-jMfbaB89SvKbRWR7KemwRKERzXCgplJ
 [6-3]: https://colab.research.google.com/drive/1-mea57QdWM2vdHihk3q4W_N-0b1w7Zvy
 [7-1]: https://colab.research.google.com/drive/1-Js5h52cc_jyxrxQ8uSp5QAEArvUiPHU
