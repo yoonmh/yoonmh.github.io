@@ -35,9 +35,9 @@ layout: single
 * [모의고사 2][4-2]
 
 ## 기출문제
-* [기출문제 8회][5-8]
-* [기출문제 7회][5-7]
-* [기출문제 6회][5-1]
+* 기출문제 8회([1유형]][8-1], [2유형]][8-2], [3유형]][8-3])
+* 기출문제 7회([1유형]][7-1], [2유형]][7-2], [3유형]][7-3])
+* 기출문제 6회([1유형]][6-1], [2유형]][6-2], [3유형]][6-3])
 * [기출문제 5회][5-2]
 * [기출문제 4회][5-3] 
 
@@ -66,7 +66,12 @@ layout: single
 [4-2]: https://colab.research.google.com/drive/1U0JnNeaZLpJTxYHxuLEzIyl3JU-K1o1y?usp=sharing
 [5-1]: https://colab.research.google.com/drive/101f-NtzuYgBMOVnb2-YxI8ana_9t5vPc?usp=sharing
 [5-2]: https://colab.research.google.com/drive/1sEQz7hNfZWVO5ZR2fq5EpI3LyWPbQPa5?usp=sharing
-[5-3]: https://colab.research.google.com/drive/1WJ4uiGK_fgz8ZrxRLBVTWjqHDJZp-Qxj?usp=sharing
-[5-7]: https://colab.research.google.com/drive/1-Js5h52cc_jyxrxQ8uSp5QAEArvUiPHU
-[5-8]: https://colab.research.google.com/drive/1-IqhnGpYxHk2m0xUQPeY5s0gDFZ9yvP1
-
+[6-1]: https://colab.research.google.com/drive/1WJ4uiGK_fgz8ZrxRLBVTWjqHDJZp-Qxj?usp=sharing
+[6-2]: https://colab.research.google.com/drive/1-jMfbaB89SvKbRWR7KemwRKERzXCgplJ
+[6-3]: https://colab.research.google.com/drive/1-mea57QdWM2vdHihk3q4W_N-0b1w7Zvy
+[7-1]: https://colab.research.google.com/drive/1-Js5h52cc_jyxrxQ8uSp5QAEArvUiPHU
+[7-2]: https://colab.research.google.com/drive/1-gjm93SeOzuZ1qwXWN1GW1Y_D4q7whhX
+[7-3]: https://colab.research.google.com/drive/1-gEW3ifOLashr52d4gzykoOZnWoV8wG2
+[8-1]: https://colab.research.google.com/drive/1-IqhnGpYxHk2m0xUQPeY5s0gDFZ9yvP1
+[8-2]: https://colab.research.google.com/drive/1-aZ6Rcj1YtCbpOjavQPyllen2fG_7BQf
+[8-3]: https://colab.research.google.com/drive/1-K9NspDXMUBoUvo9bK1uWRhvHyBVeVJB
