@@ -40,6 +40,8 @@ layout: single
 * 기출문제 6회([1유형][6-1], [2유형][6-2], [3유형][6-3])
 * 기출문제 5회([1유형][5-1], [2유형][5-2])
 * 기출문제 4회([1유형][5-3], [2유형][5-4])
+* 기출문제 3회([1유형][5-31], [2유형][5-32])
+* 기출문제 2회([1유형][5-21], [2유형][5-22])
 
 [0-1]: https://dataq.goorm.io/exam/3/%EC%B2%B4%ED%97%98%ED%95%98%EA%B8%B0/quiz/1
 [0-2]: https://drive.google.com/file/d/19U5OpjxQXCtDAkafHsLnkK_mxRr8cqAl/view
@@ -77,3 +79,7 @@ layout: single
 [8-1]: https://colab.research.google.com/drive/1-IqhnGpYxHk2m0xUQPeY5s0gDFZ9yvP1
 [8-2]: https://colab.research.google.com/drive/1-aZ6Rcj1YtCbpOjavQPyllen2fG_7BQf
 [8-3]: https://colab.research.google.com/drive/1-K9NspDXMUBoUvo9bK1uWRhvHyBVeVJB
+[5-31]: https://colab.research.google.com/drive/1-xiWp_2aisPTPyoGvUU_z2aSKEaFgFx0
+[5-32]: https://colab.research.google.com/drive/109BpgplKWDo5g5hZht5oa6qyw9uZO_mC
+[5-21]: https://colab.research.google.com/drive/10CBRlWt2nCWNd5kvNwrGLV54B_8bqiUN
+[5-22]: https://colab.research.google.com/drive/10EDLne0L4Sk0TeYTDAks5kuaSwmKIhHD
