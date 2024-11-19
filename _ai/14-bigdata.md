@@ -23,6 +23,7 @@ layout: single
 * [회귀][2-7]
 
 ## 제3유형
+* [Scipy 튜토리얼][3-0]
 * [표본의 평균 검증][3-1]
 * [두 독립표본의 평균, 중앙값 차이 검정][3-2]
 * [대응표본의 평균 차이 검정(t-검정)][3-3]
@@ -58,6 +59,7 @@ layout: single
 [2-5]: https://colab.research.google.com/drive/1EIc6DUO4Dizr4c_b2phfjt3jqJEqndZX?usp=sharing
 [2-6]: https://colab.research.google.com/drive/1FQkGw5fulLiyT5xoaErGhZEl9AWtrcPL?usp=sharing
 [2-7]: https://colab.research.google.com/drive/1uEiswb5WgNgC4PXK9uHcUIXWgHmaur3N?usp=sharing
+[3-0]: https://www.datamanim.com/dataset/97_scipy/scipy.html
 [3-1]: https://colab.research.google.com/drive/1zrbyA8iDbP_596mXgY4FQ4lH09V9vV22?usp=sharing
 [3-2]: https://colab.research.google.com/drive/1Psb3Ue9hQpBA9HNzUyuRervqnP4YAnKS?usp=sharing
 [3-3]: https://colab.research.google.com/drive/1-3oWV6m9CFzeE56O-t0YlRd4znltmpZJ
