@@ -6,6 +6,7 @@ layout: single
 > [체험][0-1], [가이드][0-2]
 
 ## 제1유형
+* [판다스 기초][1-0]
 * [타이타닉 데이터 분석][1-1] 
 * [정규화][1-2]
 * [차원축소][1-3]
@@ -46,6 +47,7 @@ layout: single
 
 [0-1]: https://dataq.goorm.io/exam/3/%EC%B2%B4%ED%97%98%ED%95%98%EA%B8%B0/quiz/1
 [0-2]: https://drive.google.com/file/d/19U5OpjxQXCtDAkafHsLnkK_mxRr8cqAl/view
+[1-0]: https://colab.research.google.com/drive/1qUM3zOWU1yzOkypGlIDsjeFzlYc4viRL?usp=sharing
 [1-1]: https://colab.research.google.com/drive/1Tdm-rOxBUQaH6GPtJvIz8lU1lUjVoeLC?usp=sharing
 [1-2]: https://colab.research.google.com/drive/1xqKk6Wq1xjoNoF_0zizu7XPsJTZWVu-J?usp=sharing
 [1-3]: https://colab.research.google.com/drive/1wJ1-qDS-HZZxjNSEV0R_2SSvhejrMf8T?usp=sharing
