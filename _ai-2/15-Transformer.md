@@ -11,5 +11,5 @@ layout: single
 ## 3. 파이토치 트랜스포머 모델
 * [IMDB 감성 분류][3-1]
 
-[2-1]: https://drive.google.com/file/d/11CAdE3LMhEmCxh41dAj9jHj75tHWlma2/view?usp=drive_link
+[2-1]: https://colab.research.google.com/drive/11CAdE3LMhEmCxh41dAj9jHj75tHWlma2
 [3-1]: https://colab.research.google.com/drive/11SyxcY5-Z63WtLuTx22TXqWZTknflHkh
