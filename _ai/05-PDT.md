@@ -65,31 +65,31 @@ layout: single
 * 6-4 [Gym CartPole][6-4]
 * 6-5 [QP CartPole][6-5]
 
-[1-1]: https://colab.research.google.com/drive/1r6_PNScbaNrMn_CVwJCuqZv2CeSIUNwO
-[2-1]: https://colab.research.google.com/drive/1t-ySP8vfF0kpSn0HF15qU5v5Ux27-9wr
-[2-2]: https://colab.research.google.com/drive/1gGeBChWLnZN4An8RPIv3ScgHHUjd4iFg
-[2-3]: https://colab.research.google.com/drive/1z2nCnMePcm2TwrVF_I_uyzn2z3hQLWmj
-[2-4]: https://colab.research.google.com/drive/1jXGGJNVgyCFwCBOssrCCT4I7nBfkKLqA
-[2-5]: https://colab.research.google.com/drive/1Lpy_5ZjUNzkEbwOmGZPqFb6c31X317gO
-[2-6]: https://colab.research.google.com/drive/1EnrVYWYug0OjlO4qHN_zb67hSNyHImRq
-[2-7]: https://colab.research.google.com/drive/1VKKMJrkxj4GfXZhQaeDMMnkfJxSSBlAt
-[2-8]: https://colab.research.google.com/drive/1Z0CzELNNGptX0TfCzK2XCiBSGc5WKG62
-[2-9]: https://colab.research.google.com/drive/1owGgVFsJXh-nu000BDI86xvpaw8MnJ9O
-[3-1]: https://colab.research.google.com/drive/13OvUiruCWcHAVpgnCb3YWrxdsm1PYC_p
-[3-2]: https://colab.research.google.com/drive/15TAcvtyG1rUQHnQzPocWrbsp6-E0zR3L
-[3-3]: https://colab.research.google.com/drive/1twxoLhmfY5v3e5vWHM_msyuDtSckDEDi
-[3-4]: https://colab.research.google.com/drive/1H83VPhGZr_l-00EmJUSaH4EtyqRLKweK
-[3-5]: https://colab.research.google.com/drive/119IGVx3WKsLINmL6I_HLSb3bdrdvUnSo
-[3-6]: https://colab.research.google.com/drive/10_SerABo4B55xJf2_F_9GTgeMaXuRclk
-[3-7]: https://colab.research.google.com/drive/134TV0qly6b_uC_hOuq02jEm27_wwq-lx
-[3-8]: https://colab.research.google.com/drive/1Kq3nFuuALc6fJgodojL6X_EHcV7CWpon
-[3-9]: https://colab.research.google.com/drive/1JU2L9RSkdSqoMx_XY8-S3AP4DgEK8tzU
-[3-10]: https://colab.research.google.com/drive/1UtaWTGfGZYccBA8JZGjbm8xgkzZoX0x-
-[3-11]: https://colab.research.google.com/drive/1UoU42-sWCFj4Fuiw_ifApVOy_u3QgSlS
-[3-12]: https://colab.research.google.com/drive/1poiD2aOXzXlCgg1pyDYCbijqDXEeIJA-
-[3-13]: https://colab.research.google.com/drive/1aY58NyrJ5qpZ88bM0svnpEO6PyRBnyJ3
-[3-14]: https://colab.research.google.com/drive/1jSvAkEMfO9_qzbmipooIocFwxixY8Eyf
-[4-1]: https://colab.research.google.com/drive/1BxO5rRdjBeXZALMiHGr8jhRJU_Kq7edc
+[1-1]: https://colab.research.google.com/drive/1cwcinrY11JvTTFfmA-pIUWgvRf3irbKx
+[2-1]: https://colab.research.google.com/drive/1cuUvgXmAQ2Pgt7aT7baRwklW5Fwd4d47
+[2-2]: https://colab.research.google.com/drive/1ctrY1qLX-viLz6fXiz0i_pLbLni6ix7V
+[2-3]: https://colab.research.google.com/drive/1ciXUk0pNIGW64WOhYOiNRYr7oAyd_Qk6
+[2-4]: https://colab.research.google.com/drive/1ciVlI3DW7AKhlUT73NbDelDJr-dq0KL9
+[2-5]: https://colab.research.google.com/drive/1cejCcCTuHECV2uuNSAedr4CYheVfVCCJ
+[2-6]: https://colab.research.google.com/drive/1cdmRDFbStseo0ymJ8cxX1COtx-lvQxSG
+[2-7]: https://colab.research.google.com/drive/1cXrB9TQL8HKOMLFOQKRJhpK4uXgvbVPN
+[2-8]: https://colab.research.google.com/drive/1cPKG6ayWSr6n5lb86tw3bmnic94z1xWA
+[2-9]: https://colab.research.google.com/drive/1cMWu4lVJsd3dsDVE13vTv5vUW-ZXNzWd
+[3-1]: 
+[3-2]: 
+[3-3]: 
+[3-4]: 
+[3-5]: 
+[3-6]: 
+[3-7]: 
+[3-8]: 
+[3-9]: 
+[3-10]:
+[3-11]: 
+[3-12]: 
+[3-13]:
+[3-14]: 
+[4-1]: 
 [4-2]: https://colab.research.google.com/drive/11ceejlaIdwYF9WFAT7Uum7pXXMLbuOqm
 [4-3]: https://colab.research.google.com/drive/1jkcdPoPJXBCP9RCSJS4oAX5154d41Rdk
 [4-4]: https://colab.research.google.com/drive/1Ai6mDP4ZtTqUuA2yipxMwEojEBGOr-wL
