@@ -25,7 +25,7 @@ layout: single
 * 3-3 [MNIST 분류][3-3]
 * 3-4 [Model Configuration][3-4]
 * 3-5 [Callback][3-5]
-* 3-6 [Mode Save][3-6]
+* 3-6 [Model Save][3-6]
 * 3-7 [Functional API][3-7]
 * 3-8 [Custom Loss][3-8]
 * 3-9 [Custom Layer][3-9]
