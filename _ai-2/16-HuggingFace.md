@@ -13,6 +13,8 @@ layout: single
 ## 예제 코드
 * [Music Gen][2-1]
 * [FLAN-t5][2-2]
+* [LLAMA 3][2-3]
+* 
   
 
 [1-1]: https://drive.google.com/file/d/1vu3695Iky3lOTqP00GbyhoQn5AdfVgTe/view?usp=drive_link
@@ -20,3 +22,4 @@ layout: single
 [1-3]: https://drive.google.com/file/d/1GVn1EGIg0HAjbvcHyoUr0l_Fa7zXhmX2/view?usp=drive_link
 [2-1]: https://colab.research.google.com/drive/1tLtUL-sQc71Yth5v1n-4vFor7e_HLsoy
 [2-2]: https://colab.research.google.com/drive/1TIHzzlRtmUdEWJwCZfElEqFoeAniji6r
+[2-3]: https://colab.research.google.com/drive/1BkJdT2dhiT4lzrYEzDPqi8RruD-rDv_a
