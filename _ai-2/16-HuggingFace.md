@@ -16,7 +16,7 @@ layout: single
   
 
 [1-1]: https://drive.google.com/file/d/1vu3695Iky3lOTqP00GbyhoQn5AdfVgTe/view?usp=drive_link
-[1-2]: https://drive.google.com/drive/u/0/folders/10MHT-DTJ_k2_Dlm_i9_TYWJeWzxj7MXf
-[1-3]: https://drive.google.com/drive/u/0/folders/10MHT-DTJ_k2_Dlm_i9_TYWJeWzxj7MXf
+[1-2]: https://drive.google.com/file/d/177g1G1w8UvvRrSdyJi5ggmhGT1N5RsdP/view?usp=drive_link
+[1-3]: https://drive.google.com/file/d/1GVn1EGIg0HAjbvcHyoUr0l_Fa7zXhmX2/view?usp=drive_link
 [2-1]: https://colab.research.google.com/drive/1tLtUL-sQc71Yth5v1n-4vFor7e_HLsoy
 [2-2]: https://colab.research.google.com/drive/1TIHzzlRtmUdEWJwCZfElEqFoeAniji6r
