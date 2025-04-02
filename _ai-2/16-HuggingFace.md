@@ -16,9 +16,9 @@ layout: single
 * [LLAMA 3 Endpoint][2-3]
 * [EXAONE][2-4]
 * [LLAMA 3][2-5]
-* [VITS}[2-6]
+* [VITS][2-6]
 * [Suno Bark][2-7]
-* 
+* [객체탐지 DETR][2-8]
 
   
 [1-1]: https://drive.google.com/file/d/1vu3695Iky3lOTqP00GbyhoQn5AdfVgTe/view?usp=drive_link
@@ -31,4 +31,5 @@ layout: single
 [2-5]: https://colab.research.google.com/drive/1SzRW1mtOsE7MSlFRuyd429-EvyRq-Cg5
 [2-6]: https://colab.research.google.com/drive/13GomMt8wcSo4CzDy3hpwPLzYLagO8P8y
 [2-7]: https://colab.research.google.com/drive/1MVmqPcJxGPVcHBeF570MDgAMI3f7A84x
+[2-8]: https://colab.research.google.com/drive/1ZYklfHjOoIhkJdcJH1VuBM0SneR6fFYM
 
