@@ -16,6 +16,9 @@ layout: single
 * [LLAMA 3 Endpoint][2-3]
 * [EXAONE][2-4]
 * [LLAMA 3][2-5]
+* [VITS}[2-6]
+* [Suno Bark][2-7]
+* 
 
   
 [1-1]: https://drive.google.com/file/d/1vu3695Iky3lOTqP00GbyhoQn5AdfVgTe/view?usp=drive_link
@@ -26,4 +29,6 @@ layout: single
 [2-3]: https://colab.research.google.com/drive/1BkJdT2dhiT4lzrYEzDPqi8RruD-rDv_a
 [2-4]: https://colab.research.google.com/drive/1Dg7S4FA5IHNSrLTOtmPUIjzclUZZByED
 [2-5]: https://colab.research.google.com/drive/1SzRW1mtOsE7MSlFRuyd429-EvyRq-Cg5
+[2-6]: https://colab.research.google.com/drive/13GomMt8wcSo4CzDy3hpwPLzYLagO8P8y
+[2-7]: https://colab.research.google.com/drive/1MVmqPcJxGPVcHBeF570MDgAMI3f7A84x
 
