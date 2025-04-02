@@ -21,6 +21,7 @@ layout: single
 * [객체탐지 DETR][2-8]
 * [화자구분][2-9]
 * [SAM][2-10]
+* [DeepSeek R1][2-11]
 
   
 [1-1]: https://drive.google.com/file/d/1vu3695Iky3lOTqP00GbyhoQn5AdfVgTe/view?usp=drive_link
@@ -36,4 +37,5 @@ layout: single
 [2-8]: https://colab.research.google.com/drive/1ZYklfHjOoIhkJdcJH1VuBM0SneR6fFYM
 [2-9]: https://colab.research.google.com/drive/1mR3yfrEOZV6uGmfoAcaOrwOdKc-RfYMj
 [2-10]: https://colab.research.google.com/drive/1kRFwIsWYVX3Y08q-5j6WNxtcuy_jZ_7P
+[2-11]: https://colab.research.google.com/drive/1jqAfMoHyJcr-65rJVmBctAyLjB5ULgYm
 
